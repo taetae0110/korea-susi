@@ -34,9 +34,11 @@ interface Settings {
 export default function PracticeClient({
   universityNames,
   competencies,
+  interviewHints,
 }: {
   universityNames: string[];
   competencies: string[];
+  interviewHints: Record<string, string[]>;
 }) {
   const sp = useSearchParams();
   const presetIds = (sp.get("ids") ?? "").split(",").filter(Boolean);
@@ -226,6 +228,16 @@ export default function PracticeClient({
                 ))}
               </select>
             </label>
+          </div>
+        )}
+        {settings.kind === "bank" && settings.university && interviewHints[settings.university] && (
+          <div className="rounded-lg bg-background p-3 text-xs leading-relaxed text-muted">
+            <div className="mb-1 font-semibold text-foreground">{settings.university}가 공개한 면접 방식</div>
+            <ul className="list-inside list-disc">
+              {interviewHints[settings.university].map((h) => (
+                <li key={h}>{h}</li>
+              ))}
+            </ul>
           </div>
         )}
         {settings.kind === "basket" && basket.length === 0 && (
