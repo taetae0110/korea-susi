@@ -31,6 +31,7 @@ def canonical(name):
 
 
 univs, rows, files = {}, [], {}
+dropped = 0
 seen_jobs = set()
 for line in open(os.path.join(work, "rows.jsonl"), encoding="utf-8"):
     job = json.loads(line)
@@ -41,7 +42,11 @@ for line in open(os.path.join(work, "rows.jsonl"), encoding="utf-8"):
     name, campus = canonical(job["university"])
     univs[job["unvCd"]] = {"code": job["unvCd"], "adigaName": job["university"], "name": name, "campus": campus}
     if job.get("file") and job["file"].get("fileId"):
-        files[f'{job["year"]}_{job["unvCd"]}'] = {**job["file"], "year": job["year"], "unvCd": job["unvCd"]}
+        fid = f'{job["year"]}_{job["unvCd"]}'
+        prev = files.get(fid, {})
+        files[fid] = {**prev, **job["file"], "year": job["year"], "unvCd": job["unvCd"]}
+        if prev.get("filename") and not job["file"].get("filename"):
+            files[fid]["filename"] = prev["filename"]
     for r in job["rows"]:
         if r.get("unparsed"):
             continue
@@ -61,6 +66,10 @@ for line in open(os.path.join(work, "rows.jsonl"), encoding="utf-8"):
             if any(s.values()):
                 row["score"] = s
                 row["scoreTotal"] = val(r.get("scoreTotal"))
+        # 어디가 returns every current 모집단위 for an older year, mostly as 0 / "-": such rows carry nothing
+        if row["recruit"] in (None, "0") and not any(k in row for k in ("grade", "score", "withheld")):
+            dropped += 1
+            continue
         rows.append(row)
 
 os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -72,4 +81,4 @@ json.dump({
 }, open(out_path, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 with_grade = [r for r in rows if r.get("grade")]
 print(f"universities {len(univs)}, rows {len(rows)}, with grade cuts {len(with_grade)}, "
-      f"with 90% {sum(1 for r in with_grade if r['grade'].get('90'))}, files {len(files)}")
+      f"with 90% {sum(1 for r in with_grade if r['grade'].get('90'))}, files {len(files)}, skipped {dropped} empty rows")

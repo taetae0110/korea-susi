@@ -74,7 +74,7 @@ npm run data:admissions                                        # → src/data/ad
 
 ## 바로 써 보기 (Artifact 버전)
 
-`artifact/index.html`은 같은 검증 데이터(`src/data/*.json`)를 읽는 단일 페이지 버전입니다. claude.ai Artifact로
+`artifact/index.html`은 같은 검증 데이터(`src/data/*.json`, 입시결과는 `admissions.json`)를 읽는 단일 페이지 버전입니다. claude.ai Artifact로
 게시하면 서버나 API 키 없이 열 수 있고, AI 피드백·예상 질문은 보는 사람의 Claude 계정으로 동작합니다(`sample` 기능).
 이 버전은 글로만 답할 수 있고(마이크 사용 불가), 질문 읽어 주기는 됩니다.
 
