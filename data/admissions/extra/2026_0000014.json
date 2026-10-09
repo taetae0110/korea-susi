@@ -1,0 +1,139 @@
+{
+ "source": {
+  "file": "2026_0000014"
+ },
+ "tables": {
+  "t1": {
+   "caption": "환산등급",
+   "header_refs": [
+    "T5R1",
+    "T5R2",
+    "T5R3"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 7,
+    "grade70": 8
+   },
+   "col_headers": {}
+  },
+  "t2": {
+   "caption": "환산등급",
+   "header_refs": [
+    "T7R1",
+    "T7R2",
+    "T7R3"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 7,
+    "grade70": 8
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T5R4",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "자유전공학부(인문)",
+   "values": {
+    "recruit": "15",
+    "competition": "29.3",
+    "waitlist": "5",
+    "grade50": "3.96",
+    "grade70": "4.10"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T5R5",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "자유전공학부(자연)",
+   "values": {
+    "recruit": "15",
+    "competition": "9.0",
+    "waitlist": "2",
+    "grade50": "3.61",
+    "grade70": "3.92"
+   }
+  },
+  {
+   "table": "t2",
+   "row_ref": "T7R10",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "음악학과(관현악전공)_바이올린",
+   "values": {
+    "recruit": "6",
+    "competition": "7.5",
+    "waitlist": "3",
+    "grade50": "4.29",
+    "grade70": "4.59"
+   }
+  },
+  {
+   "table": "t2",
+   "row_ref": "T7R14",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "한국음악학과(현악.성악전공)_가야금",
+   "values": {
+    "recruit": "5",
+    "competition": "5.0",
+    "waitlist": "3",
+    "grade50": "2.84",
+    "grade70": "3.84"
+   }
+  },
+  {
+   "table": "t2",
+   "row_ref": "T7R16",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "한국음악학과(현악.성악전공)_성악",
+   "values": {
+    "recruit": "6",
+    "competition": "3.7",
+    "waitlist": "4",
+    "grade50": "3.86",
+    "grade70": "4.94"
+   }
+  },
+  {
+   "table": "t2",
+   "row_ref": "T7R19",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "한국음악학과(관악.타악전공)_해금",
+   "values": {
+    "recruit": "4",
+    "competition": "4.5",
+    "waitlist": "4",
+    "grade50": "4.59",
+    "grade70": "4.59"
+   }
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "source": {
+  "file": "2026_0000072"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 환산등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "unit": 1,
+    "recruit": 2,
+    "waitlist": 4,
+    "grade50": 7,
+    "grade70": 8
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "4이내",
+    "waitlist": "9",
+    "grade50": "4.00",
+    "grade70": "4.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "4이내",
+    "waitlist": "8",
+    "grade50": "4.45",
+    "grade70": "4.45"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "작업치료학과",
+   "values": {
+    "recruit": "3이내",
+    "waitlist": "0",
+    "grade50": "3.53",
+    "grade70": "4.05"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "국어교육과",
+   "values": {
+    "recruit": "3이내",
+    "waitlist": "3",
+    "grade50": "4.03",
+    "grade70": "5.06"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "지리교육과",
+   "values": {
+    "recruit": "3이내",
+    "waitlist": "0",
+    "grade50": "3.41",
+    "grade70": "3.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R9",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "역사교육과",
+   "values": {
+    "recruit": "3이내",
+    "waitlist": "2",
+    "grade50": "3.91",
+    "grade70": "3.91"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "자율전공학부",
+   "values": {
+    "recruit": "23이내",
+    "waitlist": "6",
+    "grade50": "5.95",
+    "grade70": "6.44"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "경찰학부",
+   "values": {
+    "recruit": "13이내",
+    "waitlist": "7",
+    "grade50": "4.97",
+    "grade70": "4.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R19",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "조리외식경영학전공",
+   "values": {
+    "recruit": "4이내",
+    "waitlist": "0",
+    "grade50": "4.24",
+    "grade70": "4.24"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R22",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "미디어콘텐츠전공",
+   "values": {
+    "recruit": "2이내",
+    "waitlist": "3",
+    "grade50": "5.44",
+    "grade70": "5.44"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R27",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "항공정비학전공",
+   "values": {
+    "recruit": "4이내",
+    "waitlist": "1",
+    "grade50": "6.26",
+    "grade70": "6.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R30",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "8이내",
+    "waitlist": "2",
+    "grade50": "3.85",
+    "grade70": "3.85"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R36",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "역사교육과",
+   "values": {
+    "recruit": "6이내",
+    "waitlist": "0",
+    "grade50": "3.20",
+    "grade70": "3.20"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R42",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "경찰학부",
+   "values": {
+    "recruit": "26이내",
+    "waitlist": "5",
+    "grade50": "4.40",
+    "grade70": "4.40"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R43",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "사회복지학전공",
+   "values": {
+    "recruit": "8이내",
+    "waitlist": "6",
+    "grade50": "5.18",
+    "grade70": "5.18"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R46",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "조리외식경영학전공",
+   "values": {
+    "recruit": "8이내",
+    "waitlist": "2",
+    "grade50": "5.25",
+    "grade70": "5.25"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R51",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "건축공학전공",
+   "values": {
+    "recruit": "4이내",
+    "waitlist": "1",
+    "grade50": "5.35",
+    "grade70": "5.35"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R52",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "건축학전공(5년제)",
+   "values": {
+    "recruit": "6이내",
+    "waitlist": "1",
+    "grade50": "4.67",
+    "grade70": "4.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R54",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "항공정비학전공",
+   "values": {
+    "recruit": "8이내",
+    "waitlist": "1",
+    "grade50": "4.63",
+    "grade70": "4.63"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R56",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활및차상위전형",
+   "unit": "CG디자인전공",
+   "values": {
+    "recruit": "6이내",
+    "waitlist": "4",
+    "grade50": "6.15",
+    "grade70": "6.15"
+   }
+  }
+ ]
+}

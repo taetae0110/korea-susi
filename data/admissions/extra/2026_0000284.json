@@ -1,0 +1,59 @@
+{
+ "source": {
+  "file": "2026_0000284"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종등록자 교과 성적 학생부등급",
+   "basis": "최종등록자",
+   "header_refs": [
+    "T9R1",
+    "T9R2",
+    "T9R3"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T9R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반전형",
+   "unit": "연극예술학과",
+   "values": {
+    "recruit": "39",
+    "competition": "2.3",
+    "waitlist": "37",
+    "grade50": "5.36",
+    "grade70": "6.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T9R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반전형",
+   "unit": "실용음악과",
+   "values": {
+    "recruit": "25",
+    "competition": "1.6",
+    "waitlist": "0",
+    "grade50": "5.89",
+    "grade70": "5.80"
+   }
+  }
+ ]
+}

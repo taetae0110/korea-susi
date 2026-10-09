@@ -1,0 +1,4160 @@
+{
+ "source": {
+  "file": "2026_0000066"
+ },
+ "tables": {
+  "tA4": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P4L108",
+    "P4L112",
+    "P4L121"
+   ],
+   "cols": {
+    "gradeAvg": 15,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P4L108#0",
+    "competition": "P4L121#0",
+    "gradeAvg": "P4L112#0"
+   }
+  },
+  "tA5": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P5L93",
+    "P5L97",
+    "P5L104"
+   ],
+   "cols": {
+    "gradeAvg": 15,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P5L93#0",
+    "competition": "P5L104#0",
+    "gradeAvg": "P5L97#1"
+   }
+  },
+  "tA6": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P6L67",
+    "P6L69",
+    "P6L74"
+   ],
+   "cols": {
+    "gradeAvg": 15,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P6L67#0",
+    "competition": "P6L74#0",
+    "gradeAvg": "P6L69#2"
+   }
+  },
+  "tB8": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P8L66",
+    "P8L68",
+    "P8L76"
+   ],
+   "cols": {
+    "gradeAvg": 13,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P8L66#0",
+    "competition": "P8L76#0",
+    "gradeAvg": "P8L68#0"
+   }
+  },
+  "tB9": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P9L94",
+    "P9L98",
+    "P9L105"
+   ],
+   "cols": {
+    "gradeAvg": 13,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P9L94#0",
+    "competition": "P9L105#0",
+    "gradeAvg": "P9L98#0"
+   }
+  },
+  "tB10": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P10L102",
+    "P10L107",
+    "P10L117"
+   ],
+   "cols": {
+    "gradeAvg": 13,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P10L102#0",
+    "competition": "P10L117#0",
+    "gradeAvg": "P10L107#0"
+   }
+  },
+  "tC12": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P12L91",
+    "P12L94",
+    "P12L99"
+   ],
+   "cols": {
+    "gradeAvg": 11,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P12L91#0",
+    "competition": "P12L99#0",
+    "gradeAvg": "P12L94#0"
+   }
+  },
+  "tC13": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P13L80",
+    "P13L84",
+    "P13L89"
+   ],
+   "cols": {
+    "gradeAvg": 11,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P13L80#0",
+    "competition": "P13L89#0",
+    "gradeAvg": "P13L84#0"
+   }
+  },
+  "tC14": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P14L83",
+    "P14L88",
+    "P14L94"
+   ],
+   "cols": {
+    "gradeAvg": 11,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P14L83#0",
+    "competition": "P14L94#0",
+    "gradeAvg": "P14L88#0"
+   }
+  },
+  "tD15": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P15L70"
+   ],
+   "cols": {
+    "gradeAvg": 7,
+    "applicants": 1
+   },
+   "col_headers": {
+    "applicants": "P15L70#1",
+    "gradeAvg": "P15L70#4"
+   }
+  },
+  "tD16": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P16L51"
+   ],
+   "cols": {
+    "gradeAvg": 7,
+    "applicants": 1
+   },
+   "col_headers": {
+    "applicants": "P16L51#1",
+    "gradeAvg": "P16L51#4"
+   }
+  },
+  "tE16": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P16L212",
+    "P16L216"
+   ],
+   "cols": {
+    "gradeAvg": 11,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P16L212#0",
+    "competition": "P16L216#0",
+    "gradeAvg": "P16L216#5"
+   }
+  },
+  "tF17": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P17L49",
+    "P17L57",
+    "P17L60"
+   ],
+   "cols": {
+    "gradeAvg": 11,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P17L57#0",
+    "competition": "P17L60#0",
+    "gradeAvg": "P17L49#2"
+   }
+  },
+  "tF18": {
+   "caption": "평균",
+   "basis": "합격자",
+   "header_refs": [
+    "P18L39",
+    "P18L47",
+    "P18L51"
+   ],
+   "cols": {
+    "gradeAvg": 11,
+    "recruit": 1,
+    "competition": 3
+   },
+   "col_headers": {
+    "recruit": "P18L47#0",
+    "competition": "P18L51#0",
+    "gradeAvg": "P18L39#2"
+   }
+  }
+ },
+ "rows": [
+  {
+   "table": "tA4",
+   "row_ref": "P4L165",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "자율전공학부",
+   "values": {
+    "gradeAvg": "1.60",
+    "recruit": "49",
+    "competition": "8.6"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L187",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "자유전공학부",
+   "values": {
+    "gradeAvg": "1.65",
+    "recruit": "158",
+    "competition": "7.0"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L210",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "국어국문학과",
+   "values": {
+    "gradeAvg": "1.78",
+    "recruit": "6",
+    "competition": "8.3"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L232",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "영어영문학과",
+   "values": {
+    "gradeAvg": "1.83",
+    "recruit": "3",
+    "competition": "7.0"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L248",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "응용영어통번역학과",
+   "values": {
+    "gradeAvg": "1.92",
+    "recruit": "3",
+    "competition": "8.3"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L264",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "사학과",
+   "values": {
+    "gradeAvg": "1.82",
+    "recruit": "5",
+    "competition": "7.6"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L280",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "철학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "3",
+    "competition": "10.7"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L296",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "프랑스어학과",
+   "values": {
+    "gradeAvg": "2.12",
+    "recruit": "2",
+    "competition": "5.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L315",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "스페인어학과",
+   "values": {
+    "gradeAvg": "3.11",
+    "recruit": "2",
+    "competition": "8.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L338",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "러시아어학과",
+   "values": {
+    "gradeAvg": "2.11",
+    "recruit": "2",
+    "competition": "6.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L360",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "중국어학과",
+   "values": {
+    "gradeAvg": "2.13",
+    "recruit": "2",
+    "competition": "7.0"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L383",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "일본어학과",
+   "values": {
+    "gradeAvg": "2.73",
+    "recruit": "2",
+    "competition": "4.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L406",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "한국어학과",
+   "values": {
+    "gradeAvg": "2.22",
+    "recruit": "3",
+    "competition": "9.3"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L424",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "글로벌커뮤니케이션학부",
+   "values": {
+    "gradeAvg": "2.06",
+    "recruit": "2",
+    "competition": "7.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L442",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "정치외교학과",
+   "values": {
+    "gradeAvg": "1.62",
+    "recruit": "5",
+    "competition": "7.2"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L460",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "행정학과",
+   "values": {
+    "gradeAvg": "1.78",
+    "recruit": "11",
+    "competition": "6.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L478",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "사회학과",
+   "values": {
+    "gradeAvg": "1.71",
+    "recruit": "8",
+    "competition": "8.1"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L501",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "경제학과",
+   "values": {
+    "gradeAvg": "1.75",
+    "recruit": "12",
+    "competition": "6.7"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L524",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "무역학과",
+   "values": {
+    "gradeAvg": "1.81",
+    "recruit": "13",
+    "competition": "7.0"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L547",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "미디어학과",
+   "values": {
+    "gradeAvg": "1.66",
+    "recruit": "12",
+    "competition": "12.6"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L570",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "국제학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "8",
+    "competition": "4.5"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L599",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "경영회계계열",
+   "values": {
+    "gradeAvg": "1.68",
+    "recruit": "38",
+    "competition": "7.4"
+   },
+   "cols": {
+    "gradeAvg": 12
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L630",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "빅데이터응용학과",
+   "values": {
+    "gradeAvg": "1.92",
+    "recruit": "2",
+    "competition": "10.0"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L647",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "Hospitality경영학과",
+   "values": {
+    "gradeAvg": "1.89",
+    "recruit": "13",
+    "competition": "6.8"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L670",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "조리&푸드디자인학과",
+   "values": {
+    "gradeAvg": "1.93",
+    "recruit": "3",
+    "competition": "20.3"
+   }
+  },
+  {
+   "table": "tA4",
+   "row_ref": "P4L692",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "관광·엔터테인먼트학부",
+   "values": {
+    "gradeAvg": "2.08",
+    "recruit": "8",
+    "competition": "5.9"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L185",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "아동가족학과",
+   "values": {
+    "gradeAvg": "1.86",
+    "recruit": "6",
+    "competition": "7.3"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L209",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "주거환경학과",
+   "values": {
+    "gradeAvg": "1.96",
+    "recruit": "4",
+    "competition": "8.3"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L233",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "의상학과",
+   "values": {
+    "gradeAvg": "1.91",
+    "recruit": "4",
+    "competition": "7.8"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L257",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "지리학과(인문)",
+   "values": {
+    "gradeAvg": "1.82",
+    "recruit": "4",
+    "competition": "6.3"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L281",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "한의예과(인문)",
+   "values": {
+    "gradeAvg": "1.04",
+    "recruit": "3",
+    "competition": "17.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L305",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "식품영양학과",
+   "values": {
+    "gradeAvg": "1.67",
+    "recruit": "3",
+    "competition": "8.7"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L329",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "수학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "6",
+    "competition": "6.3"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L354",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "물리학과",
+   "values": {
+    "gradeAvg": "1.57",
+    "recruit": "3",
+    "competition": "7.3"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L379",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "화학과",
+   "values": {
+    "gradeAvg": "1.47",
+    "recruit": "8",
+    "competition": "5.5"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L403",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "생물학과",
+   "values": {
+    "gradeAvg": "1.49",
+    "recruit": "10",
+    "competition": "5.3"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L427",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "지리학과(자연)",
+   "values": {
+    "gradeAvg": "1.93",
+    "recruit": "3",
+    "competition": "7.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L451",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "미래정보디스플레이학부",
+   "values": {
+    "gradeAvg": "1.60",
+    "recruit": "7",
+    "competition": "7.6"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L475",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "기계공학부",
+   "values": {
+    "gradeAvg": "1.94",
+    "recruit": "2",
+    "competition": "5.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L499",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "산업경영공학과",
+   "values": {
+    "gradeAvg": "1.75",
+    "recruit": "4",
+    "competition": "5.5"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L523",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "원자력공학과",
+   "values": {
+    "gradeAvg": "1.84",
+    "recruit": "2",
+    "competition": "6.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L548",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "화학공학과",
+   "values": {
+    "gradeAvg": "1.51",
+    "recruit": "2",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L572",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "신소재공학과",
+   "values": {
+    "gradeAvg": "1.44",
+    "recruit": "4",
+    "competition": "6.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L596",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "사회기반시스템공학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "4",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L620",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "건축공학과",
+   "values": {
+    "gradeAvg": "1.75",
+    "recruit": "4",
+    "competition": "6.5"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L643",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "환경학및환경공학과",
+   "values": {
+    "gradeAvg": "1.90",
+    "recruit": "2",
+    "competition": "9.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L669",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "건축학과(5년제)",
+   "values": {
+    "gradeAvg": "2.56",
+    "recruit": "2",
+    "competition": "6.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L693",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "전자공학부 전자공학과",
+   "values": {
+    "gradeAvg": "1.41",
+    "recruit": "4",
+    "competition": "8.0"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L718",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "전자공학부 반도체공학과",
+   "values": {
+    "gradeAvg": "1.50",
+    "recruit": "2",
+    "competition": "9.5"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L751",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "생체의공학과",
+   "values": {
+    "gradeAvg": "1.67",
+    "recruit": "2",
+    "competition": "5.5"
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L779",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "컴퓨터공학부 컴퓨터공학과",
+   "values": {
+    "gradeAvg": "1.64",
+    "recruit": "2",
+    "competition": "8.0"
+   },
+   "cols": {
+    "gradeAvg": 14
+   }
+  },
+  {
+   "table": "tA5",
+   "row_ref": "P5L806",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "컴퓨터공학부 인공지능학과",
+   "values": {
+    "gradeAvg": "1.70",
+    "recruit": "2",
+    "competition": "7.0"
+   },
+   "cols": {
+    "gradeAvg": 14
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L102",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "소프트웨어융합학과",
+   "values": {
+    "gradeAvg": "1.75",
+    "recruit": "2",
+    "competition": "10.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L123",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "응용수학과",
+   "values": {
+    "gradeAvg": "1.84",
+    "recruit": "3",
+    "competition": "6.7"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L148",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "응용물리학과",
+   "values": {
+    "gradeAvg": "1.88",
+    "recruit": "3",
+    "competition": "7.7"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L172",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "응용화학과",
+   "values": {
+    "gradeAvg": "1.69",
+    "recruit": "4",
+    "competition": "6.5"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L196",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "우주과학과",
+   "values": {
+    "gradeAvg": "1.69",
+    "recruit": "2",
+    "competition": "19.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L220",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "유전생명공학과",
+   "values": {
+    "gradeAvg": "1.53",
+    "recruit": "9",
+    "competition": "7.3"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L243",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "식품생명공학과",
+   "values": {
+    "gradeAvg": "1.63",
+    "recruit": "9",
+    "competition": "8.8"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L268",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "융합바이오·신소재공학과",
+   "values": {
+    "gradeAvg": "1.66",
+    "recruit": "13",
+    "competition": "6.6"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L291",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "스마트팜과학과",
+   "values": {
+    "gradeAvg": "1.79",
+    "recruit": "8",
+    "competition": "11.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L315",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "의예과",
+   "values": {
+    "gradeAvg": "1.00",
+    "recruit": "15",
+    "competition": "7.7"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L340",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "한의예과(자연)",
+   "values": {
+    "gradeAvg": "1.22",
+    "recruit": "5",
+    "competition": "25.6"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L364",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "치의예과",
+   "values": {
+    "gradeAvg": "1.15",
+    "recruit": "10",
+    "competition": "13.5"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L388",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "약학과",
+   "values": {
+    "gradeAvg": "1.07",
+    "recruit": "4",
+    "competition": "16.3"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L412",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "한약학과",
+   "values": {
+    "gradeAvg": "1.32",
+    "recruit": "5",
+    "competition": "10.8"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L436",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "약과학과",
+   "values": {
+    "gradeAvg": "1.43",
+    "recruit": "6",
+    "competition": "6.2"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L460",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "간호학과",
+   "values": {
+    "gradeAvg": "1.67",
+    "recruit": "14",
+    "competition": "14.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L484",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "산업디자인학과",
+   "values": {
+    "gradeAvg": "1.60",
+    "recruit": "2",
+    "competition": "5.5"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L508",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "시각디자인학과",
+   "values": {
+    "gradeAvg": "1.31",
+    "recruit": "2",
+    "competition": "7.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L532",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "환경조경디자인학과",
+   "values": {
+    "gradeAvg": "1.50",
+    "recruit": "4",
+    "competition": "11.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L556",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "의류디자인학과",
+   "values": {
+    "gradeAvg": "1.59",
+    "recruit": "4",
+    "competition": "9.5"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L580",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "디지털콘텐츠학과",
+   "values": {
+    "gradeAvg": "1.50",
+    "recruit": "2",
+    "competition": "7.5"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L603",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "도예학과",
+   "values": {
+    "gradeAvg": "1.60",
+    "recruit": "5",
+    "competition": "5.6"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L627",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "체육학과",
+   "values": {
+    "gradeAvg": "1.39",
+    "recruit": "5",
+    "competition": "8.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L652",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "스포츠의학과",
+   "values": {
+    "gradeAvg": "1.59",
+    "recruit": "2",
+    "competition": "11.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L676",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "골프산업학과",
+   "values": {
+    "gradeAvg": "2.27",
+    "recruit": "1",
+    "competition": "31.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L700",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "스포츠지도학과",
+   "values": {
+    "gradeAvg": "2.60",
+    "recruit": "1",
+    "competition": "29.0"
+   }
+  },
+  {
+   "table": "tA6",
+   "row_ref": "P6L724",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(지역균형전형)",
+   "unit": "태권도학과",
+   "values": {
+    "gradeAvg": "1.88",
+    "recruit": "1",
+    "competition": "15.0"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L123",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "자율전공학부",
+   "values": {
+    "gradeAvg": "1.84",
+    "recruit": "18",
+    "competition": "21.8"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L147",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "자유전공학부",
+   "values": {
+    "gradeAvg": "2.00",
+    "recruit": "12",
+    "competition": "25.3"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L169",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "국어국문학과",
+   "values": {
+    "gradeAvg": "2.69",
+    "recruit": "20",
+    "competition": "14.5"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L192",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "영어영문학과",
+   "values": {
+    "gradeAvg": "2.89",
+    "recruit": "11",
+    "competition": "14.2"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L210",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "응용영어통번역학과",
+   "values": {
+    "gradeAvg": "3.38",
+    "recruit": "12",
+    "competition": "14.1"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L227",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "사학과",
+   "values": {
+    "gradeAvg": "2.49",
+    "recruit": "14",
+    "competition": "14.9"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L245",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "철학과",
+   "values": {
+    "gradeAvg": "2.06",
+    "recruit": "10",
+    "competition": "16.7"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L261",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "프랑스어학과",
+   "values": {
+    "gradeAvg": "3.80",
+    "recruit": "11",
+    "competition": "8.4"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L280",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "스페인어학과",
+   "values": {
+    "gradeAvg": "3.90",
+    "recruit": "11",
+    "competition": "8.0"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L302",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "러시아어학과",
+   "values": {
+    "gradeAvg": "3.92",
+    "recruit": "10",
+    "competition": "12.5"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L324",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "중국어학과",
+   "values": {
+    "gradeAvg": "3.92",
+    "recruit": "14",
+    "competition": "12.5"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L347",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "일본어학과",
+   "values": {
+    "gradeAvg": "4.31",
+    "recruit": "11",
+    "competition": "16.2"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L370",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "한국어학과",
+   "values": {
+    "gradeAvg": "3.71",
+    "recruit": "7",
+    "competition": "10.1"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L387",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "글로벌커뮤니케이션학부",
+   "values": {
+    "gradeAvg": "4.21",
+    "recruit": "14",
+    "competition": "14.1"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L403",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "정치외교학과",
+   "values": {
+    "gradeAvg": "2.07",
+    "recruit": "14",
+    "competition": "16.1"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L421",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "행정학과",
+   "values": {
+    "gradeAvg": "2.06",
+    "recruit": "14",
+    "competition": "17.4"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L441",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "사회학과",
+   "values": {
+    "gradeAvg": "1.82",
+    "recruit": "8",
+    "competition": "16.4"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L463",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "경제학과",
+   "values": {
+    "gradeAvg": "2.53",
+    "recruit": "20",
+    "competition": "13.8"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L485",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "무역학과",
+   "values": {
+    "gradeAvg": "2.50",
+    "recruit": "16",
+    "competition": "12.6"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L507",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "미디어학과",
+   "values": {
+    "gradeAvg": "2.26",
+    "recruit": "25",
+    "competition": "12.4"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L530",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "국제학과",
+   "values": {
+    "gradeAvg": "3.41",
+    "recruit": "45",
+    "competition": "14.4"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L559",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "경영회계계열",
+   "values": {
+    "gradeAvg": "2.44",
+    "recruit": "63",
+    "competition": "15.4"
+   },
+   "cols": {
+    "gradeAvg": 10
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L589",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "빅데이터응용학과",
+   "values": {
+    "gradeAvg": "1.71",
+    "recruit": "6",
+    "competition": "16.8"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L606",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "Hospitality경영학과",
+   "values": {
+    "gradeAvg": "2.72",
+    "recruit": "28",
+    "competition": "12.8"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L629",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "조리&푸드디자인학과",
+   "values": {
+    "gradeAvg": "1.71",
+    "recruit": "22",
+    "competition": "9.5"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L652",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "관광·엔터테인먼트학부",
+   "values": {
+    "gradeAvg": "2.59",
+    "recruit": "21",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tB8",
+   "row_ref": "P8L674",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "글로벌Hospitality·관광학과",
+   "values": {
+    "gradeAvg": "2.92",
+    "recruit": "15",
+    "competition": "8.9"
+   },
+   "cols": {
+    "gradeAvg": 12
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L179",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "아동가족학과",
+   "values": {
+    "gradeAvg": "2.38",
+    "recruit": "6",
+    "competition": "14.0"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L207",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "주거환경학과",
+   "values": {
+    "gradeAvg": "3.29",
+    "recruit": "3",
+    "competition": "18.3"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L233",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "의상학과",
+   "values": {
+    "gradeAvg": "2.25",
+    "recruit": "10",
+    "competition": "16.5"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L259",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "지리학과(인문)",
+   "values": {
+    "gradeAvg": "2.28",
+    "recruit": "5",
+    "competition": "15.8"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L285",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "한의예과(인문)",
+   "values": {
+    "gradeAvg": "1.51",
+    "recruit": "9",
+    "competition": "25.3"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L312",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "식품영양학과",
+   "values": {
+    "gradeAvg": "2.28",
+    "recruit": "9",
+    "competition": "14.9"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L337",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "수학과",
+   "values": {
+    "gradeAvg": "1.89",
+    "recruit": "8",
+    "competition": "15.8"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L363",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "물리학과",
+   "values": {
+    "gradeAvg": "2.04",
+    "recruit": "13",
+    "competition": "20.3"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L389",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "화학과",
+   "values": {
+    "gradeAvg": "2.66",
+    "recruit": "8",
+    "competition": "28.8"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L415",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "생물학과",
+   "values": {
+    "gradeAvg": "2.79",
+    "recruit": "13",
+    "competition": "21.8"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L441",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "지리학과(자연)",
+   "values": {
+    "gradeAvg": "2.36",
+    "recruit": "4",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L467",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "미래정보디스플레이학부",
+   "values": {
+    "gradeAvg": "2.18",
+    "recruit": "34",
+    "competition": "9.4"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L493",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "기계공학부",
+   "values": {
+    "gradeAvg": "1.89",
+    "recruit": "22",
+    "competition": "25.0"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L519",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "산업경영공학과",
+   "values": {
+    "gradeAvg": "1.87",
+    "recruit": "11",
+    "competition": "15.5"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L546",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "원자력공학과",
+   "values": {
+    "gradeAvg": "2.47",
+    "recruit": "9",
+    "competition": "16.9"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L571",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "화학공학과",
+   "values": {
+    "gradeAvg": "1.96",
+    "recruit": "11",
+    "competition": "17.0"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L597",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "신소재공학과",
+   "values": {
+    "gradeAvg": "1.79",
+    "recruit": "11",
+    "competition": "15.3"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L623",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "사회기반시스템공학과",
+   "values": {
+    "gradeAvg": "2.08",
+    "recruit": "11",
+    "competition": "17.0"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L650",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "건축공학과",
+   "values": {
+    "gradeAvg": "2.46",
+    "recruit": "11",
+    "competition": "10.3"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L675",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "환경학및환경공학과",
+   "values": {
+    "gradeAvg": "1.90",
+    "recruit": "9",
+    "competition": "26.2"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L701",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "건축학과(5년제)",
+   "values": {
+    "gradeAvg": "2.08",
+    "recruit": "8",
+    "competition": "11.6"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L727",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "전자공학부 전자공학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "17",
+    "competition": "17.5"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L753",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "전자공학부 반도체공학과",
+   "values": {
+    "gradeAvg": "1.78",
+    "recruit": "6",
+    "competition": "14.2"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L789",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "생체의공학과",
+   "values": {
+    "gradeAvg": "2.79",
+    "recruit": "3",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L829",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "컴퓨터공학부 컴퓨터공학과",
+   "values": {
+    "gradeAvg": "1.82"
+   },
+   "cols": {
+    "gradeAvg": 2
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L860",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "컴퓨터공학부 인공지능학과",
+   "values": {
+    "gradeAvg": "1.90",
+    "recruit": "4",
+    "competition": "23.3"
+   }
+  },
+  {
+   "table": "tB9",
+   "row_ref": "P9L889",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "소프트웨어융합학과",
+   "values": {
+    "gradeAvg": "2.61",
+    "recruit": "5",
+    "competition": "23.4"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L182",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "응용수학과",
+   "values": {
+    "gradeAvg": "2.04",
+    "recruit": "7",
+    "competition": "9.9"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L211",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "응용물리학과",
+   "values": {
+    "gradeAvg": "1.95",
+    "recruit": "7",
+    "competition": "13.3"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L238",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "응용화학과",
+   "values": {
+    "gradeAvg": "1.80",
+    "recruit": "10",
+    "competition": "17.5"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L266",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "우주과학과",
+   "values": {
+    "gradeAvg": "2.78",
+    "recruit": "12",
+    "competition": "19.6"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L292",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "유전생명공학과",
+   "values": {
+    "gradeAvg": "1.99",
+    "recruit": "23",
+    "competition": "18.9"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L320",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "식품생명공학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "17",
+    "competition": "13.8"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L346",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "융합바이오·신소재공학과",
+   "values": {
+    "gradeAvg": "1.91",
+    "recruit": "25",
+    "competition": "25.0"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L371",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "스마트팜과학과",
+   "values": {
+    "gradeAvg": "1.99",
+    "recruit": "24",
+    "competition": "14.6"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L397",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "의예과",
+   "values": {
+    "gradeAvg": "1.28",
+    "recruit": "25",
+    "competition": "28.2"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L423",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "한의예과(자연)",
+   "values": {
+    "gradeAvg": "1.62",
+    "recruit": "19",
+    "competition": "14.4"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L450",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "치의예과",
+   "values": {
+    "gradeAvg": "1.50",
+    "recruit": "19",
+    "competition": "21.5"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L476",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "약학과",
+   "values": {
+    "gradeAvg": "1.50",
+    "recruit": "9",
+    "competition": "51.8"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L503",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "한약학과",
+   "values": {
+    "gradeAvg": "2.09",
+    "recruit": "9",
+    "competition": "15.3"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L530",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "약과학과",
+   "values": {
+    "gradeAvg": "1.75",
+    "recruit": "9",
+    "competition": "14.0"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L558",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "간호학과",
+   "values": {
+    "gradeAvg": "1.81",
+    "recruit": "18",
+    "competition": "18.6"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L584",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "산업디자인학과",
+   "values": {
+    "gradeAvg": "2.07",
+    "recruit": "3",
+    "competition": "12.7"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L611",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "시각디자인학과",
+   "values": {
+    "gradeAvg": "2.27",
+    "recruit": "8",
+    "competition": "15.1"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L637",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "환경조경디자인학과",
+   "values": {
+    "gradeAvg": "2.70",
+    "recruit": "10",
+    "competition": "18.0"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L663",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "의류디자인학과",
+   "values": {
+    "gradeAvg": "2.49",
+    "recruit": "6",
+    "competition": "11.8"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L689",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "디지털콘텐츠학과",
+   "values": {
+    "gradeAvg": "2.50",
+    "recruit": "3",
+    "competition": "29.0"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L715",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "도예학과",
+   "values": {
+    "gradeAvg": "3.64",
+    "recruit": "11",
+    "competition": "10.7"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L741",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "연극영화학과-영화연출 및 제작",
+   "values": {
+    "gradeAvg": "3.65",
+    "recruit": "10",
+    "competition": "16.6"
+   },
+   "cols": {
+    "gradeAvg": 12
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L772",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "연극영화학과-연극·뮤지컬 연출",
+   "values": {
+    "gradeAvg": "3.00",
+    "recruit": "4",
+    "competition": "23.5"
+   },
+   "cols": {
+    "gradeAvg": 12
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L810",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "체육학과",
+   "values": {
+    "gradeAvg": "2.47",
+    "recruit": "16",
+    "competition": "27.0"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L846",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "스포츠의학과",
+   "values": {
+    "gradeAvg": "3.25",
+    "recruit": "11",
+    "competition": "23.2"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L873",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "골프산업학과",
+   "values": {
+    "gradeAvg": "2.72",
+    "recruit": "3",
+    "competition": "22.3"
+   }
+  },
+  {
+   "table": "tB10",
+   "row_ref": "P10L900",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(네오르네상스전형)",
+   "unit": "태권도학과",
+   "values": {
+    "gradeAvg": "3.16",
+    "recruit": "11",
+    "competition": "19.1"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L137",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "자율전공학부",
+   "values": {
+    "gradeAvg": "1.82",
+    "recruit": "3",
+    "competition": "19.7"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L156",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "국어국문학과",
+   "values": {
+    "gradeAvg": "2.01",
+    "recruit": "2",
+    "competition": "14.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L175",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "영어영문학과",
+   "values": {
+    "gradeAvg": "2.15",
+    "recruit": "2",
+    "competition": "10.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L198",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "응용영어통번역학과",
+   "values": {
+    "gradeAvg": "2.39",
+    "recruit": "2",
+    "competition": "8.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L223",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "사학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "2",
+    "competition": "11.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L243",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "철학과",
+   "values": {
+    "gradeAvg": "1.87",
+    "recruit": "2",
+    "competition": "11.0"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L263",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "프랑스어학과",
+   "values": {
+    "gradeAvg": "3.14",
+    "recruit": "2",
+    "competition": "8.0"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L283",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "스페인어학과",
+   "values": {
+    "gradeAvg": "3.37",
+    "recruit": "2",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L303",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "러시아어학과",
+   "values": {
+    "gradeAvg": "3.71",
+    "recruit": "2",
+    "competition": "11.0"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L322",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "중국어학과",
+   "values": {
+    "gradeAvg": "3.81",
+    "recruit": "2",
+    "competition": "11.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L342",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "일본어학과",
+   "values": {
+    "gradeAvg": "2.76",
+    "recruit": "2",
+    "competition": "15.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L363",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "한국어학과",
+   "values": {
+    "gradeAvg": "2.50",
+    "recruit": "2",
+    "competition": "8.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L383",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "글로벌커뮤니케이션학부",
+   "values": {
+    "gradeAvg": "3.37",
+    "recruit": "2",
+    "competition": "8.0"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L403",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "정치외교학과",
+   "values": {
+    "gradeAvg": "1.78",
+    "recruit": "2",
+    "competition": "17.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L423",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "행정학과",
+   "values": {
+    "gradeAvg": "1.82",
+    "recruit": "3",
+    "competition": "14.3"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L443",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "사회학과",
+   "values": {
+    "gradeAvg": "1.87",
+    "recruit": "2",
+    "competition": "16.5"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L463",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "경제학과",
+   "values": {
+    "gradeAvg": "1.91",
+    "recruit": "3",
+    "competition": "11.7"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L483",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "무역학과",
+   "values": {
+    "gradeAvg": "2.25",
+    "recruit": "3",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L503",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "미디어학과",
+   "values": {
+    "gradeAvg": "2.07",
+    "recruit": "3",
+    "competition": "14.3"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L524",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "국제학과",
+   "values": {
+    "gradeAvg": "2.27",
+    "recruit": "3",
+    "competition": "8.3"
+   }
+  },
+  {
+   "table": "tC12",
+   "row_ref": "P12L550",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "경영회계계열",
+   "values": {
+    "gradeAvg": "1.83",
+    "recruit": "9",
+    "competition": "13.7"
+   },
+   "cols": {
+    "gradeAvg": 8
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L129",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "Hospitality경영학과",
+   "values": {
+    "gradeAvg": "2.26",
+    "recruit": "2",
+    "competition": "11.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L149",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "조리&푸드디자인학과",
+   "values": {
+    "gradeAvg": "1.73",
+    "recruit": "2",
+    "competition": "19.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L170",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "관광·엔터테인먼트학부",
+   "values": {
+    "gradeAvg": "1.74",
+    "recruit": "2",
+    "competition": "11.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L193",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "아동가족학과",
+   "values": {
+    "gradeAvg": "2.63",
+    "recruit": "2",
+    "competition": "10.0"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L240",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "의상학과",
+   "values": {
+    "gradeAvg": "2.34",
+    "recruit": "2",
+    "competition": "14.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L261",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "지리학과(인문)",
+   "values": {
+    "gradeAvg": "2.11",
+    "recruit": "2",
+    "competition": "9.0"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L279",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "식품영양학과",
+   "values": {
+    "gradeAvg": "1.70",
+    "recruit": "3",
+    "competition": "16.7"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L292",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "수학과",
+   "values": {
+    "gradeAvg": "1.97",
+    "recruit": "3",
+    "competition": "11.0"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L309",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "물리학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "2",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L329",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "화학과",
+   "values": {
+    "gradeAvg": "1.52",
+    "recruit": "3",
+    "competition": "11.3"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L351",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "생물학과",
+   "values": {
+    "gradeAvg": "1.49",
+    "recruit": "3",
+    "competition": "20.3"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L368",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "지리학과(자연)",
+   "values": {
+    "gradeAvg": "2.19",
+    "recruit": "2",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L385",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "미래정보디스플레이학부",
+   "values": {
+    "gradeAvg": "1.92",
+    "recruit": "3",
+    "competition": "14.7"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L401",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "기계공학부",
+   "values": {
+    "gradeAvg": "1.88",
+    "recruit": "3",
+    "competition": "16.3"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L416",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "산업경영공학과",
+   "values": {
+    "gradeAvg": "2.18",
+    "recruit": "2",
+    "competition": "12.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L434",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "화학공학과",
+   "values": {
+    "gradeAvg": "1.62",
+    "recruit": "3",
+    "competition": "12.3"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L454",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "신소재공학과",
+   "values": {
+    "gradeAvg": "2.52",
+    "recruit": "2",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L474",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "사회기반시스템공학과",
+   "values": {
+    "gradeAvg": "2.08",
+    "recruit": "2",
+    "competition": "12.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L491",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "건축공학과",
+   "values": {
+    "gradeAvg": "1.99",
+    "recruit": "2",
+    "competition": "10.5"
+   }
+  },
+  {
+   "table": "tC13",
+   "row_ref": "P13L507",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "환경학및환경공학과",
+   "values": {
+    "gradeAvg": "2.01",
+    "recruit": "2",
+    "competition": "22.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L144",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "건축학과(5년제)",
+   "values": {
+    "gradeAvg": "2.17",
+    "recruit": "2",
+    "competition": "11.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L166",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "전자공학부 전자공학과",
+   "values": {
+    "gradeAvg": "2.58",
+    "recruit": "3",
+    "competition": "16.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L189",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "생체의공학과",
+   "values": {
+    "gradeAvg": "1.79",
+    "recruit": "2",
+    "competition": "11.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L212",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "컴퓨터공학부 컴퓨터공학과",
+   "values": {
+    "gradeAvg": "1.95",
+    "recruit": "2",
+    "competition": "12.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L237",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "소프트웨어융합학과",
+   "values": {
+    "gradeAvg": "1.96",
+    "recruit": "2",
+    "competition": "15.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L258",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "응용수학과",
+   "values": {
+    "gradeAvg": "1.93",
+    "recruit": "2",
+    "competition": "9.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L279",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "응용화학과",
+   "values": {
+    "gradeAvg": "1.77",
+    "recruit": "2",
+    "competition": "14.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L299",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "유전생명공학과",
+   "values": {
+    "gradeAvg": "1.65",
+    "recruit": "2",
+    "competition": "16.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L319",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "식품생명공학과",
+   "values": {
+    "gradeAvg": "1.83",
+    "recruit": "2",
+    "competition": "13.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L340",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "한약학과",
+   "values": {
+    "gradeAvg": "1.53",
+    "recruit": "2",
+    "competition": "15.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L361",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "약과학과",
+   "values": {
+    "gradeAvg": "1.25",
+    "recruit": "3",
+    "competition": "9.3"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L382",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "간호학과",
+   "values": {
+    "gradeAvg": "1.71",
+    "recruit": "4",
+    "competition": "17.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L403",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "산업디자인학과",
+   "values": {
+    "gradeAvg": "2.45",
+    "recruit": "2",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L424",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "시각디자인학과",
+   "values": {
+    "gradeAvg": "1.57",
+    "recruit": "2",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L445",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "환경조경디자인학과",
+   "values": {
+    "gradeAvg": "2.23",
+    "recruit": "2",
+    "competition": "9.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L466",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "의류디자인학과",
+   "values": {
+    "gradeAvg": "2.20",
+    "recruit": "2",
+    "competition": "10.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L485",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "디지털콘텐츠학과",
+   "values": {
+    "gradeAvg": "2.22",
+    "recruit": "2",
+    "competition": "12.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L506",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "도예학과",
+   "values": {
+    "gradeAvg": "3.40",
+    "recruit": "2",
+    "competition": "9.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L527",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "체육학과",
+   "values": {
+    "gradeAvg": "2.55",
+    "recruit": "2",
+    "competition": "23.0"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L547",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "스포츠의학과",
+   "values": {
+    "gradeAvg": "1.73",
+    "recruit": "2",
+    "competition": "15.5"
+   }
+  },
+  {
+   "table": "tC14",
+   "row_ref": "P14L569",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 국가보훈·농어촌·수급자·자립아동 등]",
+   "unit": "태권도학과",
+   "values": {
+    "gradeAvg": "3.97",
+    "recruit": "2",
+    "competition": "19.0"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L131",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "응용영어통번역학과",
+   "values": {
+    "gradeAvg": "2.42",
+    "applicants": "2"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L145",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "사학과",
+   "values": {
+    "gradeAvg": "2.33",
+    "applicants": "8"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L212",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "사회학과",
+   "values": {
+    "gradeAvg": "2.02",
+    "applicants": "13"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L232",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "경제학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "applicants": "5"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L269",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "미디어학과",
+   "values": {
+    "gradeAvg": "2.30",
+    "applicants": "9"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L293",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "경영회계계열",
+   "values": {
+    "gradeAvg": "2.38",
+    "applicants": "14"
+   },
+   "cols": {
+    "gradeAvg": 4
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L320",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "빅데이터응용학과",
+   "values": {
+    "gradeAvg": "2.02",
+    "applicants": "6"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L493",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "식품영양학과",
+   "values": {
+    "gradeAvg": "2.57",
+    "applicants": "5"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L536",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "화학과",
+   "values": {
+    "gradeAvg": "2.35",
+    "applicants": "6"
+   }
+  },
+  {
+   "table": "tD15",
+   "row_ref": "P15L554",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "생물학과",
+   "values": {
+    "gradeAvg": "2.23",
+    "applicants": "12"
+   }
+  },
+  {
+   "table": "tD16",
+   "row_ref": "P16L65",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "전자공학부 전자공학과",
+   "values": {
+    "gradeAvg": "2.54",
+    "applicants": "9"
+   }
+  },
+  {
+   "table": "tD16",
+   "row_ref": "P16L84",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "유전생명공학과",
+   "values": {
+    "gradeAvg": "2.02",
+    "applicants": "12"
+   }
+  },
+  {
+   "table": "tD16",
+   "row_ref": "P16L93",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "식품생명공학과",
+   "values": {
+    "gradeAvg": "2.56",
+    "applicants": "4"
+   }
+  },
+  {
+   "table": "tD16",
+   "row_ref": "P16L101",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "융합바이오·신소재공학과",
+   "values": {
+    "gradeAvg": "1.96",
+    "applicants": "5"
+   }
+  },
+  {
+   "table": "tD16",
+   "row_ref": "P16L141",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅰ - 장애인 등 대상자(정원외)]",
+   "unit": "의류디자인학과",
+   "values": {
+    "gradeAvg": "3.80",
+    "applicants": "8"
+   }
+  },
+  {
+   "table": "tE16",
+   "row_ref": "P16L225",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형Ⅰ- 특성화고 등을 졸업한 재직자(정원외)",
+   "unit": "국제통상·금융투자학부",
+   "values": {
+    "gradeAvg": "2.32",
+    "recruit": "120",
+    "competition": "7.3"
+   }
+  },
+  {
+   "table": "tE16",
+   "row_ref": "P16L233",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형Ⅰ- 특성화고 등을 졸업한 재직자(정원외)",
+   "unit": "문화관광산업학과",
+   "values": {
+    "gradeAvg": "2.64",
+    "recruit": "70",
+    "competition": "3.8"
+   }
+  },
+  {
+   "table": "tE16",
+   "row_ref": "P16L241",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형Ⅰ- 특성화고 등을 졸업한 재직자(정원외)",
+   "unit": "조리산업학과",
+   "values": {
+    "gradeAvg": "2.65",
+    "recruit": "33",
+    "competition": "3.9"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L71",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "자율전공학부",
+   "values": {
+    "gradeAvg": "1.71",
+    "recruit": "2",
+    "competition": "38.5"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L79",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "국어국문학과",
+   "values": {
+    "gradeAvg": "1.77",
+    "recruit": "2",
+    "competition": "15.5"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L88",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "영어영문학과",
+   "values": {
+    "gradeAvg": "4.04",
+    "recruit": "1",
+    "competition": "15.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L98",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "응용영어통번역학과",
+   "values": {
+    "gradeAvg": "2.11",
+    "recruit": "1",
+    "competition": "18.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L108",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "사학과",
+   "values": {
+    "gradeAvg": "2.02",
+    "recruit": "2",
+    "competition": "15.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L123",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "글로벌커뮤니케이션학부",
+   "values": {
+    "gradeAvg": "3.40",
+    "recruit": "3",
+    "competition": "19.7"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L135",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "정치외교학과",
+   "values": {
+    "gradeAvg": "1.69",
+    "recruit": "2",
+    "competition": "16.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L144",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "행정학과",
+   "values": {
+    "gradeAvg": "1.95",
+    "recruit": "2",
+    "competition": "20.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L152",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "사회학과",
+   "values": {
+    "gradeAvg": "1.78",
+    "recruit": "2",
+    "competition": "19.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L161",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "경제학과",
+   "values": {
+    "gradeAvg": "2.32",
+    "recruit": "2",
+    "competition": "28.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L172",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "무역학과",
+   "values": {
+    "gradeAvg": "2.32",
+    "recruit": "2",
+    "competition": "15.5"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L182",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "미디어학과",
+   "values": {
+    "gradeAvg": "1.72",
+    "recruit": "2",
+    "competition": "21.5"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L194",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "국제학과",
+   "values": {
+    "gradeAvg": "2.81",
+    "recruit": "4",
+    "competition": "13.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L210",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "경영회계계열",
+   "values": {
+    "gradeAvg": "1.98",
+    "recruit": "6",
+    "competition": "23.2"
+   },
+   "cols": {
+    "gradeAvg": 8
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L226",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "Hospitality경영학과",
+   "values": {
+    "gradeAvg": "1.54",
+    "recruit": "2",
+    "competition": "23.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L237",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "관광·엔터테인먼트학부",
+   "values": {
+    "gradeAvg": "2.27",
+    "recruit": "2",
+    "competition": "25.0"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L247",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "아동가족학과",
+   "values": {
+    "gradeAvg": "1.94",
+    "recruit": "2",
+    "competition": "16.5"
+   }
+  },
+  {
+   "table": "tF17",
+   "row_ref": "P17L256",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "주거환경학과",
+   "values": {
+    "gradeAvg": "2.77",
+    "recruit": "2",
+    "competition": "20.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L63",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "수학과",
+   "values": {
+    "gradeAvg": "2.14",
+    "recruit": "2",
+    "competition": "22.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L71",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "화학과",
+   "values": {
+    "gradeAvg": "1.53",
+    "recruit": "2",
+    "competition": "19.5"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L79",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "생물학과",
+   "values": {
+    "gradeAvg": "1.94",
+    "recruit": "2",
+    "competition": "43.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L89",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "지리학과(자연)",
+   "values": {
+    "gradeAvg": "2.69",
+    "recruit": "2",
+    "competition": "17.5"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L99",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "미래정보디스플레이학부",
+   "values": {
+    "gradeAvg": "2.49",
+    "recruit": "2",
+    "competition": "21.5"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L113",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "기계공학부",
+   "values": {
+    "gradeAvg": "2.00",
+    "recruit": "4",
+    "competition": "21.8"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L126",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "산업경영공학과",
+   "values": {
+    "gradeAvg": "2.08",
+    "recruit": "2",
+    "competition": "14.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L138",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "화학공학과",
+   "values": {
+    "gradeAvg": "1.85",
+    "recruit": "3",
+    "competition": "17.3"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L151",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "신소재공학과",
+   "values": {
+    "gradeAvg": "1.97",
+    "recruit": "2",
+    "competition": "22.5"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L162",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "사회기반시스템공학과",
+   "values": {
+    "gradeAvg": "2.30",
+    "recruit": "2",
+    "competition": "16.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L174",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "건축공학과",
+   "values": {
+    "gradeAvg": "2.32",
+    "recruit": "2",
+    "competition": "14.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L184",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "전자공학부 전자공학과",
+   "values": {
+    "gradeAvg": "2.52",
+    "recruit": "4",
+    "competition": "20.5"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L194",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "컴퓨터공학부 컴퓨터공학과",
+   "values": {
+    "gradeAvg": "2.06",
+    "recruit": "3",
+    "competition": "15.7"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L203",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "소프트웨어융합학과",
+   "values": {
+    "gradeAvg": "1.96",
+    "recruit": "2",
+    "competition": "18.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L212",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "유전생명공학과",
+   "values": {
+    "gradeAvg": "1.52",
+    "recruit": "3",
+    "competition": "25.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L221",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "약과학과",
+   "values": {
+    "gradeAvg": "1.75",
+    "recruit": "2",
+    "competition": "15.5"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L229",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "간호학과",
+   "values": {
+    "gradeAvg": "1.88",
+    "recruit": "4",
+    "competition": "23.0"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L238",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "체육학과",
+   "values": {
+    "gradeAvg": "2.58",
+    "recruit": "3",
+    "competition": "33.3"
+   }
+  },
+  {
+   "table": "tF18",
+   "row_ref": "P18L246",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합 [기회균형전형Ⅱ]",
+   "unit": "태권도학과",
+   "values": {
+    "gradeAvg": "1.65",
+    "recruit": "3",
+    "competition": "28.3"
+   }
+  }
+ ]
+}

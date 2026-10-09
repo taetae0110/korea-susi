@@ -1,0 +1,443 @@
+{
+ "source": {
+  "file": "2026_0000156"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 학생부(교과) 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "unit": 1,
+    "recruit": 2,
+    "competition": 3,
+    "waitlist": 4,
+    "grade50": 7,
+    "grade70": 8
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "무도학과 [씨름]",
+   "values": {
+    "recruit": "6",
+    "competition": "2.50",
+    "grade50": "5.00",
+    "grade70": "5.80"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "무도학과 [복싱]",
+   "values": {
+    "recruit": "6",
+    "competition": "6.00",
+    "waitlist": "2",
+    "grade50": "3.60",
+    "grade70": "4.10"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "무도학과 [검도]",
+   "values": {
+    "recruit": "3",
+    "competition": "15.00",
+    "grade50": "4.20",
+    "grade70": "4.40"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "무도학과 [용무도]",
+   "values": {
+    "recruit": "4",
+    "competition": "5.25",
+    "grade50": "3.80",
+    "grade70": "3.80"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "실용음악과 [보컬]",
+   "values": {
+    "recruit": "4",
+    "competition": "86.5",
+    "waitlist": "6",
+    "grade50": "4.00",
+    "grade70": "4.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R8",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "실용음악과 [기악]",
+   "values": {
+    "recruit": "8",
+    "competition": "17.38",
+    "waitlist": "2",
+    "grade50": "4.40",
+    "grade70": "4.60"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R9",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형",
+   "unit": "실용음악과 [작곡]",
+   "values": {
+    "recruit": "2",
+    "competition": "13.00",
+    "grade50": "3.80",
+    "grade70": "3.80"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "태권도학과 [시범]",
+   "values": {
+    "recruit": "10",
+    "competition": "8.90",
+    "waitlist": "10",
+    "grade50": "4.20",
+    "grade70": "5.20"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R11",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "태권도학과 [겨루기]",
+   "values": {
+    "recruit": "23",
+    "competition": "1.65",
+    "grade50": "4.70",
+    "grade70": "6.10"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "태권도학과 [공인품새]",
+   "values": {
+    "recruit": "7",
+    "competition": "7.86",
+    "waitlist": "9",
+    "grade50": "2.70",
+    "grade70": "3.20"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "태권도학과 [자유품새]",
+   "values": {
+    "recruit": "3",
+    "competition": "6.33",
+    "grade50": "4.30",
+    "grade70": "5.10"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R14",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "체육학과 [축구(남)-FW]",
+   "values": {
+    "recruit": "2",
+    "competition": "12.50",
+    "grade50": "5.00",
+    "grade70": "5.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "체육학과 [축구(남)-MF]",
+   "values": {
+    "recruit": "4",
+    "competition": "8.50",
+    "waitlist": "2",
+    "grade50": "4.70",
+    "grade70": "4.70"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R16",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "체육학과 [축구(남)-DF]",
+   "values": {
+    "recruit": "3",
+    "competition": "11.00",
+    "grade50": "2.00",
+    "grade70": "4.40"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R18",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "무도학과 [레슬링]",
+   "values": {
+    "recruit": "4",
+    "competition": "1.00",
+    "grade50": "5.20",
+    "grade70": "5.20"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R19",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "무도학과 [씨름]",
+   "values": {
+    "recruit": "7",
+    "competition": "1.00",
+    "grade50": "5.90",
+    "grade70": "6.30"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R20",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "무도학과[복싱]",
+   "values": {
+    "recruit": "7",
+    "competition": "1.71",
+    "waitlist": "1",
+    "grade50": "6.30",
+    "grade70": "6.40"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R21",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "무도학과[검도]",
+   "values": {
+    "recruit": "10",
+    "competition": "1.60",
+    "waitlist": "1",
+    "grade50": "5.90",
+    "grade70": "6.40"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R22",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "무도학과[용무도]",
+   "values": {
+    "recruit": "3",
+    "competition": "5.67",
+    "grade50": "3.40",
+    "grade70": "3.60"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R23",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "스포츠레저학과 [테니스]",
+   "values": {
+    "recruit": "3",
+    "competition": "6.33",
+    "waitlist": "5",
+    "grade50": "4.00",
+    "grade70": "4.20"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R24",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "스포츠레저학과 [체조]",
+   "values": {
+    "recruit": "6",
+    "competition": "4.17",
+    "waitlist": "8",
+    "grade50": "4.30",
+    "grade70": "4.90"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R25",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "스포츠레저학과 [탁구(여)]",
+   "values": {
+    "recruit": "3",
+    "competition": "1.00",
+    "grade50": "4.30",
+    "grade70": "7.30"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R26",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "스포츠레저학과 [수영]",
+   "values": {
+    "recruit": "4",
+    "competition": "11.50",
+    "waitlist": "8",
+    "grade50": "4.00",
+    "grade70": "4.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R27",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "스포츠레저학과 [승마]",
+   "values": {
+    "recruit": "4",
+    "competition": "3.25",
+    "waitlist": "6",
+    "grade50": "3.30",
+    "grade70": "3.30"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R28",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "스포츠레저학과 [배드민턴]",
+   "values": {
+    "recruit": "2",
+    "competition": "1.00",
+    "grade50": "5.80",
+    "grade70": "5.80"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R29",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "체육학과 [쇼트트랙]",
+   "values": {
+    "recruit": "2",
+    "competition": "4.50",
+    "grade50": "4.70",
+    "grade70": "4.70"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R32",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "체육우수자 특별전형",
+   "unit": "체육학과 [보디빌딩]",
+   "values": {
+    "recruit": "2",
+    "competition": "15.50",
+    "grade50": "1.90",
+    "grade70": "1.90"
+   }
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "source": {
+  "file": "2026_0000003"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "unit": 2,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "경영·회계학부",
+   "values": {
+    "grade50": "5.32",
+    "grade70": "5.32"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "관광경영학과",
+   "values": {
+    "grade50": "3.91",
+    "grade70": "7.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "스마트산업공학과",
+   "values": {
+    "grade50": "8.08",
+    "grade70": "8.08"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "grade50": "6.28",
+    "grade70": "8.46"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "심리학과",
+   "values": {
+    "grade50": "4.56",
+    "grade70": "4.56"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R8",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "행정학과",
+   "values": {
+    "grade50": "5.36",
+    "grade70": "5.36"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R9",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "산림자원학과",
+   "values": {
+    "grade50": "7.76",
+    "grade70": "7.76"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "의생명과학대학 자유전공학과",
+   "values": {
+    "grade50": "7.54",
+    "grade70": "7.54"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R11",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "국어국문학과",
+   "values": {
+    "grade50": "5.50",
+    "grade70": "5.50"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "사학과",
+   "values": {
+    "grade50": "6.58",
+    "grade70": "8.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "영어영문학과",
+   "values": {
+    "grade50": "8.73",
+    "grade70": "8.73"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R14",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "지질·지구물리학부",
+   "values": {
+    "grade50": "8.39",
+    "grade70": "8.39"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "전기전자공학과",
+   "values": {
+    "grade50": "6.13",
+    "grade70": "6.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R16",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "grade50": "6.05",
+    "grade70": "8.20"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R17",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특수교육대상자전형)",
+   "unit": "AI융합학과",
+   "values": {
+    "grade50": "8.37",
+    "grade70": "8.37"
+   }
+  }
+ ]
+}

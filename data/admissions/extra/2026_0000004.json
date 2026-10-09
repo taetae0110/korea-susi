@@ -1,0 +1,185 @@
+{
+ "source": {
+  "file": "2026_0000004"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T8R1",
+    "T8R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T8R3",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "미래인재서류전형",
+   "unit": "미래인재서류전형",
+   "values": {
+    "recruit": "175",
+    "competition": "5.99",
+    "waitlist": "103",
+    "grade50": "5.33",
+    "grade70": "5.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "미래인재면접전형",
+   "unit": "미래인재면접전형",
+   "values": {
+    "recruit": "43",
+    "competition": "7.07",
+    "waitlist": "2",
+    "grade50": "3.665",
+    "grade70": "3.665"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R5",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균현전형",
+   "unit": "기회균현전형",
+   "values": {
+    "recruit": "59",
+    "competition": "3.41",
+    "waitlist": "22",
+    "grade50": "5.198",
+    "grade70": "5.847"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반교과저형",
+   "unit": "일반교과저형",
+   "values": {
+    "recruit": "580",
+    "competition": "4.34",
+    "waitlist": "602",
+    "grade50": "5.34",
+    "grade70": "6.14"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역교과전형",
+   "unit": "지역교과전형",
+   "values": {
+    "recruit": "151",
+    "competition": "2.85",
+    "waitlist": "56",
+    "grade50": "5.41",
+    "grade70": "6.02"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R8",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "저소득_지역교과전형",
+   "unit": "저소득_지역교과전형",
+   "values": {
+    "recruit": "2",
+    "competition": "3.5",
+    "waitlist": "3",
+    "grade50": "3.36",
+    "grade70": "3.36"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R9",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "사회배려자전형",
+   "unit": "사회배려자전형",
+   "values": {
+    "recruit": "43",
+    "competition": "3.84",
+    "waitlist": "11",
+    "grade50": "4.81",
+    "grade70": "5.53"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "농어촌학생전형",
+   "values": {
+    "recruit": "52",
+    "competition": "4.94",
+    "waitlist": "20",
+    "grade50": "6.10",
+    "grade70": "6.45"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R11",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교졸업자전형",
+   "unit": "특성화고교졸업자전형",
+   "values": {
+    "recruit": "19",
+    "competition": "4.95",
+    "waitlist": "19",
+    "grade50": "2.99",
+    "grade70": "3.22"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T8R12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특수교육대상자전형",
+   "unit": "특수교육대상자전형",
+   "values": {
+    "recruit": "7",
+    "competition": "1.71",
+    "waitlist": "2",
+    "grade50": "5.83",
+    "grade70": "5.83"
+   }
+  }
+ ]
+}

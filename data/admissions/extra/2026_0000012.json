@@ -1,0 +1,110 @@
+{
+ "source": {
+  "file": "2026_0000012"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재 전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "지역인재 전형",
+   "values": {
+    "recruit": "2",
+    "competition": "12.5",
+    "waitlist": "0",
+    "grade50": "4.58",
+    "grade70": "4.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "사회적배려대상자 전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "사회적배려대상자 전형",
+   "values": {
+    "recruit": "21",
+    "competition": "6.62",
+    "waitlist": "17",
+    "grade50": "5.33",
+    "grade70": "5.29"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생 전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "농어촌학생 전형",
+   "values": {
+    "recruit": "14",
+    "competition": "6.43",
+    "waitlist": "5",
+    "grade50": "4.59",
+    "grade70": "5.66"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교 출신자 전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "특성화고교 출신자 전형",
+   "values": {
+    "recruit": "26",
+    "competition": "6.54",
+    "waitlist": "23",
+    "grade50": "3.24",
+    "grade70": "3.36"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급권자 및 차상위계층자 전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "기초생활수급권자 및 차상위계층자 전형",
+   "values": {
+    "recruit": "37",
+    "competition": "4.41",
+    "waitlist": "25",
+    "grade50": "4.8",
+    "grade70": "5.56"
+   }
+  }
+ ]
+}

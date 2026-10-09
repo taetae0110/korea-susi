@@ -1,0 +1,74 @@
+{
+ "source": {
+  "file": "2026_0000164"
+ },
+ "tables": {
+  "t1": {
+   "caption": "환산등급",
+   "header_refs": [
+    "S1R2",
+    "S1R3",
+    "S1R4"
+   ],
+   "cols": {
+    "unit": 4,
+    "recruit": 6,
+    "competition": 9,
+    "waitlist": 10,
+    "grade50": 14,
+    "grade70": 15
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "S1R63",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "스포츠산업・재활전공",
+   "values": {
+    "recruit": "28",
+    "competition": "4.75",
+    "waitlist": "19",
+    "grade50": "5.2",
+    "grade70": "5.4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R64",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "웹툰영상학과",
+   "values": {
+    "recruit": "13",
+    "competition": "1.69",
+    "waitlist": "7",
+    "grade50": "4.9",
+    "grade70": "5.4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R66",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(체육특기자전형)",
+   "unit": "경기지도전공",
+   "values": {
+    "recruit": "40",
+    "competition": "2.23",
+    "waitlist": "14",
+    "grade50": "6.2",
+    "grade70": "7.2"
+   }
+  }
+ ]
+}

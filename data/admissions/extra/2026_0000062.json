@@ -1,0 +1,171 @@
+{
+ "source": {
+  "file": "2026_0000062"
+ },
+ "tables": {
+  "t1": {
+   "caption": "환산등급",
+   "header_refs": [
+    "S1R1",
+    "S1R2",
+    "S1R3",
+    "S1R4"
+   ],
+   "cols": {
+    "unit": 9,
+    "recruit": 11,
+    "competition": 13,
+    "waitlist": 14,
+    "grade50": 21,
+    "grade70": 22
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "S1R5",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기특별전형)",
+   "unit": "공예디자인학과(금속공예)",
+   "values": {
+    "unit": "공예디자인학과(금속공예)",
+    "recruit": "11",
+    "competition": "4.09",
+    "waitlist": "9",
+    "grade50": "4.9",
+    "grade70": "5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R6",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기특별전형)",
+   "unit": "공예디자인학과(도자공예)",
+   "values": {
+    "unit": "공예디자인학과(도자공예)",
+    "recruit": "10",
+    "competition": "3.8",
+    "waitlist": "10",
+    "grade50": "5.1",
+    "grade70": "5.3"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R7",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기특별전형)",
+   "unit": "공예디자인학과(가구디자인)",
+   "values": {
+    "unit": "공예디자인학과(가구디자인)",
+    "recruit": "10",
+    "competition": "4.4",
+    "waitlist": "22",
+    "grade50": "5",
+    "grade70": "5.2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R8",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기특별전형)",
+   "unit": "공예디자인학과(텍스타일)",
+   "values": {
+    "unit": "공예디자인학과(텍스타일)",
+    "recruit": "10",
+    "competition": "3.3",
+    "waitlist": "13",
+    "grade50": "5.5",
+    "grade70": "5.7"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R9",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(체육특기자전형)",
+   "unit": "스포츠건강학과(야구-포수)",
+   "values": {
+    "unit": "스포츠건강학과(야구-포수)",
+    "recruit": "2",
+    "competition": "4",
+    "waitlist": "5",
+    "grade50": "5.3",
+    "grade70": "6.4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R10",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(체육특기자전형)",
+   "unit": "스포츠건강학과(야구-중견수)",
+   "values": {
+    "unit": "스포츠건강학과(야구-중견수)",
+    "recruit": "2",
+    "competition": "4",
+    "waitlist": "1",
+    "grade50": "4.5",
+    "grade70": "4.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R11",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(체육특기자전형)",
+   "unit": "스포츠건강학과(야구-유격수)",
+   "values": {
+    "unit": "스포츠건강학과(야구-유격수)",
+    "recruit": "3",
+    "competition": "3.7",
+    "waitlist": "0",
+    "grade50": "5.3",
+    "grade70": "5.3"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R12",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(체육특기자전형)",
+   "unit": "스포츠건강학과(야구-투수 우완)",
+   "values": {
+    "unit": "스포츠건강학과(야구-투수 우완)",
+    "recruit": "2",
+    "competition": "9.5",
+    "waitlist": "11",
+    "grade50": "5.9",
+    "grade70": "6.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R14",
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(체육특기자전형)",
+   "unit": "스포츠건강학과(레슬링)",
+   "values": {
+    "unit": "스포츠건강학과(레슬링)",
+    "recruit": "5",
+    "competition": "1",
+    "waitlist": "0",
+    "grade50": "2.9",
+    "grade70": "7"
+   }
+  }
+ ]
+}

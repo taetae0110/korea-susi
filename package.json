@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "data:build": "node scripts/build-data.mjs",
+    "data:admissions": "node scripts/build-admissions.mjs",
     "typecheck": "next typegen && tsc --noEmit"
   },
   "dependencies": {

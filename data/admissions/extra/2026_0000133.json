@@ -1,0 +1,124 @@
+{
+ "source": {
+  "file": "2026_0000133"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종등록자 교과성적 학생부등급",
+   "basis": "최종등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "unit": 1,
+    "recruit": 2,
+    "competition": 3,
+    "waitlist": 4,
+    "grade50": 5,
+    "grade70": 6
+   },
+   "col_headers": {
+    "unit": "T3R1#0"
+   }
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌",
+   "unit": "인문과학계열 사회과학계열 경영학과 자연과학계열 전자전기공학부 공학계열 소프트웨어학과 반도체융합공학과 에너지학과 양자정보공학과 바이오신약·규제과학과",
+   "values": {
+    "recruit": "81",
+    "competition": "15.17",
+    "waitlist": "98",
+    "grade50": "2.54",
+    "grade70": "3.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "이웃 사랑",
+   "unit": "인문과학계열 사회과학계열 경영학과 자연과학계열 전자전기공학부 공학계열 소프트웨어학과 반도체융합공학과 에너지학과 양자정보공학과 바이오신약·규제과학과",
+   "values": {
+    "recruit": "55",
+    "competition": "14.18",
+    "waitlist": "42",
+    "grade50": "3.26",
+    "grade70": "4.02"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R6",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "장애인 등",
+   "unit": "인문과학계열 사회과학계열 경영학과 자연과학계열 전자전기공학부 공학계열 소프트웨어학과 교육학과 한문교육과 수학교육과 컴퓨터교육과",
+   "values": {
+    "recruit": "10",
+    "competition": "24.50",
+    "waitlist": "6",
+    "grade50": "2.22",
+    "grade70": "2.81"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R7",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "특성화고",
+   "unit": "인문과학계열 사회과학계열 경영학과 자연과학계열 전자전기공학부 공학계열 소프트웨어학과",
+   "values": {
+    "recruit": "25",
+    "competition": "17.92",
+    "waitlist": "1",
+    "grade50": "1.85",
+    "grade70": "2.22"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R8",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "특성화고졸 재직자",
+   "unit": "AI융합운영",
+   "values": {
+    "recruit": "95",
+    "competition": "8.93",
+    "waitlist": "46",
+    "grade50": "1.75",
+    "grade70": "2.09"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R9",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "특성화고졸 재직자",
+   "unit": "산업인공지능",
+   "values": {
+    "recruit": "95",
+    "competition": "6.03",
+    "waitlist": "30",
+    "grade50": "2.53",
+    "grade70": "3.27"
+   }
+  }
+ ]
+}

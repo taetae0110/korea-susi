@@ -1,0 +1,74 @@
+{
+ "source": {
+  "file": "2026_0000052"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(특수교육대상자)",
+   "unit": "문과대학",
+   "values": {
+    "recruit": "8",
+    "competition": "8.00:1",
+    "waitlist": "2",
+    "grade50": "3.37",
+    "grade70": "3.65"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(특수교육대상자)",
+   "unit": "사회과학대학",
+   "values": {
+    "recruit": "8",
+    "competition": "9.13:1",
+    "waitlist": "4",
+    "grade50": "3.39",
+    "grade70": "3.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(특수교육대상자)",
+   "unit": "경영대학 부동산과학원",
+   "values": {
+    "recruit": "4",
+    "competition": "9.00:1",
+    "waitlist": "0",
+    "grade50": "2.68",
+    "grade70": "2.68"
+   }
+  }
+ ]
+}

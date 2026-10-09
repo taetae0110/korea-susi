@@ -1,0 +1,4521 @@
+{
+ "source": {
+  "file": "2026_0000063"
+ },
+ "tables": {
+  "t1": {
+   "caption": "학생부 등급(90%)",
+   "basis": "최종등록자",
+   "header_refs": [
+    "S1R3"
+   ],
+   "cols": {
+    "unit": 2,
+    "recruit": 3,
+    "competition": 4,
+    "grade50": 5,
+    "grade70": 6,
+    "grade90": 7
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "S1R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천의약학",
+   "unit": "한의예과",
+   "values": {
+    "recruit": "5",
+    "competition": "35",
+    "grade90": "1.99"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R5",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천의약학",
+   "unit": "약학과",
+   "values": {
+    "recruit": "12",
+    "competition": "48.17",
+    "grade50": "2.39",
+    "grade70": "2.69",
+    "grade90": "3.63"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R6",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천의약학",
+   "unit": "의예과",
+   "values": {
+    "recruit": "16",
+    "competition": "39.31",
+    "grade50": "1.71",
+    "grade70": "1.81",
+    "grade90": "2.33"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R7",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "24",
+    "competition": "41.04",
+    "grade50": "3.6",
+    "grade70": "3.9",
+    "grade90": "4.15"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R8",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "회계세무학과",
+   "values": {
+    "recruit": "10",
+    "competition": "15.6",
+    "grade50": "3.52",
+    "grade70": "3.53",
+    "grade90": "3.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R9",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "8",
+    "competition": "37.75",
+    "grade50": "3.66",
+    "grade70": "3.76",
+    "grade90": "3.9"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R10",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "의료산업경영학과",
+   "values": {
+    "recruit": "6",
+    "competition": "15.83",
+    "grade50": "3.85",
+    "grade70": "3.87",
+    "grade90": "3.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R11",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "금융·빅데이터학부",
+   "values": {
+    "recruit": "12",
+    "competition": "15.42",
+    "grade50": "3.37",
+    "grade70": "3.51",
+    "grade90": "3.87"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R12",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "10",
+    "competition": "28.3",
+    "grade50": "3.51",
+    "grade70": "3.83",
+    "grade90": "3.94"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R13",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "응용통계학과",
+   "values": {
+    "recruit": "7",
+    "competition": "14.71",
+    "grade50": "3.51",
+    "grade70": "3.55",
+    "grade90": "3.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R14",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "심리학과",
+   "values": {
+    "recruit": "7",
+    "competition": "49",
+    "grade50": "3.18",
+    "grade70": "3.28",
+    "grade90": "3.32"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R15",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "6",
+    "competition": "114.67",
+    "grade50": "3.54",
+    "grade70": "3.86",
+    "grade90": "3.89"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R16",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "7",
+    "competition": "43.14",
+    "grade50": "4.06",
+    "grade70": "4.14",
+    "grade90": "4.16"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R17",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "유아교육학과",
+   "values": {
+    "recruit": "8",
+    "competition": "33.63",
+    "grade50": "3.51",
+    "grade70": "3.79",
+    "grade90": "3.86"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R18",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "7",
+    "competition": "42.43",
+    "grade50": "3.79",
+    "grade70": "3.9",
+    "grade90": "4.37"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R19",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "AI인문대학",
+   "values": {
+    "recruit": "25",
+    "competition": "34.36",
+    "grade50": "3.78",
+    "grade70": "3.95",
+    "grade90": "4.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R20",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "22",
+    "competition": "36.05",
+    "grade50": "3.56",
+    "grade70": "3.64",
+    "grade90": "3.85"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R21",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "7",
+    "competition": "30.86",
+    "grade50": "4.03",
+    "grade70": "4.15",
+    "grade90": "4.39"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R22",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "8",
+    "competition": "39.5",
+    "grade50": "3.55",
+    "grade70": "3.94",
+    "grade90": "4.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R23",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "건축공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "20.14",
+    "grade50": "3.61",
+    "grade70": "3.92",
+    "grade90": "3.95"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R24",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "30",
+    "competition": "18.7",
+    "grade50": "3.66",
+    "grade70": "3.86",
+    "grade90": "4.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R25",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "18",
+    "competition": "35.72",
+    "grade50": "3.62",
+    "grade70": "3.95",
+    "grade90": "4.11"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R26",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "6",
+    "competition": "24.67",
+    "grade50": "3.63",
+    "grade70": "3.78",
+    "grade90": "4.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R27",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "스마트팩토리학과",
+   "values": {
+    "recruit": "7",
+    "competition": "15.29",
+    "grade50": "4.04",
+    "grade70": "4.06",
+    "grade90": "4.22"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R28",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "6",
+    "competition": "20.67",
+    "grade50": "3.18",
+    "grade70": "3.54",
+    "grade90": "3.59"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R29",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "6",
+    "competition": "36.33",
+    "grade50": "3.24",
+    "grade70": "3.56",
+    "grade90": "3.56"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R30",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "바이오나노학과",
+   "values": {
+    "recruit": "6",
+    "competition": "24",
+    "grade50": "3.01",
+    "grade70": "3.15",
+    "grade90": "3.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R31",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "생명과학과",
+   "values": {
+    "recruit": "6",
+    "competition": "77",
+    "grade50": "2.85",
+    "grade70": "3.71",
+    "grade90": "3.81"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R32",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "반도체물리학과",
+   "values": {
+    "recruit": "13",
+    "competition": "13.69",
+    "grade50": "4.31",
+    "grade70": "4.34",
+    "grade90": "4.88"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R33",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "화학과",
+   "values": {
+    "recruit": "7",
+    "competition": "24.86",
+    "grade50": "3.65",
+    "grade70": "3.67",
+    "grade90": "4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R34",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "6",
+    "competition": "36.5",
+    "grade50": "3.62",
+    "grade70": "3.86",
+    "grade90": "3.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R35",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "9",
+    "competition": "16.89",
+    "grade50": "3.37",
+    "grade70": "3.45",
+    "grade90": "3.93"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R36",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "스마트시티학과",
+   "values": {
+    "recruit": "10",
+    "competition": "27.6",
+    "grade50": "4.17",
+    "grade70": "4.23",
+    "grade90": "4.39"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R37",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "클라우드공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "14",
+    "grade50": "3.38",
+    "grade70": "3.42",
+    "grade90": "3.55"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R38",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "14",
+    "competition": "32.57",
+    "grade50": "3.33",
+    "grade70": "3.46",
+    "grade90": "3.65"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R39",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "(2026:정보보호학과) 스마트보안학과",
+   "values": {
+    "recruit": "7",
+    "competition": "45.29",
+    "grade50": "3.9",
+    "grade70": "4.05",
+    "grade90": "4.55"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R40",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "13",
+    "competition": "25.38",
+    "grade50": "3.62",
+    "grade70": "3.74",
+    "grade90": "3.95"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R41",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "6",
+    "competition": "19.33",
+    "grade50": "3.51",
+    "grade70": "3.61",
+    "grade90": "3.73"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R42",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "운동재활학과",
+   "values": {
+    "recruit": "7",
+    "competition": "65.14",
+    "grade50": "3.71",
+    "grade70": "3.92",
+    "grade90": "4.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R43",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "바이오로직스학과",
+   "values": {
+    "recruit": "15",
+    "competition": "11.8",
+    "grade50": "3.19",
+    "grade70": "3.33",
+    "grade90": "3.69"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R44",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "33",
+    "competition": "28.18",
+    "grade50": "2.79",
+    "grade70": "2.88",
+    "grade90": "3.28"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R45",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "6",
+    "competition": "22.5",
+    "grade50": "3.3",
+    "grade70": "3.67",
+    "grade90": "3.89"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R46",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "4",
+    "competition": "83",
+    "grade50": "4.13",
+    "grade70": "4.64",
+    "grade90": "4.72"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R47",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "6",
+    "competition": "42",
+    "grade50": "3.05",
+    "grade70": "3.05",
+    "grade90": "3.09"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R48",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "6",
+    "competition": "62.67",
+    "grade50": "3.31",
+    "grade70": "3.48",
+    "grade90": "3.48"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R49",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "17",
+    "competition": "16.12",
+    "grade50": "3.39",
+    "grade70": "3.55",
+    "grade90": "3.65"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R50",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "가천바람개비",
+   "unit": "시스템반도체학과",
+   "values": {
+    "recruit": "7",
+    "competition": "13.57",
+    "grade50": "3.44",
+    "grade70": "3.56",
+    "grade90": "3.6"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R51",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "회화전공",
+   "values": {
+    "recruit": "30",
+    "competition": "8.07",
+    "grade50": "4.92",
+    "grade70": "5.6",
+    "grade90": "6.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R52",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "조소전공",
+   "values": {
+    "recruit": "25",
+    "competition": "7.28",
+    "grade50": "5.6",
+    "grade70": "6",
+    "grade90": "6.78"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R53",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "시각디자인전공",
+   "values": {
+    "recruit": "30",
+    "competition": "40.13",
+    "grade50": "4.71",
+    "grade70": "5",
+    "grade90": "5.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R54",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "산업디자인전공",
+   "values": {
+    "recruit": "30",
+    "competition": "23.37",
+    "grade50": "5.07",
+    "grade70": "5.39",
+    "grade90": "5.75"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R55",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "성악전공(남자)",
+   "values": {
+    "recruit": "6",
+    "competition": "10.5",
+    "grade50": "5.6",
+    "grade70": "5.88",
+    "grade90": "6"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R56",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "성악전공(여자)",
+   "values": {
+    "recruit": "6",
+    "competition": "18.17",
+    "grade50": "3.54",
+    "grade70": "4.25",
+    "grade90": "5.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R57",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Violin)",
+   "values": {
+    "recruit": "7",
+    "competition": "8.57",
+    "grade50": "3.34",
+    "grade70": "4.3",
+    "grade90": "5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R58",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Viola)",
+   "values": {
+    "recruit": "2",
+    "competition": "3",
+    "grade90": "4.16"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R59",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(V.Cello)",
+   "values": {
+    "recruit": "3",
+    "competition": "4",
+    "grade90": "4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R60",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(C.Bass)",
+   "values": {
+    "recruit": "1",
+    "competition": "2",
+    "grade90": "5.27"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R61",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Classic Guitar)",
+   "values": {
+    "recruit": "1",
+    "competition": "10",
+    "grade90": "3"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R62",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Flute)",
+   "values": {
+    "recruit": "1",
+    "competition": "26",
+    "grade90": "4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R63",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Oboe)",
+   "values": {
+    "recruit": "1",
+    "competition": "10",
+    "grade90": "5.91"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R64",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Clarinet)",
+   "values": {
+    "recruit": "1",
+    "competition": "13",
+    "grade90": "4.09"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R66",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Horn)",
+   "values": {
+    "recruit": "1",
+    "competition": "9",
+    "grade90": "5.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R67",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Trumpet)",
+   "values": {
+    "recruit": "1",
+    "competition": "22",
+    "grade90": "5.9"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R68",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(Tenor Trombone)",
+   "values": {
+    "recruit": "1",
+    "competition": "7",
+    "grade90": "5.3"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R69",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(타악기)",
+   "values": {
+    "recruit": "1",
+    "competition": "22",
+    "grade90": "4.91"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R70",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "기악전공(피아노)",
+   "values": {
+    "recruit": "9",
+    "competition": "19.11",
+    "grade50": "4.91",
+    "grade70": "5.32",
+    "grade90": "5.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R71",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "작곡전공",
+   "values": {
+    "recruit": "7",
+    "competition": "6.71",
+    "grade50": "6.4",
+    "grade70": "6.6",
+    "grade90": "6.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R72",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "체육전공",
+   "values": {
+    "recruit": "40",
+    "competition": "59.1",
+    "grade50": "5.03",
+    "grade70": "5.3",
+    "grade90": "5.56"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R73",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "태권도전공",
+   "values": {
+    "recruit": "30",
+    "competition": "21.73",
+    "grade50": "6.48",
+    "grade70": "6.8",
+    "grade90": "7.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R74",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기우수자",
+   "unit": "연기예술학과(연기)",
+   "values": {
+    "recruit": "24",
+    "competition": "80.08",
+    "grade50": "5.41",
+    "grade70": "5.92",
+    "grade90": "6.29"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R75",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "4",
+    "competition": "31.5",
+    "grade50": "3.6",
+    "grade70": "3.86",
+    "grade90": "4.2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R76",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "회계세무학과",
+   "values": {
+    "recruit": "2",
+    "competition": "20",
+    "grade90": "4.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R77",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "18.5",
+    "grade90": "4.42"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R78",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "의료산업경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "24.5",
+    "grade90": "5.08"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R79",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "금융·빅데이터학부",
+   "values": {
+    "recruit": "3",
+    "competition": "9.67",
+    "grade90": "4.86"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R80",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "2",
+    "competition": "16",
+    "grade90": "3.99"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R81",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "응용통계학과",
+   "values": {
+    "recruit": "2",
+    "competition": "11.5",
+    "grade90": "3.88"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R82",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "심리학과",
+   "values": {
+    "recruit": "2",
+    "competition": "21",
+    "grade90": "3.57"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R83",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "1",
+    "competition": "52",
+    "grade90": "3.6"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R84",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "2",
+    "competition": "27.5",
+    "grade90": "4.47"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R85",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "유아교육학과",
+   "values": {
+    "recruit": "2",
+    "competition": "15.5",
+    "grade90": "4.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R86",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "2",
+    "competition": "24.5",
+    "grade90": "5.55"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R87",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "AI인문대학",
+   "values": {
+    "recruit": "5",
+    "competition": "25",
+    "grade50": "4.66",
+    "grade70": "4.91",
+    "grade90": "5.04"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R88",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "3",
+    "competition": "16.67",
+    "grade90": "3.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R89",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "2",
+    "competition": "10.5",
+    "grade90": "5.72"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R90",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "1",
+    "competition": "19",
+    "grade90": "4.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R91",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "3",
+    "competition": "10",
+    "grade90": "3.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R92",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "1",
+    "competition": "23",
+    "grade90": "4.53"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R93",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "12.5",
+    "grade90": "5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R94",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "8.5",
+    "grade90": "4.85"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R95",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "13",
+    "grade90": "3.51"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R96",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "바이오나노학과",
+   "values": {
+    "recruit": "2",
+    "competition": "17.5",
+    "grade90": "4.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R97",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "생명과학과",
+   "values": {
+    "recruit": "2",
+    "competition": "10",
+    "grade90": "4.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R98",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "반도체물리학과",
+   "values": {
+    "recruit": "2",
+    "competition": "8.5",
+    "grade90": "5.4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R99",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "화학과",
+   "values": {
+    "recruit": "2",
+    "competition": "6.5",
+    "grade90": "3.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R100",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "2",
+    "competition": "10",
+    "grade90": "4.42"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R101",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9",
+    "grade90": "4.51"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R102",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "1",
+    "competition": "17",
+    "grade90": "4.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R103",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "4",
+    "competition": "14.25",
+    "grade50": "3.52",
+    "grade70": "4.19",
+    "grade90": "4.45"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R104",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "10",
+    "grade90": "4.47"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R105",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "4",
+    "competition": "27.75",
+    "grade50": "3.16",
+    "grade70": "3.3",
+    "grade90": "3.85"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R106",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "의예과",
+   "values": {
+    "recruit": "1",
+    "competition": "56",
+    "grade90": "3.74"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R107",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "기회균형",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "4",
+    "competition": "16.25",
+    "grade50": "3.92",
+    "grade70": "4.23",
+    "grade90": "5.61"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R108",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "15",
+    "competition": "14.33",
+    "grade50": "2.46",
+    "grade70": "2.52",
+    "grade90": "2.63"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R109",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "회계세무학과",
+   "values": {
+    "recruit": "7",
+    "competition": "12.43",
+    "grade50": "2.67",
+    "grade70": "2.67",
+    "grade90": "2.73"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R110",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "7",
+    "competition": "11.86",
+    "grade50": "2.94",
+    "grade70": "3.04",
+    "grade90": "3.07"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R111",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "의료산업경영학과",
+   "values": {
+    "recruit": "7",
+    "competition": "13.43",
+    "grade50": "2.56",
+    "grade70": "2.74",
+    "grade90": "2.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R112",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "금융·빅데이터학부",
+   "values": {
+    "recruit": "12",
+    "competition": "12.5",
+    "grade50": "2.88",
+    "grade70": "2.96",
+    "grade90": "3.09"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R113",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "8",
+    "competition": "11",
+    "grade50": "2.76",
+    "grade70": "2.8",
+    "grade90": "2.82"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R114",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "응용통계학과",
+   "values": {
+    "recruit": "7",
+    "competition": "9.71",
+    "grade50": "2.77",
+    "grade70": "2.85",
+    "grade90": "2.92"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R115",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "심리학과",
+   "values": {
+    "recruit": "6",
+    "competition": "11.67",
+    "grade50": "2.35",
+    "grade70": "2.39",
+    "grade90": "2.47"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R116",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "5",
+    "competition": "13.6",
+    "grade50": "2",
+    "grade70": "2.66",
+    "grade90": "3.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R117",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "6",
+    "competition": "25.5",
+    "grade50": "2.88",
+    "grade70": "2.94",
+    "grade90": "2.94"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R118",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "유아교육학과",
+   "values": {
+    "recruit": "6",
+    "competition": "14.17",
+    "grade50": "3.09",
+    "grade70": "3.15",
+    "grade90": "3.25"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R119",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "6",
+    "competition": "16.67",
+    "grade50": "2.66",
+    "grade70": "2.75",
+    "grade90": "2.88"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R120",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "AI인문대학",
+   "values": {
+    "recruit": "22",
+    "competition": "14.59",
+    "grade50": "2.87",
+    "grade70": "2.9",
+    "grade90": "3.01"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R121",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "17",
+    "competition": "12.82",
+    "grade50": "2.67",
+    "grade70": "2.8",
+    "grade90": "2.86"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R122",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "10",
+    "competition": "19.1",
+    "grade50": "2.91",
+    "grade70": "2.95",
+    "grade90": "3.02"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R123",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "7",
+    "competition": "23.71",
+    "grade50": "2.72",
+    "grade70": "2.81",
+    "grade90": "2.94"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R124",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "건축공학과",
+   "values": {
+    "recruit": "6",
+    "competition": "14.17",
+    "grade50": "3.07",
+    "grade70": "3.17",
+    "grade90": "3.21"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R125",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "25",
+    "competition": "7.56",
+    "grade50": "2.64",
+    "grade70": "2.73",
+    "grade90": "2.78"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R126",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "18",
+    "competition": "11.94",
+    "grade50": "2.73",
+    "grade70": "2.79",
+    "grade90": "2.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R127",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "10.57",
+    "grade50": "2.81",
+    "grade70": "2.86",
+    "grade90": "2.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R128",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "스마트팩토리학과",
+   "values": {
+    "recruit": "9",
+    "competition": "13.78",
+    "grade50": "2.92",
+    "grade70": "2.96",
+    "grade90": "2.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R129",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "15.71",
+    "grade50": "2.81",
+    "grade70": "2.92",
+    "grade90": "2.95"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R130",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "14.29",
+    "grade50": "2.62",
+    "grade70": "2.7",
+    "grade90": "2.72"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R131",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "바이오나노학과",
+   "values": {
+    "recruit": "7",
+    "competition": "18.14",
+    "grade50": "2.68",
+    "grade70": "2.81",
+    "grade90": "2.88"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R132",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "생명과학과",
+   "values": {
+    "recruit": "7",
+    "competition": "28.14",
+    "grade50": "2.38",
+    "grade70": "2.78",
+    "grade90": "2.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R133",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "반도체물리학과",
+   "values": {
+    "recruit": "6",
+    "competition": "11",
+    "grade50": "2.76",
+    "grade70": "2.92",
+    "grade90": "2.92"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R134",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "화학과",
+   "values": {
+    "recruit": "7",
+    "competition": "11.14",
+    "grade50": "2.65",
+    "grade70": "2.69",
+    "grade90": "2.71"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R135",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "6",
+    "competition": "15.67",
+    "grade50": "2.7",
+    "grade70": "2.75",
+    "grade90": "2.77"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R136",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "8",
+    "competition": "15.38",
+    "grade50": "2.96",
+    "grade70": "3",
+    "grade90": "3.11"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R137",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "스마트시티학과",
+   "values": {
+    "recruit": "8",
+    "competition": "12.75",
+    "grade50": "2.89",
+    "grade70": "2.98",
+    "grade90": "3.01"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R138",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "클라우드공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "21.43",
+    "grade50": "2.44",
+    "grade70": "2.54",
+    "grade90": "2.62"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R139",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "16",
+    "competition": "7.81",
+    "grade50": "2.6",
+    "grade70": "2.64",
+    "grade90": "2.78"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R140",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "(2026:정보보호학과) 스마트보안학과",
+   "values": {
+    "recruit": "8",
+    "competition": "8.63",
+    "grade50": "2.87",
+    "grade70": "3.16",
+    "grade90": "3.28"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R141",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "21",
+    "competition": "7.86",
+    "grade50": "2.72",
+    "grade70": "2.8",
+    "grade90": "2.94"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R142",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "6",
+    "competition": "32.33",
+    "grade50": "2.82",
+    "grade70": "2.88",
+    "grade90": "2.92"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R143",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "한의예과",
+   "values": {
+    "recruit": "7",
+    "competition": "19.43",
+    "grade50": "1.11",
+    "grade70": "1.15",
+    "grade90": "1.21"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R144",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "운동재활학과",
+   "values": {
+    "recruit": "6",
+    "competition": "41.33",
+    "grade50": "2.87",
+    "grade70": "3.17",
+    "grade90": "3.23"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R145",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "약학과",
+   "values": {
+    "recruit": "3",
+    "competition": "13.33",
+    "grade90": "1.17"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R146",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "바이오로직스학과",
+   "values": {
+    "recruit": "12",
+    "competition": "12.5",
+    "grade50": "2.66",
+    "grade70": "2.68",
+    "grade90": "2.78"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R147",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "28",
+    "competition": "7.5",
+    "grade50": "1.89",
+    "grade70": "1.99",
+    "grade90": "2.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R148",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "5",
+    "competition": "15.6",
+    "grade50": "2.81",
+    "grade70": "2.86",
+    "grade90": "3.08"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R149",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "6",
+    "competition": "11.17",
+    "grade50": "1.78",
+    "grade70": "1.96",
+    "grade90": "2.06"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R150",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "6",
+    "competition": "16.83",
+    "grade50": "1.98",
+    "grade70": "2.3",
+    "grade90": "2.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R151",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "의예과",
+   "values": {
+    "recruit": "4",
+    "competition": "15.75",
+    "grade50": "1",
+    "grade70": "1.04",
+    "grade90": "1.06"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R152",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "21",
+    "competition": "11.14",
+    "grade50": "2.64",
+    "grade70": "2.82",
+    "grade90": "2.89"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R153",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부우수자",
+   "unit": "시스템반도체학과",
+   "values": {
+    "recruit": "9",
+    "competition": "17.78",
+    "grade50": "2.99",
+    "grade70": "3.01",
+    "grade90": "3.12"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R154",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "45",
+    "competition": "58.73",
+    "grade50": "4.69",
+    "grade70": "5.23",
+    "grade90": "5.98"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R155",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "회계세무학과",
+   "values": {
+    "recruit": "16",
+    "competition": "42.06",
+    "grade50": "4.11",
+    "grade70": "4.45",
+    "grade90": "4.8"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R156",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "13",
+    "competition": "43.38",
+    "grade50": "4.39",
+    "grade70": "4.49",
+    "grade90": "5.57"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R157",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "의료산업경영학과",
+   "values": {
+    "recruit": "13",
+    "competition": "41.08",
+    "grade50": "4.59",
+    "grade70": "5",
+    "grade90": "5.77"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R158",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "금융·빅데이터학부",
+   "values": {
+    "recruit": "26",
+    "competition": "29.08",
+    "grade50": "4.3",
+    "grade70": "4.63",
+    "grade90": "5.35"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R159",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "15",
+    "competition": "43.8",
+    "grade50": "4.48",
+    "grade70": "5.22",
+    "grade90": "6.49"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R160",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "응용통계학과",
+   "values": {
+    "recruit": "13",
+    "competition": "41.38",
+    "grade50": "4.74",
+    "grade70": "5.28",
+    "grade90": "5.93"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R161",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "심리학과",
+   "values": {
+    "recruit": "10",
+    "competition": "54.9",
+    "grade50": "3.81",
+    "grade70": "4.89",
+    "grade90": "6.56"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R162",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "8",
+    "competition": "83.75",
+    "grade50": "4.72",
+    "grade70": "4.97",
+    "grade90": "5.53"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R163",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "12",
+    "competition": "40.33",
+    "grade50": "3.82",
+    "grade70": "4.63",
+    "grade90": "6.49"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R164",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "유아교육학과",
+   "values": {
+    "recruit": "15",
+    "competition": "40",
+    "grade50": "5.09",
+    "grade70": "5.36",
+    "grade90": "5.62"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R165",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "12",
+    "competition": "44.42",
+    "grade50": "4.65",
+    "grade70": "4.92",
+    "grade90": "6.28"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R166",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "AI인문대학",
+   "values": {
+    "recruit": "71",
+    "competition": "45.2",
+    "grade50": "4.67",
+    "grade70": "5.29",
+    "grade90": "6.16"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R167",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "45",
+    "competition": "42.16",
+    "grade50": "4.56",
+    "grade70": "4.85",
+    "grade90": "5.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R168",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "21",
+    "competition": "28.43",
+    "grade50": "3.96",
+    "grade70": "4.99",
+    "grade90": "6.23"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R169",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "15",
+    "competition": "52.4",
+    "grade50": "4.28",
+    "grade70": "5.46",
+    "grade90": "5.98"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R170",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "건축공학과",
+   "values": {
+    "recruit": "15",
+    "competition": "28.07",
+    "grade50": "4.69",
+    "grade70": "5.07",
+    "grade90": "5.76"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R171",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "57",
+    "competition": "29.65",
+    "grade50": "4.17",
+    "grade70": "4.5",
+    "grade90": "5.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R172",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "56",
+    "competition": "32.45",
+    "grade50": "4.56",
+    "grade70": "5.12",
+    "grade90": "5.8"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R173",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "14",
+    "competition": "26.43",
+    "grade50": "4.71",
+    "grade70": "5.43",
+    "grade90": "5.79"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R174",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "스마트팩토리학과",
+   "values": {
+    "recruit": "16",
+    "competition": "28.63",
+    "grade50": "4.48",
+    "grade70": "4.8",
+    "grade90": "5.3"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R175",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "14",
+    "competition": "35.57",
+    "grade50": "4.51",
+    "grade70": "4.69",
+    "grade90": "6.18"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R176",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "14",
+    "competition": "33.79",
+    "grade50": "3.92",
+    "grade70": "4.43",
+    "grade90": "5.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R177",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "바이오나노학과",
+   "values": {
+    "recruit": "14",
+    "competition": "29.5",
+    "grade50": "4.48",
+    "grade70": "4.58",
+    "grade90": "5.21"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R178",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "생명과학과",
+   "values": {
+    "recruit": "15",
+    "competition": "39",
+    "grade50": "4.37",
+    "grade70": "4.82",
+    "grade90": "6.34"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R179",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "반도체물리학과",
+   "values": {
+    "recruit": "13",
+    "competition": "25.77",
+    "grade50": "4.46",
+    "grade70": "4.64",
+    "grade90": "5.76"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R180",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "화학과",
+   "values": {
+    "recruit": "14",
+    "competition": "27.64",
+    "grade50": "4.55",
+    "grade70": "4.79",
+    "grade90": "5.79"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R181",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "12",
+    "competition": "33.33",
+    "grade50": "4.16",
+    "grade70": "4.26",
+    "grade90": "5.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R182",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "20",
+    "competition": "30.75",
+    "grade50": "4.97",
+    "grade70": "5.18",
+    "grade90": "5.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R183",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "스마트시티학과",
+   "values": {
+    "recruit": "16",
+    "competition": "29.56",
+    "grade50": "3.82",
+    "grade70": "4.18",
+    "grade90": "4.86"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R184",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "클라우드공학과",
+   "values": {
+    "recruit": "7",
+    "competition": "77.29",
+    "grade50": "5.2",
+    "grade70": "5.44",
+    "grade90": "5.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R185",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "41",
+    "competition": "33.68",
+    "grade50": "4.47",
+    "grade70": "4.93",
+    "grade90": "5.55"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R186",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "(2026:정보보호학과) 스마트보안학과",
+   "values": {
+    "recruit": "18",
+    "competition": "28.17",
+    "grade50": "4.44",
+    "grade70": "4.88",
+    "grade90": "5.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R187",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "45",
+    "competition": "33.6",
+    "grade50": "4.64",
+    "grade70": "5.16",
+    "grade90": "7.18"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R188",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "14",
+    "competition": "26.14",
+    "grade50": "4.44",
+    "grade70": "5.11",
+    "grade90": "5.81"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R189",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "운동재활학과",
+   "values": {
+    "recruit": "13",
+    "competition": "30.54",
+    "grade50": "4.83",
+    "grade70": "5.32",
+    "grade90": "5.92"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R190",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "바이오로직스학과",
+   "values": {
+    "recruit": "28",
+    "competition": "33.36",
+    "grade50": "4.09",
+    "grade70": "4.86",
+    "grade90": "6.34"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R191",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "77",
+    "competition": "47.68",
+    "grade50": "3.93",
+    "grade70": "4.49",
+    "grade90": "5.6"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R192",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "9",
+    "competition": "32",
+    "grade50": "5.23",
+    "grade70": "5.3",
+    "grade90": "5.92"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R193",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "6",
+    "competition": "39.83",
+    "grade50": "4.81",
+    "grade70": "4.84",
+    "grade90": "5.41"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R194",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "8",
+    "competition": "64.25",
+    "grade50": "4.61",
+    "grade70": "6.07",
+    "grade90": "6.17"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R195",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "8",
+    "competition": "76.25",
+    "grade50": "3.89",
+    "grade70": "4.1",
+    "grade90": "4.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R196",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "의예과",
+   "values": {
+    "recruit": "6",
+    "competition": "577",
+    "grade50": "2.05",
+    "grade70": "3.26",
+    "grade90": "3.63"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R197",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "73",
+    "competition": "33.37",
+    "grade50": "4.71",
+    "grade70": "5.22",
+    "grade90": "6.16"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R198",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술",
+   "unit": "시스템반도체학과",
+   "values": {
+    "recruit": "16",
+    "competition": "28.5",
+    "grade50": "4.36",
+    "grade70": "4.76",
+    "grade90": "6.11"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R199",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역균형",
+   "unit": "유아교육학과",
+   "values": {
+    "recruit": "6",
+    "competition": "27",
+    "grade50": "3.13",
+    "grade70": "3.65",
+    "grade90": "3.66"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R200",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역균형",
+   "unit": "자유전공",
+   "values": {
+    "recruit": "321",
+    "competition": "15.88",
+    "grade50": "3.01",
+    "grade70": "3.18",
+    "grade90": "3.45"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R201",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역균형",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "13",
+    "competition": "40",
+    "grade50": "2.3",
+    "grade70": "2.32",
+    "grade90": "2.78"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R202",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역균형",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "5",
+    "competition": "11",
+    "grade50": "3.17",
+    "grade70": "3.48",
+    "grade90": "3.69"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R203",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역균형",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "6",
+    "competition": "23.17",
+    "grade50": "2.52",
+    "grade70": "2.65",
+    "grade90": "2.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R204",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역균형",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "6",
+    "competition": "21",
+    "grade50": "2.17",
+    "grade70": "2.41",
+    "grade90": "2.7"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R205",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "3",
+    "competition": "7.67",
+    "grade90": "2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R206",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "6",
+    "grade90": "4.25"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R207",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "의료산업경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "6.5",
+    "grade90": "2.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R208",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "금융·빅데이터학부",
+   "values": {
+    "recruit": "3",
+    "competition": "4.33",
+    "grade90": "2.87"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R209",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "2",
+    "competition": "13.5",
+    "grade90": "2.39"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R211",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "심리학과",
+   "values": {
+    "recruit": "2",
+    "competition": "7.5",
+    "grade90": "2.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R212",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "2",
+    "competition": "7.5",
+    "grade90": "2.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R213",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "1",
+    "competition": "10",
+    "grade90": "3.2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R214",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "2",
+    "competition": "8.5",
+    "grade90": "2.66"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R215",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "AI인문대학",
+   "values": {
+    "recruit": "4",
+    "competition": "5.25",
+    "grade50": "2.67",
+    "grade70": "2.67",
+    "grade90": "2.84"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R216",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "4",
+    "competition": "6.5",
+    "grade50": "2.38",
+    "grade70": "2.44",
+    "grade90": "3.36"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R217",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "2",
+    "competition": "7.5",
+    "grade90": "2.57"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R218",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "2",
+    "competition": "6",
+    "grade90": "2.85"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R219",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "건축공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "4.5",
+    "grade90": "3.49"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R220",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "4",
+    "competition": "7.25",
+    "grade50": "2.87",
+    "grade70": "2.88",
+    "grade90": "3.01"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R221",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "4",
+    "competition": "14",
+    "grade50": "2.5",
+    "grade70": "2.56",
+    "grade90": "2.7"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R222",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "1",
+    "competition": "8",
+    "grade90": "2.63"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R223",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "12",
+    "grade90": "2.72"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R224",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "5.5",
+    "grade90": "1.59"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R225",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "바이오나노학과",
+   "values": {
+    "recruit": "2",
+    "competition": "5",
+    "grade90": "2.69"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R226",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "생명과학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9.5",
+    "grade90": "2.73"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R227",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "반도체물리학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9",
+    "grade90": "3.05"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R228",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "화학과",
+   "values": {
+    "recruit": "2",
+    "competition": "17.5",
+    "grade90": "2.95"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R229",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "2",
+    "competition": "5.5",
+    "grade90": "1.76"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R230",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "1",
+    "competition": "11",
+    "grade90": "2.25"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R231",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "스마트시티학과",
+   "values": {
+    "recruit": "2",
+    "competition": "4.5",
+    "grade90": "4.15"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R232",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "3",
+    "competition": "5.67",
+    "grade90": "2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R233",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "3",
+    "competition": "4.67",
+    "grade90": "2.06"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R234",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "4",
+    "grade90": "3.86"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R236",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "운동재활학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9.5",
+    "grade90": "3.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R237",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "약학과",
+   "values": {
+    "recruit": "1",
+    "competition": "16",
+    "grade90": "1.2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R238",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "바이오로직스학과",
+   "values": {
+    "recruit": "3",
+    "competition": "6.67",
+    "grade90": "2.69"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R239",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "3",
+    "competition": "9",
+    "grade90": "1.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R240",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "1",
+    "competition": "10",
+    "grade90": "1.53"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R241",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "1",
+    "competition": "14",
+    "grade90": "1.89"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R242",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "1",
+    "competition": "10",
+    "grade90": "1.87"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R243",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "의예과",
+   "values": {
+    "recruit": "1",
+    "competition": "24",
+    "grade90": "1.14"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R244",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌(교과)",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "4",
+    "competition": "4.25",
+    "grade50": "1.96",
+    "grade70": "2.14",
+    "grade90": "2.22"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R245",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "5",
+    "competition": "22",
+    "grade50": "4.02",
+    "grade70": "4.03",
+    "grade90": "4.95"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R246",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "17.5",
+    "grade90": "4.27"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R247",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "금융·빅데이터학부",
+   "values": {
+    "recruit": "2",
+    "competition": "19",
+    "grade90": "4.56"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R248",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "2",
+    "competition": "13",
+    "grade90": "4.02"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R249",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "응용통계학과",
+   "values": {
+    "recruit": "2",
+    "competition": "10",
+    "grade90": "3.64"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R250",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "심리학과",
+   "values": {
+    "recruit": "2",
+    "competition": "36",
+    "grade90": "4.21"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R251",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "1",
+    "competition": "53",
+    "grade90": "3.82"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R252",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "2",
+    "competition": "13",
+    "grade90": "3.9"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R253",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "2",
+    "competition": "15.5",
+    "grade90": "4.15"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R254",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "AI인문대학",
+   "values": {
+    "recruit": "3",
+    "competition": "25",
+    "grade90": "4.15"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R255",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "3",
+    "competition": "27.33",
+    "grade90": "3.66"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R256",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "2",
+    "competition": "12",
+    "grade90": "4.74"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R257",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "2",
+    "competition": "22",
+    "grade90": "4.28"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R258",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "6",
+    "competition": "7",
+    "grade50": "3.68",
+    "grade70": "3.76",
+    "grade90": "3.77"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R259",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "3",
+    "competition": "20",
+    "grade90": "4.37"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R260",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "10",
+    "grade90": "4.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R261",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9",
+    "grade90": "3.68"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R262",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "생명과학과",
+   "values": {
+    "recruit": "2",
+    "competition": "42.5",
+    "grade90": "3.56"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R263",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "화학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9.5",
+    "grade90": "4.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R264",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "2",
+    "competition": "22.5",
+    "grade90": "4.07"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R265",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "13.5",
+    "grade90": "4.49"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R266",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "스마트시티학과",
+   "values": {
+    "recruit": "2",
+    "competition": "10.5",
+    "grade90": "7.37"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R267",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "3",
+    "competition": "11.33",
+    "grade90": "3.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R268",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "2",
+    "competition": "18",
+    "grade90": "5.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R269",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "11.5",
+    "grade90": "4.81"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R270",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "바이오로직스학과",
+   "values": {
+    "recruit": "2",
+    "competition": "14",
+    "grade90": "3.05"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R271",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "2",
+    "competition": "23",
+    "grade90": "2.73"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R272",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "2",
+    "competition": "18",
+    "grade90": "4.84"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R273",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "2",
+    "competition": "15",
+    "grade90": "4.12"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R274",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "2",
+    "competition": "49.5",
+    "grade90": "3.95"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R275",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "의예과",
+   "values": {
+    "recruit": "1",
+    "competition": "15",
+    "grade90": "2.34"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R276",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌(종합)",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "3",
+    "competition": "10.67",
+    "grade90": "3.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R277",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "경영학과",
+   "values": {
+    "recruit": "4",
+    "competition": "32.25",
+    "grade50": "1.71",
+    "grade70": "1.71",
+    "grade90": "1.75"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R278",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "관광경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "16",
+    "grade90": "2.34"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R279",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "의료산업경영학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9.5",
+    "grade90": "2.06"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R280",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "경제학과",
+   "values": {
+    "recruit": "2",
+    "competition": "13.5",
+    "grade90": "2.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R281",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "미디어커뮤니케이션학과",
+   "values": {
+    "recruit": "2",
+    "competition": "30",
+    "grade90": "1.76"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R282",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "2",
+    "competition": "12.5",
+    "grade90": "2.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R283",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "패션산업학과",
+   "values": {
+    "recruit": "3",
+    "competition": "16.33",
+    "grade90": "2.27"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R284",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "법과대학",
+   "values": {
+    "recruit": "2",
+    "competition": "8",
+    "grade90": "2.21"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R285",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "도시계획·조경학부",
+   "values": {
+    "recruit": "2",
+    "competition": "8.5",
+    "grade90": "3.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R286",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "건축학부",
+   "values": {
+    "recruit": "3",
+    "competition": "16",
+    "grade90": "2.15"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R287",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "화공생명배터리공학부",
+   "values": {
+    "recruit": "5",
+    "competition": "6.6",
+    "grade50": "2.08",
+    "grade70": "2.18",
+    "grade90": "3.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R288",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "기계공학부",
+   "values": {
+    "recruit": "4",
+    "competition": "15.25",
+    "grade50": "1.23",
+    "grade70": "1.38",
+    "grade90": "1.97"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R289",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "건설환경공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9.5",
+    "grade90": "2.72"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R290",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "신소재공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "12",
+    "grade90": "3.11"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R291",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "9.5",
+    "grade90": "2.8"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R292",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "식품영양학과",
+   "values": {
+    "recruit": "2",
+    "competition": "30.5",
+    "grade90": "1.7"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R293",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "전기공학과",
+   "values": {
+    "recruit": "2",
+    "competition": "22",
+    "grade90": "1.53"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R294",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "컴퓨터공학과",
+   "values": {
+    "recruit": "4",
+    "competition": "26.75",
+    "grade50": "1.59",
+    "grade70": "1.82",
+    "grade90": "2.13"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R295",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "3",
+    "competition": "16.33",
+    "grade90": "2.12"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R296",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "3",
+    "competition": "19",
+    "grade90": "1.37"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R297",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교(교과)",
+   "unit": "반도체대학",
+   "values": {
+    "recruit": "5",
+    "competition": "11.4",
+    "grade50": "1.76",
+    "grade70": "1.81",
+    "grade90": "2.31"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R299",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "조기취업",
+   "unit": "미래자동차학과",
+   "values": {
+    "recruit": "25",
+    "competition": "6.92",
+    "grade50": "4.31",
+    "grade70": "5.35",
+    "grade90": "5.66"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R300",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "조기취업",
+   "unit": "바이오의료기기학과",
+   "values": {
+    "recruit": "33",
+    "competition": "5.94",
+    "grade50": "4.42",
+    "grade70": "4.88",
+    "grade90": "5.08"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R301",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "조기취업",
+   "unit": "게임·영상학과",
+   "values": {
+    "recruit": "24",
+    "competition": "25.67",
+    "grade50": "4.06",
+    "grade70": "4.95",
+    "grade90": "5.31"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R302",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "조기취업",
+   "unit": "반도체·디스플레이학과",
+   "values": {
+    "recruit": "115",
+    "competition": "4.56",
+    "grade50": "4.15",
+    "grade70": "4.6",
+    "grade90": "5.2"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R303",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "조기취업",
+   "unit": "반도체설계학과",
+   "values": {
+    "recruit": "38",
+    "competition": "4.37",
+    "grade50": "4.52",
+    "grade70": "4.81",
+    "grade90": "5.24"
+   }
+  }
+ ]
+}

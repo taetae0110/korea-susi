@@ -1,0 +1,89 @@
+{
+ "source": {
+  "file": "2026_0000245"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T4R1",
+    "T4R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T4R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생 특별전형",
+   "unit": "농어촌학생 특별전형",
+   "values": {
+    "recruit": "44",
+    "competition": "5.45 : 1",
+    "waitlist": "28",
+    "grade50": "3.13",
+    "grade70": "3.87"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T4R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급자및차상위계층전형",
+   "unit": "기초생활수급자및차상위계층전형",
+   "values": {
+    "recruit": "25",
+    "competition": "3.45 : 1",
+    "waitlist": "14",
+    "grade50": "2.43",
+    "grade70": "3.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T4R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고등학교 졸업자특별전형",
+   "unit": "특성화고등학교 졸업자특별전형",
+   "values": {
+    "recruit": "25",
+    "competition": "4.80 : 1",
+    "waitlist": "17",
+    "grade50": "3.87",
+    "grade70": "3.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T4R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "장애인등대상자 특별전형",
+   "unit": "장애인등대상자 특별전형",
+   "values": {
+    "recruit": "10",
+    "competition": "1.10 : 1",
+    "waitlist": "0",
+    "grade50": "6.83",
+    "grade70": "6.83"
+   }
+  }
+ ]
+}

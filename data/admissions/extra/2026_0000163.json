@@ -1,0 +1,59 @@
+{
+ "source": {
+  "file": "2026_0000163"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "고른기회전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "고른기회전형",
+   "values": {
+    "recruit": "164",
+    "competition": "7.32",
+    "waitlist": "102",
+    "grade50": "2.18",
+    "grade70": "2.37"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "사회기여자전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "사회기여자전형",
+   "values": {
+    "recruit": "16",
+    "competition": "9.50",
+    "waitlist": "3",
+    "grade50": "2.36",
+    "grade70": "2.71"
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "source": {
+  "file": "2026_0000064"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "unit": 2,
+    "recruit": 3,
+    "competition": 4,
+    "waitlist": 5,
+    "grade50": 6,
+    "grade70": 7
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특성화고교졸업자전형)",
+   "unit": "통합",
+   "values": {
+    "recruit": "13",
+    "competition": "6.54",
+    "waitlist": "11",
+    "grade50": "5.52",
+    "grade70": "6.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(농어촌학생전형)",
+   "unit": "통합",
+   "values": {
+    "recruit": "12",
+    "competition": "5.67",
+    "waitlist": "28",
+    "grade50": "4.06",
+    "grade70": "5.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(기회균형선발전형)",
+   "unit": "통합",
+   "values": {
+    "recruit": "7",
+    "competition": "6.57",
+    "waitlist": "10",
+    "grade50": "4.94",
+    "grade70": "5.56"
+   }
+  }
+ ]
+}

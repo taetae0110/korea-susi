@@ -1,0 +1,85 @@
+{
+ "source": {
+  "file": "2026_0000125"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T2R1",
+    "T2R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T2R3",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "농어촌학생전형",
+   "values": {
+    "recruit": "3",
+    "competition": "6.33",
+    "waitlist": "6",
+    "grade50": "4.63",
+    "grade70": "4.77"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T2R4",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기회균형선발전형",
+   "unit": "기회균형선발전형",
+   "values": {
+    "recruit": "16",
+    "competition": "5.81",
+    "waitlist": "24",
+    "grade50": "4.32",
+    "grade70": "4.39"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T2R5",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교졸업자전형",
+   "unit": "특성화고교졸업자전형",
+   "values": {
+    "recruit": "6",
+    "competition": "9.17",
+    "waitlist": "12",
+    "grade50": "3.5",
+    "grade70": "3.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T2R6",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특수교육대상자전형",
+   "unit": "특수교육대상자전형",
+   "values": {
+    "recruit": "3",
+    "competition": "5.33",
+    "waitlist": "1",
+    "grade50": "3.12",
+    "grade70": "3.76"
+   }
+  }
+ ]
+}

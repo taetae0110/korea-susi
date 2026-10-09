@@ -1,0 +1,76 @@
+{
+ "source": {
+  "file": "2026_0000137"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "농어촌전형",
+   "values": {
+    "recruit": "35",
+    "competition": "8.34",
+    "waitlist": "167",
+    "grade50": "4.70",
+    "grade70": "4.90"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "특성화고교전형",
+   "values": {
+    "recruit": "12",
+    "competition": "15.83",
+    "waitlist": "88",
+    "grade50": "3.80",
+    "grade70": "4.10"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활/차상위/한부모전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "기초생활/차상위/한부모전형",
+   "values": {
+    "recruit": "33",
+    "competition": "7.03",
+    "waitlist": "108",
+    "grade50": "5.00",
+    "grade70": "5.20"
+   }
+  }
+ ]
+}

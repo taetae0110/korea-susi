@@ -1,0 +1,72 @@
+{
+ "source": {
+  "file": "2026_0000136"
+ },
+ "tables": {
+  "t1": {
+   "caption": "학생부 환산등급",
+   "header_refs": [
+    "T2R1",
+    "T2R2"
+   ],
+   "cols": {
+    "recruit": 2,
+    "competition": 3,
+    "waitlist": 4,
+    "grade50": 5,
+    "grade70": 6
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T2R3",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(특수교육대상자) (정원외)",
+   "unit": "인문",
+   "values": {
+    "recruit": "5",
+    "competition": "4.40",
+    "waitlist": "4",
+    "grade50": "3.65",
+    "grade70": "5.50"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T2R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(특수교육대상자) (정원외)",
+   "unit": "사회",
+   "values": {
+    "recruit": "10",
+    "competition": "4.90",
+    "waitlist": "13",
+    "grade50": "4.52",
+    "grade70": "4.96"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T2R5",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(특수교육대상자) (정원외)",
+   "unit": "사범",
+   "values": {
+    "recruit": "8",
+    "competition": "2.25",
+    "waitlist": "3",
+    "grade50": "5.54",
+    "grade70": "5.71"
+   }
+  }
+ ]
+}

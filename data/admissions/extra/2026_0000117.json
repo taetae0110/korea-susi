@@ -1,0 +1,1711 @@
+{
+ "source": {
+  "file": "2026_0000117"
+ },
+ "tables": {
+  "p1": {
+   "caption": "석차등급(9등급제 : 1~9등급)",
+   "basis": "최종등록자",
+   "header_refs": [
+    "P1L11",
+    "P1L13"
+   ],
+   "cols": {
+    "unit": 0,
+    "gradeMax": 4,
+    "gradeAvg": 5,
+    "gradeMin": 6
+   },
+   "col_headers": {
+    "unit": "P1L12#0",
+    "gradeMax": "P1L13#3",
+    "gradeAvg": "P1L13#4",
+    "gradeMin": "P1L13#5"
+   }
+  },
+  "p2": {
+   "caption": "전 과목(이수단위 적용)을 반영하여 산출한 성적",
+   "basis": "최종등록자",
+   "header_refs": [
+    "P2L7",
+    "P2L9"
+   ],
+   "cols": {
+    "unit": 0,
+    "gradeMax": 4,
+    "gradeAvg": 5,
+    "gradeMin": 6
+   },
+   "col_headers": {
+    "unit": "P2L8#0",
+    "gradeMax": "P2L9#3",
+    "gradeAvg": "P2L9#4",
+    "gradeMin": "P2L9#5"
+   }
+  },
+  "p3": {
+   "caption": "전 과목(이수단위 적용)을 반영하여 산출한 성적",
+   "basis": "최종등록자",
+   "header_refs": [
+    "P3L7",
+    "P3L9"
+   ],
+   "cols": {
+    "unit": 0,
+    "gradeMax": 4,
+    "gradeAvg": 5,
+    "gradeMin": 6
+   },
+   "col_headers": {
+    "unit": "P3L8#0",
+    "gradeMax": "P3L9#3",
+    "gradeAvg": "P3L9#4",
+    "gradeMin": "P3L9#5"
+   }
+  },
+  "p4": {
+   "caption": "석차등급(9등급제 : 1~9등급)",
+   "basis": "최종등록자",
+   "header_refs": [
+    "P4L7",
+    "P4L9"
+   ],
+   "cols": {
+    "unit": 0,
+    "gradeMax": 4,
+    "gradeAvg": 5,
+    "gradeMin": 6
+   },
+   "col_headers": {
+    "unit": "P4L8#0",
+    "gradeMax": "P4L9#3",
+    "gradeAvg": "P4L9#4",
+    "gradeMin": "P4L9#5"
+   }
+  },
+  "p5": {
+   "caption": "석차등급(9등급제 : 1~9등급)",
+   "basis": "최종등록자",
+   "header_refs": [
+    "P5L7",
+    "P5L9"
+   ],
+   "cols": {
+    "unit": 0,
+    "gradeMax": 4,
+    "gradeAvg": 5,
+    "gradeMin": 6
+   },
+   "col_headers": {
+    "unit": "P5L8#0",
+    "gradeMax": "P5L9#3",
+    "gradeAvg": "P5L9#4",
+    "gradeMin": "P5L9#5"
+   }
+  }
+ },
+ "rows": [
+  {
+   "table": "p1",
+   "row_ref": "P1L15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "자유전공(인문계열)",
+   "values": {
+    "gradeMax": "2.37",
+    "gradeAvg": "2.65",
+    "gradeMin": "2.82"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L17",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "자유전공(이공계열)",
+   "values": {
+    "gradeMax": "2.16",
+    "gradeAvg": "2.55",
+    "gradeMin": "2.79"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L19",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "자유전공(예체능계열)",
+   "values": {
+    "gradeMax": "2.10",
+    "gradeAvg": "2.71",
+    "gradeMin": "2.95"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L21",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "역사콘텐츠전공",
+   "values": {
+    "gradeMax": "2.31",
+    "gradeAvg": "2.75",
+    "gradeMin": "3.03"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L23",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "지적재산권전공",
+   "values": {
+    "gradeMax": "2.74",
+    "gradeAvg": "3.01",
+    "gradeMin": "3.18"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L25",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "문헌정보학전공",
+   "values": {
+    "gradeMax": "2.69",
+    "gradeAvg": "2.79",
+    "gradeMin": "2.92"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L27",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "한일문화콘텐츠전공",
+   "values": {
+    "gradeMax": "2.45",
+    "gradeAvg": "2.64",
+    "gradeMin": "2.74"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L29",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "공간환경학부",
+   "values": {
+    "gradeMax": "2.51",
+    "gradeAvg": "2.63",
+    "gradeMin": "2.86"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L31",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "행정학부",
+   "values": {
+    "gradeMax": "2.49",
+    "gradeAvg": "2.74",
+    "gradeMin": "3.00"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L33",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "가족복지학과",
+   "values": {
+    "gradeMax": "2.63",
+    "gradeAvg": "2.84",
+    "gradeMin": "3.02"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L35",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "경제금융학부",
+   "values": {
+    "gradeMax": "2.67",
+    "gradeAvg": "2.89",
+    "gradeMin": "3.16"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L37",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "경영학부",
+   "values": {
+    "gradeMax": "2.22",
+    "gradeAvg": "2.58",
+    "gradeMin": "2.84"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L39",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "글로벌경영학과",
+   "values": {
+    "gradeMax": "2.39",
+    "gradeAvg": "2.64",
+    "gradeMin": "2.88"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L41",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "국가안보학과",
+   "values": {
+    "gradeMax": "2.98",
+    "gradeAvg": "3.88",
+    "gradeMin": "4.62"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L43",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "국어교육과",
+   "values": {
+    "gradeMax": "2.04",
+    "gradeAvg": "2.48",
+    "gradeMin": "2.70"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L45",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "영어교육과",
+   "values": {
+    "gradeMax": "1.99",
+    "gradeAvg": "2.53",
+    "gradeMin": "2.99"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L47",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "교육학과",
+   "values": {
+    "gradeMax": "2.14",
+    "gradeAvg": "2.75",
+    "gradeMin": "3.15"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L49",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "수학교육과",
+   "values": {
+    "gradeMax": "1.96",
+    "gradeAvg": "2.49",
+    "gradeMin": "3.47"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L51",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "휴먼AI공학전공",
+   "values": {
+    "gradeMax": "2.13",
+    "gradeAvg": "2.68",
+    "gradeMin": "2.90"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L57",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "컴퓨터과학전공",
+   "values": {
+    "gradeMax": "2.10",
+    "gradeAvg": "2.60",
+    "gradeMin": "2.80"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L59",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "전기공학전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "2.32",
+    "gradeAvg": "2.55",
+    "gradeMin": "2.80"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L61",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "게임전공",
+   "values": {
+    "gradeMax": "2.60",
+    "gradeAvg": "2.74",
+    "gradeMin": "2.97"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L63",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "생명공학전공",
+   "values": {
+    "gradeMax": "1.84",
+    "gradeAvg": "2.10",
+    "gradeMin": "2.26"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L65",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "화학에너지공학전공",
+   "values": {
+    "gradeMax": "2.25",
+    "gradeAvg": "3.66",
+    "gradeMin": "4.91"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L67",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "화공신소재전공",
+   "values": {
+    "gradeMax": "2.28",
+    "gradeAvg": "3.58",
+    "gradeMin": "5.48"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L69",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "식품영양학전공",
+   "values": {
+    "gradeMax": "2.42",
+    "gradeAvg": "2.60",
+    "gradeMin": "2.72"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L71",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "의류학과",
+   "values": {
+    "gradeMax": "2.41",
+    "gradeAvg": "2.71",
+    "gradeMin": "2.88"
+   }
+  },
+  {
+   "table": "p1",
+   "row_ref": "P1L73",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(고교추천전형)",
+   "unit": "애니메이션전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "1.95",
+    "gradeAvg": "2.40",
+    "gradeMin": "3.25"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L11",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "역사콘텐츠전공",
+   "values": {
+    "gradeMax": "2.90",
+    "gradeAvg": "3.59",
+    "gradeMin": "5.40"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L13",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "지적재산권전공",
+   "values": {
+    "gradeMax": "3.27",
+    "gradeAvg": "3.28",
+    "gradeMin": "3.30"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L15",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "문헌정보학전공",
+   "values": {
+    "gradeMax": "3.14",
+    "gradeAvg": "3.27",
+    "gradeMin": "3.37"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L17",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "한일문화콘텐츠전공",
+   "values": {
+    "gradeMax": "2.83",
+    "gradeAvg": "3.04",
+    "gradeMin": "3.22"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L19",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "공간환경학부",
+   "values": {
+    "gradeMax": "3.10",
+    "gradeAvg": "3.22",
+    "gradeMin": "3.39"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L21",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "행정학부",
+   "values": {
+    "gradeMax": "2.88",
+    "gradeAvg": "3.29",
+    "gradeMin": "3.61"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L23",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "가족복지학과",
+   "values": {
+    "gradeMax": "2.93",
+    "gradeAvg": "3.27",
+    "gradeMin": "3.84"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L25",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "경제금융학부",
+   "values": {
+    "gradeMax": "3.10",
+    "gradeAvg": "3.25",
+    "gradeMin": "3.40"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L27",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "경영학부",
+   "values": {
+    "gradeMax": "2.65",
+    "gradeAvg": "3.10",
+    "gradeMin": "3.96"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L29",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "글로벌경영학과",
+   "values": {
+    "gradeMax": "2.93",
+    "gradeAvg": "3.36",
+    "gradeMin": "5.46"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L31",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "국어교육과",
+   "values": {
+    "gradeMax": "2.53",
+    "gradeAvg": "2.70",
+    "gradeMin": "3.03"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L33",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "영어교육과",
+   "values": {
+    "gradeMax": "2.50",
+    "gradeAvg": "2.71",
+    "gradeMin": "2.87"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L35",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "교육학과",
+   "values": {
+    "gradeMax": "2.72",
+    "gradeAvg": "2.97",
+    "gradeMin": "3.12"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L37",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "수학교육과",
+   "values": {
+    "gradeMax": "2.29",
+    "gradeAvg": "2.75",
+    "gradeMin": "3.00"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L39",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "휴먼AI공학전공",
+   "values": {
+    "gradeMax": "2.90",
+    "gradeAvg": "3.32",
+    "gradeMin": "3.89"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L45",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "컴퓨터과학전공",
+   "values": {
+    "gradeMax": "1.96",
+    "gradeAvg": "2.94",
+    "gradeMin": "3.52"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L47",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "전기공학전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "2.96",
+    "gradeAvg": "3.05",
+    "gradeMin": "3.15"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L49",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "게임전공",
+   "values": {
+    "gradeMax": "3.36",
+    "gradeAvg": "3.50",
+    "gradeMin": "3.57"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L51",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "생명공학전공",
+   "values": {
+    "gradeMax": "2.70",
+    "gradeAvg": "3.02",
+    "gradeMin": "3.41"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L53",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "화학에너지공학전공",
+   "values": {
+    "gradeMax": "2.81",
+    "gradeAvg": "3.05",
+    "gradeMin": "3.38"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L55",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "화공신소재전공",
+   "values": {
+    "gradeMax": "2.52",
+    "gradeAvg": "2.83",
+    "gradeMin": "3.26"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L57",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "식품영양학전공",
+   "values": {
+    "gradeMax": "1.29",
+    "gradeAvg": "2.46",
+    "gradeMin": "3.14"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L59",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "의류학과",
+   "values": {
+    "gradeMax": "2.53",
+    "gradeAvg": "3.21",
+    "gradeMin": "4.00"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L61",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "애니메이션전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "1.66",
+    "gradeAvg": "1.76",
+    "gradeMin": "1.86"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L63",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "스포츠건강관리전공",
+   "unit_group": "스포츠무용학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "2.96",
+    "gradeAvg": "3.62",
+    "gradeMin": "4.06"
+   }
+  },
+  {
+   "table": "p2",
+   "row_ref": "P2L65",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(상명인재전형)",
+   "unit": "조형예술전공",
+   "unit_group": "미술학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "2.76",
+    "gradeAvg": "3.62",
+    "gradeMin": "4.83"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L11",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "역사콘텐츠전공",
+   "values": {
+    "gradeMax": "3.44",
+    "gradeAvg": "3.48",
+    "gradeMin": "3.53"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L13",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "지적재산권전공",
+   "values": {
+    "gradeMax": "3.57",
+    "gradeAvg": "3.63",
+    "gradeMin": "3.69"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L15",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "문헌정보학전공",
+   "values": {
+    "gradeMax": "2.64",
+    "gradeAvg": "3.07",
+    "gradeMin": "3.50"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L17",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "한일문화콘텐츠전공",
+   "values": {
+    "gradeMax": "1.44",
+    "gradeAvg": "1.44",
+    "gradeMin": "1.44"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L19",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "공간환경학부",
+   "values": {
+    "gradeMax": "3.40",
+    "gradeAvg": "3.66",
+    "gradeMin": "3.91"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L21",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "행정학부",
+   "values": {
+    "gradeMax": "2.63",
+    "gradeAvg": "3.06",
+    "gradeMin": "3.40"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L23",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "가족복지학과",
+   "values": {
+    "gradeMax": "3.02",
+    "gradeAvg": "3.39",
+    "gradeMin": "3.75"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L25",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "경제금융학부",
+   "values": {
+    "gradeMax": "2.14",
+    "gradeAvg": "2.55",
+    "gradeMin": "2.99"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L27",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "경영학부",
+   "values": {
+    "gradeMax": "3.35",
+    "gradeAvg": "3.50",
+    "gradeMin": "3.79"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L29",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "글로벌경영학과",
+   "values": {
+    "gradeMax": "3.28",
+    "gradeAvg": "3.46",
+    "gradeMin": "3.86"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L31",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "국어교육과",
+   "values": {
+    "gradeMax": "2.27",
+    "gradeAvg": "2.48",
+    "gradeMin": "2.68"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L33",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "영어교육과",
+   "values": {
+    "gradeMax": "3.17",
+    "gradeAvg": "3.43",
+    "gradeMin": "3.69"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L35",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "교육학과",
+   "values": {
+    "gradeMax": "3.17",
+    "gradeAvg": "3.44",
+    "gradeMin": "3.72"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L37",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "수학교육과",
+   "values": {
+    "gradeMax": "2.97",
+    "gradeAvg": "3.03",
+    "gradeMin": "3.08"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L39",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "휴먼AI공학전공",
+   "values": {
+    "gradeMax": "3.09",
+    "gradeAvg": "3.46",
+    "gradeMin": "3.81"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L45",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "컴퓨터과학전공",
+   "values": {
+    "gradeMax": "1.80",
+    "gradeAvg": "2.83",
+    "gradeMin": "3.71"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L47",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "전기공학전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "2.43",
+    "gradeAvg": "3.02",
+    "gradeMin": "3.62"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L49",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "게임전공",
+   "values": {
+    "gradeMax": "2.79",
+    "gradeAvg": "3.17",
+    "gradeMin": "3.41"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L51",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "생명공학전공",
+   "values": {
+    "gradeMax": "2.74",
+    "gradeAvg": "2.93",
+    "gradeMin": "3.11"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L53",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "화학에너지공학전공",
+   "values": {
+    "gradeMax": "2.78",
+    "gradeAvg": "3.00",
+    "gradeMin": "3.23"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L57",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "식품영양학전공",
+   "values": {
+    "gradeMax": "2.30",
+    "gradeAvg": "2.31",
+    "gradeMin": "2.32"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L59",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "의류학과",
+   "values": {
+    "gradeMax": "2.52",
+    "gradeAvg": "2.55",
+    "gradeMin": "2.59"
+   }
+  },
+  {
+   "table": "p3",
+   "row_ref": "P3L61",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합(기회균형전형)",
+   "unit": "애니메이션전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "1.86",
+    "gradeAvg": "1.86",
+    "gradeMin": "1.87"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L11",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "자유전공(인문계열)",
+   "values": {
+    "gradeMax": "3.04",
+    "gradeAvg": "4.30",
+    "gradeMin": "5.08"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L13",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "자유전공(이공계열)",
+   "values": {
+    "gradeMax": "3.93",
+    "gradeAvg": "4.72",
+    "gradeMin": "5.52"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L15",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "역사콘텐츠전공",
+   "values": {
+    "gradeMax": "3.98",
+    "gradeAvg": "4.22",
+    "gradeMin": "4.64"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L17",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "지적재산권전공",
+   "values": {
+    "gradeMax": "4.88",
+    "gradeAvg": "4.92",
+    "gradeMin": "4.97"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L19",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "문헌정보학전공",
+   "values": {
+    "gradeMax": "3.96",
+    "gradeAvg": "4.36",
+    "gradeMin": "4.90"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L21",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "한일문화콘텐츠전공",
+   "values": {
+    "gradeMax": "3.41",
+    "gradeAvg": "4.29",
+    "gradeMin": "5.20"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L23",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "공간환경학부",
+   "values": {
+    "gradeMax": "3.89",
+    "gradeAvg": "4.00",
+    "gradeMin": "4.08"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L25",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "행정학부",
+   "values": {
+    "gradeMax": "3.25",
+    "gradeAvg": "4.35",
+    "gradeMin": "5.00"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L27",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "가족복지학과",
+   "values": {
+    "gradeMax": "4.17",
+    "gradeAvg": "4.70",
+    "gradeMin": "5.37"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L29",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "경제금융학부",
+   "values": {
+    "gradeMax": "3.87",
+    "gradeAvg": "4.48",
+    "gradeMin": "4.83"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L31",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "경영학부",
+   "values": {
+    "gradeMax": "4.26",
+    "gradeAvg": "4.72",
+    "gradeMin": "5.34"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L33",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "글로벌경영학과",
+   "values": {
+    "gradeMax": "4.07",
+    "gradeAvg": "4.69",
+    "gradeMin": "5.12"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L35",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "국어교육과",
+   "values": {
+    "gradeMax": "4.21",
+    "gradeAvg": "5.00",
+    "gradeMin": "5.89"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L37",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "영어교육과",
+   "values": {
+    "gradeMax": "2.45",
+    "gradeAvg": "4.23",
+    "gradeMin": "5.91"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L39",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "교육학과",
+   "values": {
+    "gradeMax": "4.63",
+    "gradeAvg": "5.06",
+    "gradeMin": "5.63"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L41",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "수학교육과",
+   "values": {
+    "gradeMax": "4.40",
+    "gradeAvg": "4.63",
+    "gradeMin": "4.75"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L43",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "휴먼AI공학전공",
+   "values": {
+    "gradeMax": "3.81",
+    "gradeAvg": "4.10",
+    "gradeMin": "4.33"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L49",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "컴퓨터과학전공",
+   "values": {
+    "gradeMax": "3.07",
+    "gradeAvg": "4.69",
+    "gradeMin": "6.89"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L51",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "전기공학전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "4.26",
+    "gradeAvg": "4.75",
+    "gradeMin": "5.03"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L53",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "게임전공",
+   "values": {
+    "gradeMax": "3.58",
+    "gradeAvg": "3.95",
+    "gradeMin": "4.38"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L55",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "생명공학전공",
+   "values": {
+    "gradeMax": "4.11",
+    "gradeAvg": "4.70",
+    "gradeMin": "5.68"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L57",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "화학에너지공학전공",
+   "values": {
+    "gradeMax": "3.58",
+    "gradeAvg": "4.01",
+    "gradeMin": "4.75"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L59",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "화공신소재전공",
+   "values": {
+    "gradeMax": "4.59",
+    "gradeAvg": "5.32",
+    "gradeMin": "5.85"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L61",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "식품영양학전공",
+   "values": {
+    "gradeMax": "3.81",
+    "gradeAvg": "4.02",
+    "gradeMin": "4.20"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L63",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "의류학과",
+   "values": {
+    "gradeMax": "4.34",
+    "gradeAvg": "5.00",
+    "gradeMin": "6.05"
+   }
+  },
+  {
+   "table": "p4",
+   "row_ref": "P4L65",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "논술(논술전형)",
+   "unit": "애니메이션전공",
+   "unit_group": "SW융합학부",
+   "shift": 1,
+   "values": {
+    "gradeMax": "3.82",
+    "gradeAvg": "4.12",
+    "gradeMin": "4.43"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L11",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "스포츠건강관리전공",
+   "values": {
+    "gradeMax": "3.48",
+    "gradeAvg": "4.49",
+    "gradeMin": "5.63"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L13",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "무용예술전공(한국무용)",
+   "values": {
+    "gradeMax": "3.79",
+    "gradeAvg": "6.01",
+    "gradeMin": "8.38"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L15",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "무용예술전공(현대무용)",
+   "values": {
+    "gradeMax": "4.59",
+    "gradeAvg": "6.36",
+    "gradeMin": "8.11"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L17",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "무용예술전공(발레)",
+   "values": {
+    "gradeMax": "4.10",
+    "gradeAvg": "5.27",
+    "gradeMin": "6.82"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L19",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "조형예술전공",
+   "values": {
+    "gradeMax": "3.09",
+    "gradeAvg": "4.45",
+    "gradeMin": "5.97"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L21",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "생활예술전공",
+   "values": {
+    "gradeMax": "3.32",
+    "gradeAvg": "4.49",
+    "gradeMin": "5.48"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L23",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "피아노",
+   "values": {
+    "gradeMax": "3.27",
+    "gradeAvg": "4.83",
+    "gradeMin": "6.12"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L25",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "성악(남/여)",
+   "values": {
+    "gradeMax": "3.31",
+    "gradeAvg": "4.81",
+    "gradeMin": "5.65"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L27",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "뉴미디어작곡",
+   "values": {
+    "gradeMax": "3.96",
+    "gradeAvg": "5.67",
+    "gradeMin": "6.77"
+   }
+  },
+  {
+   "table": "p5",
+   "row_ref": "P5L29",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "실기/실적(실기전형)",
+   "unit": "관현악",
+   "values": {
+    "gradeMax": "2.91",
+    "gradeAvg": "5.55",
+    "gradeMin": "7.90"
+   }
+  }
+ ]
+}

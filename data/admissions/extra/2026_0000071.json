@@ -1,0 +1,60 @@
+{
+ "source": {
+  "file": "2026_0000071"
+ },
+ "tables": {
+  "t1": {
+   "caption": "환산등급",
+   "basis": "최종등록자",
+   "header_refs": [
+    "S1R1",
+    "S1R2",
+    "S1R3",
+    "S1R4"
+   ],
+   "cols": {
+    "unit": 9,
+    "recruit": 11,
+    "competition": 13,
+    "waitlist": 14,
+    "grade50": 21,
+    "grade70": 22
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "S1R36",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(일반고전형)",
+   "unit": "바이오과학수사학과",
+   "values": {
+    "unit": "바이오과학수사학과",
+    "recruit": "12",
+    "competition": "4.5",
+    "waitlist": "25",
+    "grade50": "3.21",
+    "grade70": "3.31"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R49",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "학생부교과(특성화고전형)",
+   "unit": "바이오과학수사학과",
+   "values": {
+    "unit": "바이오과학수사학과",
+    "recruit": "3",
+    "competition": "3.33",
+    "waitlist": "4",
+    "grade50": "2.68",
+    "grade70": "3.58"
+   }
+  }
+ ]
+}

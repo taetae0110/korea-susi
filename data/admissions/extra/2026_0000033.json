@@ -1,0 +1,169 @@
+{
+ "source": {
+  "file": "2026_0000033"
+ },
+ "tables": {
+  "t1": {
+   "caption": "환산등급",
+   "header_refs": [
+    "T3R1",
+    "T3R2",
+    "T3R3"
+   ],
+   "cols": {
+    "recruit": 4,
+    "competition": 5,
+    "waitlist": 6,
+    "grade50": 9,
+    "grade70": 10
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "항해융합학부",
+   "unit": "남",
+   "gender": "남",
+   "values": {
+    "recruit": "104",
+    "competition": "4.16",
+    "waitlist": "45",
+    "grade50": "2.5",
+    "grade70": "2.67"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "항해융합학부",
+   "unit": "여",
+   "gender": "여",
+   "values": {
+    "recruit": "15",
+    "competition": "3.93",
+    "waitlist": "10",
+    "grade50": "2.47",
+    "grade70": "2.58"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "기관시스템공학부",
+   "unit": "남",
+   "gender": "남",
+   "values": {
+    "recruit": "104",
+    "competition": "7.74",
+    "waitlist": "29",
+    "grade50": "3.44",
+    "grade70": "3.5"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "기관시스템공학부",
+   "unit": "여",
+   "gender": "여",
+   "values": {
+    "recruit": "15",
+    "competition": "4.33",
+    "waitlist": "7",
+    "grade50": "3.32",
+    "grade70": "3.4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R8",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "항해전공",
+   "unit": "남",
+   "gender": "남",
+   "values": {
+    "recruit": "16",
+    "competition": "7.75",
+    "waitlist": "6",
+    "grade50": "2.68",
+    "grade70": "2.81"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "기관전공",
+   "unit": "남",
+   "gender": "남",
+   "values": {
+    "recruit": "16",
+    "competition": "6.44",
+    "waitlist": "9",
+    "grade50": "3.55",
+    "grade70": "3.64"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "해사인공지능·보안학부",
+   "unit": "남",
+   "gender": "남",
+   "values": {
+    "recruit": "33",
+    "competition": "6.00",
+    "waitlist": "12",
+    "grade50": "3.13",
+    "grade70": "3.19"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교과성적우수자전형",
+   "unit_group": "해사인공지능·보안학부",
+   "unit": "여",
+   "gender": "여",
+   "values": {
+    "recruit": "4",
+    "competition": "9.75",
+    "waitlist": "2",
+    "grade50": "2.48",
+    "grade70": "2.48"
+   }
+  }
+ ]
+}

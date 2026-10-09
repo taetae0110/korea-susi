@@ -1,0 +1,1980 @@
+{
+ "source": {
+  "file": "2026_0000054",
+  "also": [
+   "0000055"
+  ]
+ },
+ "tables": {
+  "t1": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P7L6",
+    "P7L7",
+    "P7L8",
+    "P7L9"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P7L8#0",
+    "recruit": "P7L7#0",
+    "applicants": "P7L7#1",
+    "gradeMax": "P7L9#3",
+    "gradeAvg": "P7L9#4",
+    "grade50": "P7L9#5",
+    "grade70": "P7L9#6",
+    "gradeMin": "P7L9#7"
+   }
+  },
+  "t2": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P8L8",
+    "P8L9",
+    "P8L10",
+    "P8L11"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P8L10#0",
+    "recruit": "P8L9#0",
+    "applicants": "P8L9#1",
+    "gradeMax": "P8L11#3",
+    "gradeAvg": "P8L11#4",
+    "grade50": "P8L11#5",
+    "grade70": "P8L11#6",
+    "gradeMin": "P8L11#7"
+   }
+  },
+  "t3": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P9L2",
+    "P9L3",
+    "P9L4",
+    "P9L5"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P9L4#0",
+    "recruit": "P9L3#0",
+    "applicants": "P9L3#1",
+    "gradeMax": "P9L5#3",
+    "gradeAvg": "P9L5#4",
+    "grade50": "P9L5#5",
+    "grade70": "P9L5#6",
+    "gradeMin": "P9L5#7"
+   }
+  },
+  "t4": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P11L3",
+    "P11L4",
+    "P11L5",
+    "P11L6"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P11L5#0",
+    "recruit": "P11L4#0",
+    "applicants": "P11L4#1",
+    "gradeMax": "P11L6#3",
+    "gradeAvg": "P11L6#4",
+    "grade50": "P11L6#5",
+    "grade70": "P11L6#6",
+    "gradeMin": "P11L6#7"
+   }
+  },
+  "t5": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P12L8",
+    "P12L9",
+    "P12L10",
+    "P12L11"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P12L10#0",
+    "recruit": "P12L9#0",
+    "applicants": "P12L9#1",
+    "gradeMax": "P12L11#3",
+    "gradeAvg": "P12L11#4",
+    "grade50": "P12L11#5",
+    "grade70": "P12L11#6",
+    "gradeMin": "P12L11#7"
+   }
+  },
+  "t6": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P13L8",
+    "P13L9",
+    "P13L10",
+    "P13L11"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P13L10#0",
+    "recruit": "P13L9#0",
+    "applicants": "P13L9#1",
+    "gradeMax": "P13L11#3",
+    "gradeAvg": "P13L11#4",
+    "grade50": "P13L11#5",
+    "grade70": "P13L11#6",
+    "gradeMin": "P13L11#7"
+   }
+  },
+  "t7": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P13L22",
+    "P13L23",
+    "P13L24",
+    "P13L25"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P13L24#0",
+    "recruit": "P13L23#0",
+    "applicants": "P13L23#1",
+    "gradeMax": "P13L25#3",
+    "gradeAvg": "P13L25#4",
+    "grade50": "P13L25#5",
+    "grade70": "P13L25#6",
+    "gradeMin": "P13L25#7"
+   }
+  },
+  "t8": {
+   "caption": "학생부 등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "P14L4",
+    "P14L5",
+    "P14L6",
+    "P14L7"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "applicants": 2,
+    "gradeMax": 5,
+    "gradeAvg": 6,
+    "grade50": 7,
+    "grade70": 8,
+    "gradeMin": 9
+   },
+   "col_headers": {
+    "unit": "P14L6#0",
+    "recruit": "P14L5#0",
+    "applicants": "P14L5#1",
+    "gradeMax": "P14L7#3",
+    "gradeAvg": "P14L7#4",
+    "grade50": "P14L7#5",
+    "grade70": "P14L7#6",
+    "gradeMin": "P14L7#7"
+   }
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "P7L10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "64",
+    "applicants": "382",
+    "gradeMax": "1.00",
+    "gradeAvg": "1.97",
+    "grade50": "2.02",
+    "grade70": "2.17",
+    "gradeMin": "2.36"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L11",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "작업치료학과",
+   "values": {
+    "recruit": "30",
+    "applicants": "170",
+    "gradeMax": "2.56",
+    "gradeAvg": "3.64",
+    "grade50": "3.72",
+    "grade70": "3.83",
+    "gradeMin": "3.90"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "병원경영학과",
+   "values": {
+    "recruit": "43",
+    "applicants": "359",
+    "gradeMax": "2.17",
+    "gradeAvg": "3.15",
+    "grade50": "3.25",
+    "grade70": "3.48",
+    "gradeMin": "3.67"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "안경광학과",
+   "values": {
+    "recruit": "38",
+    "applicants": "254",
+    "gradeMax": "1.50",
+    "gradeAvg": "3.27",
+    "grade50": "3.50",
+    "grade70": "3.68",
+    "gradeMin": "3.83"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L14",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "32",
+    "applicants": "231",
+    "gradeMax": "2.17",
+    "gradeAvg": "2.83",
+    "grade50": "2.86",
+    "grade70": "3.00",
+    "gradeMin": "3.15"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "26",
+    "applicants": "190",
+    "gradeMax": "1.85",
+    "gradeAvg": "2.50",
+    "grade50": "2.52",
+    "grade70": "2.68",
+    "gradeMin": "2.75"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L16",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "35",
+    "applicants": "181",
+    "gradeMax": "2.45",
+    "gradeAvg": "3.17",
+    "grade50": "3.17",
+    "grade70": "3.30",
+    "gradeMin": "3.59"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L17",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "34",
+    "applicants": "271",
+    "gradeMax": "1.50",
+    "gradeAvg": "2.54",
+    "grade50": "2.63",
+    "grade70": "2.71",
+    "gradeMin": "2.80"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L18",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "20",
+    "applicants": "453",
+    "gradeMax": "1.20",
+    "gradeAvg": "2.08",
+    "grade50": "2.15",
+    "grade70": "2.23",
+    "gradeMin": "2.36"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L19",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "35",
+    "applicants": "167",
+    "gradeMax": "2.60",
+    "gradeAvg": "3.75",
+    "grade50": "3.83",
+    "grade70": "3.90",
+    "gradeMin": "4.11"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L20",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "의료IT공학과",
+   "values": {
+    "recruit": "44",
+    "applicants": "189",
+    "gradeMax": "2.11",
+    "gradeAvg": "4.18",
+    "grade50": "4.21",
+    "grade70": "4.59",
+    "gradeMin": "4.86"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L21",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "의료공간디자인학과",
+   "values": {
+    "recruit": "26",
+    "applicants": "100",
+    "gradeMax": "2.59",
+    "gradeAvg": "4.29",
+    "grade50": "4.50",
+    "grade70": "4.83",
+    "gradeMin": "5.17"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L22",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "제약생명공학과",
+   "values": {
+    "recruit": "43",
+    "applicants": "236",
+    "gradeMax": "1.73",
+    "gradeAvg": "2.71",
+    "grade50": "2.83",
+    "grade70": "3.00",
+    "gradeMin": "3.20"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L23",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "의료신소재학과",
+   "values": {
+    "recruit": "38",
+    "applicants": "192",
+    "gradeMax": "3.20",
+    "gradeAvg": "4.14",
+    "grade50": "4.18",
+    "grade70": "4.39",
+    "gradeMin": "4.65"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L24",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "인공지능학과",
+   "values": {
+    "recruit": "35",
+    "applicants": "160",
+    "gradeMax": "2.82",
+    "gradeAvg": "4.45",
+    "grade50": "4.61",
+    "grade70": "4.81",
+    "gradeMin": "5.05"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L25",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "국방XR학부",
+   "values": {
+    "recruit": "23",
+    "applicants": "42",
+    "gradeMax": "3.09",
+    "gradeAvg": "4.18",
+    "grade50": "4.67",
+    "grade70": "4.82",
+    "gradeMin": "4.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L26",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "스마트팜학부",
+   "values": {
+    "recruit": "30",
+    "applicants": "90",
+    "gradeMax": "3.55",
+    "gradeAvg": "5.17",
+    "grade50": "4.87",
+    "grade70": "5.41",
+    "gradeMin": "8.60"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L27",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "기업소프트웨어학부",
+   "values": {
+    "recruit": "27",
+    "applicants": "50",
+    "gradeMax": "3.23",
+    "gradeAvg": "4.74",
+    "grade50": "4.50",
+    "grade70": "5.17",
+    "gradeMin": "7.55"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L28",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "스마트보안학과",
+   "values": {
+    "recruit": "30",
+    "applicants": "54",
+    "gradeMax": "3.00",
+    "gradeAvg": "5.08",
+    "grade50": "5.00",
+    "grade70": "5.86",
+    "gradeMin": "7.80"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L29",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "유무인항공학과",
+   "values": {
+    "recruit": "20",
+    "applicants": "36",
+    "gradeMax": "3.00",
+    "gradeAvg": "5.04",
+    "grade50": "4.77",
+    "grade70": "5.40",
+    "gradeMin": "7.55"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L30",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "재난안전소방학전공",
+   "values": {
+    "recruit": "25",
+    "applicants": "156",
+    "gradeMax": "1.83",
+    "gradeAvg": "4.37",
+    "grade50": "4.68",
+    "grade70": "4.84",
+    "gradeMin": "5.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L31",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "국방반도체공학과",
+   "values": {
+    "recruit": "25",
+    "applicants": "62",
+    "gradeMax": "4.00",
+    "gradeAvg": "5.45",
+    "grade50": "5.18",
+    "grade70": "6.33",
+    "gradeMin": "7.59"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L32",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "ND산업디자인학부",
+   "values": {
+    "recruit": "30",
+    "applicants": "77",
+    "gradeMax": "2.70",
+    "gradeAvg": "4.47",
+    "grade50": "4.83",
+    "grade70": "5.19",
+    "gradeMin": "6.43"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L33",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "국방산업경영학부",
+   "values": {
+    "recruit": "32",
+    "applicants": "60",
+    "gradeMax": "1.50",
+    "gradeAvg": "4.99",
+    "grade50": "5.05",
+    "grade70": "5.84",
+    "gradeMin": "7.29"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L34",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "임상의약바이오학과",
+   "values": {
+    "recruit": "31",
+    "applicants": "129",
+    "gradeMax": "1.50",
+    "gradeAvg": "4.11",
+    "grade50": "4.00",
+    "grade70": "4.70",
+    "gradeMin": "5.00"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L35",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "식품생명공학과",
+   "values": {
+    "recruit": "20",
+    "applicants": "34",
+    "gradeMax": "2.44",
+    "gradeAvg": "4.53",
+    "grade50": "5.00",
+    "grade70": "5.69",
+    "gradeMin": "6.53"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L36",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "글로벌의료뷰티학전공",
+   "values": {
+    "recruit": "10",
+    "applicants": "89",
+    "gradeMax": "1.00",
+    "gradeAvg": "4.29",
+    "grade50": "4.75",
+    "grade70": "4.95",
+    "gradeMin": "5.83"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L37",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "스포츠의학전공",
+   "values": {
+    "recruit": "15",
+    "applicants": "103",
+    "gradeMax": "1.83",
+    "gradeAvg": "2.74",
+    "grade50": "2.90",
+    "grade70": "3.14",
+    "gradeMin": "3.38"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L38",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "심리상담치료학과",
+   "values": {
+    "recruit": "15",
+    "applicants": "112",
+    "gradeMax": "2.19",
+    "gradeAvg": "3.46",
+    "grade50": "3.67",
+    "grade70": "3.71",
+    "gradeMin": "3.86"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L39",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "유아교육과",
+   "values": {
+    "recruit": "10",
+    "applicants": "165",
+    "gradeMax": "2.20",
+    "gradeAvg": "3.59",
+    "grade50": "3.76",
+    "grade70": "4.12",
+    "gradeMin": "4.50"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L40",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "국방경찰행정학부",
+   "values": {
+    "recruit": "35",
+    "applicants": "222",
+    "gradeMax": "1.83",
+    "gradeAvg": "3.81",
+    "grade50": "4.17",
+    "grade70": "4.35",
+    "gradeMin": "4.65"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L41",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "22",
+    "applicants": "179",
+    "gradeMax": "2.62",
+    "gradeAvg": "4.06",
+    "grade50": "4.24",
+    "grade70": "4.46",
+    "gradeMin": "4.71"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "P7L42",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생전형[교과]",
+   "unit": "특수교육과",
+   "values": {
+    "recruit": "34",
+    "applicants": "101",
+    "gradeMax": "3.00",
+    "gradeAvg": "4.46",
+    "grade50": "4.32",
+    "grade70": "4.84",
+    "gradeMin": "6.67"
+   }
+  },
+  {
+   "table": "t2",
+   "row_ref": "P8L13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "군사학전형",
+   "unit": "군사학과(남)",
+   "values": {
+    "recruit": "26",
+    "applicants": "114",
+    "gradeMax": "2.50",
+    "gradeAvg": "4.79",
+    "grade50": "4.82",
+    "grade70": "5.46",
+    "gradeMin": "6.83"
+   }
+  },
+  {
+   "table": "t2",
+   "row_ref": "P8L15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "군사학전형",
+   "unit": "군사학과(여)",
+   "values": {
+    "recruit": "9",
+    "applicants": "39",
+    "gradeMax": "3.36",
+    "gradeAvg": "4.01",
+    "grade50": "3.90",
+    "grade70": "4.39",
+    "gradeMin": "5.00"
+   }
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L6",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "62",
+    "applicants": "270",
+    "gradeMax": "1.51",
+    "gradeAvg": "2.13",
+    "grade50": "2.21",
+    "grade70": "2.34",
+    "gradeMin": "2.44"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L7",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[기초]",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "27",
+    "gradeMax": "2.30",
+    "gradeAvg": "2.48",
+    "grade50": "2.51",
+    "grade70": "2.57",
+    "gradeMin": "2.64"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L8",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "병원경영학과",
+   "values": {
+    "recruit": "7",
+    "applicants": "65",
+    "gradeMax": "3.00",
+    "gradeAvg": "3.42",
+    "grade50": "3.43",
+    "grade70": "3.68",
+    "gradeMin": "3.82"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L9",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "10",
+    "applicants": "66",
+    "gradeMax": "2.26",
+    "gradeAvg": "3.08",
+    "grade50": "3.20",
+    "grade70": "3.25",
+    "gradeMin": "3.29"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "15",
+    "applicants": "180",
+    "gradeMax": "1.00",
+    "gradeAvg": "2.23",
+    "grade50": "2.39",
+    "grade70": "2.50",
+    "gradeMin": "2.68"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L11",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "12",
+    "applicants": "46",
+    "gradeMax": "3.27",
+    "gradeAvg": "4.00",
+    "grade50": "4.00",
+    "grade70": "4.23",
+    "gradeMin": "4.35"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "의료IT공학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "25",
+    "gradeMax": "3.65",
+    "gradeAvg": "4.03",
+    "grade50": "3.83",
+    "grade70": "4.38",
+    "gradeMin": "4.50"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "의료공간디자인학과",
+   "values": {
+    "recruit": "18",
+    "applicants": "76",
+    "gradeMax": "2.00",
+    "gradeAvg": "4.60",
+    "grade50": "4.83",
+    "grade70": "5.00",
+    "gradeMin": "5.00"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L14",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "제약생명공학과",
+   "values": {
+    "recruit": "10",
+    "applicants": "80",
+    "gradeMax": "1.85",
+    "gradeAvg": "2.98",
+    "grade50": "3.31",
+    "grade70": "3.37",
+    "gradeMin": "3.50"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "국방XR학부",
+   "values": {
+    "recruit": "5",
+    "applicants": "14",
+    "gradeMax": "4.10",
+    "gradeAvg": "4.57",
+    "grade50": "4.10",
+    "grade70": "4.60",
+    "gradeMin": "5.00"
+   }
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L16",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "글로벌의료뷰티학전공",
+   "values": {
+    "recruit": "9",
+    "applicants": "64",
+    "gradeMax": "3.82",
+    "gradeAvg": "4.67",
+    "grade50": "4.84",
+    "grade70": "4.92",
+    "gradeMin": "5.33"
+   }
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L17",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "심리상담치료학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "24",
+    "gradeMax": "3.83",
+    "gradeAvg": "4.16",
+    "grade50": "4.22",
+    "grade70": "4.37",
+    "gradeMin": "4.38"
+   }
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L18",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "국방경찰행정학부",
+   "values": {
+    "recruit": "8",
+    "applicants": "68",
+    "gradeMax": "2.67",
+    "gradeAvg": "3.85",
+    "grade50": "4.04",
+    "grade70": "4.28",
+    "gradeMin": "4.57"
+   }
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L19",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "8",
+    "applicants": "32",
+    "gradeMax": "3.79",
+    "gradeAvg": "5.17",
+    "grade50": "5.35",
+    "grade70": "5.58",
+    "gradeMin": "5.83"
+   }
+  },
+  {
+   "table": "t3",
+   "row_ref": "P9L20",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재전형[교과]",
+   "unit": "특수교육과",
+   "values": {
+    "recruit": "5",
+    "applicants": "15",
+    "gradeMax": "4.67",
+    "gradeAvg": "5.15",
+    "grade50": "4.87",
+    "grade70": "5.27",
+    "gradeMin": "6.36"
+   }
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L8",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "16",
+    "gradeMax": "2.08",
+    "gradeAvg": "2.26",
+    "grade50": "2.08",
+    "grade70": "2.20",
+    "gradeMin": "2.51"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L10",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "작업치료학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "29",
+    "gradeMax": "3.75",
+    "gradeAvg": "4.09",
+    "grade50": "4.14",
+    "grade70": "4.18",
+    "gradeMin": "4.25"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L12",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "병원경영학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "13",
+    "gradeMax": "1.53",
+    "gradeAvg": "3.68",
+    "grade50": "4.09",
+    "grade70": "4.74",
+    "gradeMin": "5.00"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L14",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "안경광학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "13",
+    "gradeMax": "4.00",
+    "gradeAvg": "4.15",
+    "grade50": "4.00",
+    "grade70": "4.20",
+    "gradeMin": "4.25"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L16",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "46",
+    "gradeMax": "2.60",
+    "gradeAvg": "2.98",
+    "grade50": "3.02",
+    "grade70": "3.12",
+    "gradeMin": "3.17"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L18",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "24",
+    "gradeMax": "2.44",
+    "gradeAvg": "2.57",
+    "grade50": "2.59",
+    "grade70": "2.65",
+    "gradeMin": "2.68"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L20",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "55",
+    "gradeMax": "2.76",
+    "gradeAvg": "3.27",
+    "grade50": "3.29",
+    "grade70": "3.70",
+    "gradeMin": "3.73"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L22",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "31",
+    "gradeMax": "2.70",
+    "gradeAvg": "2.79",
+    "grade50": "2.81",
+    "grade70": "2.84",
+    "gradeMin": "2.85"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L24",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "46",
+    "gradeMax": "2.65",
+    "gradeAvg": "2.92",
+    "grade50": "3.00",
+    "grade70": "3.05",
+    "gradeMin": "3.07"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L26",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "2",
+    "applicants": "8",
+    "gradeMax": "4.26",
+    "gradeAvg": "4.55",
+    "gradeMin": "4.83"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L28",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "의료IT공학과",
+   "values": {
+    "recruit": "2",
+    "applicants": "6",
+    "gradeMax": "4.86",
+    "gradeAvg": "4.93",
+    "gradeMin": "5.00"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L30",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "제약생명공학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "16",
+    "gradeMax": "3.48",
+    "gradeAvg": "3.62",
+    "grade50": "3.64",
+    "grade70": "3.69",
+    "gradeMin": "3.72"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L32",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "의료신소재학과",
+   "values": {
+    "recruit": "2",
+    "applicants": "3",
+    "gradeMax": "4.33",
+    "gradeAvg": "4.56",
+    "gradeMin": "4.79"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L40",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "스포츠의학전공",
+   "values": {
+    "recruit": "2",
+    "applicants": "18",
+    "gradeMax": "4.17",
+    "gradeAvg": "4.17",
+    "gradeMin": "4.17"
+   }
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L42",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "심리상담치료학과",
+   "values": {
+    "recruit": "2",
+    "applicants": "6",
+    "gradeMax": "3.65",
+    "gradeAvg": "4.18",
+    "gradeMin": "4.70"
+   }
+  },
+  {
+   "table": "t4",
+   "row_ref": "P11L44",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생전형",
+   "unit": "유아교육과",
+   "values": {
+    "recruit": "2",
+    "applicants": "11",
+    "gradeMax": "4.45",
+    "gradeAvg": "4.78",
+    "gradeMin": "5.10"
+   }
+  },
+  {
+   "table": "t5",
+   "row_ref": "P12L13",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급자, 차상위계층, 한부모가족지원 대상자전형",
+   "unit": "병원경영학과",
+   "values": {
+    "recruit": "2",
+    "applicants": "10",
+    "gradeMax": "3.50",
+    "gradeAvg": "3.57",
+    "gradeMin": "3.63"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t5",
+   "row_ref": "P12L15",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급자, 차상위계층, 한부모가족지원 대상자전형",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "3",
+    "applicants": "27",
+    "gradeMax": "3.21",
+    "gradeAvg": "3.33",
+    "grade50": "3.21",
+    "grade70": "3.38",
+    "gradeMin": "3.40"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t5",
+   "row_ref": "P12L17",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급자, 차상위계층, 한부모가족지원 대상자전형",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "43",
+    "gradeMax": "3.51",
+    "gradeAvg": "3.94",
+    "grade50": "4.04",
+    "grade70": "4.15",
+    "gradeMin": "4.18"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t5",
+   "row_ref": "P12L19",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급자, 차상위계층, 한부모가족지원 대상자전형",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "53",
+    "gradeMax": "2.73",
+    "gradeAvg": "3.32",
+    "grade50": "3.44",
+    "grade70": "3.63",
+    "gradeMin": "3.67"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t5",
+   "row_ref": "P12L21",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "기초생활수급자, 차상위계층, 한부모가족지원 대상자전형",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "4",
+    "applicants": "46",
+    "gradeMax": "2.29",
+    "gradeAvg": "2.76",
+    "grade50": "2.88",
+    "grade70": "3.00",
+    "gradeMin": "3.00"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t6",
+   "row_ref": "P13L13",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "특기자전형",
+   "unit": "글로벌의료뷰티학전공",
+   "values": {
+    "recruit": "12",
+    "applicants": "102",
+    "gradeMax": "3.38",
+    "gradeAvg": "5.46",
+    "grade50": "6.00",
+    "grade70": "6.26",
+    "gradeMin": "7.21"
+   }
+  },
+  {
+   "table": "t7",
+   "row_ref": "P13L27",
+   "year": 2026,
+   "type": "기타",
+   "period": "수시",
+   "admission": "일반학생전형[실기]",
+   "unit": "재활퍼스널트레이닝학과",
+   "values": {
+    "recruit": "30",
+    "applicants": "405",
+    "gradeMax": "3.17",
+    "gradeAvg": "5.13",
+    "grade50": "5.18",
+    "grade70": "5.46",
+    "gradeMin": "7.57"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L9",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "간호학과",
+   "values": {
+    "recruit": "50",
+    "applicants": "542",
+    "gradeMax": "2.22",
+    "gradeAvg": "2.60",
+    "grade50": "2.57",
+    "grade70": "2.67",
+    "gradeMin": "3.40"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L11",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "작업치료학과",
+   "values": {
+    "recruit": "25",
+    "applicants": "179",
+    "gradeMax": "4.10",
+    "gradeAvg": "4.90",
+    "grade50": "4.68",
+    "grade70": "5.08",
+    "gradeMin": "7.41"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L13",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "병원경영학과",
+   "values": {
+    "recruit": "7",
+    "applicants": "52",
+    "gradeMax": "3.73",
+    "gradeAvg": "3.93",
+    "grade50": "4.00",
+    "grade70": "4.00",
+    "gradeMin": "4.12"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L15",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "안경광학과",
+   "values": {
+    "recruit": "7",
+    "applicants": "61",
+    "gradeMax": "3.52",
+    "gradeAvg": "4.19",
+    "grade50": "4.23",
+    "grade70": "4.60",
+    "gradeMin": "4.75"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L17",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "임상병리학과",
+   "values": {
+    "recruit": "6",
+    "applicants": "93",
+    "gradeMax": "2.87",
+    "gradeAvg": "3.28",
+    "grade50": "3.27",
+    "grade70": "3.43",
+    "gradeMin": "3.73"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L19",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "방사선학과",
+   "values": {
+    "recruit": "12",
+    "applicants": "209",
+    "gradeMax": "2.89",
+    "gradeAvg": "3.34",
+    "grade50": "3.23",
+    "grade70": "3.60",
+    "gradeMin": "4.09"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L21",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "치위생학과",
+   "values": {
+    "recruit": "12",
+    "applicants": "146",
+    "gradeMax": "3.09",
+    "gradeAvg": "3.74",
+    "grade50": "3.57",
+    "grade70": "3.99",
+    "gradeMin": "4.70"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L23",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "물리치료학과",
+   "values": {
+    "recruit": "10",
+    "applicants": "128",
+    "gradeMax": "2.79",
+    "gradeAvg": "3.06",
+    "grade50": "3.04",
+    "grade70": "3.17",
+    "gradeMin": "3.46"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L25",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "응급구조학과",
+   "values": {
+    "recruit": "10",
+    "applicants": "101",
+    "gradeMax": "2.36",
+    "gradeAvg": "2.87",
+    "grade50": "2.77",
+    "grade70": "3.07",
+    "gradeMin": "3.67"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L27",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "의공학과",
+   "values": {
+    "recruit": "9",
+    "applicants": "33",
+    "gradeMax": "3.50",
+    "gradeAvg": "4.66",
+    "grade50": "4.67",
+    "grade70": "5.00",
+    "gradeMin": "5.33"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L29",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "의료공간디자인학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "16",
+    "gradeMax": "4.73",
+    "gradeAvg": "5.28",
+    "grade50": "5.35",
+    "grade70": "5.70",
+    "gradeMin": "5.83"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L31",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "제약생명공학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "31",
+    "gradeMax": "2.36",
+    "gradeAvg": "3.35",
+    "grade50": "3.38",
+    "grade70": "3.76",
+    "gradeMin": "4.00"
+   },
+   "unvCd": "0000055"
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L33",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "기업소프트웨어학부",
+   "values": {
+    "recruit": "3",
+    "applicants": "9",
+    "gradeMax": "4.83",
+    "gradeAvg": "4.83",
+    "gradeMin": "4.83"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L35",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "스마트보안학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "9",
+    "gradeMax": "3.00",
+    "gradeAvg": "4.64",
+    "grade50": "5.03",
+    "grade70": "5.51",
+    "gradeMin": "5.52"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L37",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "유무인항공학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "14",
+    "gradeMax": "4.38",
+    "gradeAvg": "4.68",
+    "grade50": "4.38",
+    "grade70": "4.67",
+    "gradeMin": "5.00"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L39",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "재난안전소방학전공",
+   "values": {
+    "recruit": "5",
+    "applicants": "15",
+    "gradeMax": "5.05",
+    "gradeAvg": "5.72",
+    "grade50": "5.73",
+    "grade70": "5.98",
+    "gradeMin": "6.65"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L43",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "스포츠의학전공",
+   "values": {
+    "recruit": "10",
+    "applicants": "55",
+    "gradeMax": "3.00",
+    "gradeAvg": "4.20",
+    "grade50": "4.28",
+    "grade70": "4.65",
+    "gradeMin": "4.84"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L45",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "심리상담치료학과",
+   "values": {
+    "recruit": "13",
+    "applicants": "58",
+    "gradeMax": "2.33",
+    "gradeAvg": "4.46",
+    "grade50": "4.63",
+    "grade70": "4.81",
+    "gradeMin": "5.35"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L47",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "유아교육과",
+   "values": {
+    "recruit": "10",
+    "applicants": "39",
+    "gradeMax": "2.89",
+    "gradeAvg": "4.71",
+    "grade50": "5.00",
+    "grade70": "5.67",
+    "gradeMin": "5.76"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L49",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "사회복지학과",
+   "values": {
+    "recruit": "5",
+    "applicants": "20",
+    "gradeMax": "4.00",
+    "gradeAvg": "5.53",
+    "grade50": "5.57",
+    "grade70": "6.46",
+    "gradeMin": "6.91"
+   }
+  },
+  {
+   "table": "t8",
+   "row_ref": "P14L51",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "학생부종합전형",
+   "unit": "특수교육과",
+   "values": {
+    "recruit": "7",
+    "applicants": "13",
+    "gradeMax": "4.00",
+    "gradeAvg": "4.34",
+    "gradeMin": "4.67"
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "source": {
+  "file": "2026_0002800"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "농어촌전형",
+   "values": {
+    "recruit": "9",
+    "competition": "10.67",
+    "waitlist": "13",
+    "grade50": "3.2",
+    "grade70": "3.3"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "교육기회균형전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "교육기회균형전형",
+   "values": {
+    "recruit": "6",
+    "competition": "17.17",
+    "waitlist": "12",
+    "grade50": "3.4",
+    "grade70": "3.4"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R5",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교졸업자전형",
+   "unit_group": "모집인원 3명 이하 모집단위",
+   "unit": "특성화고교졸업자전형",
+   "values": {
+    "recruit": "16",
+    "competition": "11.44",
+    "waitlist": "31",
+    "grade50": "1.9",
+    "grade70": "2.3"
+   }
+  }
+ ]
+}

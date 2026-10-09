@@ -1,0 +1,190 @@
+{
+ "source": {
+  "file": "2026_0000027"
+ },
+ "tables": {
+  "t1": {
+   "caption": "컷50 | 컷70",
+   "header_refs": [
+    "S1R1"
+   ],
+   "cols": {
+    "recruit": 3,
+    "competition": 5,
+    "grade50": 6,
+    "grade70": 7
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "S1R3",
+   "type": "기타",
+   "period": "수시",
+   "admission": "체육특기자",
+   "unit": "체육특기자",
+   "values": {
+    "recruit": "41",
+    "competition": "2.05",
+    "grade50": "5.96",
+    "grade70": "7.37"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R4",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "고른기회",
+   "unit": "고른기회",
+   "values": {
+    "recruit": "5",
+    "competition": "14.6",
+    "grade50": "1.79",
+    "grade70": "3.16"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R5",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "일반학생",
+   "unit": "일반학생",
+   "values": {
+    "recruit": "30",
+    "competition": "7.3",
+    "grade50": "4.13",
+    "grade70": "4.44"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R6",
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "지역인재",
+   "unit": "지역인재",
+   "values": {
+    "recruit": "42",
+    "competition": "5.5",
+    "grade50": "4.49",
+    "grade70": "4.89"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R8",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "고른기회",
+   "unit": "고른기회",
+   "values": {
+    "recruit": "69",
+    "competition": "2.36",
+    "grade50": "5.48",
+    "grade70": "6.26"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R9",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "농어촌학생",
+   "unit": "농어촌학생",
+   "values": {
+    "recruit": "78",
+    "competition": "3.27",
+    "grade50": "5.27",
+    "grade70": "5.78"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R10",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "사회통합",
+   "unit": "사회통합",
+   "values": {
+    "recruit": "48",
+    "competition": "5.96",
+    "grade50": "5.39",
+    "grade70": "5.68"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R12",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "일반학생1(서류형)",
+   "unit": "일반학생1(서류형)",
+   "values": {
+    "recruit": "105",
+    "competition": "8.73",
+    "grade50": "5.05",
+    "grade70": "5.45"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R13",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "일반학생2(면접형)",
+   "unit": "일반학생2(면접형)",
+   "values": {
+    "recruit": "13",
+    "competition": "13.23",
+    "grade50": "3.74",
+    "grade70": "4.02"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R15",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "지역인재",
+   "unit": "지역인재",
+   "values": {
+    "recruit": "28",
+    "competition": "7.18",
+    "grade50": "3.64",
+    "grade70": "4.23"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R16",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "특성화고졸업자",
+   "unit": "특성화고졸업자",
+   "values": {
+    "recruit": "28",
+    "competition": "3.93",
+    "grade50": "3.82",
+    "grade70": "4.66"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "S1R17",
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "특수교육대상자",
+   "unit": "특수교육대상자",
+   "values": {
+    "recruit": "9",
+    "competition": "1.44",
+    "grade50": "7.9",
+    "grade70": "8.37"
+   }
+  }
+ ]
+}

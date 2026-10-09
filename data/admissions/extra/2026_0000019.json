@@ -1,0 +1,42 @@
+{
+ "source": {
+  "file": "2026_0000019"
+ },
+ "tables": {
+  "t1": {
+   "caption": "학생부 환산등급",
+   "header_refs": [
+    "T2R1",
+    "T2R2",
+    "T2R3"
+   ],
+   "cols": {
+    "unit": 0,
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 4,
+    "grade70": 5
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T2R4",
+   "year": 2026,
+   "type": "학생부종합",
+   "period": "수시",
+   "admission": "수시 기회균형특별전형(사회통합)",
+   "unit": "농생명계열 고교 졸업예정자",
+   "values": {
+    "recruit": "4",
+    "competition": "5.75",
+    "waitlist": "0",
+    "grade50": "1.07",
+    "grade70": "1.07"
+   }
+  }
+ ]
+}

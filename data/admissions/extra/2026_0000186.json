@@ -1,0 +1,59 @@
+{
+ "source": {
+  "file": "2026_0000186"
+ },
+ "tables": {
+  "t1": {
+   "caption": "최종 등록자 교과 성적 학생부등급",
+   "basis": "최종 등록자",
+   "header_refs": [
+    "T3R1",
+    "T3R2"
+   ],
+   "cols": {
+    "recruit": 1,
+    "competition": 2,
+    "waitlist": 3,
+    "grade50": 7,
+    "grade70": 8
+   },
+   "col_headers": {}
+  }
+ },
+ "rows": [
+  {
+   "table": "t1",
+   "row_ref": "T3R3",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "농어촌학생특별전형",
+   "unit_group": "모집단위 미지정",
+   "unit": "농어촌학생특별전형",
+   "values": {
+    "recruit": "14",
+    "competition": "8.29:1",
+    "waitlist": "42",
+    "grade50": "3.22",
+    "grade70": "3.33"
+   }
+  },
+  {
+   "table": "t1",
+   "row_ref": "T3R4",
+   "year": 2026,
+   "type": "학생부교과",
+   "period": "수시",
+   "admission": "특성화고교졸업자특별전형",
+   "unit_group": "모집단위 미지정",
+   "unit": "특성화고교졸업자특별전형",
+   "values": {
+    "recruit": "11",
+    "competition": "10.64:1",
+    "waitlist": "28",
+    "grade50": "3.09",
+    "grade70": "3.12"
+   }
+  }
+ ]
+}
