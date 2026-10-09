@@ -1,0 +1,374 @@
+{
+ "source": {
+  "university": "청주대학교",
+  "year": 2026,
+  "file": "2026_청주대학교"
+ },
+ "interviews": [],
+ "questions": [
+  {
+   "admission": null,
+   "unit": "경상대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학생활에 있어서 가장 중요한 활동은 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "경상대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학하게 되면 무엇을 배우고 싶고, 졸업 후에는 무엇을 할 예정인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "경상대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업 후 진출하고 싶은 진로나 희망 취업분야가 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "경상대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인 성격의 장단점을 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학에서 학업 이외에 본인이 하고 싶은 일이 있다면 무엇을 가장 하고 싶습니까? 그리고 이유에 대해 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 학업을 통해 어떤 인재로 성장하고 싶습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학과에 대해 처음으로 관심을 갖게 된 배경을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교과정중 남을 위해 본인이 베푼 선행 및 재능기부에 대하여 이야기 해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "롤모델이 있다면 누구인지와 어떤점을 닮고 싶은지 이야기 해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 다닐 때 가장 존경했던 선생님이 있는지, 존경했던 이유는 무엇인지 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생들의 인성교육 방법으로 어떠한 것이 있을지 한 가지만 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회적 약자에 대한 혐오 표현을 하는 학생을 본다면 어떻게 지도할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "인문사회대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교사가 되기 위해 노력해야 할 가장 중요한 것 한 가지만 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "공과대학, AI·SW융합대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "청주대에 진학하고자 하는 목적은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "공과대학, AI·SW융합대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인이 현재 학과에 관심을 가지게 된 이유와 향후 목표를 설명하시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "공과대학, AI·SW융합대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 입학 후 전공 공부를 열심히 하기 위한 본인의 계획을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "공과대학, AI·SW융합대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업한다면 어떤 분야로 취업하고 싶은지 설명해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "공과대학, AI·SW융합대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 입학 후 가장 하고 싶은 일이 무엇인지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "보건의료과학대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 생활 중 꼭 이루고 싶은 꿈이나 학업과 관련된 계획이 있으면 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "보건의료과학대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로를 결정하는 데 중요하다고 생각하는 요소는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "보건의료과학대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 학창시절 가장 즐거웠던 추억과 가장 힘들었던 기억에 대하여 이야기 해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "보건의료과학대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "00학과를 선택하는데 영향을 준 경험은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "보건의료과학대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "00학과는 무엇을 공부하는 과인지 아는대로 이야기 해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "항공·국방대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학교 입학전 본인이 가장 좋아하는 분야와 자신있는 과목은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "항공·국방대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 단점과 그 단점을 보완하기 위해 어떠한 노력을 했는지 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "항공·국방대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 꿈을 이루기 위해 본인이 어떠한 계획을 가지고 있는지 이야기 해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "항공·국방대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "00학과 지원을 위해 노력한 점이 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "항공·국방대학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업 후 진로방향에 대해 간단히 설명해 보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  }
+ ]
+}

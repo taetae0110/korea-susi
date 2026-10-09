@@ -1,0 +1,220 @@
+{
+ "source": {
+  "university": "호서대학교",
+  "year": 2025,
+  "file": "2025_호서대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "전공탐색역량",
+     "weight": "60"
+    },
+    {
+     "name": "공동체역량",
+     "weight": "40"
+    }
+   ],
+   "page": 9
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "units": "항공서비스학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공탐색역량",
+   "passage": null,
+   "prompts": [
+    "우리 학과에 지원하게 된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공탐색역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 가장 열심히 공부한 과목은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공탐색역량",
+   "passage": null,
+   "prompts": [
+    "고교 재학 중 지원한 학과와 관련된 활동이 있다면 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 어려웠던 일은 무엇이었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 가장 기억에 남는 활동에 대해 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "본인의 장단점에 대해 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(호서인재, AISW인재전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "호서대학교 인재상의 핵심역량(협업, 선도, 창의성, 자원관리)과 관련된 활동이 있다면 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "호서대학교 항공서비스학과에 지원하게 된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "항공서비스학과에 입학하기 위해 중·고 시절 무엇을 준비하였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "항공사 승무원에게 요구되는 중요한 역량 2가지는 무엇이라 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "입학 후 전공에서는 어떠한 역량을 중점적으로 갖춰나갈 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "우리 학과 입학 후에 무엇을 하고 싶은지 구체적인 계획을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "호서대학교 항공서비스학과에서 가장 주력하고 싶은 교과 활동은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(면접)",
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "지원 동기 및 전공 탐색 역량",
+   "passage": null,
+   "prompts": [
+    "호서대학교 항공서비스학과에서 가장 주력하고 싶은 비교과활동은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  }
+ ]
+}

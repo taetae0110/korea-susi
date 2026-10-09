@@ -1,0 +1,120 @@
+{
+ "source": {
+  "university": "이화여자대학교",
+  "year": 2026,
+  "file": "2026_이화여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(미래인재전형-면접형)",
+   "units": "인문·자연",
+   "format": "서류기반",
+   "method": "학생부를 포함한 제출 서류를 활용하여 확인 면접 형태로 시행",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "실기/실적(예체능서류전형)",
+   "units": "예체능",
+   "format": "서류기반",
+   "method": "학생부를 포함한 제출 서류를 활용하여 확인 면접 형태로 시행",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 기재된 ○○ 과목 세특을 보면 깊이 있는 탐구활동이 있었던 것 같습니다. 이 활동을 통해 무엇을 배우고 느꼈는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 외 활동(탐구활동, 독서 등) 중 학업과 연계하여 도움이 되었다고 생각하는 사례가 있다면 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원한 전공(계열)에 대한 관심을 어떻게 구체화해 왔는지, 본인의 준비 과정을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 기재된 ○○활동이 진로 탐색에 어떤 영향을 주었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 기재된 ○○활동에서 팀원들과 협업했던 경험이 인상 깊습니다. 그 과정에서 맡은 역할과 느낀 점을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교내 활동 중 본인의 노력으로 공동의 결과가 좋아졌던 경험이 있다면 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학에 입학한 후, 어떤 점을 가장 먼저 발전시키고 싶나요? 그리고 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  }
+ ]
+}

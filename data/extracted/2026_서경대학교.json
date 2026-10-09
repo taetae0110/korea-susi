@@ -1,0 +1,159 @@
+{
+ "source": {
+  "university": "서경대학교",
+  "year": 2026,
+  "file": "2026_서경대학교"
+ },
+ "interviews": [
+  {
+   "admission": "군사학과 특별전형",
+   "units": "군사학과",
+   "format": "인성",
+   "method": "인성면접 (조별면접)",
+   "duration": null,
+   "criteria": [],
+   "page": 19
+  },
+  {
+   "admission": "재외국민 및 외국인 특별전형",
+   "units": null,
+   "format": "인성",
+   "method": "인성면접 (개별면접)",
+   "duration": null,
+   "criteria": [],
+   "page": 19
+  }
+ ],
+ "questions": [
+  {
+   "admission": "군사학과 특별전형",
+   "unit": "군사학과",
+   "format": "인성",
+   "competency": "희생정신",
+   "passage": null,
+   "prompts": [
+    "학교의 큰 행사를 위해 시험기간에 임박하여 반장이 동참을 요구했다. 어떻게 할 것이며 그 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "군사학과 특별전형",
+   "unit": "군사학과",
+   "format": "인성",
+   "competency": "리더쉽",
+   "passage": null,
+   "prompts": [
+    "소대원 중 지시를 불이행하는 인원이 있을 경우 어떻게 할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "군사학과 특별전형",
+   "unit": "군사학과",
+   "format": "인성",
+   "competency": "국가관/ 안보관",
+   "passage": null,
+   "prompts": [
+    "해외 유학 중 북한이 침략을 하여 전쟁이 발생하였다. 어떻게 할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "군사학과 특별전형",
+   "unit": "군사학과",
+   "format": "인성",
+   "competency": "지원동기",
+   "passage": null,
+   "prompts": [
+    "자신의 성격이나 적성 등의 어떤 면이 장교의 길을 택하고자 하였는지 말해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "군사학과 특별전형",
+   "unit": "군사학과",
+   "format": "인성",
+   "competency": "성장 환경",
+   "passage": null,
+   "prompts": [
+    "자신이 가장 싫어하는 사람과 좋아하는 사람의 유형은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "재외국민 및 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본교 지원동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "재외국민 및 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 입학을 위한 준비 과정을 설명하세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "재외국민 및 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업에 대한 각오 및 의지는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "재외국민 및 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공을 지원한 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "재외국민 및 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업 후 미래 계획은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  }
+ ]
+}

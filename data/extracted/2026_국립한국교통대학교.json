@@ -1,0 +1,285 @@
+{
+  "source": {
+    "university": "국립한국교통대학교",
+    "year": 2026,
+    "file": "2026_국립한국교통대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합전형Ⅰ",
+      "units": "항공서비스학과",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 3
+    },
+    {
+      "admission": "재외국민전형",
+      "units": "항공서비스학과",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 3
+    },
+    {
+      "admission": "평생학습자전형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 3
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "지원학과(학부)를 지원하게 된 동기와 진학을 위해 가장 중점을 둔 교내활동을 구체적으로 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "지원학과(학부)를 진학하기 위해 가장 의미 있다고 생각한 교과목과 그 교과목의 성적 향상을 위하여 어떤 노력을 기울였는지 이야기 해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "자신을 소개하고 본 학과에 지원하게 된 동기를 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본 학과에 지원한 동기를 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본 학과에 입학 후 학업계획을 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본 학과에 지원한 동기와 입학 후 학업계획을 말씀해주세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본 학과에 대해 취득한 정보를 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본 학과에 지원동기를 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "졸업 후 전공 관련 활동계획을 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본 학과에 입학 후 학업 계획을 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "고등학교 재학 기간 중 타인에게 나눔과 배려를 실천한 경험을 이야기해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "지금까지 생활해 오면서 가장 기억에 남는 일이 있으면 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "다른 사람들에게 배려 혹은 나눔을 실천한 사례나 공동의 가치를 실현한 일이 있으면 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "지원자가 타인에게 신뢰감을 준 사례가 있다면 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "지원자가 공동체의 문제해결을 위해 노력한 사례를 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "봉사활동을 한 경험이 있으면 말씀해주세요,"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "성장과정 중에서 많은 영향을 받은 인물이 있다면 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "사회적 약자를 도운 활동이 있으면 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "주변 사람들과 갈등을 어떻게 해결하는지 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    }
+  ]
+}

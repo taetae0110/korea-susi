@@ -1,0 +1,171 @@
+{
+  "source": {
+    "university": "한세대학교",
+    "year": 2026,
+    "file": "2026_한세대학교"
+  },
+  "interviews": [
+    {
+      "admission": null,
+      "units": "경영학전공",
+      "format": "인성",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "인성 (신앙/가치관)",
+          "weight": "20"
+        },
+        {
+          "name": "지원동기",
+          "weight": "20"
+        },
+        {
+          "name": "진로계획",
+          "weight": "20"
+        },
+        {
+          "name": "전공적성 (전공 관심도)",
+          "weight": "20"
+        },
+        {
+          "name": "사회문제에 대한 이해",
+          "weight": "20"
+        }
+      ],
+      "page": 14
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "인성 (신앙/가치관)",
+      "passage": null,
+      "prompts": [
+        "내가 지금까지 이룬 가장 소중한 성취는 무엇이며 그 이유는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "인성 (신앙/가치관)",
+      "passage": null,
+      "prompts": [
+        "내가 공부하면서 가장 중요하게 여기는 것은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "지원동기",
+      "passage": null,
+      "prompts": [
+        "경영학전공을 지원한 이유는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "지원동기",
+      "passage": null,
+      "prompts": [
+        "전공 결정에 있어 가장 중요한 기준은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "진로계획",
+      "passage": null,
+      "prompts": [
+        "경영학전공을 졸업하고 10년 이내에 가장 하고 싶은 일은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "진로계획",
+      "passage": null,
+      "prompts": [
+        "본교 입학 이후 대학 재학 중에 가장 하고 싶은 일은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "전공적성 (전공 관심도)",
+      "passage": null,
+      "prompts": [
+        "2025년 우리나라 기업의 생존과 성장에 필요한 것은 무엇이라고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "전공적성 (전공 관심도)",
+      "passage": null,
+      "prompts": [
+        "경영학 과목들 중에 가장 관심있는 과목은 무엇이며 그 이유는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "사회문제에 대한 이해",
+      "passage": null,
+      "prompts": [
+        "우리나라 청년들만의 독특한 장점은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학전공",
+      "format": "인성",
+      "competency": "사회문제에 대한 이해",
+      "passage": null,
+      "prompts": [
+        "우리나라가 직면한 가장 엄중한 도전과제는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    }
+  ]
+}

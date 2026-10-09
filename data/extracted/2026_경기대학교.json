@@ -1,0 +1,503 @@
+{
+ "source": {
+  "university": "경기대학교",
+  "year": 2026,
+  "file": "2026_경기대학교"
+ },
+ "interviews": [
+  {
+   "admission": "KGU학생부종합전형(일반)",
+   "units": null,
+   "format": "서류기반",
+   "method": "지원자의 제출 서류(학교생활기록부)를 기반으로 진행하는 사실 확인 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "사회영역(인성, 공동체의식)",
+     "weight": null
+    },
+    {
+     "name": "잠재역량",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "KGU학생부종합전형(SW우수자전형)",
+   "units": null,
+   "format": "서류기반",
+   "method": "지원자의 제출 서류(학교생활기록부)를 기반으로 진행하는 사실 확인 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "사회영역(인성, 공동체의식)",
+     "weight": null
+    },
+    {
+     "name": "잠재역량",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "재외국민전형",
+   "units": null,
+   "format": "서류기반",
+   "method": "지원자의 제출 서류(학교생활기록부)를 기반으로 진행하는 사실 확인 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "사회영역(인성, 공동체의식)",
+     "weight": null
+    },
+    {
+     "name": "잠재역량",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "KGU학생부종합전형(디자인비즈학부)",
+   "units": "디자인비즈학부",
+   "format": "제시문기반",
+   "method": "아이디어스케치 및 발표",
+   "duration": "60분",
+   "criteria": [],
+   "page": 134
+  }
+ ],
+ "questions": [
+  {
+   "admission": "KGU학생부종합전형(디자인비즈)",
+   "unit": "예체능계",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "공공디자인이란 공공장소의 여러 장비나 장치를 좀 더 합리적으로 꾸미는 일을 말한다. 공공디자인은 사적영역의 디자인과 다르게 공익을 추구하고, 대중의 편의를 고려해야 하며, 미적으로도 아름다워야 한다. 공공디자인은 사회구성원 누구나 누리는 공공성에 보다 중점을 둔 디자인으로 거리벽화, 조형물, 공원 놀이시설, 스트리트 퍼니처 등이 있다. 사회구성원들의 생활 공간과 밀접하게 관련되어 있는 이러한 공공디자인은 공공장소와 시설물 등을 편리하고 아름답게 해 준다. 이뿐만 아니라 사회구성원들의 요구와 가치를 반영하여 개인과 사회의 소통과 공감이 이루어지는 새로운 문화와 가치를 창출하는 역할도 한다.",
+   "prompts": [
+    "오늘날 주거지역의 전봇대나 지하철역 입구 주변에 쓰레기 무단투기가 심각한 사회문제로 대두되고 있습니다. 이러한 문제를 해결할 방법에 관한 새로운 공공디자인 아이디어를 글로 설명하고 스케치로 표현하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 134
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(2학년 동아리) 동아리 활동에서 다른 사람들을 이끌며 코딩을 주도 한 경험이 나타나는데 동아리원들과 협력할 때 가장 중요하게 생각한 점과 활동 과정을 구체적으로 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(1학년 봉사활동) 딥페이크 캠페인 포스터 제작 활동에서 팀원과 협력하며 경각심을 높인 경험이 있다면, 본인이 맡은 역할과 활동 과정, 느낀 점을 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(3학년 사회문제 탐구) 디지털 망각 문제나 청소년 정신 건강 문제를 분석하고 다른 사람들에게 설명할 때, 가장 중점을 둔 부분과 그 이유, 활동 과정에서 배운 점을 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(3학년 자율활동) 카드뉴스 제작에서 협력과 의사소통을 잘 발휘한 경험이 있다면, 협력적인 작업에서 중요하게 생각한 점과 활동 과정, 성과를 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(3학년 진로활동) 공공 문제를 해결할 때 여러 사람의 의견이 충돌하면, 의견을 조정하고 균형을 맞추기 위해 어떤 접근을 했는지, 그 과정에서 배운 점을 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(봉사활동) 전교학생회 부서별 봉사활동에 참여한 경험이 있다면, 어떤 활동이었고 본인이 학교를 위해 맡은 역할과 활동 과정, 느낀 점을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(운동부 학습도우미 봉사활동) 친구들에게 도움을 주기 위해 기울인 노력과, 이 봉사활동을 하게 된 계기, 활동 과정과 느낀 점을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(3학년 행동특성 및 종합의견) 학급 내 교실지키미 역할을 수행한 경험이 있다면, 이 역할을 맡게 된 이유와 학급 친구들을 위해 수행한 활동, 활동 후 느낀 점을 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(봉사활동) 멘토·멘티 학습도우미 활동에 반복 참여한 경험이 있다면, 공동체 기여 경험을 통해 느낀 점을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 137
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 자율교육과정) 리튬이온 배터리의 특성과 ‘왜 다른 알칼리 금속이 아닌 리튬을 사용하는지’ 조사하고 발표한 과정과 내용을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 동아리) 청년 실업 문제를 주제로 프로젝트 활동을 수행하면서, 본인이 맡은 역할과 프로젝트 과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 학교자율교육과정) ‘메타버스로 열어가는 일본 시장 디지털 마케팅 프로젝트’에서 고령층 대상 맞춤형 제품을 제안하며, 가장 중요하게 고려한 점과 그 과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 사회문제 탐구) ‘미국 관세 정책에 따른 한국 기업의 영향’을 주제로 질적 연구를 수행하며, 조사 과정과 연구 내용을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 사회문제 탐구) ‘외국어가 우리 일상에 침투하는 정도’를 주제로 탐구 보고서를 작성하였는데, 탐구 내용과 과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 확률과 통계) ‘실험의 정밀성과 정확성을 판단하기 위한 신뢰도와 타당도 분석’을 주제로 보고서를 작성하며 배운 점을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 진로활동) ‘청소년 클럽, 일탈 조장인가 놀 권리인가’를 행정학과 연계해 발표하며, 조사 내용과 발표 과정을 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 동아리) ‘자가치유 고분자의 작동 원리와 한계 요인’을 조사하며, 조사 결과와 이를 통해 알게 된 과학적 지식을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(2학년 화학) ‘급속 동결과 식품의 부패’를 주제로 발표하며, 자료 조사 방법과 발표 내용을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 동아리) 세균 배양 실험을 응용해 숯의 수질 정화 능력을 실험하며, 실험 설계에서 중요하게 생각한 점과 개선 과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 사회과학탐구부 동아리) ‘한반도 평화와 외교의 역할’을 탐구하며, 탐구 과정과 내용을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(1학년 전공 기초 일본어) 우키요에가 고흐 작품에 미친 영향을 일본어 대본으로 작성하였는데, 활동 과정과 문화 교류의 의미를 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 138
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(글로벌역사외교아카데미) 모의유엔 방글라데시 대사로 기후위기 의견 제시와 폐자원 캠페인을 수행하며, 개발도상국 입장을 대변한 논리와 활동 과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 139
+  },
+  {
+   "admission": "KGU학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 중국어 성조 오류 탐구) SNS·예능 사례 100여 건을 수집·분석하며, 탐구 주제를 선정 하였는데 이유와 비언어적 요소 분류 기준은 어떻게 하였는지 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 139
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "행특에서 공동체를 중시한다는 기록이 꾸준히 나타나는데, 본인이 생각하는 공동체에서 가장 중요한 부분은 무엇인지 사례를 들어 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(1학년 행특) 방송반 활동에서 동료 및 선배와 함께 활동한 기록이 있는데, 활동 과정에서 느낀 공동체에서 중요한 점은 무엇이었는지 사례를 들어 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(3학년) 학급 회장으로 활동한 기록이 나타나 있는데, 활동 중 가장 기억에 남는 사례와 이를 통해 느끼게 된 리더십에서 중요한 점은 무엇인지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "사회영역(인성, 공동체의식)",
+   "passage": null,
+   "prompts": [
+    "(3학년 동아리) 타 동아리와 협업한 활동이 나타나 있는데, 어떤 내용의 협업이었으며 협업 과정에서 중요하다고 느낀 점은 무엇인지 사례를 들어 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 동아리) 진로 관련 인터뷰 활동을 진행한 기록이 있는데, 활동 과정에서 본인이 맡은 역할은 무엇이었으며 인터뷰는 어떻게 진행되었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(2학년 진로) 경찰이 공동체 내에서 수행해야 할 역할과 책임을 주제로 탐구한 기록이 있는데, 탐구 과정에서 기억에 남는 사례와 이를 통해 필요하다고 느낀 점을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "자율주행 자동차 개발에서 중요하다고 생각하는 요소에 대해 탐구한 기록이 있는데, 해당 요소가 무엇이며 그 이유와 학업 과정과의 연관성을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 언어와매체) ‘SNS 언어 사용 실태와 청소년 언어 인식 변화’라는 주제로 탐구한 기록이 있는데, 탐구한 주요 내용과 결론은 무엇이었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "잠재역량(전공 관련 활동 및 경험, 발전가능성)",
+   "passage": null,
+   "prompts": [
+    "(3학년 심화국어) MZ세대를 주제로 발표한 활동이 있는데, 발표를 준비하는 과정에서 본인이 가장 주도적으로 조사하거나 준비한 내용은 무엇이었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  }
+ ]
+}

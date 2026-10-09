@@ -1,0 +1,371 @@
+{
+ "source": {
+  "university": "경상국립대학교",
+  "year": 2025,
+  "file": "2025_경상국립대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합",
+   "units": "6개 단과대학(사회과학대학, 사범대학, 수의과대학, 의과대학, 간호대학, 약학대학)",
+   "format": "서류기반",
+   "method": "학교생활기록부를 활용한 확인면접 시행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    }
+   ],
+   "page": 10
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "units": "7개 단과대학",
+   "format": "인성",
+   "method": "지원학과에 대한 관심을 확인할 수 있는 문항 질문",
+   "duration": null,
+   "criteria": [],
+   "page": 11
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원학과 지원동기 및 관심을 가지게 된 계기"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원 전공에서 공부하고 싶은 교과목 혹은 분야"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과목 중 흥미 있게 수강한 수업"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "사회학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 관심있는 사회적 이슈 및 분야"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 관심 있는 심리학자 및 분야와 이유"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "행정학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "공직자의 청렴이 중요한 이유"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "아동가족학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "좋은 양육 환경을 구성하는데 꼭 필요한 요소"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공 커리어 개발을 위한 필요한 역량과 프로그램"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "교육학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교육학과에 관심을 가지고 공부하고 싶은 분야"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "윤리/영어/물리교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교사가 되기 위한 교직관 및 자세"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "유아교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교육과에 지원하기 위한 지원자의 노력"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "지리교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교 지리 교과에서 기억에 남는 부분과 그 이유"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "수학교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신이 가장 흥미롭게 느꼈던 수학 개념에 대한 설명"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진학 후 공부하고 싶은 세부 전공과 그 이유"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호사가 되기 위해 고교 내 활동 및 노력"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "약학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "약대에 진학하여 관심을 가지고 공부하고 싶은 분야"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원학과 지원동기 및 자기소개"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업이수 계획 및 졸업 후 진로"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "사회복지학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "피부색이나 국적에 따른 차이가 차별로 나타나는 것을 경험한 적이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "주변의 문제를 해결한 경험"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "경영학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 겪었던 힘든 일과, 어떻게 극복하였는지 사례를 들어주시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "AI정보공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "AI에 대한 지원자의 기본적인 생각을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "항공우주공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "항공우주공학 관련 활동 경험에 대해 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "동물생명융합학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경상국립대학교 동물생명융합학부 학업이수 및 미래진로 계획은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "unit": "중어중문학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "중국 역사 문화 문학 관련 서적 가운데 인상깊게 읽었던 책이 있으면 소개하고, 어떤 측면에서 인상이 남았는지 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  }
+ ]
+}

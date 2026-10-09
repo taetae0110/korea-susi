@@ -1,0 +1,965 @@
+{
+ "source": {
+  "university": "명지대학교",
+  "year": 2025,
+  "file": "2025_명지대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "units": "전체",
+   "format": "인성",
+   "method": "면접 당일 면접대기실에서 작성하는 면접기초자료를 기반으로 한 인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 20
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "units": "인문·자연",
+   "format": "서류기반",
+   "method": "제출 서류(학교생활기록부)의 기재 사항을 확인하는 심층 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 20
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원한 전공(학부/학과)과 관련하여 가장 흥미로웠던 주제는 무엇이며, 본 주제와 관련하여 고교생활(검정고시 포함) 중 수행한 활동이 있으면 서술하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원한 전공(학부/학과)을 졸업한 후 10년 후의 본인의 모습과 이를 달성하기 위하여 대학생활 중의 준비과정을 서술하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원한 전공(학부/학과)과 관련하여 고등학교 교육과정(검정고시 포함) 중에 가장 기억에 남는 개념, 원리 등에 대해서 서술하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원한 전공(학부/학과)과 관련하여 사회적 이슈 하나를 들고, 이에 대한 본인의 의견 또는 해결방안을 제시하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "국어국문학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "국어국문학전공 지원동기와 졸업 후 진로는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "국어국문학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활에서의 리더십 발휘 경험은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "국어국문학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 청소년들의 문해력 논란에 대한 본인의 생각은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "국어국문학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한글 ‘띄어쓰기’ 중 가장 어렵게 생각하는 부분은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "국어국문학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근에 읽어본 문학 작품과 그 감상은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "국어국문학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한국어의 가장 큰 매력은 무엇이며 그렇게 생각하는 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "미술사·역사학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 혹은 학급에서의 역할은 무엇이었으며, 어떤 활동을 하였는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "미술사·역사학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "공동체 생활의 중요 요소나 자질은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "미술사·역사학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공과 관련된 동아리, 비교과 활동은 무엇이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "미술사·역사학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공 활동 중 자기주도적인 활동은 무엇이라 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "미술사·역사학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 인상 깊은 전공 관련 서적이 있다면? 선택 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "미술사·역사학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미술사학자 혹은 역사학자는 사회에 어떻게 기여한다고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "디지털미디어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀 과제 수행 시 겪었던 어려움은? 어떻게 해결했는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "디지털미디어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "디지털미디어학부 진학을 위해 열심히 했던 교과/비교과 수행활동은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "디지털미디어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업 후 구체적인 진로 방향과 목표는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "디지털미디어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신이 생각하는 유튜브 추천 알고리즘의 단점/문제점은? 어떻게 해결할 수 있는지에 대한 자신만의 팁은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "경영학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 · 교과활동과 관련하여 리더십을 발휘했던 경험? 리더가 갖추어야 할 덕목은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "경영학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "조직 활동에서 어려웠던 경험과 극복한 방법은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "경영학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경영학 관련 가장 인상 깊게 읽었던 책은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "경영학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "기업의 사회적 책임이란 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "경영학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "CEO가 되기 위해 필요한 자질은 무엇일까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "경영학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "GLP프로그램에 지원한다면 어느 나라, 어느 기업을 탐방해 보고 싶은지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "화학공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "화학공학과에 지원한 동기는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "화학공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "리더십을 발휘한 경험 및 느낀점?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "화학공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 성취감을 느낀 경험?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "화학공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "화학공학과에서 가장 중요한 역량은 무엇이며, 이를 위한 본인의 노력은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "화학공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "화학, 물리 관련 실험 중 기억에 남는 것과 배운점?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "화학공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 협업의 중요성?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "신소재공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "신소재공학과에 지원한 동기는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "신소재공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "비교과 활동 중 기억나는 것은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "신소재공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 중요하게 생각하는 것은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "신소재공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업 활동 중 성취감은 느낀 경험/아쉬웠던 순간은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "신소재공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 리더십 경험 소개 및 리더의 주요 덕목은 뭐라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "신소재공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공 수행 후 진출할 수 있는 분야는 어떤 것이 있는지 알고 있는가? 어떻게 정보를 얻었나?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "산업경영공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 팀 활동을 한 경험에 대해서 말씀해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "산업경영공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공관련 고교 생활동안 수행한 활동 중에서 가장 대표적인 활동은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "산업경영공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공관련 가장 기억에 남는 책은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "인공지능전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과에 지원한 동기는 무엇인지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "인공지능전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "구성원과의 갈등 해결 경험이 있다면 무엇인지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "인공지능전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "프로그래밍 경험은 있는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "인공지능전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생성형 AI를 제외한 실생활에 사용되는 AI 서비스는 무엇이 있는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "인공지능전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공 관련하여 기억에 남는 교과과목은 무엇이며 이유는 무엇인지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "인공지능전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "GPT가 점점 발전하는데 본인이 희망하는 진로의 전문가에게 필요한 것은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "스마트모빌리티공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활 중 리더로서의 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "스마트모빌리티공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "갈등 상황을 극복한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "스마트모빌리티공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공 관련 수학/과학 과목에서 좋아하는 내용은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "스마트모빌리티공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스마트모빌리티의 정의 및 주요사례를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "스마트모빌리티공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "첨단 기술 도입에 따라 개선 가능한 기존 교통시스템의 문제점은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "스마트모빌리티공학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 내 비교과활동 중 자랑스럽게 말할 수 있는 경험은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 리더십 경험을 말해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인이 방문한 건축물?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건축에 관련되어서 읽어본 책은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건축에는 다양한 요인들이 영향을 끼칩니다. 우리나라에서는 어떤 요인이 가장 중요하다고 생각하는지 두가지 요인을 꼽아주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "그런 요인을 적용한 건축가나 건축물을 알고 있으면 얘기해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "전통건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "공동의 목표를 위해 본인이 솔선수범했던 경험은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "전통건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공관련 동아리 혹은 진로탐색 활동 경험을 이야기해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "전통건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건축가로서 이성과 감성이 모두 중요한데 본인은 어떠한 부분에 강점이 있으며, 약한 부분을 보안하기 위해 어떠한 노력을 했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "전통건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "좋아하는 건축 작품, 건축가, 관련 서적은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(교과면접전형)",
+   "unit": "전통건축학전공",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건축가로서 본인의 어떠한 부분이 강점으로 작용할 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공에 관심을 가지게 된 계기와 그 이후 어떤 활동을 하였는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전공에 관련되어 명시된 내용 중 어떤 활동을 어느 정도 해 보았는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생이 지원 전공에 대해서 어떠한 활동과 노력을 했는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교 과정 중 전공관련 탐구활동 및 진로탐색을 위한 노력한 결과를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수행평가로 OOO에 대해 조사했는데, OOO이 무엇이고, 왜 필요하다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수업시간에‘OOO’에 대해 토론했다고 하는데 본인은 찬성과 반대 중에 어떤 입장이었고, 그 근거가 무엇인가요? 그리고 상대편의 입장은 어땠나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수업시간에 OOO 실험을 했는데 어떤 원리를 활용하였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "O학년 O학기 학생회장을 하셨습니다. 학생들의 안건을 학교에 효과적으로 전달하는 방법은 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(명지인재면접전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로활동시간에 OO 관련 발표를 했군요, 발표 준비를 위해 어떤 노력을 했나요? 그 과정에서 어려움은 없었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  }
+ ]
+}

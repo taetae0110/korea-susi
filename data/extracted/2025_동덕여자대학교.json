@@ -1,0 +1,111 @@
+{
+ "source": {
+  "university": "동덕여자대학교",
+  "year": 2025,
+  "file": "2025_동덕여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "동덕창의리더전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "평가위원 2인 / 개별면접",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "학업역량",
+     "weight": "35"
+    },
+    {
+     "name": "진로역량",
+     "weight": "40"
+    },
+    {
+     "name": "공동체역량",
+     "weight": "25"
+    }
+   ],
+   "page": 14
+  }
+ ],
+ "questions": [
+  {
+   "admission": "동덕창의리더전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "○○○활동을 계획하면서 가장 중점을 두고 준비한 부분은 무엇인가요? 예상된 어려움은 무엇이었으며, 그것을 해결하기 위해 어떤 준비를 했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "동덕창의리더전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "○학년 ○학기 ○○시간에 ○○발표했다고 되어 있는데 발표한 내용에 대해서 간략하게 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "동덕창의리더전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "○○○전공을 위해 고등학교에서 어떤 과목을 학습(선택)했습니까? 그 과목 중 기억에 남는 학습 내용이 있다면 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "동덕창의리더전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "○학년 ○학기에 실시했던 교내 ○○활동의 과정을 구체적으로 말하고 그 활동이 지원 전공과 관련하여 어떤 의미를 가지는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "동덕창의리더전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "학교생활을 하면서 친구들과 불화를 겪은 적이 있습니까? 불화를 해결하기 위해 어떠한 노력을 했습니까? 친구가 지원자와 반대 의견을 계속 내세운다면 어떻게 하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "동덕창의리더전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "고교생활 중 타인을 위하여 자신의 것을 나누고자 한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "source": {
+  "university": "광운대학교",
+  "year": 2025,
+  "file": "2025_광운대학교"
+ },
+ "interviews": [
+  {
+   "admission": "광운참빛인재전형Ⅰ-면접형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "각 평가조별 입학사정관 2인으로 구성된 평가위원이 지원자에 대하여 개별 대면 면접 방식으로 진행",
+   "duration": "면접 소요시간 10분 이내",
+   "criteria": [
+    {
+     "name": "발전가능성",
+     "weight": "45"
+    },
+    {
+     "name": "종합적 사고력",
+     "weight": "30"
+    },
+    {
+     "name": "인성",
+     "weight": "25"
+    }
+   ],
+   "page": 21
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "units": "자연",
+   "format": "서류기반",
+   "method": "각 평가조별 입학사정관 2인으로 구성된 평가위원이 지원자에 대하여 개별 대면 면접 방식으로 진행",
+   "duration": "면접 소요시간 10분 이내",
+   "criteria": [
+    {
+     "name": "발전가능성",
+     "weight": "45"
+    },
+    {
+     "name": "종합적 사고력",
+     "weight": "30"
+    },
+    {
+     "name": "인성",
+     "weight": "25"
+    }
+   ],
+   "page": 21
+  },
+  {
+   "admission": "재외국민전형",
+   "units": "전체",
+   "format": "인성",
+   "method": "개별 면접 : 면접위원 2인이 지원자 1인을 평가",
+   "duration": "10분 이내",
+   "criteria": [
+    {
+     "name": "전공적합성",
+     "weight": "40"
+    },
+    {
+     "name": "학업계획 및 포부",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통능력",
+     "weight": "30"
+    }
+   ],
+   "page": 22
+  }
+ ],
+ "questions": [
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "O학년 O학기 OO교과 세부능력 및 특기사항을 살펴보면 OO에 관한 내용에 대하여 조사분석하여 발표한 적이 있습니다. 이때 OO주제 선정이유와 준비과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "O학년 이후 세부능력 및 특기사항을 살펴보면, 전반적으로 OO 관련 분야의 독서 내용이 많은데 책을 선정한 기준에 대하여 말씀해주세요.",
+    "관련 내용 중 기억에 남는 이론은 무엇이 있는지 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "O학년 동아리활동에서 OO결과가 우리 사회에 미칠 영향에 따른 대처 방안을 발표하였다고 하였는데 그 내용과 관련근거를 구체적으로 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "종합적 사고력",
+   "passage": null,
+   "prompts": [
+    "창체활동을 살펴보면 OO분야의 진로를 지속적으로 희망하고 있는데, 이 분야를 전공하기 위해서 필요한 역량은 무엇이라고 생각하는지와 그 이유를 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "2, 3학년 OO부 부장으로 활동하게 된 계기는 무엇인가요? 동아리를 운영하면서 특별히 어려웠던 점과 어떻게 해결하려고 노력하였는지 답변해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "매학년 학기마다 학급 주변 정화활동을 꾸준히 해서 총 OO시간 봉사활동을 해왔는데 지속적으로 수행해온 이유를 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "광운참빛인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "출결상황 중 미인정 결석이 O회 확인되는데 사유를 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 21
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "O학년 O학기 OO교과 세부능력 및 특기사항을 살펴보면 OO에 관한 내용에 대하여 조사분석하여 발표한 적이 있습니다. 이때 OO주제 선정이유와 준비과정을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "O학년 이후 세부능력 및 특기사항을 살펴보면, 전반적으로 OO 관련 분야의 독서 내용이 많은데 책을 선정한 기준에 대하여 말씀해주세요.",
+    "관련 내용 중 기억에 남는 이론은 무엇이 있는지 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "O학년 O학기 OO교과에서 수행한 OO 프로그래밍 활동 중 설계하는 과정과 내용에 대해 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "OO 프로그래밍 활동 중 실제 구현하는 과정에서 사용한 방법과 어려웠던 점을 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "종합적 사고력",
+   "passage": null,
+   "prompts": [
+    "창체활동을 살펴보면 OO분야의 진로를 지속적으로 희망하고 있는데, 이 분야를 전공하기 위해서 필요한 역량은 무엇이라고 생각하는지와 그 이유를 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "2, 3학년 OO부 부장으로 활동하게 된 계기는 무엇인가요? 동아리를 운영하면서 특별히 어려웠던 점과 어떻게 해결하려고 노력하였는지 답변해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "소프트웨어우수인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "매학년 학기마다 학급 주변 정화활동을 꾸준히 해서 총 OO시간 봉사활동을 해왔는데 지속적으로 수행해온 이유를 말씀해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "전공 관련 과거 활동 중 본인에게 가장 유의미한 활동은 무엇인가요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "학교에서 어떤 동아리(클럽)활동을 하였으며, 그 활동은 본인에게 어떤 영향을 주었나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "학창시절 여가시간에 주로 무엇을 하며 보냈나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "전공 관련 분야에 대한 활동 중, 깊이있는 독서로 확장된 사례가 있었나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "본인은 학교 수업시간에 어떤 학생이었다고 생각되나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "본 전공에 필요한 소양을 갖추기 위해 가장 필요한 과목이 무엇이라 생각하나요",
+    "그리고 그 과목의 성적을 높이기 위해 어떤 노력을 하였나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업계획 및 포부",
+   "passage": null,
+   "prompts": [
+    "대학 입학 후 본 전공에서 가장 배우고 싶은 분야나 과목은 무엇인가요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업계획 및 포부",
+   "passage": null,
+   "prompts": [
+    "대학 입학 후 기대되는 교내활동은 무엇인가요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업계획 및 포부",
+   "passage": null,
+   "prompts": [
+    "본인의 진로희망(희망하는 직업)을 이루기 위해 본인이 부족한 점이 뭐라고 생각하며, 대학생활에서 어떻게 보완할 계획인가요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업계획 및 포부",
+   "passage": null,
+   "prompts": [
+    "본인의 진로희망(희망하는 직업)을 이루기 위한 방법을 알아봤나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업계획 및 포부",
+   "passage": null,
+   "prompts": [
+    "그 진로희망을 통해 미래에 구체적으로 어떤 성취를 하고 싶은지 계획이 있나요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업계획 및 포부",
+   "passage": null,
+   "prompts": [
+    "전공 관련 분야에서 닮고 싶은 롤모델이 있다면 누구인가요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  }
+ ]
+}

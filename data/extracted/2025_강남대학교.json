@@ -1,0 +1,155 @@
+{
+ "source": {
+  "university": "강남대학교",
+  "year": 2025,
+  "file": "2025_강남대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(서류면접전형)",
+   "units": "인문·자연계열·예체능계열",
+   "format": "서류기반",
+   "method": "면접관 3인 대 지원자 1인 개별 대면면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "전형의 적합성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "인성적 자질",
+     "weight": null
+    },
+    {
+     "name": "종합적 사고력 및 의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "학생부종합(장애인 등 대상자전형)",
+   "units": "인문·예체능계열",
+   "format": "서류기반",
+   "method": "면접관 3인 대 지원자 1인 개별 대면면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "전형의 적합성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "인성적 자질",
+     "weight": null
+    },
+    {
+     "name": "종합적 사고력 및 의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 12
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전형의 적합성",
+   "passage": null,
+   "prompts": [
+    "경제수학 과목을 선택하여 이수했네요. 다른 과목보다 이수자 수가 적은데 이 과목을 선택한 이유가 있을까요? 학습을 위해 노력한 게 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전형의 적합성",
+   "passage": null,
+   "prompts": [
+    "고등학교 생활을 하면서 본인이 가장 노력했던 경험이 있다면 어떤 것인가요? 그 활동을 통해 배우고 느낀 점을 이야기 해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "○○학과에 지원하였네요. ○○학과에 지원하게 된 동기가 된 고교 재학기간 중 활동이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "사회 교과 시간에 ‘저출산 지원정책의 문제점과 해결방안’을 주제로 조사해서 발표한 경험이 있네요. 발표 내용 중 기억에 남는 내용이 있으면 소개해 볼까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "진로 선택 과목 선택할 때 고려했던 것과 과목 이수 후 도움이 되었던 점은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성적 자질",
+   "passage": null,
+   "prompts": [
+    "학생회에서 축제를 기획한 경험이 있는데, 어떤 역할을 맡아서 수행하였나요?",
+    "역할 수행을 하다가 어려운 점은 어떻게 해결하였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성적 자질",
+   "passage": null,
+   "prompts": [
+    "분리수거 도우미로 봉사를 해왔는데, 이 활동에 참여한 계기는 무엇인가요? 힘들었던 점을 어떻게 극복했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  }
+ ]
+}

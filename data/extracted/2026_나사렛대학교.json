@@ -1,0 +1,72 @@
+{
+ "source": {
+  "university": "나사렛대학교",
+  "year": 2026,
+  "file": "2026_나사렛대학교"
+ },
+ "interviews": [
+  {
+   "admission": null,
+   "units": null,
+   "format": "인성",
+   "method": "사전 공개한 문항을 중심으로 질문하여 대답하는 방식의 구술면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": "30"
+    },
+    {
+     "name": "전공적합성",
+     "weight": "30"
+    },
+    {
+     "name": "자기계발의지",
+     "weight": "40"
+    }
+   ],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "00학과에 지원하게 된 동기를 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교생활 중 본인에게 가장 기억에 남는 경험을 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 진학 후 진로 계획에 대해 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  }
+ ]
+}

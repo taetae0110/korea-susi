@@ -1,0 +1,112 @@
+{
+ "source": {
+  "university": "서울시립대학교",
+  "year": 2026,
+  "file": "2026_서울시립대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "2인의 면접위원이 지원자1인을 대상으로",
+   "duration": "수험생 1인당 12분",
+   "criteria": [
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "잠재역량",
+     "weight": null
+    },
+    {
+     "name": "사회역량",
+     "weight": null
+    }
+   ],
+   "page": 23
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "국제평화주의를 탐구하며 UN 상임이사국들의 권력집중 문제로 국제 분쟁이 해결되지 않는다고 주장했는데, 국제평화주의가 무엇인지 정의하고 UN 상임이사국들의 권력이 어떻게 집중되어 있으며 해당 구조는 왜 분쟁 해소에 실패하는 구조인지 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 63
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생명공학기술 탄구 시간에 효소면역측정법의 개념과 특징을 설명했으며, 특히 효소면역측정법의 다양한 종류를 직접 그림으로 그려 표현했다고 하는데, 실제 그림으로 표현하며 개념과 특징을 설명해보세요. 또한, 효소면역측정법의 장접과 단점에 대해 설명하고 단정을 개선할 방법을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 63
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "“철학이란 헛소리 향연” 이라는 제목으로 북석철학에 관한 정보를 전달하는 글을 작성했는데, 분석철학에 대해 설명하고 분석철학의 관점에서 철학이 왜 헛소리인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 63
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "염료 간응형 태양전지에 대해 흥미를 가지고 팀을 구성하여 실험을 해본 것으로 기재되어 있는데, 염료감응형 태양전지가 무엇인지 설명하고 작동 원리와 활용법을 말해보세요.",
+    "블루베리와 시금치에서 추출한 천연 염료를 사용해 전지를 제작하고, 염료의 빛 흡수 효율을 비교했다고 하는데, 해당 재료를 선정하고 해당 효율을 비교한 이유와 결과를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 63
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "복지의 지방분권화가 아동복지에 전반적으로 부정적인 영향이 될 수 있다는 연구결과를 접한 뒤 복지의 지방분권화에 대한 한계와 극복 방안을 알아보고자 탐구했다고 하는데, 복지의 지방분권화는 어떠한 현상이고 해당 현상이 아동복지에 어떤 식으로 부정적인 영향을 미치나요? 이를 어떻게 개선할 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 63
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "양자 혼돈 이론에 대해 배우며, 무작위 행렬의 고유값 분포와 리만 제타 함수의 비자명근 사이에서의 통계적 유사성을 통해 다양한 가능성을 확인했다고 하는데, 무작위 행렬의 고유값 분포와 리만 제타 함수의 비자명근 사이에서의 통계적 유사성을 어떻게 확인했나요? 수학적 분석이나 통계적 접근방법은 어떤 식으로 적용해 확인했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 63
+  }
+ ]
+}

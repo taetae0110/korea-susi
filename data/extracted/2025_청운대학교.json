@@ -1,0 +1,1367 @@
+{
+ "source": {
+  "university": "청운대학교",
+  "year": 2025,
+  "file": "2025_청운대학교"
+ },
+ "interviews": [
+  {
+   "admission": "청운인재전형",
+   "units": "공연기획경영학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기초역량",
+     "weight": null
+    },
+    {
+     "name": "전공역량",
+     "weight": null
+    }
+   ],
+   "page": 5
+  },
+  {
+   "admission": "청운인재전형",
+   "units": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기초역량",
+     "weight": null
+    },
+    {
+     "name": "전공역량",
+     "weight": null
+    }
+   ],
+   "page": 6
+  },
+  {
+   "admission": "청운인재전형",
+   "units": "항공서비스경영학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기초역량",
+     "weight": null
+    },
+    {
+     "name": "전공역량",
+     "weight": null
+    }
+   ],
+   "page": 6
+  },
+  {
+   "admission": "청운인재전형",
+   "units": "스포츠과학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기초역량",
+     "weight": null
+    },
+    {
+     "name": "전공역량",
+     "weight": null
+    }
+   ],
+   "page": 6
+  },
+  {
+   "admission": "청운인재전형",
+   "units": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기초역량",
+     "weight": null
+    },
+    {
+     "name": "전공역량",
+     "weight": null
+    }
+   ],
+   "page": 6
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "units": "사회서비스대학",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기초역량",
+     "weight": null
+    },
+    {
+     "name": "전공역량",
+     "weight": null
+    }
+   ],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "우리 학과에 지원하게 된 동기는 무엇인지"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "우리 학과에 무엇을 배우기 위해 지원하였는가"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "우리 학과에 입학하여 이루고자 하는 것"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "현재까지 어떤 봉사활동을 하였으며, 봉사활동을 하면서 느낀점"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "본인의 장점"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "감명 깊게 읽은 책과 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "좋아하는 과목 또는 분야 및 이유"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "본인의 좌우명은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "사람들은 모두 성공한 삶을 살고자 하는데, 인생에서의 성공이란?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "존경하는 사람과 그 이유"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "좋은 친구란?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "공연기획이란 무엇이라고 생각하는가"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "예술이란 무엇이라고 생각하는가"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "예술작품, 소비자, 예술가 중 무엇이 가장 중요한지"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "공연기획자가 하는 일은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "최근 문화산업의 현상에 대한 개인적인 생각"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "우리 학과에 입학하기 위해 준비한 것"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "공연예술관련 활동을 한 경험이 있는지"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "공연의 장르를 아는대로 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "최근 관람한 공연 중에서 인상깊었던 공연 혹은 자신에게 영향을 준 공연은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "공연기획자의 자질은 무엇인지"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "리더가 갖춰야 하는 요건은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "청운대학교로 오행시를 지어 보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "친구들과 소통하고 주목 받기 위한 본인만의 노하우는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "공연기획경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "좋은 공연이란?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "주위에서 조리사가 되는 것을 반대한다면 어떻게 하겠는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "손님이 요리(서비스) 도중 욕을 한다면 어떻게 하겠는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "대화를 나누는데 가장 중요한 것은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "본인이 가장 존경하는 인물과 그 이유에 대해 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "고교시절 사회봉사 활동이나 동아리 활동을 한 경험이 있다면 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "본인의 좌우명(가치관)은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "학과에 지원하겠다고 결정한 것은 언제부터이며 지원한 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "조리사가 갖추어야할 덕목에 대해 말하시오. 그 중 가장 중요한 덕목은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "조리사가 되어 첫 월급을 타면 어떻게 쓰고 싶은가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "요리와 조리의 차이점은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "21세기 산업 중에서 외식산업의 전망은 어떻다고 보는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "세계 3대 진미는 무엇일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "대학에 입학해서 하고 싶은 일과 학업계획은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "리더는 어떤 덕목을 가져야하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "호텔조리베이커리경영학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "호텔조리베이커리경영학과를 졸업한 후에 어떤 분야로 취업하고 싶은가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "인성과 적성",
+   "passage": null,
+   "prompts": [
+    "서비스인으로서 갖추어야할 가장 필요한 자질은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "인성과 적성",
+   "passage": null,
+   "prompts": [
+    "자신만의 스트레스 해소법은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "인성과 적성",
+   "passage": null,
+   "prompts": [
+    "본인이 생각하는 ‘승무원’이란 직업에 어울리는 자신의 적성은 무엇이라 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "태도와 소양",
+   "passage": null,
+   "prompts": [
+    "자신이 참여한 봉사활동을 소개하고 배운점은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "태도와 소양",
+   "passage": null,
+   "prompts": [
+    "우리나라를 대표하는 자랑거리는 무엇이라고 생각하고 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "태도와 소양",
+   "passage": null,
+   "prompts": [
+    "국내,외 여행을 해본 경험과 가장 가보고 싶은 나라와 그 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "외적 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "자신만의 매력은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "외적 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "평소 건강관리 및 생활태도는 어떻게 하고 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "외적 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "여유시간에 주로 하는 취미활동은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "내적 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "무인도에 간다면 꼭 가져갈 두 가지 아이템은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "내적 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "기내식사 서비스 중 손님이 원하는 않은 식사를 드려야할 경우 그 대처방법은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "내적 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "기내에서 추워하는 승객과 더워하는 승객을 위한 각각의 대처방법은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "언어 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "대학 생활동안 꼭 하고 싶은 목표를 세가지 이상 소개해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "언어 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "자신의 고장에 대하여 소개해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "항공서비스경영학과",
+   "format": "인성",
+   "competency": "언어 서비스 역량",
+   "passage": null,
+   "prompts": [
+    "승무원이 된다면 제일 하고 싶은 목표를 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "리더(주장)의 역할은 무엇이라 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "학교생활 중 어려움이 닥치면 어떻게 극복할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "과거에 참여했던 봉사활동 중 가장 기억에 남는 경험은 무서이며 그 경험이 본인에게 어떠한 영향을 미쳤나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "봉사활동에 참여하게 된 이유?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "장기적인 목표를 달성하기 위해 세운 계획을 끝까지 실천한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "다양한 사람들과의 협력이 필요한 경우 어떻게 그들과 원활하게 소통하고 협력할 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠건강관리역량",
+   "passage": null,
+   "prompts": [
+    "개인적으로 건강 관리를 위해 어떤 노력을 해왔나요?(구체적인 사례)"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠건강관리역량",
+   "passage": null,
+   "prompts": [
+    "정기적으로 운동을 한다면 어떤 종류의 운동을 선호하며, 그 이유는 무엇인지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠건강관리역량",
+   "passage": null,
+   "prompts": [
+    "신체수련 과정에서 기술이나 체력을 향상시키기 위해 어떤 방법을 사용했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠건강관리역량",
+   "passage": null,
+   "prompts": [
+    "신체수련이 정신적 건강에 미치는 영향에 대해 어떻게 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠경기수행역량",
+   "passage": null,
+   "prompts": [
+    "스포츠 활동에서 실패한 경험이 있다면 그 경험에서 무엇을 배웠고, 이 후 어떻게 개선했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠경기수행역량",
+   "passage": null,
+   "prompts": [
+    "어려운 경기나 훈련 후 어떻게 멘탈을 회복하나요? 스트레스를 관리하는 방법에 대해 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠경기수행역량",
+   "passage": null,
+   "prompts": [
+    "팀 경기에서 자신의 역할을 수행하는 데 있어 다른 팀원들과의 협력이 얼마나 중요한가요?(구체적인 사례를 들어 설명)"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "스포츠경기수행역량",
+   "passage": null,
+   "prompts": [
+    "경기를 마친 후 자신의 수행력을 어떻게 분석하고 개선하기 위한 계획을 세우나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "자기 소개를 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "청운대학교를 알게 된 루트를 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "팬데믹 상황에서 의미 있는 활동을 한 적이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "고교생활 중 동아리활동이나 봉사 활동을 한 경험을 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "학교 생활 중 어려움을 이겨냈던 경험이 있다면 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "자신의 장점과 단점을 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "학과에 지원한 이유는 뭔가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "해당 전공에 대한 꿈은 언제부터였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "졸업 후 진로에 대한 계획을 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "입학 후 배우게 될 교과목 중 가장 관심이 있는 과목은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "전공 분야로 잘 알고 있는 기업이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "지원 학과 진학을 위해 의미를 두고 노력했던 사례가 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "대학 입학 후 가장 해보고 싶은 활동은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "꿈은 무엇이며 꿈을 이루기 위해 어떤 자질이 필요할까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "청운인재전형",
+   "unit": "인천캠퍼스 전 학과",
+   "format": "인성",
+   "competency": "전공잠재력",
+   "passage": null,
+   "prompts": [
+    "전공 관련 관심있는 직업군이 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "추천하고 싶은 책, 그 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "본인이 생각하는 대인관계는 어떠한가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "본인의 장점과 단점은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "누군가 나에게 선입견을 가지고 부당한 대우를 한다면 어떻게 할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "본인이 생각하는 바람직한 리더란 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "인성 및 가치관",
+   "passage": null,
+   "prompts": [
+    "여러가지 갈등이 생길 수 있는데 어떻게 해결할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "해당 학과에 지원한 이유와 항후 어떠한 목표를 가지고 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "본인이 지원한 학과가 적서에 맞지 않는다면 어떻게 하겠는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "해당 학과에서 핵심적으로 배울 수 있는 것이 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "특별히 관심있는 분야(사회복지, 청소년상담, 창업경영, 사회적경제, 뷰티산업, 부동산경영, 농생명식품융합, 글로벌한국어교육 등)에는 어떠한 것이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "최근에 관심있는 사회문제(사회복지, 청소년상담, 창업경영, 사회적경제, 뷰티산업, 부동산경영, 농생명식품융합, 글로벌한국어교육 등)는 무엇인가?,"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "평생학습자전형, 재직자특별전형",
+   "unit": "사회서비스대학",
+   "format": "인성",
+   "competency": "전공준비도",
+   "passage": null,
+   "prompts": [
+    "5년(혹은 10년) 후 학생은 어디서 무슨 일을 하고 있으리라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  }
+ ]
+}

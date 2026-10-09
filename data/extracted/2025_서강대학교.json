@@ -1,0 +1,72 @@
+{
+  "source": {
+    "university": "서강대학교",
+    "year": 2025,
+    "file": "2025_서강대학교"
+  },
+  "interviews": [
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "units": "일부 학과",
+      "format": "서류기반",
+      "method": "일반면접(다대일면접)",
+      "duration": "1인당 5분 내외",
+      "criteria": [
+        {
+          "name": "학업능력",
+          "weight": null
+        },
+        {
+          "name": "의사소통능력",
+          "weight": null
+        },
+        {
+          "name": "인성",
+          "weight": null
+        }
+      ],
+      "page": 28
+    }
+  ],
+  "questions": [
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "본교 ○○전공에 지원한 동기에 대해서 구체적으로 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 108
+    },
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "한국에서 고등학교 생활을 하면서 어려웠던 점과 극복방법에 대해 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 108
+    },
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 수업 중 가장 기억에 남는 수업 또는 학생에게 영향을 준 수업을 선정하여 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 108
+    }
+  ]
+}

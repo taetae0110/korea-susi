@@ -1,0 +1,94 @@
+{
+ "source": {
+  "university": "한국외국어대학교",
+  "year": 2025,
+  "file": "2025_한국외국어대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형(면접형)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "공동체역량",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "재외국민전형",
+   "units": "전체",
+   "format": "인성",
+   "method": "온라인 면접영상 업로드",
+   "duration": null,
+   "criteria": [],
+   "page": 13
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 어떤 역할을 하였나요? 본인의 역할에 만족하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교 3년간 가장 의미 있었던 활동은 무엇인가요? 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교생활 중 본인의 진로 탐색을 위해 어떤 노력을 했었는지 그리고 교과(학업) 관련해서 가장 의미 있었던 성취는 무엇이었는지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교생활 중 리더십을 발휘한 경험이나 동료와의 갈등이 있었을 때 어떤 식으로 해결을 했었는지 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  }
+ ]
+}

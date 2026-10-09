@@ -1,0 +1,142 @@
+{
+ "source": {
+  "university": "협성대학교",
+  "year": 2025,
+  "file": "2025_협성대학교"
+ },
+ "interviews": [
+  {
+   "admission": "미래역량우수자",
+   "units": "인문, 사회, 공학, 자연",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "담임목회자추천",
+   "units": "인문, 사회",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "협성창의인재",
+   "units": "인문, 사회, 공학, 자연",
+   "format": "서류기반",
+   "method": "2인의 면접관에 의한 지원자 1인 개별면접",
+   "duration": "1인당 10분 내외",
+   "criteria": [
+    {
+     "name": "전공적합성 및 발전가능성",
+     "weight": "30"
+    },
+    {
+     "name": "인성적 자질",
+     "weight": "40"
+    },
+    {
+     "name": "종합적사고력 및 의사소통",
+     "weight": "30"
+    }
+   ],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성분야",
+   "passage": null,
+   "prompts": [
+    "가장 큰 실패 또는 좌절의 경험을 한 가지만 말해 보세요. 그리고 이를 어떻게 극복했는지, 극복하지 못 했다면 그 이유는 무엇인지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성분야",
+   "passage": null,
+   "prompts": [
+    "사회적 약자에 대한 배려가 어떻게 사회 구성원 모두에게 이익을 줄 수 있는지 구체적인 예와 함께 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "시사상식분야",
+   "passage": null,
+   "prompts": [
+    "혁신적 기술 발전의 방향인 AI가 교육 환경에 미칠 영향에 대하여 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "시사상식분야",
+   "passage": null,
+   "prompts": [
+    "매년 가속화되고 있는 저출생의 원인은 무엇이며, 이 문제해결을 위해 우리 사회는 어떠한 노력을 해야 할지 자신의 생각을 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "시사상식분야",
+   "passage": null,
+   "prompts": [
+    "청년 고용과 관련된 사회적 문제를 한 가지만 제시하고, 이를 해결하기 위한 방안을 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "협성창의인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "00학과에 지원하기 위해 어떤 준비를 하였으며, 합격 이후 학업계획은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "협성창의인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자의 장점은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  }
+ ]
+}

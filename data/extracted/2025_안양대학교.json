@@ -1,0 +1,693 @@
+{
+ "source": {
+  "university": "안양대학교",
+  "year": 2025,
+  "file": "2025_안양대학교"
+ },
+ "interviews": [
+  {
+   "admission": "아리학생부면접전형",
+   "units": "전체",
+   "format": "인성",
+   "method": "면접관 2명, 지원자 1명의 일대다 방식",
+   "duration": "5분 이내",
+   "criteria": [
+    {
+     "name": "지원동기 및 지원학과에 대한 관심도",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력 및 공동체의식",
+     "weight": null
+    }
+   ],
+   "page": 8
+  },
+  {
+   "admission": "아리학생부종합Ⅰ전형",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "면접관 2명, 지원자 1명의 일대다 방식",
+   "duration": "10분 이내",
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 8
+  },
+  {
+   "admission": "체육특기자전형",
+   "units": "예체능계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "units": "예체능계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "지원 동기",
+   "passage": null,
+   "prompts": [
+    "학창 시절 본 학과(전공) 선택에 영향을 준 과목이나 활동이 있었나요? 있었다면 구체적으로 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공과 진로",
+   "passage": null,
+   "prompts": [
+    "본 학과(전공)를 졸업하면 어떤 분야에서 활동하게 되는지 설명하고, 졸업 후 내가 진출하고 싶은 분야에 관해서 구체적으로 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공 이해",
+   "passage": null,
+   "prompts": [
+    "지원한 전공과 관련하여 최근에 접한 뉴스, 영화, 책 중에서 기억에 남는 것이 있다면 구체적으로 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공 이해",
+   "passage": null,
+   "prompts": [
+    "본 학과 전공자에게 필요한 자질은 무엇이라고 생각하는지 구체적으로 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": "기독교교육과, 유아교육과",
+   "format": "인성",
+   "competency": "교직 선택 동기",
+   "passage": null,
+   "prompts": [
+    "교직을 선택한 이유는 무엇인가요? 구체적인 경험이나 계기가 있다면 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": "기독교교육과, 유아교육과",
+   "format": "인성",
+   "competency": "교직 선택 동기",
+   "passage": null,
+   "prompts": [
+    "교직의 어떤 점이 가장 매력적이라고 생각하나요? 그 이유가 무엇인지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": "기독교교육과, 유아교육과",
+   "format": "인성",
+   "competency": "교사 자질",
+   "passage": null,
+   "prompts": [
+    "학생들과 긍정적인 관계를 형성하기 위해서 필요한 교사의 역할과 자질은 무엇이라고 생각하는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "지원 동기",
+   "passage": null,
+   "prompts": [
+    "본 학과(전공) 선택에 영향을 준 사건이나 사람이 있었나요? 내가 전공을 선택하는데 그 사건(사람)의 어떤 점이 영향을 미쳤다고 생각하는지 이야기해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공 이해",
+   "passage": null,
+   "prompts": [
+    "본 학과(전공) 관련 최신 동향이나 이슈에 관하여 알고 있는 것을 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공의 이해",
+   "passage": null,
+   "prompts": [
+    "본 학과(전공)와 관련하여 어떠한 활동(교과 또는 비교과 활동)을 해보는 것이 전공 이해 및 진로 개발에 도움이 될 수 있다고 생각하는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "전공 소양",
+   "passage": null,
+   "prompts": [
+    "학창 시절 본 학과(전공)와 관련된 자료를 찾아보거나 독서를 한 경험이 있나요? 경험이 있다면 어떤 내용을 접했는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": "기독교교육과, 유아교육과",
+   "format": "인성",
+   "competency": "교직 선택 동기",
+   "passage": null,
+   "prompts": [
+    "교직 선택에 영향을 준 교사나 멘토가 있나요? 내가 교직을 선택하는 데 그분의 어떤 점이 영향을 미쳤다고 생각하는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": "기독교교육과, 유아교육과",
+   "format": "인성",
+   "competency": "교직 선택 동기",
+   "passage": null,
+   "prompts": [
+    "교직에서 예상되는 도전이나 어려움은 무엇이라고 생각하나요? 이를 어떻게 극복해 나갈 수 있다고 생각하는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(아리학생부면접)전형",
+   "unit": "기독교교육과, 유아교육과",
+   "format": "인성",
+   "competency": "교사 역할",
+   "passage": null,
+   "prompts": [
+    "교사가 수행해야 하는 가장 중요한 역할은 무엇이라고 생각하나요? 그 이유를 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "지원동기, 우리 대학의 이해",
+   "passage": null,
+   "prompts": [
+    "여러 대학 중 우리대학을 선택한 동기가 있나요? 특별한 이유가 있다면 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인생 목표",
+   "passage": null,
+   "prompts": [
+    "10년 후 나의 모습은 어떤 모습일거라고 생각하나요? 그 목표를 이루기 위해서 어떤 노력을 해야 한다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "강점",
+   "passage": null,
+   "prompts": [
+    "나의 강점은 무엇이라고 생각하나요? 나의 강점이 가장 잘 발휘되었던 사례가 있었다면 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "실패 극복",
+   "passage": null,
+   "prompts": [
+    "본인이 무언가에 도전했다가 실패한 경험이 있습니까? 실패에서 교훈을 얻어 이후에 도움이 되었던 경험이 있다면 이야기해 보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "협력역량",
+   "passage": null,
+   "prompts": [
+    "학창 시절 팀 프로젝트에서 주로 맡았던 역할과 그에 따른 기여는 무엇이었는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "지원동기, 우리 대학에 대한 이해",
+   "passage": null,
+   "prompts": [
+    "나의 꿈을 이루는 데 안양대학교가 어떤 도움을 줄 수 있을 것이라고 생각하나요? 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인생목표, 장래희망",
+   "passage": null,
+   "prompts": [
+    "대학 졸업 후 어떤 분야에서 일하고 싶은가요? 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "강점",
+   "passage": null,
+   "prompts": [
+    "내가 다른 사람보다 특별히 잘하는 분야가 있다면 무엇인지 사례를 들어 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "열정, 도전정신",
+   "passage": null,
+   "prompts": [
+    "학창 시절 도전적인 프로젝트에 참여해 본 경험이 있나요? 도전적인 프로젝트 수행 과정에서 무엇을 느꼈는지 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "생부종합(아리학생부종합1)전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "위기, 실패극복",
+   "passage": null,
+   "prompts": [
+    "팀 프로젝트에서 갈등이 발생했을 때 이를 해결하고 협력적인 관계를 유지하기 위해 노력한 경험이 있나요? 그 과정에서 무엇을 느꼈는지 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "안양대학교 스포츠단과 강화캠퍼스에 대해서 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "세계대회에서 본인종목이 발전하기 위해 필요한 개선 사항은 무엇이라고 생각하는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "지원자가 안양대 스포츠단에 들어올 경우 안양대학교 스포츠단에서 이루고 싶은 목표는 무엇인지 설명해 보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "특기자는 학교 대표로 4학년 졸업까지 지속적으로 훈련과 시합이 진행될텐데 (군입대(남학생)와 선수생활은 언제까지 하고 싶고 졸업전까지 휴학 계획이 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "지금까지 가장 자랑스럽게 생각하는 경기 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "운동선수를 선택하게 된 가장 큰 계기에 대해서 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "운동하면서 가장 힘들었던 일과 극복하기 위해 노력한 경험은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠산업체육학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "스트레스가 심할 때 이를 해소하기 위한 자신만의 방법이 있다면 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "안양대학교 스포츠단과 강화캠퍼스에 대해서 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "지금까지 가장 자랑스럽게 생각하는 경기 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "경기 중 자신의 약점을 보완하기 위해 어떤 훈련을 하였으며, 그 훈련이 경기력에 어떤 변화를 가져왔는지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "경기외적인 생활 습관 중에서 자신의 경기력에 가장 큰 영향을 준 요소는 무엇이며, 이를 어떻게 관리를 하는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "자신의 가장 큰 경쟁력은 무엇이라고 생각하는지 말씀해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "친구들과 싸우거나 갈등이 있을 때 본인만의 해결방법은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "자신의 인생에서 가장 영향을 끼친 사람은 누구이고 그 이유를 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠과학과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "현대 사회에서 스포츠의 역할은 무엇이라고 생각하는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "안양대학교 스포츠단과 강화캠퍼스에 대해서 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "경기 중 자신의 약점을 보완하기 위해 어떤 훈련을 하였으며, 그 훈련이 경기력에 어떤 변화를 가져왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "합격 후 본인의 훈련 계획에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "전공소양",
+   "passage": null,
+   "prompts": [
+    "지원자의 종목에서 주로 발생하는 부상 유형과 이를 예방하기 위한 구체적인 훈련 방법을 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "자신의 가장 큰 경쟁력은 무엇이라고 생각하는지 말씀해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "팀에서 갈등이 발생했을 때 어떻게 해결했는지 사례를 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "자신의 인생에서 가장 영향을 끼친 사람은 누구이고 그 이유를 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "unit": "스포츠산업체육과",
+   "format": "인성",
+   "competency": "일반소양",
+   "passage": null,
+   "prompts": [
+    "현대 사회에서 스포츠의 역할은 무엇이라고 생각하는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  }
+ ]
+}

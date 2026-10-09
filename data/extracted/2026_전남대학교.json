@@ -1,0 +1,118 @@
+{
+  "source": {
+    "university": "전남대학교",
+    "year": 2026,
+    "file": "2026_전남대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합(고교생활우수자전형Ⅰ)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "학생부종합(후계농업경영인)",
+      "units": "농생계열",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "학생부종합(조기취업형계약학과)",
+      "units": "공학계열",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "학생부교과(특수교육대상자)",
+      "units": "예술, 의학계열 제외",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "재외국민과외국인 제1유형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "재외국민과외국인 제2유형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    }
+  ],
+  "questions": []
+}

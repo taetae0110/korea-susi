@@ -1,0 +1,159 @@
+{
+  "source": {
+    "university": "서강대학교",
+    "year": 2026,
+    "file": "2026_서강대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합전형(특성화고교졸업자)",
+      "units": "일부 학과",
+      "format": "서류기반",
+      "method": "일반면접(다대일면접)",
+      "duration": "1인당 7분 내외",
+      "criteria": [
+        {
+          "name": "학업능력",
+          "weight": null
+        },
+        {
+          "name": "의사소통능력",
+          "weight": null
+        },
+        {
+          "name": "인성",
+          "weight": null
+        }
+      ],
+      "page": 28
+    },
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "units": "일부 학과",
+      "format": "서류기반",
+      "method": "일반면접(다대일면접)",
+      "duration": "1인당 5분 내외",
+      "criteria": [
+        {
+          "name": "학업능력",
+          "weight": null
+        },
+        {
+          "name": "의사소통능력",
+          "weight": null
+        },
+        {
+          "name": "인성",
+          "weight": null
+        }
+      ],
+      "page": 29
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합전형(특성화고교졸업자)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 수업 중 가장 인상 깊었던 수업은 무엇인지, 그 수업을 통해서 학습한 내용과 본인의 역할을 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "학생부종합전형(특성화고교졸업자)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 생활 중 대학 진학을 위해 본인이 노력한 것 중 가장 의미있는 경험에 대해 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "학생부종합전형(특성화고교졸업자)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 생활 중 본인의 목표 혹은 대학 진학을 위해 본인이 특별히 노력한 것에 대해 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "학생부종합전형(특성화고교졸업자)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생활기록부에 독서 활동 기록이 많이 기록되어 있는데, 기억에 남는 책에 대해 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "학생부종합전형(특성화고교졸업자)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "학급 회장 활동을 통해 학우들간의 의견이 다를 때, 그 이견을 조율해나간 경험을 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "본교 ○○전공에 지원한 동기에 대해서 구체적으로 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "한국에서 고등학교 생활을 하면서 어려웠던 점과 극복방법에 대해 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    },
+    {
+      "admission": "재외국민전형(북한이탈주민)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 수업 중 가장 기억에 남는 수업 또는 학생에게 영향을 준 수업을 선정하여 설명하기 바랍니다."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 115
+    }
+  ]
+}

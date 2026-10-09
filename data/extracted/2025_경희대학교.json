@@ -1,0 +1,159 @@
+{
+ "source": {
+  "university": "경희대학교",
+  "year": 2025,
+  "file": "2025_경희대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "서류 역량을 재확인하는 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 26
+  },
+  {
+   "admission": "재외국민특별전형",
+   "units": null,
+   "format": "인성",
+   "method": "사전 제시 질문에 대해 영상을 탑재하여 평가하는 영상면접 방식",
+   "duration": null,
+   "criteria": [],
+   "page": 26
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 가장 흥미를 가졌던 과목은? 그 과목 수업에서 가장 의미 있거나 기억에 남는 활동은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "관심 분야와 관련해 주도적으로 이수한 과목이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "관심을 갖고 깊게 탐구한 활동이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "과목의 세부능력 및 특기사항에 독서활동이 기록되어 있는데, 어떤 부분이 가장 인상적이었는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "조별 과제나 팀별 활동에서 협업해서 이룬 성과, 본인의 역할은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "미인정 지각이 수회 있는데, 특별한 이유가 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "학교에서 나눔과 배려를 실천한 활동은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "학교에서 리더쉽을 발휘한 경험과 배운 점은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "최근 온라인 상에서 피해자를 집단으로 따돌리거나 괴롭히는 사이버 폭력 현상이 사회적인 문제가 되고 있습니다. 자신의 친구가 피해자로, 또는 가해자로 연루되었을 때 어떻게 해결하는 것이 좋을지 말해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업적성(한국어 능력)",
+   "passage": null,
+   "prompts": [
+    "이 학과를 지원한 이유를 설명하시오. 그리고 지원학과에 진학하기 위해 어떤 준비와 노력을 해 왔는지도 소개해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  }
+ ]
+}

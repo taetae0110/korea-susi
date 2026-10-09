@@ -1,0 +1,118 @@
+{
+ "source": {
+  "university": "서울대학교",
+  "year": 2025,
+  "file": "2025_서울대학교"
+ },
+ "interviews": [
+  {
+   "admission": "수시모집 일반전형",
+   "units": "전체",
+   "format": "제시문기반",
+   "method": "제시문 기반 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "수시모집 지역균형전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "제출서류 기반 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "수시모집 기회균형특별전형(사회통합)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "제출서류 기반 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "정시모집 기회균형특별전형(특수교육·북한이탈)",
+   "units": "전 모집단위",
+   "format": "서류기반",
+   "method": "제출서류 기반 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 109
+  },
+  {
+   "admission": "수시모집 지역균형전형",
+   "units": "의과대학",
+   "format": "MMI",
+   "method": "상황/제시문/제출서류 기반 적성·인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "수시모집 일반전형",
+   "units": "수의과대학, 의과대학, 치의학대학원 치의학과",
+   "format": "MMI",
+   "method": "상황/제시문/제출서류 기반 적성·인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "수시모집 기회균형특별전형(사회통합)",
+   "units": "의과대학",
+   "format": "MMI",
+   "method": "상황/제시문/제출서류 기반 적성·인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "정시모집 지역균형전형",
+   "units": "의과대학, 치의학대학원 치의학과",
+   "format": "MMI",
+   "method": "적성·인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "정시모집 일반전형",
+   "units": "수의과대학, 의과대학, 치의학대학원 치의학과",
+   "format": "MMI",
+   "method": "적성·인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "정시모집 기회균형특별전형(농어촌·저소득)",
+   "units": "수의과대학, 의과대학",
+   "format": "MMI",
+   "method": "적성·인성 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 7
+  },
+  {
+   "admission": "정시모집 일반전형",
+   "units": "사범대학",
+   "format": "인성",
+   "method": "교직적성·인성면접",
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "정시모집 기회균형특별전형(농어촌·저소득)",
+   "units": "사범대학",
+   "format": "인성",
+   "method": "교직적성·인성면접",
+   "duration": null,
+   "criteria": [],
+   "page": 7
+  }
+ ],
+ "questions": []
+}

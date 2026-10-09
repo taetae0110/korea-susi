@@ -1,0 +1,284 @@
+{
+ "source": {
+  "university": "동국대학교",
+  "year": 2026,
+  "file": "2026_동국대학교"
+ },
+ "interviews": [
+  {
+   "admission": "Do Dream, 기회균형통합, 특수교육대상자",
+   "units": null,
+   "format": "서류기반",
+   "method": "개별 면접/일반 면접(문제 출제 없음)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "전형취지적합성",
+     "weight": "20"
+    },
+    {
+     "name": "전공적합성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "30"
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": "20"
+    }
+   ],
+   "page": 60
+  },
+  {
+   "admission": "불교추천인재",
+   "units": null,
+   "format": "서류기반",
+   "method": "개별 면접/일반 면접(문제 출제 없음)",
+   "duration": "12분",
+   "criteria": [
+    {
+     "name": "전형취지적합성",
+     "weight": "20"
+    },
+    {
+     "name": "전공적합성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "30"
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": "20"
+    }
+   ],
+   "page": 60
+  },
+  {
+   "admission": "특성화고등을졸업한재직자전형(면접형)",
+   "units": null,
+   "format": "서류기반",
+   "method": "개별 면접/일반 면접(문제 출제 없음)",
+   "duration": "7분 내외",
+   "criteria": [
+    {
+     "name": "전형취지적합성",
+     "weight": "20"
+    },
+    {
+     "name": "전공적합성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "30"
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": "20"
+    }
+   ],
+   "page": 60
+  }
+ ],
+ "questions": [
+  {
+   "admission": "Do Dream",
+   "unit": "국어국문‧문예창작학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "국어 비평문 쓰기 활동에서 ‘1984’(조지오웰)를 읽은 후 우리 사회의 언어생활로 관심을 확장하여 무분별한 신조어와 줄임말이 우리 사고에 악영향을 미칠 수 있다고 했는데요. 신조어나 줄임말의 성격에 대해 설명 해보고 그것들이 우리 사고에 어떤 악영향을 미칠 수 있는지 본인이 작성한 내용을 소개해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 139
+  },
+  {
+   "admission": "기회균형통합",
+   "unit": "식품산업관리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로활동을 보면 식품공학, 식품위생학, 바이오 식품공학 등에 대한 관심이 기재되어 있는데요. ‘식품공학과’와 ‘식품산업관리학과’의 차이점에 대해 알고 있는 것을 말해보고, ‘식품산업관리학과’에 지원하게 된 이유에 대해서 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 139
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "북한학전공",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 2학기 학급반장으로 활동하면서 학우들의 신뢰를 얻었다고 기재되어 있는데요. 어떤 측면에서 신뢰를 얻었다고 생각하는지 학급을 위해 노력했던 사례를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 139
+  },
+  {
+   "admission": "불교추천인재",
+   "unit": "불교학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 언어와 매체 시간에 남방불교와 북방불교에 대한 기사를 비교 분석했는데요. 남방불교와 북방불교의 공통점과 차이점을 한 가지씩 설명해 주세요. 또한 해당 활동을 통해 배운 점이 있다면 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 139
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "경찰행정학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 출결상황에 미인정 지각이 3번 있었는데요. 어떤 이유였는지 설명해 줄 수 있나요? 이러한 상황이 대학 입학 후 학업 수행에 영향을 줄 가능성은 없는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "화학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과학습발달상황을 살펴보면 물리학Ⅰ을 이수하고 물리학Ⅱ는 이수하지 않았습니다. 물리학Ⅰ 세부능력 및 특기사항에서는 수업에 적극적으로 참여한 노력이 기재되어 있는데, 물리학Ⅱ를 이수하지 않은 이유가 있다면 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "수학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "게임이론에 대한 주제로 수학적 개념과 원리를 적용하여 탐구를 진행하고 발표했다고 했는데요. 게임이론이 무엇이고 실생활에서는 어떻게 적용되는 지 예를 들어서 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "국제통상학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1~3학년 진로활동을 보면 1학년 때는 무역 분야에 확고한 관심이 기재되어 있는데 학년이 올라갈수록 경제라는 좀 더 큰 범위로 관심이 확장된 느낌입니다. 국제통상학과 입학 후 학생이 목표하는 바는 무엇이고 심화시켜 배워보고 싶은 분야나 내용이 있다면 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "미디어커뮤니케이션학전공",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 1학기 때 우유급식 도우미 봉사에 참여했는데요. 참여하게 된 계기와 진행하는 과정에서 느낀 점이 있었다면 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "특수교육대상자",
+   "unit": "국어교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경계선 지능을 가진 사람들은 지적 장애로 분류되지 않아서 특수교육 사각지대에 있는 ‘느린 학습자’에 대해서도 맞춤형 교육이 이루어져야 한다고 했는데요. 관련해서 국어 시간에 활용할 수 있는 구체적인 대안을 제시했다고 했는데 그 내용에 대해 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "기회균형통합",
+   "unit": "경영대학",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 확률과 통계 수업에서 확률변수 개념이 마케팅 전략 수립에 어떻게 활용되는지 탐구하였는데요. 해당 내용에 대해 구체적으로 설명하고 이를 통해 무엇을 배웠는지 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 140
+  },
+  {
+   "admission": "특성화고등을졸업한재직자",
+   "unit": "글로벌무역학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "세부능력 및 특기사항에 무역 영어 암기를 열심히 했다고 기재되어 있습니다. 무역영어에 노력을 기울인 이유가 있다면 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 141
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "법학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "몸이 불편한 친구를 도와주며 장애인 인권에 대해 관심을 가졌다고 했습니다. 장애인 인권을 신장하기 위한 방안에 대해 설명해 주세요. 또한 이러한 활동은 법학과를 준비하는데 어떻게 도움이 되었다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 141
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "경찰행정학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 정치와 법 시간에 고위험 성범죄자의 거주지 제한에 대한 법안을 분석하여 발표한 적이 있는데요. 발표한 내용에서 학생이 주장한 내용과 그 근거는 무엇이었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 141
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "컴퓨터‧AI학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 코딩동아리에서 동아리 회장으로 동아리를 운영하고 주도했다고 되어 있는데요. 동아리 회장으로서 가장 중점을 기울인 부분이 있다면 얘기해 주세요. 또 동아리활동 중 가장 기억에 남는 코딩 활동은 무엇이었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 141
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+  "source": {
+    "university": "한세대학교",
+    "year": 2025,
+    "file": "2025_한세대학교"
+  },
+  "interviews": [
+    {
+      "admission": null,
+      "units": "경영학과",
+      "format": "인성",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": "20"
+        },
+        {
+          "name": "지원동기",
+          "weight": "20"
+        },
+        {
+          "name": "진로계획",
+          "weight": "20"
+        },
+        {
+          "name": "전공적성 (전공 관심도)",
+          "weight": "20"
+        },
+        {
+          "name": "사회문제에 대한 이해",
+          "weight": "20"
+        }
+      ],
+      "page": 14
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "본인의 삶에서 가장 중요한 기준과 원칙은?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "인성",
+      "passage": null,
+      "prompts": [
+        "본인이 수평적 및 수직적 인간관계에서 가장 소중하게 여기는 덕목은 각각 무엇이며 그 이유는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "지원동기",
+      "passage": null,
+      "prompts": [
+        "한세대학교 경영학과에 지원하게 된 동기는 무엇인가요? 지원을 결심한 시점은 언제인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "지원동기",
+      "passage": null,
+      "prompts": [
+        "경영인에게 가장 중요한 능력은 무엇이며, 그 능력을 보여준 구체적인 인물은 누구인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "진로계획",
+      "passage": null,
+      "prompts": [
+        "졸업 후 10년 이내에 하고자 하는 것들의 상위 2개 우선순위는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "진로계획",
+      "passage": null,
+      "prompts": [
+        "졸업 후 본인의 진로를 위해 경영학과 재학 중 준비해야 하는 것들은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "전공적성 (전공 관심도)",
+      "passage": null,
+      "prompts": [
+        "경영학의 세부 전공들을 2~3가지 정도 간략히 설명하고 본인이 특별히 관심 있는 세부전공은 무엇인가요? 그 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "전공적성 (전공 관심도)",
+      "passage": null,
+      "prompts": [
+        "경영학을 전공하면서 본인의 진로를 위해 같이 공부하면 좋을 것 같은 학문은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "사회문제에 대한 이해",
+      "passage": null,
+      "prompts": [
+        "제4차 산업혁명이 현재의 본인에게 그리고 미래의 본인에게 주는 영향을 말해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    },
+    {
+      "admission": null,
+      "unit": "경영학과",
+      "format": "인성",
+      "competency": "사회문제에 대한 이해",
+      "passage": null,
+      "prompts": [
+        "공정한 사회를 위해 기업과 경영자가 할 수 있는 역할은 각각 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 14
+    }
+  ]
+}

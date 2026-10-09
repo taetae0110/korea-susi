@@ -1,0 +1,798 @@
+{
+ "source": {
+  "university": "남서울대학교",
+  "year": 2026,
+  "file": "2026_남서울대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형(면접형)",
+   "units": "자연과학",
+   "format": "인성",
+   "method": "공개된 5문항 중 면접 당일 무작위로 2문항 출제",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "공동체역량",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    }
+   ],
+   "page": 10
+  },
+  {
+   "admission": "교과면접전형",
+   "units": "공학, 자연과학, 인문사회",
+   "format": "인성",
+   "method": "공개된 5문항 중 면접 당일 무작위로 2문항 출제",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "공동체역량",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    }
+   ],
+   "page": 13
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "공동체에서 다른 친구의 감정이나 기분을 이해해야 했던 상황이 있었나요?",
+    "그 친구의 기분을 이해한 후, 어떤 행동을 했나요?",
+    "그 행동이 공동체나 친구들에게 어떤 도움이 되었고, 그때 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "친구의 고민이나 문제를 들어주며 공감해 본 적이 있나요?",
+    "그때 어떤 생각이 들었고, 어떻게 공감해 주었나요?",
+    "이러한 경험을 통해 생각한 교훈은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "공동체 활동 중에 다른 친구의 의견을 이해하려고 노력한 적이 있나요?",
+    "그 친구의 의견을 이해한 후, 어떻게 그 의견을 반영하려고 노력했나요?",
+    "그 경험이 공동체나 친구에게 어떤 긍정적인 변화를 주었나요? 그리고 그때 무엇을 느꼈나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "책임감을 가지고 수행한 일 중, 특히 자부심을 느꼈던 경험이 있나요?",
+    "이러한 경험은 친구들에게 어떤 긍정적 영향을 주었나요?",
+    "본인이 느낀 교훈은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "모두가 나서지 않는 일을 본인이 나서서 하겠다고 한 적이 있나요?",
+    "본인의 행동이 팀원들에게 어떤 영향을 주었나요?",
+    "그 경험을 통해 무엇을 배웠나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "치위생학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "1학년에 간호에 관심을 가졌다가 2학년부터 치위생학과로 변경한 계기와 전공을 위해 노력한 내용을 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "치위생학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "화학2 시간에 치과에서 사용하는 마취제와 마취 방법의 종류에 대해 조사했다고 되어있는데, 그때 새롭게 알게된 지식이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "물리치료학과에 입학해서 임상실습을 나간 다면 특히 중요하다고 생각하는 자세나 태도는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "물리치료 관련 최신 트렌드 중 관심 있는 것에 대해 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "간호사의 분야가 여러 갈래가 있는 데 관심 가는 분야가 있는지 있으면 왜인지 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "의료 현장에서 일어날 수 있는 윤리적 딜레마 사례 기억나는 한가지 사례를 들어 볼수 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "임상병리학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "진로탐색활동에서 인상깊은 관련기사나 정보 탐색활동이 어떤것이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "임상병리학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "과학과제연구및 고급생명과학 이수에 따른 과학과제연구중 항생제효과를 증폭시키는 후속실험에 무엇이 있었는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "현재 의료의 정보접근성이 어려운 지역이 있는데 의료 접근성 격차를 해소하는 방법으로는 무엇이 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "응급구조사의 역할에 대해 말씀해주시고 본인의 어떠한 역량이 응급구조사와 연계성이 있는지 말씀해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "스포츠건강관리학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "스포츠 전공의 미래 전망에 대한 의견과 졸업후 희망직업은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "스포츠건강관리학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "운동처방분야에 대한 발표경험이 있는데, 어떤 내용이었는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "스포츠비즈니스학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "스포츠에 대한 열정과 팀워크를 발휘했다고 하는데 스포츠 비즈니스 현장에서 팀워크는 왜 중요한가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "학생부종합전형(면접형)",
+   "unit": "스포츠비즈니스학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "스포츠 비즈니스 분야에서 '창의성과 기획력'은 어떤 의미가 있다고 볼 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "공동체에서 친구의 감정을 이해한 경험이 있다면, 그 후 어떤 행동을 취해 공동체나 친구들에게 어떤 도움을 주었으며, 그 경험에서 무엇을 배웠나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "친구의 고민을 들으며 공감한 경험이 있다면, 그때 느낀 생각과 실천 방식, 그리고 그 경험에서 얻은 교훈은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "공동체 활동 중 친구의 의견을 이해하고 반영하려 한 경험이 있다면, 그 결과 공동체와 친구에게 어떤 긍정적 변화가 있었으며, 그때 느낀 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "책임감을 갖고 수행한 일 중 자부심을 느낀 경험이 있다면, 그 경험이 친구들에게 미친 긍정적 영향과 본인이 얻은 교훈은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "모두가 나서지 않는 일을 자신이 스스로 했던 경험이 있다면, 그 행동이 팀원들에게 어떤 영향을 미쳤고, 그 경험에서 어떤 교훈을 얻었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "가상현실학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "가상현실이나 실감 콘텐츠 제작은 다양한 전공과의 협업이 필요합니다. 본인이 가진 강점이나 관심 있는 분야에 대한 역량 중 협업에 적합하다고 생각하는 점은 어떤 것이 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "지능정보통신공학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "진로 관련 교과목 이수 과정에서 진로와 관련된 지식이나 기술을 쌓기 위해 특별히 기울인 노력이 있다면 무엇인가? 예를 들어, 심화 학습, 프로젝트 참여, 특정 주제 탐구 등에 대해 이야기하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "스마트팜학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "스마트팜학과에 흥미나 관심을 갖게 된 계기가 무엇인지, 또는 자신이 어떤 면에서 스마트팜 전공과 잘 맞다고 생각하는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "컴퓨터소프트웨어학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "최근 사회 전반에 큰 영향을 주고 있는 인공지능(AI) 기술 중 하나를 설명하고, 본인이 그 기술을 어떻게 발전시키거나 활용하고 싶은지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "전자공학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "전자공학을 전공한 후, 사회에 어떻게 기여하고 싶은지에 대해 진로 목표와 함께 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "건축학과(5년제)",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 방문한 건축물 중 가장 인상 깊었던 건축물에 대하여 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "건축공학과(4년제)",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본교는 건축공학과와 건축학과가 분리되어 있는데, 두 학과의 차이점에 대하여 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "멀티미디어학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "최근 AI가 다양한 분야에서 급속도로 많이 활용이 되고 있습니다. 향후 멀티미디어 관련하여 어떤 변화가 있을 것이라고 예상할 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "빅데이터경영공학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "합리적 의사결정이란 무엇이라고 생각하는지 설명하기 바랍니다. 자신이 살아오면서 '합리적으로 의사결정을 잘 하였다'하고 생각하는 사례가 있다면 무엇인지 설명하기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "드론공간정보공학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "드론이나 전자 지도 관련 기술이 미래 사회에서 어떻게 발전할 것이라고 생각하며, 그 분야에서 본인은 어떤 역할을 하고 싶습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "유통마케팅학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "여러분이 마트 사장이라면, 손님이 매장에 들어왔을 때 반드시 한 가지 이상은 더 사게 만들기 위한 재미있는 방법을 제시해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "글로벌무역학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "무역이라는 학문은 어떤 학문인지를 설명해 주시고, 무역이라는 학문은 본인의 성격이나 진로가 어떤 면에서 적합한지를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "유능한 경영자가 갖추어야 할 자질은 무엇이라 생각하십니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "광고홍보학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "기업들은 많은 돈을 들여서 지속적으로 광고를 하고 있다. 실제 광고효과가 있다고 생각하는가? 있다면 어떤 효과가 있다고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "호텔경영학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "호텔경영학과에 진학하려는 이유와, 앞으로 호텔산업에서 어떤 분야(예: 객실 운영, 식음료, 마케팅, 컨벤션〮이벤트, 관광 연계 등)에 가장 큰 관심이 있는지, 그 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "관광경영학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 생각하기에 서비스 산업에 잘 맞는 자신의 성향이나 재능은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "세무학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "세무학과는 세금(tax)에 대하여 연구하는 학부입니다. 국가나 지방자치단체는 국민으로부터 세금을 부과 징수하는데 그런 세금이 왜 필요하다고 생각하는지 2가지 정도 말씀해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "부동산학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "부동산 분야에 대한 정보를 얻기 위해 스스로 조사하거나 탐색한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "영어과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "영어과 전공을 통해 앞으로 어떤 분야에서 활동하고 싶은가요? 이를 위해 어떤 준비나 자격을 갖추어 나갈 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "일어일문학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "최근 일본의 사회적 이슈 중 관심 있는 주제와 그에 대한 본인의 의견을 이야기하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "중국학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "만약 졸업한다면 중국과 관련한 어떤 일을 하고 싶은가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "보건행정학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "보건행정학과 졸업 후 진출할 수 있는 직업군이 어떤 것이 있다고 생각하십니까? 본인은 어떤 직업군으로 진출하고 싶으며 이유는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "뷰티보건학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "자신의 전공분야를 뷰티 분야로 선택한 후, 전공선택에 대하여 공부하고 노력한 부분이 있나요? (예, 동아리활동, 자격증 취득 활동 등등)"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "치위생학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "치과 진료에 대한 공포심 때문에 치료를 거부하거나 불안해하는 환자들이 많습니다. 만약 치위생학과 학생으로서 치과위생사의 역할을 맡아 치과 공포를 느끼는 환자를 맞이하게 된다면, 어떻게 환자를 안심시킬 수 있을지 본인의 생각을 구체적으로 서술하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "물리치료사가 되기 위해 앞으로 대학에서 어떠한 노력을 기울이고 싶은지, 그리고 장래의 진로 목표를 달성하기 위한 본인만의 계획을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "간호학과는 학업량과 실습이 많습니다. 시험, 과제, 실습이 한꺼번에 몰릴 때 본인이 계획을 세우고 실행하는 방법을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "임상병리학 전공에 필요한 자신의 강점은 무엇이라 생각합니까?."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "응급구조 분야에 대해 언제 처음 관심을 가지게 되었으며, 그 관심이 지속되도록 만든 계기나 경험은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "아동복지학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "아동학대의 문제를 해결하기 위해 아동복지인으로서 우선시해야 하는 것이 있다면 무엇일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "왜 사회복지학과에 지원하였으며, 세부 분야는 어느 쪽으로 관심이 있는지, 졸업 후 진로는 어떤 분야를 희망하는지 설명하시오.."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "휴먼케어학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "현재 노인을 위한 다양한 서비스는 인공지능, 로봇, 디지털 등의 기술이 많이 사용되고 있습니다. 그렇다면 기술이 인간 돌봄을 대체할 수 있는 한계는 어디까지라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "(계약학과)리안헤어뷰티아트학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 헤어 분야에 '적합한 인재'라고 생각한다면, 그 이유를 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "교과면접전형",
+   "unit": "(계약학과)융합기술ㆍ소프트웨어학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "진로 관련 교과목 이수 과정에서 진로와 관련된 지식이나 기술을 쌓기 위해 특별히 기울인 노력이 있다면 무엇인가? 예를 들어, 심화 학습, 프로젝트 참여, 특정 주제 탐구 등에 대해 이야기하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  }
+ ]
+}

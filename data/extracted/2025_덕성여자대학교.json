@@ -1,0 +1,111 @@
+{
+ "source": {
+  "university": "덕성여자대학교",
+  "year": 2025,
+  "file": "2025_덕성여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "units": "인문사회, 자연, 예술",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "서류 신뢰성",
+     "weight": "50"
+    },
+    {
+     "name": "종합적 사고력",
+     "weight": "30"
+    },
+    {
+     "name": "인성",
+     "weight": "20"
+    }
+   ],
+   "page": 41
+  }
+ ],
+ "questions": [
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "보도제작부 활동에서 가장 의미 있었던 주제는 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 41
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "[사회과제연구] 장기 프로젝트를 수행했는데 수행기간은?, 해당 과제에서 설문조사 진행과 분석 방법은 어떤 방식을 활용했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 41
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3년간 동아리활동을 보면 아동/교육 분야에 관심이 보이는데, 3학년 자율적 교육과정에서 다룬 주제와 어떻게 연결했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 41
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년과 3학년 과학탐구로 항균에 관한 실험을 다르게 진행했는데, 두 실험의 차이는 무엇이라 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 41
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급 영어부장은 어떤 활동을 하며, 그 과정 속에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 41
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자의 장점을 발휘했던 교내활동이 있다면? 지원자의 장점이 대학 생활을 하는 데 어떤 도움이 된다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 41
+  }
+ ]
+}

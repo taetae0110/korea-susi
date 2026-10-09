@@ -1,0 +1,154 @@
+{
+  "source": {
+    "university": "수원대학교",
+    "year": 2025,
+    "file": "2025_수원대학교"
+  },
+  "interviews": [
+    {
+      "admission": "면접위주교과",
+      "units": "전계열",
+      "format": "인성",
+      "method": "그룹면접으로(지원자 3명이 한 그룹)",
+      "duration": null,
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": null
+        },
+        {
+          "name": "학업계획 및 포부",
+          "weight": null
+        },
+        {
+          "name": "창의력 및 사고력",
+          "weight": null
+        },
+        {
+          "name": "전공적합성",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "고교추천",
+      "units": "전계열",
+      "format": "인성",
+      "method": "그룹면접으로(지원자 3명이 한 그룹)",
+      "duration": null,
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": null
+        },
+        {
+          "name": "학업계획 및 포부",
+          "weight": null
+        },
+        {
+          "name": "창의력 및 사고력",
+          "weight": null
+        },
+        {
+          "name": "전공적합성",
+          "weight": null
+        }
+      ],
+      "page": 10
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "인성(자기소개)",
+      "passage": null,
+      "prompts": [
+        "1분간 자유롭게 자기소개"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "학업계획 및 포부",
+      "passage": null,
+      "prompts": [
+        "대학에서 새로운 학문적 도전이나 어려움이 있을 때 이를 어떻게 극복할 것인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "학업계획 및 포부",
+      "passage": null,
+      "prompts": [
+        "본인의 학문적 성취를 통해 사회에 기여할 수 있는 부분은 무엇이라고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "창의력 및 사고력",
+      "passage": null,
+      "prompts": [
+        "어떤 문제나 주제에 대해 전혀 경험이 없을 때 그 문제에 어떻게 접근할 것인지 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "창의력 및 사고력",
+      "passage": null,
+      "prompts": [
+        "자율주행 자동차가 사회에 미치는 긍정적 영향과 부정적 영향을 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본인이 경험한 과거 프로젝트나 활동 중에서 이 전공과 관련이 있는 활동이 있다면 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "본인의 적성과 전공이 어떤 부분에서 부합하는지 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    }
+  ]
+}

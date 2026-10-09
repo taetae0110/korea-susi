@@ -1,0 +1,124 @@
+{
+ "source": {
+  "university": "한국항공대학교",
+  "year": 2026,
+  "file": "2026_한국항공대학교"
+ },
+ "interviews": [
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "units": "전 계열",
+   "format": "서류기반",
+   "method": "학교생활기록부 기반의 활동 확인 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "학업 역량",
+     "weight": null
+    },
+    {
+     "name": "진로 역량",
+     "weight": null
+    },
+    {
+     "name": "공동체 역량",
+     "weight": null
+    }
+   ],
+   "page": 22
+  }
+ ],
+ "questions": [
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "로켓 추력 실험에서 겪었던 실패와 이를 극복하기 위한 노력에 관해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미인정 결석, 지각, 조퇴가 다수인 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스텔스 은신 기술을 탐구하면서 적외선 센서 실험 중 가장 흥미롭거나 어려웠던 점은 무엇인가요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "파이선으로 프로그래밍이나 수학 문제를 풀었던 경험이 있다면 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "리더 경험이 많은데 힘들거나 어려웠던 점이 있다면 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 및 토론 활동에서 다뤘던 이슈 중 의견이 첨예하게 갈렸던 한 사례를 골라 그때 사용한 갈등 해소 기법과 토론 결과에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "컴퓨터 공학에 관심이 많았으나, 그와는 다른 모집단위에 지원했습니다. 우리 모집단위에 지원하게 된 계기와 졸업 후 계획에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  }
+ ]
+}

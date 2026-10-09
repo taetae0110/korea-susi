@@ -1,0 +1,547 @@
+{
+  "source": {
+    "university": "가천대학교",
+    "year": 2025,
+    "file": "2025_가천대학교"
+  },
+  "interviews": [
+    {
+      "admission": "지역균형",
+      "units": null,
+      "format": "서류기반",
+      "method": "면접위원 3인",
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "가천의약학",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "가천바람개비",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "기회균형",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "특성화고교(종합)",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "농어촌(종합)",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "교육기회균형",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "조기취업형 계약학과",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "재외국민",
+      "units": null,
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "자율활동에 부반장으로 활동하며 특별한 역할의 필요성을 어필하고 직접 수행했다고 기록되어 있는데, 그 역할이 왜 필요하다고 생각했으며, 이를 어떻게 수행했는지 설명해 주세요.\""
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "교과부장으로 활동하며 학습 분위기를 조성하고, 스터디 그룹을 조직하여 중요한 역할을 수행했다고 기록되어 있습니다. 이 과정에서 친구들과 협력하며 공동체 속에서 어떤 역할을 했다고 생각하나요? 또한, 학습 과정에서 다른 친구들을 어떻게 도왔는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "수업 시간에 주변 친구들에게 자신이 아는 바를 친절하게 알려주었다고 기록되어 있습니다. 친구들을 도울 때 어떤 점을 가장 중요하게 생각했으며, 이러한 경험이 본인에게 어떤 의미가 있었는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "행동특성 및 종합의견에 친구들이 가장 본받고 싶은 학생으로 선정될 만큼 수업이나 생활 태도에서 귀감이 되었다고 기록되어 있습니다. 어떤 노력을 했기에 이런 평가를 받았다고 생각하나요? 또한, 본인이 보여준 태도가 학급 분위기에 어떤 영향을 주었다고 생각하는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "행동특성 및 종합의견에 결석한 친구의 역할을 자발적으로 대신하는 등 배려심을 보였다고 하는데, 이러한 행동을 실천하게 된 계기는 무엇이었으며, 이를 통해 공동체 속에서 본인이 맡은 역할을 어떻게 수행했다고 생각하나요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "학우들과 경제 관련 지식을 공유하며 다양한 예시와 이론을 설명하는 모습을 보였다고 기록되어 있습니다. 기억나는 사례를 설명해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "경제 시간에 ‘외부 효과와 시장 실패’ 개념에 관심을 가지고 공부했다고 기록되어 있습니다. 외부 효과의 개념을 설명하고, 외부 효과가 존재할 때 시장이 효율적으로 작동하지 않는 이유를 알려주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "국어 시간에 언론 매체와 관련된 법을 주제로 카드뉴스를 제작하여 발표했다고 기록되어 있습니다. 해당 카드뉴스의 주요 내용을 설명하고, 제작 과정에서 매체의 특성을 어떻게 활용했는지 구체적으로 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수학 시간에 모집단이 정규분포를 따른다는 가정을 이해하고 이를 탐구했다고 기록되어 있습니다. 정규분포가 무엇인지 쉽게 설명하고, 왜통계에서 정규분포를 따른다고 가정하는지 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "사회 시간에 형법 분야에 관심이 많아 스스로 관련 분야에 대한 심화탐구를 진행했다고 기록되어 있습니다. 탐구한 주요 내용을 설명해 주세요. 또한, 형사 절차에서 인권 보장을 위한 제도 중 가장 중요하다고 생각하는 제도를 하나 꼽고, 그 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 19
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "영어에 대한 관심과 능력이 뛰어나고, 학습 모둠에서 적극적으로 활동하며 친구들이 글을 더 잘 이해할 수 있도록 도왔다고 기록되어 있습니다. 영어 학습 모둠에서 맡았던 역할을 설명해 주세요. 또한, 영어로 된 글을 이해할 때 가장 중요한 점은 무엇이라고 생각하는지 이유와 함께 이야기해 주세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "국어 시간에 어느 나라의 문화적 특성을 분석한 책을 읽고, 그 나라의 문화를 이해하는 활동을 했다고 기록되어 있습니다. 이 책에서 가장 인상 깊었던 문화적 특징은 무엇이며, 그 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "사회 시간에 ‘인공지능 발전과 통역사’를 주제로 양적 연구를 수행했다고 기록되어 있습니다. 본인의 연구에서 어떤 방식으로 자료를 모으고 분석했는지 설명해 주세요. 또한, 양적 연구 방법을 사용하면서 어떤 점이 도움이 되었는지 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "국어 교과 기록에 따르면, 문단별로 내용을 잘 요약하고 재구성하는 능력이 뛰어나며, 인문·철학에 관심이 많다고 되어 있습니다. 이러한 평가를 받게 된 이유를 본인의 경험이나 사례를 들어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "윤리 시간에 저작권 보호와 관련된 철학적 입장을 탐구했다고 기록되어 있습니다. 탐구한 핵심 내용을 간단히 설명해 주세요. 또한, 벤담의 공리주의적 관점과 칸트의 의무론적 관점은 어떻게 다른지 비교하고, 본인은 어떤 입장에 더 공감하는지 이유와 함께 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수학 시간에 미적분과 관련된 책을 읽고, 미분과 적분에 대한 개념을 정리했다고 기록되어 있습니다. 책에서 인상 깊었던 핵심 내용을 설명하고, 미분의 정의를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "물리 시간에 운동량 보존 실험, 전자기 유도 실험, 광전 효과 실험 등을 진행했다고 기록되어 있습니다. 이 중 가장 의미 있었던 실험은 무엇이며, 그 이유를 설명해 주세요. 또한, 전자기 유도 법칙이 무엇인지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 화학 결합을 학습한 후, 공유 결합에 관심을 가지고 탐구했다고 기록되어 있습니다. 탐구의 주요 내용을 설명해 주세요. 또한, 공유 결합, 이온 결합, 금속 결합의 차이를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 호르몬과 항상성을 학습한 후, 당뇨병 치료제에 대해 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 설명해 주세요. 또한, 혈당량 조절 과정의 핵심을 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "동아리 시간에 책을 읽고 실험을 제안하고 진행했다고 기록되어 있습니다. 실험을 제안한 이유가 무엇인지 설명해 주세요. 또한, 이 실험에서 본인은 어떤 역할을 맡았으며, 실험을 준비하는 과정에서 어떤 점을 고려했는지 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "과학 교과에 대한 지적 호기심이 강하고, 과학 지식을 적용하여 합리적으로 추론하는 능력이 뛰어나며, 자료를 분석하고 아이디어를 산출하는 능력이 우수하다고 기록되어 있습니다. 이러한 평가를 받게 된 이유를 본인의 경험이나 사례를 들어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "물리 시간에 반도체의 정의와 원리에 대해 발표했다고 기록되어 있습니다. 반도체가 도체나 절연체와 구분되는 특징은 무엇인지 설명해 주세요. 또한, 에너지띠 구조를 기준으로 반도체, 도체, 절연체의 차이를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 화학 전지를 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 설명해 주세요. 또한, 화학 전지가 전기를 생성하는 원리는 무엇인가요? 산화·환원 반응을 다른 사례를 들어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수학 시간에 함수의 극한과 연속을 배우고, 관련 문제를 해결했다고 기록되어 있습니다. 연속의 정의를 설명하고, 함수가 연속이면 항상 미분 가능하다고 할 수 있는지 그 이유와 함께 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수학 시간에 자연상수 [수식]에 대해 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 설명해 주세요. 또한, 자연상수 [수식]의 정의를 설명하고, 미적분에서 자연상수가 중요한 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "간호보건계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 동위원소에 대해 관심을 가지고 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 간단히 설명해 주세요. 또한, 동위원소의 정의와 동위원소가 화학적 성질은 같지만 물리적 성질은 다른 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "간호보건계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자율활동에 학급의 건강 지킴이 역할을 맡아 체조 활동을 하고, 학생들의 참여를 유도했다고 기록되어 있습니다. 체조 활동에 친구들이 적극적으로 참여할 수 있도록 하기 위해 어떤 방식으로 설득하거나 독려했는지 설명해 주세요. 또한, 이 활동을 통해 건강과 운동의 중요성에 대해 새롭게 깨달은 점이 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "간호보건계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 순환계와 신경계에 대해 학습할 때 가장 큰 흥미를 보였고, 순환계 관련 질병을 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 간단히 설명해 주세요. 또한, 신경계가 순환계를 어떻게 조절하는지 교감 신경과 부교감 신경의 작용을 중심으로 설명해 주세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "간호보건계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 삼투현상과 삼투압을 정리하여 발표했다고 기록되어 있습니다. 발표 준비는 어떻게 했는지 설명해 주세요. 또한, 삼투현상과 삼투압의 정의를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "간호보건계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "과학 시간의 기록에 따르면, 의문이 있으면 질문을 하면서 보다 심화된 내용을 찾아보는 등 과학적 탐구력과 문제해결력이 우수하다고 평가되었습니다. 이러한 능력을 발휘했던 사례를 들어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수업 시간에 의료 불평등을 해소하기 위한 노력의 필요성에 대해 이 야기했다고 기록되어 있습니다. 핵심 내용을 설명해 주세요. 또한, 본인의 주장을 뒷받침하기 위해 어떤 근거를 제시했는지 이야기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 화학 평형에 대해 학습했다고 기록되어 있습니다. 가역 반응에서 정반응이 발열반응일 때, 온도를 조절하여 정반응을 유도하는 방법을 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 화학 반응 속도와 온도의 관계에 대해 학습했다고 기록되어 있습니다. 화학 반응 속도는 온도와 어떤 관계가 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 물질대사 수업을 듣고 대사성 질환을 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 간단히 설명해 주세요. 또한, 물질대사의 조절에 관여하는 효소나 호르몬의 역할을 설명하고, 대사성 질환이 발생하는 원인을 물질대사의 이상과 관련지어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 방어 작용 수업을 듣고 항원-항체 반응과 호르몬-수용체 결합의 특이성에 대해 탐구했다고 기록되어 있습니다. 탐구한 주요 내용을 간단히 설명해 주세요. 항원-항체 반응의 특이성에 대해 설명하고, 인체의 특이적 방어 작용 중 중요하다고 생각하는 것을 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    }
+  ]
+}

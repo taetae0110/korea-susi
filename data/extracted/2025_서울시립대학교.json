@@ -1,0 +1,98 @@
+{
+ "source": {
+  "university": "서울시립대학교",
+  "year": 2025,
+  "file": "2025_서울시립대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "2인의 면접위원이 지원자 1인을 대상으로",
+   "duration": "수험생 1인당 12분 (시간 엄수)",
+   "criteria": [
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "잠재역량",
+     "weight": null
+    },
+    {
+     "name": "사회역량",
+     "weight": null
+    }
+   ],
+   "page": 23
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 자율활동에서 자연이자율 하락의 해결책으로 평균인플레이션 목표제를 제시했는데 평균인플레이션 목표제의 개념을 설명해보세요. 한국 경제의 적용 가능성은 어느정도인가요? 물가안정목표제와 평균인플레이션목표제 장단점 비교해 보세요. 한국 경제에 어느 것이 더 적합하다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 56
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 동아리활동에서 「국민을 위한 국민연금은 없다」와 정부의 재정계산 자료를 탐독하여 국민연금의 현재 상황과 연금개혁안 간의 충돌을 문제삼았는데 국민연금의 현재 상황은 어떠한가요? '연금개혁안의' 충돌 문제는 무엇인가요? 국민연금의 지속 가능성을 확보하기 위한 과제에 대해 생각해 본 적 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 56
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년 과학시간에 비타민씨의 항산화제 역할에 대해 실험을 했는데, 항산화란 무엇인가요? 비타민씨보다 항산화 효과가 큰 물질에 대해 추가 탐구를 했다고 하는데, 항산화 효과가 크다는 것은 무엇을 의미하나요? 활성산소의 정의가 무엇인가요? 표준 기전력은 무엇인가요? 반응의 자발성은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 56
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 사회문제탐구 시간에 화석연료 사용으로 인한 기후변화, 지구온난화 등 기후위기에 대해 탐구했는데 화석연료 사용이 환경에 어떻게 영향을 미치는지 과학적 원리로 설명해 보세요. 이를 해결하기 위한 방안으로 무엇이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 56
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 사회문화 시간에 고령화 시대의 복지 사각지대에 놓은 노인들이란 탐구보고서를 작성했는데 우리나라 노인복지의 현황을 제시해보세요. 노인 빈곤율, 파산율, 자살율 등 다양한 자료를 참고했는데 분석 결과 무엇을 알 수 있었나요? 노인 빈곤의 원인이 무엇이라고 생각하나요? 해결방안을 제시해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 56
+  }
+ ]
+}

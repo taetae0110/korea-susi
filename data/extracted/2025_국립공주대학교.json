@@ -1,0 +1,129 @@
+{
+  "source": {
+    "university": "국립공주대학교",
+    "year": 2025,
+    "file": "2025_국립공주대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합전형(장애인등대상자전형 제외 모든 전형)",
+      "units": "사범대학, 예술대학",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 1
+    },
+    {
+      "admission": "학생부종합전형(장애인등대상자전형)",
+      "units": "모든 모집단위",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 1
+    },
+    {
+      "admission": "재외국민전형",
+      "units": "선발 모집단위 전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 1
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "교육학 시간에 언어의 특성을 주제로 수업했다고 하는데, 언어의 특성을 어떻게 파악했는지 말하고, '새로운 언어가 문화에 끼치는 영향에 대해 강의'하였다고 하는데, 그 구체적인 내용을 말해보라."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "한자, 한문 관련 서적 중 기억에 남는 내용이 있다면 소개해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "영어교과서나 영어 교육과정에 대해 본인의 생각과 개선할 점이 있다면 무엇인지 말해보시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "대한민국에 필요한 인간 중심 교육이라는 주제로 탐구활동을 한 경험이 있네요. 이 진로활동을 하면서 지원자가 배운 점을 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "2학년 동아리 활동 기록을 보면, 3분 스피치 활동에서 생명과학 시간에 배운 DNA 이중나선 구조의 원리에 대해 탐색하여 발표 했다고 했습니다. 발표한 내용을 간단히 소개해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "다양한 미술 과목 수업 중에 가장 의미가 있었던 수업이나 과목에 대해 그 이유와 함께 얘기해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "3년동안 화학동아리 활동을 했는데, 기억에 남는 실험과 그 후속 실험을 해보고 싶은 것이 있을까요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    }
+  ]
+}

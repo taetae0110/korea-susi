@@ -1,0 +1,311 @@
+{
+ "source": {
+  "university": "선문대학교",
+  "year": 2026,
+  "file": "2026_선문대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과(면접전형)",
+   "units": "간호학과, 물리치료학과, 치위생학과, 응급구조학과, 항공서비스학과, 신학과",
+   "format": "인성",
+   "method": "다대일(평가자 2인: 지원자 1인)면접을 통해 평가기준에 따라 종합적으로 평가(7등급 평가)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "공동체",
+     "weight": null
+    },
+    {
+     "name": "진로탐구",
+     "weight": null
+    },
+    {
+     "name": "학업역량",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(면접전형)",
+   "units": "조기취업형 계약학과(3개 학과)",
+   "format": "인성",
+   "method": "다대일(평가자 2인: 지원자 1인)면접을 통해 평가기준에 따라 종합적으로 평가(7등급 평가)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "공동체",
+     "weight": null
+    },
+    {
+     "name": "진로탐구",
+     "weight": null
+    },
+    {
+     "name": "학업역량",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(장애인등대상자전형)",
+   "units": "비지정 모집단위",
+   "format": "인성",
+   "method": "다대일(평가자 2인: 지원자 1인)면접을 통해 평가기준에 따라 종합적으로 평가(7등급 평가)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "공동체",
+     "weight": null
+    },
+    {
+     "name": "진로탐구",
+     "weight": null
+    },
+    {
+     "name": "학업역량",
+     "weight": null
+    }
+   ],
+   "page": 12
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체",
+   "passage": null,
+   "prompts": [
+    "조별 과제 수행 시 준비 모임에 불참하거나 불성실한 팀원이 있을 경우, 지원자가 팀원이라면 어떻게 대처하겠습니까? 구체적으로 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체",
+   "passage": null,
+   "prompts": [
+    "여러명이 함께 문자를 해결해 본 경험이 있다면 구체적으로 설명하되, 자신이 맡았던 역할은 무엇이었으며, 협력을 위한 노력과 성취를 구체적으로 말해 보기 바랍니다. 또한 같은 상황이 다시 온다면 개선하고 싶은 점이 무엇인지 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "공동체",
+   "passage": null,
+   "prompts": [
+    "자신과 다른 성장 배경이나 관점을 가진 사람과 활동하면서 어려웠던 점이 있었다면 소개하고, 어떻게 극복했는지 구체적으로 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "인공지능의 도래, 인구구조 변화와 같은 최신 사회적 변화 중 전공과 관련하여 가장 관심 있는 주제를 소개하고, 이에 대해 준비한 노력이 있다면 구체적으로 설명하기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "진로 준비를 위해 스스로 계획하고 실행했던 경험을 소개하고, 그 과정에서 얻은 성취와 보완할 점이 있었다면 구체적으로 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "자신의 전공이나 직업이 사회에 기여할 수 있는 점은 무엇이 있을까요? 또한 이를 위해 필요한 준비는 무엇이 있을지 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "스스로 세운 학습 목표 가운데 성취감을 느낀 경험을 구체적으로 소개하고, 그 과정에서 얻은 깨달음을 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 생활 중 가장 적극적으로 노력한 과목이나 목표가 있었다면 구체적으로 소개하고, 그 과정에서 얻은 깨달음을 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학교 생활 중 학업 부분에서 가장 성취감을 크게 얻은 경험을 소개하고, 그 과정에서 얻은 깨달음을 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "공동체",
+   "passage": null,
+   "prompts": [
+    "지난 3년 동안‘공동체’의 가치와‘개인’의 가치 사이에서 고민한 경험을 구체적으로 소개하고, 자신은 어떤 가치를 선택했는지와 조율을 통해 배운 점을 구체적으로 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "공동체",
+   "passage": null,
+   "prompts": [
+    "항공서비스의 특성 상 팀워크가 많이 요구됩니다. 적극적으로 참여하지 않는 팀원이 있다면 어떻게 참여시킬 것인지 자신의 사례나 해결 방법을 구체적으로 소개해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "공동체",
+   "passage": null,
+   "prompts": [
+    "지난 3년간 공동체 활동에서 희생하거나 양보한 경험을 소개하고 배운 점을 구체적으로 이야기해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "선문대 항공서비스학과가 지닌 차별화된 강점이나 특별한 점은 무엇이라고 생각하는지 말해보고, 자신이 지원한 동기를 구체적으로 설명하기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "자신이 생각하는‘좋은 서비스’란 무엇인지 설명하고, 실제로 경험했거나 제공했던 사례가 있다면 구체적으로 소개하기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "항공서비스학과 학생에게 가장 필요한 역량은 무엇이라고 생각하는지요? 진학을 위해 노력한 역량에 대해 구체적인 사례를 들어 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "입학 후 전공과 관련하여 가장 배우고 싶은 분야나 교과목을 소개하고, 자신의 진로 목표와 연관성을 구체적으로 설명해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "전공과 관련하여 자신이 학습한 교과목과의 연관성을 설명하고, 그 과목에서 배운 점을 구체적으로 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": "항공서비스학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "항공서비스 분야에서는 외국어 소통능력이 중요합니다. 자신이 외국어를 공부했던 경험을 구체적으로 소개하고, 어려움을 극복하기 위해 노력한 점을 말해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  }
+ ]
+}

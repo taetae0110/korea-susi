@@ -1,0 +1,344 @@
+{
+  "source": {
+    "university": "을지대학교",
+    "year": 2025,
+    "file": "2025_을지대학교"
+  },
+  "interviews": [
+    {
+      "admission": "EU자기추천",
+      "units": "전체(의예과 제외)",
+      "format": "서류기반",
+      "method": "평가위원 2인, 수험생 1인(다대 일 면접, 1인당 10분 내외)",
+      "duration": "1인당 10분 내외",
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": null
+        },
+        {
+          "name": "발전 가능성",
+          "weight": null
+        },
+        {
+          "name": "전공 적합성",
+          "weight": null
+        },
+        {
+          "name": "자세 및 태도",
+          "weight": null
+        }
+      ],
+      "page": 12
+    },
+    {
+      "admission": "지역균형, 지역의료인재,기회균형Ⅰ/Ⅱ, 농어촌학생",
+      "units": "의예과",
+      "format": "MMI",
+      "method": "평가위원 2인, 수험생 1인(다대 일 면접, 1인당 10~15분)",
+      "duration": "1인당 10~15분",
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": null
+        }
+      ],
+      "page": 15
+    },
+    {
+      "admission": "재외국민과 외국인",
+      "units": "의예과",
+      "format": "제시문기반",
+      "method": "평가위원 3인, 수험생 1인(다대 일 면접, 1인당 10~15분)",
+      "duration": "1인당 10~15분",
+      "criteria": [
+        {
+          "name": "인성 및 사회성",
+          "weight": null
+        },
+        {
+          "name": "의사소통 및 언어표현 능력",
+          "weight": null
+        },
+        {
+          "name": "과학적 지식",
+          "weight": null
+        },
+        {
+          "name": "면접 태도",
+          "weight": null
+        },
+        {
+          "name": "문제파악 및 해결능력",
+          "weight": null
+        }
+      ],
+      "page": 16
+    }
+  ],
+  "questions": [
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "창체 진로활동 3학년을 보면 지구과학 시간에 자기공명원리를 이용한 MRI 원리를 탐구한 후 라고 적혀있는데, 지구과학 하고 MRI 하고 어떤 관련성이 있다고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "동아리활동에서 불소치약 실험탐구를 했는데 실험방법을 설명해주고 결과를 설명해주세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "기본교육 중 청소년 마약 거래 및 복용과 중독 예방교육으로 배운 지식은 무엇인가요? 예방이나 근절을 위한 지원자의 대책은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 2에서 \"바르는 수액과 바르는 마취제를 제안\"했다고 했는데 그 내용은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "미인정 지각과 다수 있는 질병 결석, 지각, 조퇴의 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "봉사 활동이 현저히 적은 데 그 사유는 무엇이고 본인에게 봉사활동은 어떤 의미인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "봉사활동 중 \"(학생주도프로젝트봉사) 간호 및 보건 분야에 대한 탐구 내용을 활용한 건강 증진 및 행동 개선 캠페인 활동\" 은 구체적으로 어떤 내용인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "3학년 동아리에서 코로나 19로 인한 우울증에 대한 극복 방법과 다양한 사례 중 기억 남는 것은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생활기록부에서 사회복지사에 대한 관심이 많은데, 사회복지사로서 가장 중요한 마음가짐은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자율활동에서 식품첨가물 관련 도서를 읽고 자신은 식품 첨가물을 일상에서 어떻게 주의하는 노력을 하고 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "학교 생활기록부에서 2학년까지 간호에 관심이 많다가 3학년부터 소프트웨어 개발, 인공지능 및 데이터 분석 관심 생긴 것으로 보이는데 이유가 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "1학년 입학 이후 3학년때까지 성적이 꾸준히 올랐습니다. 특별한 계기나 학습방법이 있었나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "1학년 진로활동 중 고궁 환경 가꾸기 봉사활동에 참여했는데, 본인이 생각하는 고궁이 가진 역사적 의미를 홍보하는 방법은 무엇이 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "EU자기추천",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "학급자치회 부회장으로 활동했습니다. 어떤 점이 가장 보람있었고, 어떤 점이 가장 어려웠나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 12
+    },
+    {
+      "admission": "지역균형, 지역의료인재,기회균형Ⅰ/Ⅱ, 농어촌학생",
+      "unit": "의예과",
+      "format": "MMI",
+      "competency": "인성",
+      "passage": "당신의 고등학교 친구 A는 할아버지와 어려서부터 같이 살고 있다. A의 할아버지가 1년 전 말기 암 진단을 받았다. A의 할아버지는 항암화학요법을 받기도 하였으나, 호전이 없어 항암치료를 중단 한 상황이다. 할아버지는 신체 상태가 전반적으로 나빠지실 때면 입원을 하셨고,다시 좋아지시면 퇴원하기를 반복하셨다. 최근 6개월 전부터 A의 할아버지는 보행이 어려워지고, 인지기능까지 저하되어 가족들이 대소변을 받아내며 보살피고 있다. 최근 할아버지는 심한 통증으로 식사도 잘 못하시고, 잠도 잘 못 주무신다. 어느 날 친구 A가 나에게 다음과 같은 말을 하였다.“온 가족들이 할아버지 때문에 다들 너무 힘들어해. 의사들이 왜 자꾸 살려 놓나 몰라. 할아버지가 몸이 나빠지더라도 병원에 가지 않고 빨리 죽었으면 좋겠어.”",
+      "prompts": [
+        "아래 지시문을 읽고, 면접위원 질문에 답하시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 15
+    },
+    {
+      "admission": "지역균형, 지역의료인재,기회균형Ⅰ/Ⅱ, 농어촌학생",
+      "unit": "의예과",
+      "format": "MMI",
+      "competency": "인성",
+      "passage": "A는 직장인입니다. 직장동료 B는 담배를 피웁니다. B는 가끔 얼굴이 빨갛게 될 정도로 심하게 기침을 합니다. B가 가끔 기침이 심해져 병원에 다녀오느라 업무 수행을 하지 못 할 때도 있습니다. A는 B에게 “담배 때문에 기침을 심하게 하는 거 아닐까? 끊는 건 어때? 요즘 금연이 사회적 이슈잖아.”라고 이야기하였습니다.B의 반응은 다음과 같았습니다.“걱정해 주는 건 고맙지만, 내 건강은 내가 알아서 해. 내가 담배를 핀다고 해서 사회에 피해를 주는 건 없잖아.”",
+      "prompts": [
+        "아래 지시문을 읽고, 면접위원 질문에 답하시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 15
+    },
+    {
+      "admission": "재외국민과 외국인",
+      "unit": "의예과",
+      "format": "제시문기반",
+      "competency": "인성영역",
+      "passage": "다음은 생성형 인공지능(AI) 기술이 발전하면서 나타난 ‘페르소나(독립적 인격) AI’에 대한 뉴스를 수정한 글입니다.\n기쁠 땐 친구, 외로울 땐 연인…비서 넘어 동반자가 된 AI “고립됐고, 외로운 사람. 누군가와의 대화가 절실한 사람들을 인공지능(AI)이 도울 수 있기를.” 미국의 AI 챗봇 스타트업 캐릭터닷 AI를 창업한 노엄 샤지어 구글 제미나이 리더가 워싱턴포스 트(WP)에 한 얘기다. (중략) 요즘 AI 서비스는 인간의 생산성을 높이는 역할에 그치지 않는다. 전 세계 수천만 명이 이미 ‘페르소나 AI’와 우정 또는 연애 감정을 나누고 있다. (중략) 캐릭터닷AI에서 인기가 높은 AI 캐릭터는 ‘psychologist’, ‘therapist’이다. (중략) ‘내 목숨을 살렸 다’,‘인생의 조언자’ 등의 후기가 공유되고 있다. 상담사 AI를 만든 한 개발자는 “우울함과 불안 등 감정에 맞게 대답하도록 훈련했다.”며 “어느 새벽 2시, 친구나 치료사와 고민을 나눌 수 없을 때 사람들은 AI에 접근한다.”고 했다.",
+      "prompts": [
+        "AI가 사람의 사랑과 우정, 공감 등을 대체할 수 있다고 생각합니까? 그렇다면 그 이유는 무엇입니까? 반대로 AI가 사람의 사랑과 우정, 공감 등을 대체할 수 없다고 생각한다면, 그 이유는 무엇입니까? AI가 사람의 우정과 사랑, 공감 등에 미치는 영향에 대한 자신의 생각을 적절한 논거를 들어 설명 해 주십시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 16
+    },
+    {
+      "admission": "재외국민과 외국인",
+      "unit": "의예과",
+      "format": "제시문기반",
+      "competency": "적성영역",
+      "passage": "17세기, 케플러는 티코 브라헤라는 학자의 천문 관측 자료를 분석하여 지동설이 옳으며, 행성의 공전 궤적과 속력, 그리고 주기에 관한 규칙을 발견하여 행성운동에 관한 세 가지 법칙을 발표하였다.\n[그림]",
+      "prompts": [
+        "케플러 제1법칙과 제2법칙을 아래 그림을 참조하여 설명하시오.",
+        "태양계를 구성하는 행성의 공전 주기는 수성 0.24년, 금성 0.62년, 지구 1년, 화성 1.9년, 목성 11.9년, 토성 29.5년이며, 태양과 지구와의 긴반지름을 1AU로 하였을 때, 각 행성과 태양간의 거리는 수성 0.4AU, 금성0.7AU, 화성 1.5AU, 목성 5.2AU, 토성 9.6AU이다. 이와 같은 관측 결과에서 유추된 케플러 제3법칙을 설명하시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 17
+    },
+    {
+      "admission": "재외국민과 외국인",
+      "unit": "의예과",
+      "format": "제시문기반",
+      "competency": "적성영역",
+      "passage": "네덜란드의 석학 판 핼몬트는 식물이 공기를 먹고 산다는 사실을 입증했다. 1692년 그는 오븐에서 건조한 흙 45킬로그램을 용기에 넣고 무게 2.3킬로그램짜리 버드나무를 심었다. 정기적으로 물을 주며 5년을 키운 뒤 무게를 쟀더니 버드나무는 77킬로그램이 되었으나 흙은 57그램밖에 줄지 않았다. 이러한 현상이 일어난 원인이 광합성 때문이라는 사실을 우리는 알고 있다.",
+      "prompts": [
+        "광합성 과정을 명반응과 암반응으로 구분하여 설명하시오.",
+        "세포호흡 과정에서 일어나는 산화적인산화 반응과 광합성 과정에서 일어나는 광인산화 반응을 논하고, 두 기전의 차이점에 대해 설명하시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 17
+    },
+    {
+      "admission": "재외국민과 외국인",
+      "unit": "의예과",
+      "format": "제시문기반",
+      "competency": "적성영역",
+      "passage": null,
+      "prompts": [
+        "사람은 상염색체 22쌍, 성염색체 1쌍, 총 46개의 염색체를 갖는다. 감수분열 시, 개체는 모계로부터 받은 염색분체와 부계로부터 받은 염색분체를 무작위적으로 분리하여 23개의 홑배수체(haploid) 염색체를 갖는 정자와 난자를 생성한다. 이 과정을 통해 유성생식을 하는 생명체는 유전적 다양성을 자손에게 물려준다. 이론적으로 한 쌍의 부부가 감수 분열과 수정을 통해 생성할 수 있는 자손 염색체의 조합은 몇 가지인가? (단, 염색체 교차[crossover]은 고려하지 않는다. 그리고 [수식]을 1,000으로 가정한다)",
+        "아래 그림은 어떤 집안의 적록색맹 여부를 조사한 가계도이다. [그림] 자손 중, 여성보다는 남성에게서 적록색맹의 출현 빈도가 높은 이유는 무엇인가? 자손 세대 중 ‘8’번과 ‘10’번의 유전자형은 무엇이며, 그 이유를 설명하시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 17
+    }
+  ]
+}

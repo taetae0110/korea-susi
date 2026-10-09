@@ -1,0 +1,404 @@
+{
+ "source": {
+  "university": "건국대학교(글로컬)",
+  "year": 2026,
+  "file": "2026_건국대학교(글로컬)"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민전형",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "재외국민전형",
+   "units": "간호학과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "재외국민전형",
+   "units": "전체(의예과, 간호학과 제외)",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부교과-지역인재(충북),지역인재(기초생활및차상위), 농어촌",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부교과-특수교육대상자",
+   "units": "경영학과, 경찰학과, 문헌정보학과, 유아교육과, 사회복지학과, 신문방송학과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부종합전형-Cogito자기추천",
+   "units": "전체(의예과 제외)",
+   "format": "서류기반",
+   "method": "학교생활기록부를 기반으로 한 서류 확인 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부종합전형-Cogito자기추천",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부종합전형-지역인재(학종)",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "체육특기자전형",
+   "units": "전체",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "정부에서는 지방 필수의료인력 부족 사태를 해결하기 위해 의대 정원 증원 정책을 실행했다. 이러한 정부의 정책이 의료계와 협의되지 않은 정책이라 판단하고 의대생들은 수업 거부 투쟁을 선택하였다. 단일 대오로 투쟁을 유지하는 것이 중요하다고 판단하고 있는데, 몇몇 학생들이 수업에 복귀하려고 하고 있다. 학생회장인 지원자는 이 상황에 대해 어떻게 대처할 것인지 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "간호학과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호학생이 신경외과 병동에서 실습 중 뇌수술 후 의식상태가 명료하지 않은 환자를 간호하던 중 환자가 학생 간호사에게 “내 손녀같이 이쁘네.”라고 하면서 엉덩이를 가볍게 접촉하였다. 이 상황에서 어떻게 대처할지 대답해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "간호학과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "4명이 한 조로 병원실습을 하고 있는데 둘째 날부터 3일 연속 조원 중 한 명이 지각을 하고 있다. 수간호사는 한 팀이니 모두 함께 정확한 출근 시간에 병동에 와야 한다고 했고 그렇지 않은 경우 모든 학생들에게 감점을 하겠다고 하였다. 그래서 다른 모든 조원들이 지각하는 학생에게 계속 늦지 않게 와달라고 부탁하였으나 지각을 하는 학생은 본인은 본인 스케쥴대로 천천히 올라갈테니 먼저 올라가라고 하였다. 이 상황에 어떻게 대처할지 답하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "OO학과에 지원한 동기와 목표가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 생활 중 자기주도성을 발휘하여 진행했던 활동에 대해서 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인이 설정한 진로를 탐색하기 위해서 가장 열심히 했던 활동은 무엇이었나요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 생활 중 겪은 가장 힘들었던 일은 무엇이며 그것을 극복하기 위해서 어떤 노력을 하였나요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부교과(지역인재(충북), 지역인재기초생활및차상위, 농어촌)전형, 학생부종합전형, 학생부종합-지역인재(종합)전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "[뉴스1] A 의사는 자신의 전문 과목은 아니지만 응급상황에 놓인 환자를 최선을 다해 치료했다. 그러나, 환자에게 합병증이 생겼다는 이유로 A 의사는 처벌을 받았다.\n[뉴스2] B 병원에는 흉부외과 전문 과목이 없어 흉부외과 응급환자를 수용할 수 없었다. 그러나, 흉부외과적 응급 치료가 필요한 환자를 수용하지 않았다는 이유로 B 병원은 처벌을 받았다.\n[상황] 교통사고로 복부 출혈이 생긴 환자가 혈압이 급격하게 감소하여 응급 치료를 받아야 하는 상황이다. 가장 가까운 OO병원에는 복부 출혈을 치료할 수 있는 전문 의사가 없고, 복부 출혈을 치료할 수 있는 전문 의사가 있는 병원은 거리가 멀어 환자 이송 시간이 많이 소요된다.",
+   "prompts": [
+    "나는 어제 아래 두 개의 뉴스를 봤다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 시절 가장 의미 있는 봉사활동 경험에 대해서 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "지원한 학과와 관련하여 가장 열심히 했던 활동에 대해서 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "의사소통능력",
+   "passage": null,
+   "prompts": [
+    "친구들 앞에서 본인의 의견을 발표한 경험에 대해서 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 축제에서 사회자로 무대에 선 경험이 있던데 소감을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로 희망 사항이 3학년에 올라오면서 달라진 것으로 보이는데, 진로를 변경한 특별한 이유가 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급회장 경험이 다수있던데, 리더를 하면서 가장 힘든 일은 무엇이었으며 본인은 어떻게 극복하였나요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 때, OO과목 성적이 많이 올랐는데, 성적향상을 위해 본인은 어떤 노력을 하였나요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오전)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건국대학교 스포츠건강학과에 지원하는 동기와 목표는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오전)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "시즌과 비시즌 기간 중, 실시하는 훈련 방법을 구분하여 각각 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오전)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인 포지션의 역할과 팀에 기여 할 수 있는 방법을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오후)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 대학에 지원하는 이유는 무엇이며, 대학 생활을 통해 이루고자 하는 목표가 무엇인지 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오후)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경기 중, 공격 상황에서 중요하게 생각하는 요인을 설명하고, 이를 위해 본인이 노력한 경험을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오후)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀웍을 위해 가장 중요하게 생각하는 요인을 설명하고, 이를 위해 본인이 노력한 경험을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "골프산업학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건국대학교 골프산업학과를 지원한 이유는 무엇이며, 건국대학교와 타 대학과의 차별점에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "골프산업학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "골프 경기에서 심리적 불안의 원인과 해소방법에 대하여 본인의 경험을 토대로 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "골프산업학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "골프선수로서 목표는 무엇이며, 이를 달성하기 위한 본인의 구체적 계획을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+  "source": {
+    "university": "제주대학교",
+    "year": 2026,
+    "file": "2026_제주대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합(일반학생2 전형)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "개별면접(평가위원 2명)",
+      "duration": "15분 내외",
+      "criteria": [
+        {
+          "name": "학업역량",
+          "weight": null
+        },
+        {
+          "name": "진로역량",
+          "weight": null
+        },
+        {
+          "name": "인성・공동체 역량",
+          "weight": null
+        }
+      ],
+      "page": 2
+    },
+    {
+      "admission": "학생부종합(지역인재 전형)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "개별면접(평가위원 2명)",
+      "duration": "15분 내외",
+      "criteria": [
+        {
+          "name": "학업역량",
+          "weight": null
+        },
+        {
+          "name": "진로역량",
+          "weight": null
+        },
+        {
+          "name": "인성・공동체 역량",
+          "weight": null
+        }
+      ],
+      "page": 2
+    },
+    {
+      "admission": "재외국민과외국인 특별전형",
+      "units": "전체",
+      "format": "제시문기반",
+      "method": "개별면접(평가위원 2명)",
+      "duration": "15분 내외",
+      "criteria": [
+        {
+          "name": "한국어구사능력",
+          "weight": null
+        },
+        {
+          "name": "전공분야관심도",
+          "weight": null
+        },
+        {
+          "name": "전공기초지식",
+          "weight": null
+        },
+        {
+          "name": "교양·적성",
+          "weight": null
+        }
+      ],
+      "page": 2
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": "학업역량",
+      "passage": null,
+      "prompts": [
+        "00과목의 성적이 다른 과목 대비 낮은 이유와 보완 계획을 말해보세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 4
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로역량",
+      "passage": null,
+      "prompts": [
+        "고등학교 활동 중 해당 진로 관련 역량을 높이기 위해 기울인 노력을 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 4
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성·공동체 역량",
+      "passage": null,
+      "prompts": [
+        "고교 활동 중 협동 또는 어려움에 처한 친구를 도운 경험에 대해 말해보세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 4
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "source": {
+    "university": "제주대학교",
+    "year": 2025,
+    "file": "2025_제주대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합(일반학생 전형)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "개별면접(평가위원 2명)",
+      "duration": "15분 내외",
+      "criteria": [
+        {
+          "name": "전공적합성",
+          "weight": null
+        },
+        {
+          "name": "자기주도성",
+          "weight": null
+        },
+        {
+          "name": "인성·공동체 기여도",
+          "weight": null
+        }
+      ],
+      "page": 2
+    },
+    {
+      "admission": "학생부종합(소프트웨어인재 전형)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "개별면접(평가위원 2명)",
+      "duration": "15분 내외",
+      "criteria": [
+        {
+          "name": "전공적합성",
+          "weight": null
+        },
+        {
+          "name": "자기주도성",
+          "weight": null
+        },
+        {
+          "name": "인성·공동체 기여도",
+          "weight": null
+        }
+      ],
+      "page": 2
+    },
+    {
+      "admission": "재외국민과외국인특별전형",
+      "units": "전체",
+      "format": "제시문기반",
+      "method": "개별면접(평가위원 3명)",
+      "duration": "15분 내외",
+      "criteria": [
+        {
+          "name": "한국어구사능력",
+          "weight": null
+        },
+        {
+          "name": "전공분야관심도",
+          "weight": null
+        },
+        {
+          "name": "전공기초지식",
+          "weight": null
+        },
+        {
+          "name": "교양·적성",
+          "weight": null
+        }
+      ],
+      "page": 2
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "학교생활기록부에 기재된 활동 중 본 전공을 택하기 위해 했던 노력은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 4
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": "자기주도성",
+      "passage": null,
+      "prompts": [
+        "타 교과 대비 수학 성적이 낮아 보이는데 부족한 성적을 보완하기 위해 어떠한 노력을 기울였나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 4
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성·공동체 기여도",
+      "passage": null,
+      "prompts": [
+        "학교생활기록부에 동물 윤리에 대한 발표활동을 했다고 하는데 어떤 내용으로 발표했나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 4
+    }
+  ]
+}

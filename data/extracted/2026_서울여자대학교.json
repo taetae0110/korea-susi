@@ -1,0 +1,37 @@
+{
+  "source": {
+    "university": "서울여자대학교",
+    "year": 2026,
+    "file": "2026_서울여자대학교"
+  },
+  "interviews": [
+    {
+      "admission": "바롬인재면접전형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 3
+    },
+    {
+      "admission": "융합인재전형",
+      "units": "자연계열",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 3
+    },
+    {
+      "admission": "기독교지도자전형",
+      "units": "기독교학과",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 3
+    }
+  ],
+  "questions": []
+}

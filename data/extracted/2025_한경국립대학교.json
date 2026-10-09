@@ -1,0 +1,211 @@
+{
+ "source": {
+  "university": "한경국립대학교",
+  "year": 2025,
+  "file": "2025_한경국립대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과 특수교육대상자(평택)",
+   "units": "인문·사회계열, 자연과학계열, 예·체능계열, 공학계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "수능위주 특수교육대상자(평택)",
+   "units": "인문·사회계열, 자연과학계열, 예·체능계열, 공학계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "전체전공",
+   "format": "인성",
+   "competency": "지원동기 및 자기소개",
+   "passage": null,
+   "prompts": [
+    "자기소개와 전공에 지원한 동기를 말하세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "G전공",
+   "format": "인성",
+   "competency": "의사표현 능력검증",
+   "passage": null,
+   "prompts": [
+    "본인의 스트레스를 해소하는 방법은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "H전공",
+   "format": "인성",
+   "competency": "의사표현 능력검증",
+   "passage": null,
+   "prompts": [
+    "자신이 가장 좋아하는 색깔과 그 이유를 설명하여 보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "A전공",
+   "format": "인성",
+   "competency": "전공 이해도",
+   "passage": null,
+   "prompts": [
+    "AI가 적용된 제품에 대하여 아는대로 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "C전공",
+   "format": "인성",
+   "competency": "전공 이해도",
+   "passage": null,
+   "prompts": [
+    "장신구를 착용하는 이유에 대해서 설명하세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "F전공",
+   "format": "인성",
+   "competency": "미래비전검증",
+   "passage": null,
+   "prompts": [
+    "인공지능 시대에 상담 사업의 미래상을 설명하여 보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "D전공",
+   "format": "인성",
+   "competency": "미래비전검증",
+   "passage": null,
+   "prompts": [
+    "복지분야에서 본인의 10년 후, 20년 후 모습을 그려보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "K전공",
+   "format": "인성",
+   "competency": "창의력, 문제해결력 등",
+   "passage": null,
+   "prompts": [
+    "학교생활 중에 겪었던 어려움은 어떤 것이 있었는지, 그리고 지원자가 그 어려움을 극복하기 위해 한 노력은 무엇인지에 대해서 이야기해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "E전공",
+   "format": "인성",
+   "competency": "창의력, 문제해결력 등",
+   "passage": null,
+   "prompts": [
+    "팀별 과제를 수행하다가 조원 간의 갈등이 생긴 경우, 어떻게 해결할 수있을지 1가지 방법에 대해서 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "B전공",
+   "format": "인성",
+   "competency": "대학(통합교육) 이해",
+   "passage": null,
+   "prompts": [
+    "통합교육이 사회에 미치는 긍정적인 효과는 무엇인지 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "I전공",
+   "format": "인성",
+   "competency": "대학(통합교육) 이해",
+   "passage": null,
+   "prompts": [
+    "장애인과 비장애인이 함께 공부하는 통합교육의 단점을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "AI반도체융합전공",
+   "format": "제시문기반",
+   "competency": "창의력, 문제해결력, 융합적사고력",
+   "passage": "[수식]",
+   "prompts": [
+    "다음 방정식을 풀어보세요."
+   ],
+   "intent": "본 문제는 특수교육 대상자가 방정식과 그 해의 의미를 이해하고, 등식의 성질을 이해하는지 평가하고자 한다.",
+   "sample_answer": "(정답) [수식]=6",
+   "page": 13
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "AI반도체융합전공",
+   "format": "제시문기반",
+   "competency": "창의력, 문제해결력, 융합적사고력",
+   "passage": "[수식]",
+   "prompts": [
+    "[수식]의 값이 –2, -1 ,0 ,1 ,2일 때, 다음 이차 방정식의 해를 모두 구해보세요."
+   ],
+   "intent": "본 문제는 특수교육 대상자가 이차방정식의 개념을 이해하고, 이차방정식과 그 해의 의미를 이해하고 계산할 수 있는지를 평가하고자 한다.",
+   "sample_answer": "(정답) [수식]=±2 (또는 -2, 2 )",
+   "page": 15
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "AI반도체융합전공",
+   "format": "제시문기반",
+   "competency": "창의력, 문제해결력, 융합적사고력",
+   "passage": "[수식]",
+   "prompts": [
+    "[수식]의 값이 –2, -1 ,0 ,1 ,2일 때, 다음 이차 방정식의 해를 모두 구해보세요."
+   ],
+   "intent": "본 문제는 특수교육 대상자가 이차방정식의 개념을 이해하고, 이차방정식과 그 해의 의미를 이해하고 계산할 수 있는지를 평가하고자 한다.",
+   "sample_answer": "(정답) [수식]= –2, 0",
+   "page": 17
+  }
+ ]
+}

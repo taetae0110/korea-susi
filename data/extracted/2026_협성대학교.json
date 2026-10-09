@@ -1,0 +1,142 @@
+{
+ "source": {
+  "university": "협성대학교",
+  "year": 2026,
+  "file": "2026_협성대학교"
+ },
+ "interviews": [
+  {
+   "admission": "미래역량우수자",
+   "units": "인문, 사회, 공학, 자연",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "담임목회자추천",
+   "units": "인문, 사회",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "협성창의인재",
+   "units": "인문, 사회, 공학, 자연",
+   "format": "서류기반",
+   "method": "2인의 면접관에 의한 지원자 1인 개별면접",
+   "duration": "1인당 10분 내외",
+   "criteria": [
+    {
+     "name": "전공적합성 및 발전가능성",
+     "weight": "30"
+    },
+    {
+     "name": "인성적 자질",
+     "weight": "40"
+    },
+    {
+     "name": "종합적사고력 및 의사소통",
+     "weight": "30"
+    }
+   ],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성분야",
+   "passage": null,
+   "prompts": [
+    "평소 타인의 어려움을 해결하기 위해 노력한 경험을 말해보고, 그 경험이 자신에게 어떠한 영향을 주었는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성분야",
+   "passage": null,
+   "prompts": [
+    "공동체의 규칙이나 약속을 지키기 위해 자신의 불편을 감수한 경험이 있나요? 그 경험과 이유를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "시사상식분야",
+   "passage": null,
+   "prompts": [
+    "AI 기술이 자신의 관심 분야에서 어떻게 활용될 수 있으며, 그에 따른 긍정적 및 부정적 영향은 무엇일지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "시사상식분야",
+   "passage": null,
+   "prompts": [
+    "자신의 진로와 관련된 관심 분야에서 최근 나타나고 있는 변화 하나를 소개하고, 그 변화가 어떤 의미를 가지는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부교과 미래역량우수자, 담임목회자전형(면접)",
+   "unit": null,
+   "format": "인성",
+   "competency": "시사상식분야",
+   "passage": null,
+   "prompts": [
+    "기후 변화 대응을 위한 국제사회의 노력이 이어지고 있습니다. 우리가 현실적으로 추진할 수 있는 기후 변화 대응 전략에는 어떤 것이 있을지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "협성창의인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "00학과에 지원하기 위해 어떤 준비를 하였으며, 합격 이후 학업계획은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "협성창의인재전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자의 장점은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  }
+ ]
+}

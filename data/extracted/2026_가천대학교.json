@@ -1,0 +1,520 @@
+{
+  "source": {
+    "university": "가천대학교",
+    "year": 2026,
+    "file": "2026_가천대학교"
+  },
+  "interviews": [
+    {
+      "admission": "일반전형(학생부종합)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "사회통합전형(지역균형)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "면접위원 3인",
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "특별전형(특성화고교)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "특별전형(학생부종합)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "특별전형(조기취업형계약학과)",
+      "units": "공학계열",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    },
+    {
+      "admission": "재외국민전형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 5
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "학생회 활동에서 기존 방식을 그대로 따르지 않고 새로운 프로그램을 기획하여 공동체가 함께 즐길 수 있는 행사로 개선했다고 기록되어 있습니다. 이러한 기획을 추진하면서 공동체를 위해 어떤 점을 가장 중요하게 생각했고, 이를 위해 어떤 노력을 했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "강점이 있는 과목에서 멘토로서 친구들의 학습을 돕는 역할을 꾸준히 수행했다고 기록되어 있습니다. 이를 위해 어떤 방식으로 준비하고 설명했으며, 그 과정에서 중요하게 생각한 점은 무엇이었는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "멘토로 활동하며 학습 지원을 꾸준히 이어갔다고 기록되어 있습니다. 해당 역할을 수행하는 과정에서 가장 중요하게 생각했던 점은 무엇이었는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "학급 분위기 형성에 긍정적으로 기여하여 칭찬하고 싶은 친구로 가장 많은 추천을 받았다고 기록되어 있습니다. 이러한 평가를 받게 된 이유가 무엇이라고 생각하는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "인성관련",
+      "passage": null,
+      "prompts": [
+        "자신의 담당이 아닌 일에도 자발적으로 참여하며 공동체를 위한 노력을 꾸준히 실천해 여러 교사로부터 긍정적인 평가를 받았다고 기록되어 있습니다. 이러한 행동을 계속 실천하게 된 이유와 그 과정에서 중요하게 생각한 점은 무엇이었는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "사회문화 시간에 문화 변동과 문화 접촉에 따른 사회 변화 내용을 중심으로 지역 간 발전 격차를 비교해 발표했다고 기록되어 있습니다. 문화 변동이 사회와 경제에 어떤 영향을 줄 수 있는지 배운 내용이나 발표 내용을 바탕으로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "경제 시간에 무역의 분업과 특화, 절대우위와 비교우위 개념을 학습했다고 기록되어 있습니다. 절대우위와 비교우위 중 하나를 선택해 더 중요하다고 생각하는 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "문학 시간에 시 작품을 읽고 주제와 정서를 해석한 뒤 이를 소설 형태로 재구성하는 활동을 했다고 기록되어 있습니다. 자신의 의도를 잘 전달하기 위해 어떤 점을 고려했고, 이를 소설 구성에 어떻게 반영했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "확률과 통계 시간에 조사 과정의 한계를 인식했다고 기록되어 있습니다. 표본의 규모와 추출 방법이 모집단을 대표하는 데 왜 중요하다고 생각하는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "사회과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "정치와 법 수업에서 헌법의 기본 원리를 일상생활 사례에 적용해 분석했다고 기록되어 있습니다. 헌법의 기본 원리 중 하나를 선택하고, 그것이 왜 필요하다고 생각하는지 생활 속 예를 들어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 20
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "영어I 수업에서 작품을 읽고 인물과 상징, 시대적 배경을 중심으로 주제를 탐구했다고 기록되어 있습니다. 작품에서 ‘OOO’이라는 표현이 어떤 의미로 사용되었다고 이해했는지, 그 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "독서 수업에서 비문학 글을 읽고 핵심 내용을 요약한 뒤 자신의 관점으로 설명문을 작성했다고 기록되어 있습니다. 핵심 내용을 설명문으로 작성할 때 가장 중요하게 생각한 점은 무엇이었는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "사회 이슈 발표 활동에서 인공지능 창작물과 저작권 문제를 주제로 탐구했다고 기록되어 있습니다. 이 문제를 조사하면서 중요하다고 보았던 쟁점은 무엇이었고, 왜 그렇게 생각했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "확률과 통계 수업에서 문학 작품을 통계 개념과 연결해 해석하는 탐구를 했다고 기록되어 있습니다. 조건부 확률이나 이항 분포 개념을 어떤 관점에서 활용했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "인문계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "윤리 시간에 덕을 중심으로 삶을 이해하는 윤리 관점에 깊이 공감했다고 기록되어 있습니다. 어떤 점에서 공감하게 되었는지 자신의 생각을 중심으로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수학Ⅱ 시간에 미분과 적분의 개념을 이용해 등가속도 운동 공식을 이해하려는 탐구를 했다고 기록되어 있습니다. 미분과 적분이 운동을 설명하는 데 어떻게 연결된다고 이해했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "물리 수업에서 충격량과 운동량의 관계를 학습하고, 충돌의 유형을 비교해 설명했다고 기록되어 있습니다. 충격량과 운동량이 어떤 관계에 있는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 산과 염기의 중화 적정 실험을 통해 용액의 농도를 분석했다고 기록되어 있습니다. 중화 적정의 목적과 농도를 구할 수 있는 원리가 무엇인지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 효모의 무산소 호흡 실험을 수행하고 유산소 호흡과의 차이를 탐구했다고 기록되어 있습니다. 두 호흡 과정의 생성물과 에너지 생성량 측면에서 차이를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "자연계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "동아리 시간에 다양한 생명과학 관련 실험에 참여했다고 기록되어 있습니다. 가장 의미 있었던 실험은 무엇이었으며, 실험 과정에서 어려웠던 점을 어떻게 해결했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 21
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "물리 시간에 중력장 내 포물선 운동 실험을 설계하고 속력을 구했다고 기록되어 있습니다. 포물선 운동에서 수평 방향과 연직 방향의 운동을 어떤 기준으로 나누어 해석했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "물리 시간에 전자기 유도 현상을 이해하고 간이 발전기를 제작했다고 기록되어 있습니다. 코일에 전류가 유도되는 원리를 자기장 변화와 관련지어 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 볼타 전지와 다니엘 전지의 구조와 작동 원리를 비교해 설명하고 전해질의 성질이 전지 성능에 영향을 준다고 탐구했다고 기록되어 있습니다. 전해질이 전지 작동에 왜 중요한지 기본 원리를 중심으로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "진로활동에서 서스펜션 탐구 과정에서 충격량 개념을 이해했다고 기록되어 있습니다. 힘이 일정하지 않고 시간에 따라 변할 때, 충격량을 어떻게 구할 수 있는지 그래프 해석 관점에서 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "공학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "기하 시간에 로봇팔의 움직임을 좌표와 벡터로 표현하는 탐구를 했다고 기록되어 있습니다. 로봇팔 끝점의 위치를 좌표평면에서 어떤 방식으로 나타낼 수 있는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "간호의과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "물리 시간에 파동 단원에서 배운 내용을 바탕으로 초음파의 의료 활용을 탐구했다고 기록되어 있습니다. 파동 단원에서 배운 파동의 성질을 바탕으로, 초음파로 인체 내부를 확인할 수 있는 이유를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "간호의과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "동아리활동에서 책을 읽고, 희망 진로가 평생 학습이 필요한 전문 직업이라는 점을 인식했다고 기록되어 있습니다. 그렇게 생각하게 된 이유와, 본인의 학습 습관을 어떻게 돌아보게 되었는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "간호의과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "수학시간에 인슐린 농도 변화를 지수함수와 로그함수를 이용해 설명했다고 기록되어 있습니다. 어떤 함수를 선택해 설명했으며, 그 함수를 선택한 이유를 함수의 성질과 연결해 설명해 주세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "간호의과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 우리 몸의 방저 작용에 대해 배우면서 특이적 방어 작용의 면역 반응을 구분해 설명했다고 기록되어 있습니다. 그중 하나를 예로 들어 작용 과정과 특징을 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "간호의과학계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간 유전 단원에서 어려운 개념에 대해 적극적으로 질문하고 해결하려는 태도를 보였다고 기록되어 있습니다. 기억에 남는 질문과 그것을 이해하게 된 과정을 사례로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 22
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "진로시간에 생성형 인공지능 시대의 기술 변화와 관련된 내용을 탐구했다고 기록되어 있습니다. 기술 발전이 사회에 미치는 영향을 생각할 때, 윤리적으로 고려해야 할 점은 무엇이라고 보는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 23
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 주제 독서 활동으로 해당 도서를 읽고 보고서를 작성했다고 기록되어 있습니다. 책에서 다룬 내용 중 가장 흥미로웠던 화학적 원리 하나를 선택하여, 학교 화학 수업에서 배운 개념과 연결해 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 23
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "확률과 통계 시간에 확률과 통계 시간에 이항분포와 정규분포를 활용해 자료를 분석했다고 기록되어 있습니다. 이항분포와 정규분포가 어떤 관계에 있다고 이해했는지 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 23
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "화학 시간에 산화·환원 반응을 심화 탐구했다고 기록되어 있습니다. 우리 몸에서 일어나는 산화환원 반응의 예를 하나 들어 원리 중심으로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 23
+    },
+    {
+      "admission": null,
+      "unit": "의약계열",
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "생명과학 시간에 노화에 관심을 두고 DNA 복제 과정을 탐구했다고 기록되어 있습니다. DNA 복제에 관여하는 대표적인 효소를 중심으로 복제 원리를 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 23
+    }
+  ]
+}

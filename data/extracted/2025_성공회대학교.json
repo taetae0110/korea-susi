@@ -1,0 +1,33 @@
+{
+ "source": {
+  "university": "성공회대학교",
+  "year": 2025,
+  "file": "2025_성공회대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형(열린인재전형, 대안학교출신자전형)",
+   "units": null,
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 9
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형(열린인재전형, 대안학교출신자전형)",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "성공회대학교에 입학한다면 어떤 전공들을 공부하고 싶은지 그리고 이와 관련하여 고교 시절 어떤 준비를 했는지 학교생활기록부 기반으로 설명해 주세요."
+   ],
+   "intent": "성공회대학교의 학생부종합전형 면접고사는 전형 취지에 따라 수험생의 지원 동기, 전공에 대한 관심과 노력에 대해 평가함을 목표로 하며 그 근거로써 고등학교 학교생활기록부에 기재된 내용의 진위를 확인해 수험생의 전공 적합성과 발전 가능성 등에 대해 종합평가 하고자 함.",
+   "sample_answer": null,
+   "page": 9
+  }
+ ]
+}

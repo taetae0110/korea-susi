@@ -1,0 +1,211 @@
+{
+ "source": {
+  "university": "한경국립대학교",
+  "year": 2026,
+  "file": "2026_한경국립대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과 특수교육대상자(안성,평택)",
+   "units": "인문·사회계열, 자연과학계열, 공학계열, 예·체능계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  },
+  {
+   "admission": "수능위주 특수교육대상자(평택)",
+   "units": "인문·사회계열, 공학계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "전체전공",
+   "format": "인성",
+   "competency": "지원동기 및 자기소개",
+   "passage": null,
+   "prompts": [
+    "자기소개와 전공에 지원한 동기를 말하세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "A전공",
+   "format": "인성",
+   "competency": "의사표현 능력검증",
+   "passage": null,
+   "prompts": [
+    "가장 감명 깊게 본 책은 무엇이며, 그 이유에 대해 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "B전공",
+   "format": "인성",
+   "competency": "의사표현 능력검증",
+   "passage": null,
+   "prompts": [
+    "본인의 생각이나 의견을 다른 사람에게 쉽게 전달하기 위해 어떤 방법을 사용하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "K전공",
+   "format": "인성",
+   "competency": "의사표현 능력검증",
+   "passage": null,
+   "prompts": [
+    "최근 1년 내 실패한 경험 한가지를 고르고, 그 당시 상황과 원인 분석 그리고 그 경험으로 배운 점 한가지를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "F전공",
+   "format": "인성",
+   "competency": "전공 이해도",
+   "passage": null,
+   "prompts": [
+    "학과의 교과목 중 가장 관심 있는 교과목과 이유에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "E전공",
+   "format": "인성",
+   "competency": "전공 이해도",
+   "passage": null,
+   "prompts": [
+    "유아특수보육과에 대해 알고있는 것을 설명해 보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "C전공",
+   "format": "인성",
+   "competency": "미래비전검증",
+   "passage": null,
+   "prompts": [
+    "사회복지사로서 일하는 데에 있어서 지원자의 강점은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "G전공",
+   "format": "인성",
+   "competency": "미래비전검증",
+   "passage": null,
+   "prompts": [
+    "대학 생활을 통해 이루고 싶은 구체적인 목표는 무엇이며, 이를 달성하기 위해 어떤 계획과 노력을 기울이고자 하는지 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "H전공",
+   "format": "인성",
+   "competency": "창의력·문제해결력·융합적 사고력 등",
+   "passage": null,
+   "prompts": [
+    "친구가 ‘요즘 너무 우울해서 아무것도 하기 싫다’라고 말한다면 당신은 어떻게 대답하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "J전공",
+   "format": "인성",
+   "competency": "창의력·문제해결력·융합적 사고력 등",
+   "passage": null,
+   "prompts": [
+    "미래의 스마트 자동차에 AI반도체 기술을 적용한다면 어떤 기능을 넣고 싶은가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "I전공",
+   "format": "인성",
+   "competency": "대학(통합교육) 이해",
+   "passage": null,
+   "prompts": [
+    "대학 생활에서 장애학생과 비장애학생이 함께 배우고 활동하기 위해 필요한 태도는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": "D전공",
+   "format": "인성",
+   "competency": "대학(통합교육) 이해",
+   "passage": null,
+   "prompts": [
+    "중학교와 고등학교를 다니면서 장애학생들과 한 학급에서 생활한 경험이 있을 겁니다. 통합교육이 이루어짐으로써 일반학생과 장애학생들에게 미치는 효과에 대해 설명하십시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "학생부교과(특수교육대상자)",
+   "unit": "인문사회계열(사회)",
+   "format": "제시문기반",
+   "competency": "의사표현능력검증",
+   "passage": null,
+   "prompts": [
+    "우리나라와 같은 자본주의 시장경제체제에서 정부가 강제적으로 세금을 걷어 사회복지사업을 하는 이유는 무엇인가?"
+   ],
+   "intent": "정부가 수행하는 역할과 사회복지제도의 필요성에 대한 이해 수준을 확인하고, 사회적 불평등 완화 및 사회안전망 구축을 위한 정부의 기능에 대해 지원자의 기본적인 사회이해 및 전공 관심도를 평가하고자 함.",
+   "sample_answer": "자본주의 시장경제체제에서는 시장장을 통해서 효율적으로 배분되는 장점이 있지만 시장 실패가 발생할 경우 빈곤, 소득 불평등, 공공재 부족 등의 문제가 나타날 수 있다. 사회복지는 공공재적 성격을 가지기 때문에 시장에만 맡길 경우 충분히 제공되지 않을 수 있다. 따라서 정부는 세금을 통해 재원을 마련하고 사회복지 정책을 시행하여 사회적 약자를 보호하고 사회 불평등을 완화하며 국민의 삶의 질을 향상시키는 역할을 한다. 이러한 정부의 개입은 사회 안정과 공공의 이익을 위해 필요하다.",
+   "page": 12
+  },
+  {
+   "admission": "학생부교과(특수교육대상자)",
+   "unit": "인문사회계열(사회)",
+   "format": "제시문기반",
+   "competency": "전공 이해도",
+   "passage": "사회복지는 크게 전체 국민을 대상으로 하는 ‘보편적 복지’와 취약계층만을 대상으로 하는 ‘선별적 복지’로 나눌 수 있다.",
+   "prompts": [
+    "각 복지 형태의 장점과 단점은 무엇인가?"
+   ],
+   "intent": "사회복지 제도의 유형인 보편적 복지와 선별적 복지의 개념과 특징을 이해하고 각각의 장단점을 설명할 수 있는지를 평가하고자 한다. 이를 통해 사회복지 제도의 기능과 역할에 대한 이해도를 확인하고, 사회복지학전공에 대한 기본적인 이해와 전공 적합성을 평가하고자 한다.",
+   "sample_answer": "사회복지는 대상 범위에 따라 보편적 복지와 선별적 복지로 구분할 수 있다. 보편적 복지는 모든 국민을 대상으로 제공되는 복지로, 복지 대상자에 대한 낙인효과를 줄이고 사회통합을 촉진하며 국민 전체의 삶의 질을 향상시키는 장점이 있다. 그러나 모든 국민에게 제공되기 때문에 많은 재정이 필요하여 국가 재정에 부담이 될 수 있다는 단점이 있다. 선별적 복지는 소득 수준이나 생활 여건 등을 기준으로 도움이 필요한 취약계층을 대상으로 제공되는 복지로, 제한된 재원을 효율적으로 사용할 수 있고 도움이 필요한 계층에 집중적인 지원이 가능하다는 장점이 있다. 그러나 복지 대상자에게 낙인효과가 발생할 수 있으며 사회적 위화감을 형성할 수 있다는 단점이 있다.",
+   "page": 14
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "source": {
+  "university": "선문대학교",
+  "year": 2025,
+  "file": "2025_선문대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과(면접전형)",
+   "units": "간호학과, 물리치료학과, 치위생학과, 응급구조학과, 글로벌관광학부(항공서비스전공), 신학과",
+   "format": "인성",
+   "method": "다대일(평가자 2인: 지원자 1인)면접을 통해 평가기준에 따라 종합적으로 평가(7등급 평가)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "진로탐구",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "학생부교과(면접전형-계약정원제)",
+   "units": "AI소프트웨어학과, 컴퓨터공학부",
+   "format": "인성",
+   "method": "다대일(평가자 2인: 지원자 1인)면접을 통해 평가기준에 따라 종합적으로 평가(7등급 평가)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "진로탐구",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "학생부교과(장애인등대상자전형)",
+   "units": "전체",
+   "format": "인성",
+   "method": "다대일(평가자 2인: 지원자 1인)면접을 통해 평가기준에 따라 종합적으로 평가(7등급 평가)",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "진로탐구",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 13
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "어려움에 처한 가족이나 친구, 또는 이웃을 도와준 경험이 있습니까? 최근 3년 동안, 나눔과 배려를 실천한 사례가 있다면 구체적으로 소개하고 이를 통해 배운점을 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "지원자는 다른 사람과 의견이 충돌했을 때 어떻게 해결하려고 노력하나요? 최근 3년 동안의 경험을 예시로 들어 어떻게 대응하였고, 무엇을 느꼈는지 구체적으로 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "최근 3년 동안, 학업이나 일상생활에서 어려운 상황을 겪었을 때, 그 상황을 어떻게 극복했는지 소개하고, 그 과정에서 배운점을 구체적으로 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "지원학과를 졸업한 후 자신이 하고 싶은 일은 무엇이며, 관심 있는 진로에 필요한 가장 중요한 역량은 무엇인지 이야기하고, 이를 달성하기 위해 어떤 노력이 필요하다고 생각하는지 구체적으로 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "지원한 전공과 관련하여, 최근 3년 동안 수행한 진로탐색이나 창의적 체험활동 가운데 가장 즐겁게 활동햇던 사례를 구체적으로 소개해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "진로탐구",
+   "passage": null,
+   "prompts": [
+    "본인이 지원한 학과/전공에 관심을 가지게 된 계기나 이유는 무엇인지 이야기하고, 지원학과 입학을 위해 최근 3년 동안 준비한 활동이나 경험을 구체적으로 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "지원자가 최근 3년 동안 경험했던 교내외 활동 중에 뿌듯함을 느꼈던 성취 경험은 무엇이고, 그 성취를 위해 기울인 노력은 무엇이었는지 구체적으로 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "지원자가 본받고 싶은 사람이 있다면 누구이며, 그렇게 되기 위해 지원자는 어떤 노력을 기울이고 있는지 구체적으로 말해보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "지원자가 학업이나 학업 외 활동에서 스스로 정한 목표를 달성하기 위해 꾸준하게 노력한 것이 있다면 구체적으로 소개해 보기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  }
+ ]
+}

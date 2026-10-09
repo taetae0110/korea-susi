@@ -1,0 +1,28 @@
+{
+ "source": {
+  "university": "한국공학대학교",
+  "year": 2026,
+  "file": "2026_한국공학대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(창의인재)",
+   "units": "전 계열",
+   "format": "서류기반",
+   "method": "블라인드 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 23
+  },
+  {
+   "admission": "학생부종합(조기취업형계약학과)",
+   "units": null,
+   "format": "서류기반",
+   "method": "면접위원: 위촉/전임사정관 1명, 산업체 1명",
+   "duration": null,
+   "criteria": [],
+   "page": 23
+  }
+ ],
+ "questions": []
+}

@@ -1,0 +1,181 @@
+{
+ "source": {
+  "university": "인천가톨릭대학교",
+  "year": 2025,
+  "file": "2025_인천가톨릭대학교"
+ },
+ "interviews": [
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "units": "문화콘텐츠학과",
+   "format": "인성",
+   "method": "인성 면접",
+   "duration": "10분 ~ 15분",
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "units": "간호학과",
+   "format": "인성",
+   "method": "인성 면접",
+   "duration": "10분 ~ 15분",
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "대건안드레아",
+   "units": "신학과",
+   "format": "인성",
+   "method": "인성 면접",
+   "duration": "10분 ~ 15분",
+   "criteria": [],
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과에 진학한 후 해보고 싶은 작업은 무엇인가요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "콘텐츠 창작을 위해 사용해본 장비나 소프트웨어는 어떤 것이 있나요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과를 졸업한 후 어떤 분야에서 일하고 싶고, 그 이유는 무엇인지 설명해 주세요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신과 생각이 맞지 않는 사람이 같은 그룹에 있을 때, 어떻게 문제를 해결하시나요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호학과를 오기 위해 준비한 것이 있나요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교사나 주변 동료로부터 받은 피드백 중 가장 기억에 남는 것이 무엇이고, 그 피드백을 어떻게 활용했는지 말씀해보세요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 전공 관련 학습 외에 하고 싶은 활동이 있나요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 단점은 무엇이라고 생각하며 이를 극복할 방법을 말씀해보세요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "대건안드레아",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스스로가 생각하는 자신의 장점과 단점은?"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "대건안드레아",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활, 동아리 등에서 본인이 주도적으로 참여했던 활동이 무엇인지 설명해 주세요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "대건안드레아",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사제직을 지향함에 있어서 적성과 열정의 차이와 그것이 미래와 어떤 연관이 있을까요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 9
+  }
+ ]
+}

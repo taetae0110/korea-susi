@@ -1,0 +1,125 @@
+{
+ "source": {
+  "university": "이화여자대학교",
+  "year": 2025,
+  "file": "2025_이화여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과(고교추천전형)",
+   "units": "인문·자연",
+   "format": "서류기반",
+   "method": "학생부를 포함한 제출 서류를 활용하여 확인 면접 형태로 시행",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "실기/실적(어학특기자전형)",
+   "units": "인문",
+   "format": "서류기반",
+   "method": "학생부를 포함한 제출 서류를 활용하여 확인 면접 형태로 시행",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "실기/실적(국제학특기자전형)",
+   "units": "인문",
+   "format": "서류기반",
+   "method": "학생부를 포함한 제출 서류를 활용하여 확인 면접 형태로 시행",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "실기/실적(예체능서류전형)",
+   "units": "예체능",
+   "format": "서류기반",
+   "method": "학생부를 포함한 제출 서류를 활용하여 확인 면접 형태로 시행",
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "이수 교과목 중, 지원학과에서 강점이 될 수 있다고 생각되는 부분은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "○○교과목 시간에 한 발표 주제에 대해 좀 더 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "○○ 실험동아리를 꾸준히 했는데, 동아리에서 주로 어떤 역할을 했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원 학과에서 새롭게 도전하고 싶은 활동이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학에 입학해서도 꾸준히 이어가고 싶은 활동이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 단점을 보완하기 위해 기울인 노력은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  }
+ ]
+}

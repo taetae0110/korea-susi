@@ -1,0 +1,216 @@
+{
+ "source": {
+  "university": "차의과학대학교",
+  "year": 2026,
+  "file": "2026_차의과학대학교"
+ },
+ "interviews": [
+  {
+   "admission": "CHA학생부교과전형",
+   "units": "간호대학, 약학대학, 미래융합대학",
+   "format": "인성",
+   "method": "가이드 문항을 활용한 면접관 3인 대 지원자 1인 개별 대면면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": "20"
+    },
+    {
+     "name": "인성",
+     "weight": "40"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "40"
+    }
+   ],
+   "page": 10
+  },
+  {
+   "admission": "CHA학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 11
+  },
+  {
+   "admission": "사회통합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 11
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 11
+  }
+ ],
+ "questions": [
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인의 자질 중 희망 전공 학업을 수행하는 데 장점이 되는 점과 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 가장 흥미를 가졌던 과목은? 그 과목 수업에서 가장 의미 있거나 기억에 남는 활동은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "고등학교에서 수행한 교과 또는 비교과 활동 중 관심 진로(전공)와 가장 관련이 깊은 활동은 무엇이었는지? 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인이 추구하는 리더십 유형과 그 이유를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "고등학교 생활 중 규칙을 지키기 어려운 상황이 있었다면 어떻게 대처했는지 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "지원자는 손해를 감수하면서까지 자신이 중요하게 여긴 가치를 지키기 위해 노력했던 점이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "고등학교 때 경험한 가장 어려운 상황은 어떤 것이었습니까? 또한 그것을 어떻게 극복했습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "평상시, 시간을 효율적으로 사용하기 위해 했던 노력(경험)에 대해 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "대학에 입학한 후 어려운 이론이나 문제를 접했을 때 해결하기 위해 어떤 노력과 활동을 수행할 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  }
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "source": {
+  "university": "성신여자대학교",
+  "year": 2026,
+  "file": "2026_성신여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "[수시] 학생부(종합)_자기주도인재",
+   "units": "일반학과",
+   "format": "서류기반",
+   "method": "학교생활기록부 기반 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": "70"
+    },
+    {
+     "name": "학업역량",
+     "weight": "30"
+    }
+   ],
+   "page": 71
+  },
+  {
+   "admission": "[수시] 학생부(종합)_특수교육대상자",
+   "units": "인문",
+   "format": "서류기반",
+   "method": "학교생활기록부 기반 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": "70"
+    },
+    {
+     "name": "학업역량",
+     "weight": "30"
+    }
+   ],
+   "page": 71
+  },
+  {
+   "admission": "[수시] 학생부(종합)_자기주도인재",
+   "units": "사범대학",
+   "format": "서류기반",
+   "method": "학교생활기록부 기반 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": "50"
+    },
+    {
+     "name": "학업역량",
+     "weight": "30"
+    },
+    {
+     "name": "교직 적성‧인성",
+     "weight": "20"
+    }
+   ],
+   "page": 76
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인(정원 외)",
+   "units": "인문‧사회계 / 공학‧자연계 / 미술계",
+   "format": "인성",
+   "method": "각 계열별 공통 문항",
+   "duration": null,
+   "criteria": [],
+   "page": 82
+  }
+ ],
+ "questions": [
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "진로활동을 통해 한국 문화를 알리기 위해 국어국문학이 중요하다고 생각한 이유는 무엇인가요? 스토리텔링과 문화콘텐츠가 핵심요소라고 생각한 까닭은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "진로 발표 주제였던 사법시스템과 국민의 법 감정 간 괴리를 해소해야할 까닭은 무엇인가요? 그 간극을 어떻게 좁힐 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "동아리 활동을 통해 유용미생물 EM을 활용한 수 처리에 대해서 공부하였는데, 이에 관하여 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "통합사회 시간에 문화상대주의가 경계해야 할 점과 보편 윤리의 중요성에 대해 고민하였는데, 이를 소개해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "우리 학과는 공과대학기반이므로 물리에 대해 기초기식도 필요합니다. 편제표를 살펴보면 물리학 Ⅰ/Ⅱ를 선택하지 않았는데, 입학 후 어떻게 극복할 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "수학Ⅱ에서 경사하강법에 대해 조사한 경험이 있는데, 경사하강법이란 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "한국고전문학 관련하여 칼럼을 제작한 것이 인상적인데, 탐독하였던 숙향전의 경우 주인공의 어떤 점이 영웅적 면모로 느껴졌는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 72
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "일반학과",
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "진로탐구활동에서 조사했던 RNA와 DNA의 구조적 차이에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 73
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "사범대학",
+   "format": "서류기반",
+   "competency": "교직 적성‧인성",
+   "passage": null,
+   "prompts": [
+    "교육 관련 동아리 활동 중 기억에 남는 것이 무엇이고, 어떤 이유로 시작하게 되었고, 그를 통해 배운 점이나 느낀 점을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 77
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "사범대학",
+   "format": "서류기반",
+   "competency": "교직 적성‧인성",
+   "passage": null,
+   "prompts": [
+    "교육 관련 봉사활동 경험과 활동에서 향후 되고자 하는 교사상에 영향을 미친 점이 있다면 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 77
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "사범대학",
+   "format": "서류기반",
+   "competency": "교직 적성‧인성",
+   "passage": null,
+   "prompts": [
+    "교사와 갈등이 있었던 경험이 있다면? 만약, 본인이 교사의 입장이었다면 동일한 상황에서 어떠한 결정을 할 것인지 말해보세요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 77
+  },
+  {
+   "admission": "[수시] 학생부(종합)전형",
+   "unit": "사범대학",
+   "format": "서류기반",
+   "competency": "교직 적성‧인성",
+   "passage": null,
+   "prompts": [
+    "교육에 대한 관심이 많다고 서술되어 있는데, 진로 선택에 도움이 되었던 경험이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 77
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인 특별전형(정원 외)",
+   "unit": "인문‧사회계",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 한국 대학에서 학생들이 인공지능(AI)과 다양한 번역앱(app)를 활용하여 각종 발표 및 과제를 빠르고 손쉽게 작성하고 있어서 논란이 되고 있습니다. AI 및 각종 app에 의존하고 있는 학생들의 교육과 대학의 미래에 대한 긍정적인 측면과 부정적인 측면을 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 82
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인 특별전형(정원 외)",
+   "unit": "인문‧사회계",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "이른바 ‘한류’로 대표되는 한국의 문화콘텐츠는 최근 창작뮤지컬 ‘어쩌면 해피엔딩’이 연극·뮤지컬 분야의 아카데미상으로 불리는 토니어워즈에서 작품상 등 6관왕을 수상함으로써 다시 국제적 주목을 받고 있습니다. 이처럼 우리나라가 문화콘텐츠 강국의 대열에 합류할 수 있게 된 배경과 이유를 외국에 거주했던 경험을 토대로 설명하고, 문화적 강점을 이어가기 위해 무엇이 필요한지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 82
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인 특별전형(정원 외)",
+   "unit": "공학‧자연계",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "세계 인구증가 및 기후변화로 인한 전세계적으로 식량위기 우려가 커지고 있습니다. 식량부족 문제를 해결하기 위해 적용가능한 과학 기술을 제시하고 그 기술에 관해 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 83
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인 특별전형(정원 외)",
+   "unit": "공학‧자연계",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생성형 인공지능 알고리즘과 같은 최신 기술의 발달과 보급은 거의 모든 산업분야의 인력 구성과 직무 역할에 급격한 변화를 가져옵니다. 본인이 진출을 희망하는 분야에서는 향후 어떠한 변화가 있을 것이라 예상하는지, 그리고 본인이 예상하는 변화에 대비하기 위해서는 어떠한 역량을 갖추어야 할 것이라 생각하는지를 말해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 83
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인 특별전형(정원 외)",
+   "unit": "미술계",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리나라의 현대미술이 세계적으로 어느 정도 위치에 있으며, 독특함은 무엇이라고 생각하는지 그 이유에 대해 구체적으로 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 84
+  },
+  {
+   "admission": "[수시] 재외국민과 외국인 특별전형(정원 외)",
+   "unit": "미술계",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전 세계적으로 인공지능(AI) 기술의 발전이 가속화되고 있습니다. 인공지능 기술이 지원자의 전공 계열에 영향을 미칠 것이라고 생각하며, 이에 대해 지원자는 어떻게 대비해 나갈 계획입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 84
+  }
+ ]
+}

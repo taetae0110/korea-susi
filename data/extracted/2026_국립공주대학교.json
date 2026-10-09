@@ -1,0 +1,90 @@
+{
+  "source": {
+    "university": "국립공주대학교",
+    "year": 2026,
+    "file": "2026_국립공주대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합전형(장애인등대상자전형 제외 모든 전형)",
+      "units": "사범대학, 예술대학",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 1
+    },
+    {
+      "admission": "학생부종합전형(장애인등대상자전형)",
+      "units": "모든 모집단위",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 1
+    },
+    {
+      "admission": "재외국민전형",
+      "units": "선발 모집단위 전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 1
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "2학년 진로활동에서 모의 국제회의 영어위원회 일본 대표로 참여한 경험이 있습니다. 이 활동을 위해 준비한 노력은 무엇이고, 이 활동이 지원자에게 어떤 의미가 있었는지 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "3학년 자율활동에서 사회 환경의 변화 속에 지속가능성과 융합적인 사고를 지닌 인재 양성의 필요성을 인식했다고 했는데, 이런 인재 양성을 위해 국어교사는 어떤 역할을 해야 하는지 본인의 생각을 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "진로활동에서 미래 유엔보고서를 바탕으로 미래사회의 변화 6가지를 탐색하고 사라질 직업과 유망할 직업에 대하여 조사하였다고 했습니다. 조사한 구체적인 내용을 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "지원자는 클릭형 광고에 대해 탐구를 했는데요. 1) 클릭 유도 방식이 사용자 경험과 콘텐츠 신뢰도에 어떤 영향을 미치는지 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 6
+    }
+  ]
+}

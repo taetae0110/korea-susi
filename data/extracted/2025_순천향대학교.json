@@ -1,0 +1,12 @@
+{
+  "source": {"university": "순천향대학교", "year": 2025, "file": "2025_순천향대학교"},
+  "interviews": [],
+  "questions": [
+    {"admission": "학생부종합(조기취업형계약학과전형)", "unit": null, "format": "서류기반", "competency": null, "passage": null,
+     "prompts": ["○○ 학과에 지원한 이유는 무엇인가요?"], "intent": null, "sample_answer": null, "page": 9},
+    {"admission": "학생부종합(조기취업형계약학과전형)", "unit": null, "format": "서류기반", "competency": null, "passage": null,
+     "prompts": ["○○ 기업에 지원한 이유는 무엇인가요?"], "intent": null, "sample_answer": null, "page": 9},
+    {"admission": "학생부종합(조기취업형계약학과전형)", "unit": null, "format": "서류기반", "competency": null, "passage": null,
+     "prompts": ["입학 후 계획은 무엇인가요?(대학 생활 계획, 취업 후 자기 개발 계획, 진로 목표 등)"], "intent": null, "sample_answer": null, "page": 9}
+  ]
+}

@@ -1,0 +1,111 @@
+{
+ "source": {
+  "university": "서울과학기술대학교",
+  "year": 2026,
+  "file": "2026_서울과학기술대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "학교생활기록부를 기반으로 한 확인 면접",
+   "duration": "10분 내외",
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": "40"
+    },
+    {
+     "name": "학업역량",
+     "weight": "35"
+    },
+    {
+     "name": "공동체역량",
+     "weight": "25"
+    }
+   ],
+   "page": 20
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년 영어 수행평가 과제로 ○○학습 문제를 제기하고 다양한 해결방안을 조사하여 발표하였다고 하였는데, ○○학습을 주제로 선택한 이유는 무엇인가요? 어떤 해결방안이었는지 소개해주시고 왜 그러한 해결방안을 제시하였는지 그 이유를 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2년 동안 동아리를 하면서 3학년 때는 부장을 하였는데, 부장으로서 했던 활동 중 기억에 남는 것이 있다면, 과정과 결과를 간단하게 소개해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 언어와 매체 시간에 발표주제로 ‘생활 속에서 발견되는 국어의 ○○현상’을 선택해서 발표했다고 되어있는데, 발표한 내용에 대해 간략하게 말씀해주세요. 이 현상을 발표하게 된 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 화학시간에 ○○실험을 통해 조별 보고서를 완성하고 발표를 진행했다고 기술되어 있는데, 어떤 내용이었나요? 조별 보고서를 작성하면서 본인은 어떤 역할을 수행했나요? 실험의 결과는 사전에 본인이 예측한 결과였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리부문 ○○대회에 참여하였는데, 어떤 형태로 진행되는 대회인지 설명해보고 대회를 준비하기 위해 실험·실습한 원리에 대해 소개해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 때 학급에 장애가 있는 친구를 보조하는 역할을 했는데 원활한 통합수업이 이루어질 수 있도록 본인이 기울인 노력에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  }
+ ]
+}

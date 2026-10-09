@@ -1,0 +1,77 @@
+{
+ "source": {
+  "university": "한양대학교(ERICA)",
+  "year": 2025,
+  "file": "2025_한양대학교(ERICA)"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(면접형)",
+   "units": "수시",
+   "format": "서류기반",
+   "method": "3명의 평가위원이 참여",
+   "duration": null,
+   "criteria": [],
+   "page": 11
+  },
+  {
+   "admission": "국방전략기술공학",
+   "units": null,
+   "format": "서류기반",
+   "method": "2명의 평가위원이 참여",
+   "duration": null,
+   "criteria": [],
+   "page": 11
+  },
+  {
+   "admission": "조기취업형 계약학과",
+   "units": null,
+   "format": "서류기반",
+   "method": "2명의 평가위원이 참여",
+   "duration": null,
+   "criteria": [],
+   "page": 11
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합(면접형), 국방전략기술공학, 조기취업형 계약학과",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "◯◯ 과목에서 ◯◯을 주제로 토론에 참가한 경험이 있는데, 본인과 반대 입장의 근거는 무엇이었는지 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(면접형), 국방전략기술공학, 조기취업형 계약학과",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "◯◯ 과목의 세부능력 및 특기사항을 보면 ◯◯에 대해 관심이 많다고 했는데, ◯◯의 원리에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(면접형), 국방전략기술공학, 조기취업형 계약학과",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "◯◯ 과정에서 이견 또는 갈등을 겪었을 때 이를 효과적으로 극복한 경험이 있다면 구체적으로 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  }
+ ]
+}

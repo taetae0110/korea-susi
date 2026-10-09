@@ -1,0 +1,395 @@
+{
+ "source": {
+  "university": "건국대학교(글로컬)",
+  "year": 2025,
+  "file": "2025_건국대학교(글로컬)"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민전형",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "재외국민전형",
+   "units": "간호학과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "재외국민전형",
+   "units": "전체(의예과, 간호학과 제외)",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부교과-지역인재,지역인재-기초생활및차상위,농어촌학생",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부교과-특수교육대상자",
+   "units": "경영학과, 경찰학과, 문헌정보학과, 유아교육과, 사회복지학과, 신문방송학과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부종합전형-Cogito자기추천",
+   "units": "의예과",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "학생부종합전형-Cogito자기추천",
+   "units": "전체(의예과 제외)",
+   "format": "서류기반",
+   "method": "학교생활기록부를 기반으로 한 서류 확인 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  },
+  {
+   "admission": "체육특기자전형",
+   "units": "전체",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "다음 두 명의 의사가 있습니다. 수술 술기는 좋지만 환자들의 고통을 공감하지 못하는 의사 A와 수술 술기는 다소 부족하지만 환자들에게 매우 친절하고 환자들의 고통을 공감할 수 있는 의사 B 중 누가 더 바람직한 의사라고 지원자는 생각하십니까? 그 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "간호학과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "오늘 밤 근무 중에 신입 간호사인 당신은 의사가 처방한 마시는 물약(시럽)을 주사로 환자에게 잘못 준비한 것을 알게 되었다. 이때 당신은 어떻게 대처할지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "간호학과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 간호사 사직률이 증가하여 직장을 그만두는 간호사가 늘어나고 있다. 이를 해결하기 위해 간호대학의 정원을 지속적으로 늘리는 우리나라의 정부 정책에 대한 본인의 생각을 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "OO학과에 지원한 동기가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 생활 중 친구와 갈등 상황이 발생했을 때 어떻게 대처하는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": "의예과와 간호학과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 진로희망 사항을 이루기 위해 학창 시절에 특별히 노력한 부분이 있다면 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부교과(지역인재, 지역인재기초생활및차상위, 농어촌)전형",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "번아웃 증후군(Burnout syndrome)이란 정신적 탈진 증상으로, 의사의 번아웃은 감정적 피로, 환자에 대한 공감 부족이나 부정적인 태도, 개인적 성취감 감소 등의 부정적 감정을 포함한 장기적인 스트레스 형태가 나타난다. 2022년 미국 의사협회 의료진 번아웃 조사 보고서에 따르면 응답자의 63%가 번아웃 증상을 경험하였는데, 이는 전년 대비 5% 증가한 수치이다. COVID-19 이후 번아웃이 극적으로 증가하여 2024년 아테나헬스 보고서는 미국 의사 1천 명 이상이 참여한 조사에서 응답자의 93%가 번아웃을 경험했다고 하였다.\n응급의학과 의사가 번아웃 비율이 제일 높았으며, 내과 의사, 소아청소년과 의사가 뒤를 이었다. 미국 의사의 주요 번아웃 요인으로 의무기록 작성의 부담, 시스템의 비효율성, 행정적 부담, 규제 및 기술 요구사항의 증가가 꼽혔다.\n2024 미래건강지수 보고서는 의료 영역에서의 인공지능(AI) 사용은 의사의 번아웃, 정신건강 문제, 일과 생활의 불균형을 완화하는 데에 긍정적인 역할을 한다고 분석하였다. 그러나, 미국 식품의약품안전처가 승인한 의료영상 AI 도구가 900개 이상이 존재하지만, 운영의 비효율성으로 인해 실제로 사용하는 데 한계가 있다.",
+   "prompts": [
+    "아래 제시문을 읽고, 면접위원의 질문에 답하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 시절 누군가에게 양보와 배려를 실천한 경험에 대해서 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "지원한 학과에서 필요한 역량을 기르기 위하여 고등학교 때 어떤 노력을 했는지 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특수교육대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "의사소통능력",
+   "passage": null,
+   "prompts": [
+    "친구들과 조별과제 또는 팀프로젝트를 수행했던 경험에 대해서 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "매사에 최선을 다하고 친구들과 사이가 좋은 같은 반 학생인 수철이는 지원자의 친한 친구입니다.\n수철이가 학교 공식 행사인 축제 준비위원으로 바빠서 과제 제출일을 맞추기 어려워 chatGPT를 이용하여 작성한 후 제출하였습니다. 과제 준비 규칙에 chatGPT를 이용하지 말라고 명시되어 있습니다. 그런데, 지원자(당신)는 수철이가 chatGPT로 과제를 수행한 사실을 우연히 알게 되었습니다. 과제 발표시간에 수철이는 선생님과 반 친구들로부터 좋은 평가를 받았습니다.",
+   "prompts": [
+    "아래 제시문을 읽고, 면접위원 질문에 답하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애인을 위한 보조 설비 중 비장애인들도 사용할 수 있는 보조기구와 설비를 구상했다고 하는데, 구체적으로 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "국어 시간에 '장애인의 일반학교 입학 확대'에 대한 토론을 진행하여 모둠 우수 토론자로 선정이 되었는데, 어떤 주장을 했는지 말해보세요. 모둠 우수 토론자로 선정된 이유는 무엇일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교육학 시간에 활동한 학생인권조례 폐지 논란과 관련하여 자신의 입장을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "의예과를 제외한 전체 학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 축제 준비 과정에서 놀라운 추진력을 보여주어 선생님께 감동을 주었다고 기재되어 있는데 어떤 상황이었는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오전)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건국대학교 스포츠건강학과에 지원하는 동기는 무엇이며, 이루고자하는 목표를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오전)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 경기력 향상을 위해 스포츠과학을 적용한 훈련내용을 설명하고, 그 효과에 대해 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오전)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀워크를 높이기 위해 본인이 노력한 사례를 설명하고, 진학 후 팀에 기여할 수 있는 점을 말해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오후)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠건강학과에 지원동기는 무엇이고, 성취하고자 하는 바를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오후)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "선수생활 중 경험했던 위기상황을 설명하고, 이를 극복하기 위한 본인의 대처방법을 말해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "스포츠건강학과(오후)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "원팀을 이루기 위하여 가장 중요한 것은 무엇이며, 이를 위해 본인이 어떠한 노력을 했는지 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "골프산업학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리대학에 지원하는 이유는 무엇이며, 학생으로서 학업에 대한 본인의 의지를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "골프산업학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "골프선수로서 본인의 장점과 단점을 제시하고 그 이유를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "체육특기자전형",
+   "unit": "골프산업학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "골프선수에게 필요한 주된 체력요소는 무엇이며, 이를 발달시키기 위한 자신이 훈련방법(경험)을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  }
+ ]
+}

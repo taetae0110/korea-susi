@@ -1,0 +1,111 @@
+{
+ "source": {
+  "university": "덕성여자대학교",
+  "year": 2026,
+  "file": "2026_덕성여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "units": "인문‧사회, 자연, 예술",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "서류 신뢰성",
+     "weight": "50"
+    },
+    {
+     "name": "종합적 사고력",
+     "weight": "30"
+    },
+    {
+     "name": "인성",
+     "weight": "20"
+    }
+   ],
+   "page": 60
+  }
+ ],
+ "questions": [
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회문제탐구(3학년) 수업에서 ‘우리나라의 외교정책 현안 분석’에 대한 탐구를 했는데, 해당 주제를 선정한 이유와 주요내용을 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 60
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수업활동, 세부능력 및 특기사항 내용을 통해 다양한 독서활동 상황을 확인할 수 있는데, 지원자에게 독서의 의미는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 60
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교내 학급회장 및 학생회 활동 등 다수의 임원 활동을 했음이 확인되고 있습니다. 본인이 뛰어난 리더십을 발휘했다고 생각하는 사례를 구체적으로 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 60
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "축제에서 사회를 본 경험이 어떠한 측면에서 본인의 배려, 나눔, 협력, 갈등관리역량 증진에 기여했다고 평가하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 60
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘판의 미로’의 줄거리와 확률과 통계의 기본개념인 조합과 순열을 결합시키는 아이디어를 어떻게 적용시켰나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 60
+  },
+  {
+   "admission": "덕성인재전형Ⅱ",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "영어 동아리 활동 중 읽었던 사설 중, 빌 게이츠 등 미국 상위 부자들의 자선을 위한 행동에 대한 내용을 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 60
+  }
+ ]
+}

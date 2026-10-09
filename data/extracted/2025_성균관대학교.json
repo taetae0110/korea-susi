@@ -1,0 +1,108 @@
+{
+ "source": {
+  "university": "성균관대학교",
+  "year": 2025,
+  "file": "2025_성균관대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형 탐구형",
+   "units": "사범대학, 자유전공계열, 스포츠과학, 의예",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 17
+  },
+  {
+   "admission": "과학인재전형",
+   "units": "전체",
+   "format": "제시문기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 17
+  },
+  {
+   "admission": "재외국민",
+   "units": "의예",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 17
+  },
+  {
+   "admission": "전교육과정해외이수자",
+   "units": "스포츠과학, 의예",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 17
+  },
+  {
+   "admission": "일반전형",
+   "units": "의예",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 17
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형(탐구형)",
+   "unit": "스포츠과학",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "스포츠과학 분야의 우수한 인재가 되기 위해 필요한 역량을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 240
+  },
+  {
+   "admission": "학생부종합전형(탐구형)",
+   "unit": "스포츠과학",
+   "format": "인성",
+   "competency": "인성, 표현력, 논리력",
+   "passage": null,
+   "prompts": [
+    "성균관대학교 스포츠과학과에 지원한 동기를 구체적으로 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 240
+  },
+  {
+   "admission": "학생부종합전형(탐구형)",
+   "unit": "스포츠과학",
+   "format": "인성",
+   "competency": "인성, 표현력, 논리력",
+   "passage": null,
+   "prompts": [
+    "성공적인 대학 생활에서 중요하다고 생각하는 것을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 240
+  },
+  {
+   "admission": "전교육과정해외이수자(12년) 특별전형",
+   "unit": "스포츠과학",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "성균관대학교 스포츠과학과에 지원한 동기에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 243
+  }
+ ]
+}

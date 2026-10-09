@@ -1,0 +1,289 @@
+{
+ "source": {
+  "university": "용인대학교",
+  "year": 2025,
+  "file": "2025_용인대학교"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민 특별전형",
+   "units": "전체 계열",
+   "format": "인성",
+   "method": "온라인 화상 면접으로 당일 즉문즉답으로 진행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "기본소양",
+     "weight": "20 ~ 50"
+    },
+    {
+     "name": "전공적성",
+     "weight": "20 ~ 50"
+    }
+   ],
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "무도계열전공학부",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "본인이 무도계열전공학부에 입학한다면 어떻게 대학생활을 할 것인지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "무도계열전공학부",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "무도를 수련하는 사람이 갖추어야 할 소양은 무엇이라고 생각하는지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "경호학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "본인이 가장 존경하는 분과 그에 대한 이유를 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "경호학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "경호에 대한 개념을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "스포츠레저학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "해외에서 가장 크게 배운 점을 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "스포츠레저학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "스포츠레저인으로서 가져야 할 가장 중요한 자질은 무엇인지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "체육학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "인성과 스포츠맨쉽의 관계에 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "체육학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "스포츠 과학의 필요성을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "실용음악과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "음악이 자신에게 어떤 존재인지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "실용음악과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "현재 대중음악계의 흐름에 대해 어떤 의견을 가지고 있는지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "영화영상학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "지난 3년간 리더쉽이나 협동심을 발휘하여 타인과 함께 성취한 바가 있다면 무엇인지 그 과정을 간략하게 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "영화영상학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "지금까지 감상한 영화 중 등장인물들이 가장 매력적인 영화는 무엇이며 왜 그 인물이 매력적이었는지 이유를 구체적으로 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "관광경영학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "중·고교 시절 경험한 대외활동 또는 동아리 활동 중에서 대표적인 활동과 그곳에서의 본인의 역할에 대하여 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "관광경영학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "최근 1년 이내에 가장 인상 깊었던 여행 경험과 그 경험이 특히 기억에 남는 이유를 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "경찰행정학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "지금까지 가장 보람되었던 일과 가장 후회되었던 일은 무엇인지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "경찰행정학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "용인대학교 경찰행정학과를 통하여 얻고자 하는 것이 무엇인지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "식품조리학부",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "대학은 학문을 배우는 공간인지 사회생활을 위해 필요한 기술을 익히는 공간인지 본인의 의견과 그 이유를 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "식품조리학부",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "인공지능 시대에 자신의 전공 분야가 어떻게 활용될 것인지에 대한 본인의 생각을 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "기본소양",
+   "passage": null,
+   "prompts": [
+    "물리치료학과에 지원하게 된 특별한 동기가 있었는지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "전공적성",
+   "passage": null,
+   "prompts": [
+    "물리치료사는 환자와의 상호작용을 위해 탁월한 소통 능력을 요하는 직업입니다. 소통 능력 향상을 위해서 어떠한 노력이 필요한지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  }
+ ]
+}

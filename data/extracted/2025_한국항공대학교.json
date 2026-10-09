@@ -1,0 +1,124 @@
+{
+ "source": {
+  "university": "한국항공대학교",
+  "year": 2025,
+  "file": "2025_한국항공대학교"
+ },
+ "interviews": [
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "units": "전 계열",
+   "format": "서류기반",
+   "method": "학교생활기록부 기반의 활동 확인 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "공동체역량",
+     "weight": null
+    }
+   ],
+   "page": 23
+  }
+ ],
+ "questions": [
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 프로그래밍 능력과 하드웨어 이해를 바탕으로 자율주행 자동차제작 프로젝트를 진행하였던 기록이 눈에 띕니다. 이에 대해 자세히 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미인정 결석, 지각, 조퇴가 다수인 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "모둠활동에서 발표했던 자동제어 관련 실생활 적용 아이디어에 대해 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 코딩 경험이 다수 기재되어 있는데 코딩에 대한 공부 방법을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "리더 경험이 많은데 힘들거나 어려웠던 점이 있다면 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "항공전문가로서 갖추어야 할 기본 소양은 무엇이고, 소양과 자질을 갖추기 위해 노력하는 부분이 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "미래인재 / 고른기회전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생명과학에 관심이 많았습니다. 본교에 지원하게 된 계기와 졸업 후 계획에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  }
+ ]
+}

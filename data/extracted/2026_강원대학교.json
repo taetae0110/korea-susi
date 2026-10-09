@@ -1,0 +1,129 @@
+{
+  "source": {
+    "university": "강원대학교",
+    "year": 2026,
+    "file": "2026_강원대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합(미래인재면접전형, 영농창업인재전형)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "학업역량",
+          "weight": null
+        },
+        {
+          "name": "진로역량",
+          "weight": null
+        },
+        {
+          "name": "자기주도역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 6
+    },
+    {
+      "admission": "학생부종합(지역인재면접전형)",
+      "units": "의예과",
+      "format": "MMI",
+      "method": "학교생활기록부 기재사항 확인+ 인·적성 면접",
+      "duration": "제시문 분석 2분, 면접 8분",
+      "criteria": [
+        {
+          "name": "학업역량",
+          "weight": null
+        },
+        {
+          "name": "진로역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 6
+    },
+    {
+      "admission": "학생부교과(평생학습자전형, 특수교육대상자전형 만학도전형)",
+      "units": "전체",
+      "format": "인성",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "지원동기",
+          "weight": null
+        },
+        {
+          "name": "학업계획",
+          "weight": null
+        }
+      ],
+      "page": 6
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합(미래인재면접전형, 지역인재면접전형-학업역량, 영농창업인재전형), 학생부교과(평생학습자전형, 특수교육대상자전형, 만학도전형)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "지원하는 분야에 관심을 가지게 된 계기는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": "학생부종합(미래인재면접전형, 지역인재면접전형-학업역량, 영농창업인재전형), 학생부교과(평생학습자전형, 특수교육대상자전형, 만학도전형)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자신이 지원한 학과에 본인이 적합하다고 생각하는 이유는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": "학생부종합(미래인재면접전형, 지역인재면접전형-학업역량, 영농창업인재전형), 학생부교과(평생학습자전형, 특수교육대상자전형, 만학도전형)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "전반적인 성적보다 00교과 성적이 낮은데 그 이유가 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": "학생부종합(미래인재면접전형, 지역인재면접전형-학업역량, 영농창업인재전형), 학생부교과(평생학습자전형, 특수교육대상자전형, 만학도전형)",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "진로와 관련되어 취미가 00 관련 기사 찾아보기라고 했네요. 기억에 남는 기사는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "source": {"university": "충북대학교", "year": 2025, "file": "2025_충북대학교"},
+  "interviews": [
+    {
+      "admission": "기타(재외국민특별전형)",
+      "units": "전체",
+      "format": "인성",
+      "method": null,
+      "duration": null,
+      "criteria": [],
+      "page": 6
+    }
+  ],
+  "questions": [
+    {"admission": "기타(재외국민특별전형)", "unit": null, "format": "인성", "competency": null, "passage": null,
+     "prompts": ["OO학과 지원 동기는?"], "intent": null, "sample_answer": null, "page": 6},
+    {"admission": "기타(재외국민특별전형)", "unit": null, "format": "인성", "competency": null, "passage": null,
+     "prompts": ["OO학과 입학을 위해 준비해 온 것이 있다면?"], "intent": null, "sample_answer": null, "page": 6},
+    {"admission": "기타(재외국민특별전형)", "unit": null, "format": "인성", "competency": null, "passage": null,
+     "prompts": ["OO학과 입학 후 주로 공부하고 싶은 세부분야는?"], "intent": null, "sample_answer": null, "page": 6},
+    {"admission": "기타(재외국민특별전형)", "unit": null, "format": "인성", "competency": null, "passage": null,
+     "prompts": ["OO학과 졸업 후 계획하고 있는 진로 분야는?"], "intent": null, "sample_answer": null, "page": 6}
+  ]
+}

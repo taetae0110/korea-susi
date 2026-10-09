@@ -1,0 +1,85 @@
+{
+ "source": {
+  "university": "한성대학교",
+  "year": 2026,
+  "file": "2026_한성대학교"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민 특별전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "수험생 1명에 면접위원 2명으로 배정",
+   "duration": "수험생 1인당 5~7분 이내",
+   "criteria": [],
+   "page": 13
+  }
+ ],
+ "questions": [
+  {
+   "admission": "재외국민 특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "○○ 모집단위에 지원하셨습니다. 해당 모집단위에 지원하게 된 동기를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "○○ 학업계획을 작성하셨습니다. 해당 학업계획에 대해서 구체적으로 설명해주세요. 또한 ○○ 계획을 언급했는데, 해당 계획을 통해 어떠한 역량을 발전시키고 싶은지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "특기사항으로 ○○를 장시간 했다고 기재되어 있는데, 해당 활동을 통해서 본인의 어떤 역량이 발전되었는지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "작성한 특기 사항이 지원학과와 어떤 연관성이 있는지 구체적으로 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동을 했다고 작성했는데, 협력하는 데 있어 어려웠던 점은 없었나요? 그 이유는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  }
+ ]
+}

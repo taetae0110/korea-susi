@@ -1,0 +1,163 @@
+{
+ "source": {
+  "university": "국립강릉원주대학교",
+  "year": 2025,
+  "file": "2025_국립강릉원주대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": "치의예과",
+   "format": "서류기반",
+   "method": "면접위원은 전임입학사정관과 교수위촉사정관 2인으로 구성",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "발전가능성",
+     "weight": "25"
+    },
+    {
+     "name": "인성",
+     "weight": "30"
+    },
+    {
+     "name": "전공관심도",
+     "weight": "45"
+    }
+   ],
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 생명과학Ⅱ시간에 생명과학연구분석 활동에서 불소를 처리하면 구강 세균의 점착력이 떨어진다는 실험과정과 결과를 찾아 발표한 내용에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생명과학 주제탐구 발표회에서 첨단 바이오 의약품 개발에 대한 높은 목표의식을 갖고 인체의 면역 시스템을 탐구하기위해 면역 시스템과 T세포의 작용을 주제로 프레젠테이션을 진행한 부분에 대해 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의료분야와 관련된 동아리 활동을 하였는데 본인에게 가장 의미 있는 활동은? 그 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘골든아워2’라는 책을 선정하여 한 학기 동안 읽었는데 이 책을 선정한 이유와 느낀점은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "창의적 체험활동 - 진로활동 중에 치아 착색 방지에 대해 관심을 갖고 일상생활에서 실천 할 수 있는 치아 미백 방법과 치과에서 행해지는 미백 치료 방법을 탐구한 활동에 대해 소개해 줄 수 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "줄기세포를 이용한 치아 재생탐구'를 주제로 자율 탐구를 수행하며 관련 논문을 읽고 보고서를 작성한 내용을 소개해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "오늘의 이슈를 살펴보는 학급활동에서 '구강장치 이용의 문제점'에 대한 내용을 소개한 내용에 대해 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년, 통합과학 시간에 세포 소기관에 대해 학습하고 세포의 크기가 어느 정도 크기일지 궁금증을 느껴 세포 소기관의 크기 및 미시적 세계의 단위를 조사하고 발표한 내용이 있는데 세포 소기관에 대해 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년, 동아리 활동에서 “텔로미어 개념을 학습한 후 말단 복제 문제가 일어날 수 밖에 없는 구조적 문제를 파악”했다고 되어 있는데 텔로미어에 대해 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인이 치의예과를 지원하게된 계기가된 진로활동등의 체험 혹은 탐구활동이 있었는지와 그에 대한 이야기를 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  }
+ ]
+}

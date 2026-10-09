@@ -1,0 +1,255 @@
+{
+ "source": {
+  "university": "차의과학대학교",
+  "year": 2025,
+  "file": "2025_차의과학대학교"
+ },
+ "interviews": [
+  {
+   "admission": "CHA학생부교과전형",
+   "units": "간호대학, 약학대학, 미래융합대학",
+   "format": "인성",
+   "method": "가이드 문항을 활용한 면접관 3인 대 지원자 1인 개별 대면면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": "20"
+    },
+    {
+     "name": "인성",
+     "weight": "40"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "40"
+    }
+   ],
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "사회통합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "진로역량",
+     "weight": null
+    },
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 12
+  }
+ ],
+ "questions": [
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인의 희망전공 분야에 필요한 능력은 무엇이라고 생각하는지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인의 희망전공을 선택하는데 계기가 된 활동이 있다면 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인의 희망전공을 결정한 이후 가장 중점적으로 준비한 사항은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "주변에 도움을 준 경험이 있다면 어떤 것이며, 그 안에서 지원자의 역할은 무엇이었는지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인에게 가장 중요한 가치관은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "고교 생활 중 리더십을 발휘한 경험이 있으면 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "다른 사람과 마찰이나 어려움이 발생했을 때, 어떻게 해결했는지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "고교 생활 중 나눔을 실천했던 사례가 있다면 구체적으로 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "우리 대학에 입학 후, 1학년을 어떻게 보낼 계획인지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "고교 생활 중 본인의 역량 개발을 위해 노력한 활동이 있다면 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "문제가 발생되었을 때 해결 방안을 제시하여 해결한 경험이 있다면 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "CHA학생부교과전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "지원자의 꿈은 무엇이며 어떻게 실현할 것인지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+  "source": {
+    "university": "숭실대학교",
+    "year": 2025,
+    "file": "2025_숭실대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": "12분 내",
+      "criteria": [],
+      "page": 68
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "○○활동이 가장 활발해 보이는데, 이 활동은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "전반적인 성적보다 ○○교과 성적이 좋은데(혹은 나쁜데) 이유가 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "지원 전공 분야에 대해 알고 있는 현재 이슈가 있는지, 특히 관심있는 분야는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "○○분야가 유망하다고 생각하는 이유를 말해보세요. ○○의 활용사례에 대해 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "학업계획에 ○○가 꿈이라고 했는데, 관심 갖게 된 동기가 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "○○라는 진로를 결정하게 된 결정적인 활동을 구체적으로 설명해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "본인이 이 학과와 잘 맞는다고 생각하는 강점과 그 이유를 설명해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    },
+    {
+      "admission": "학생부종합(SSU미래인재, 기회균형, 특수교육대상자, SW우수자) 및 정보호호특기자전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "숭실대학교 ○○학과에 지원한 동기를 이야기해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 68
+    }
+  ]
+}

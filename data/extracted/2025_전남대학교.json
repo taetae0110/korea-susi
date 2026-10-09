@@ -1,0 +1,483 @@
+{
+  "source": {
+    "university": "전남대학교",
+    "year": 2025,
+    "file": "2025_전남대학교"
+  },
+  "interviews": [
+    {
+      "admission": "학생부종합(고교생활우수자전형Ⅰ)",
+      "units": "전계열",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "학생부종합(후계농업경영인)",
+      "units": "원예생명공학과",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "학생부종합(조기취업형계약학과)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "학생부교과(특수교육대상자)",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "재외국민과외국인 제1유형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    },
+    {
+      "admission": "재외국민과외국인 제2유형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": null,
+      "duration": null,
+      "criteria": [
+        {
+          "name": "진로·학업역량",
+          "weight": null
+        },
+        {
+          "name": "공동체역량",
+          "weight": null
+        }
+      ],
+      "page": 4
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○분야에 많은 관심을 갖고 있는데, ○○학과(부)로 지원을 결심하게 된 계기는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "◯◯학과(부)의 교육과정에 대해 알고 있나요? 가장 관심 있는 분야는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○수업에서 ○○문제와 관련하여 ○○이 원인이라는 결론을 도출하였는데, 결론 도출에 근거가 된 자료는 어떻게 탐구하였으며, 고민해 본 방안은 무엇이 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○활동을 통해 ○○의 다양한 학문분야에 대한 지식을 확장한 경험이 있는데, 가장 흥미롭게 탐구한 분야 또는 주제가 있다면 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "지원자가 학습에 활용한 ○○전략은 무엇인지 설명하고, 그러한 노력으로 체득한 지식과 경험이 ○○학과(부) 전공학습에 어떠한 도움이 될 것 이라고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○문제에 대해 탐구하며 과학적이고 객관적인 자료를 통해 문제를 이해하고 해석해야 된다고 생각하였는데, 이를 구체적으로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "◯◯활동에서 자신의 주장을 뒷받침하기 위해 제시한 근거는 무엇이며, 근거 제시를 위해 어떠한 학습과정과 노력이 있었는지 말씀해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○진로목표를 다짐하게 된 계기는 무엇이었나요? ○○이 되기 구체적인 계획을 가지고 있는데 어떠한 학업계획과 목표를 가지고 있는 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "관심을 갖고 있는 진로목표는 무엇이며, 해당 진로목표는 어떠한 자질과 윤리의식을 가져야 한다고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○책을 읽고 자신의 진로관을 정립했다고 기록되어 있는데, 책의 내용과 본인의 진로관을 소개해 보시오."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "고등학교에서 수행한 교과 또는 비교과 활동 중 전공과 가장 관련이 깊은 활동은 무엇이라고 생각하며 지원자는 해당 활동에서 어떤 노력을 기울였나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "본인이 가장 좋아하거나 잘하는(또는 가장 싫어하거나 못하는) 교과목은 무엇이고 기울은 노력은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "다른 과목에 비해 ○○교과 성적이 다소 부족한 편인데 이유가 무엇이라고 생각하나요? 성적을 향상시키기 위해 어떤 노력을 하였나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "전공 학습에 기초가 되는 교과목을 고교에서 배우지 않았는데, 부족한 부분을 채우기 위해 어떠한 노력을 하였나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○주제에 대한 독서토론 활동에서 작가의 주장을 비판하였는데, 이를 뒷받침할 수 있는 근거로 무엇을 들 수 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "진로·학업역량",
+      "passage": null,
+      "prompts": [
+        "○○을 주제로 한 탐구 내용을 간략히 소개해 보고, 탐구활동이 본인에게 어떠한 의미가 있었는지 설명해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 9
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "○○활동을 통해 살펴본 본인 성격의 장점과 약점은 어떠한 특징이 있나요? 본인의 장점이 ○○학과(부) 학생이 되었을 때 어떠한 강점으로 작용될 것이라고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "교내 ○○문제 해결을 위해 지원자가 인식했던 문제점은 무엇이며 해결을 위해 어떤 노력을 기울였나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "○○역할을 수행하며 학급/학교의 변화를 이끌어 내기 위해 ○○활동을 주도하였는데, 활동 전과 후를 비교하여 어떠한 변화가 나타났다고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "○○역할에 선출되기 전 친구들에게 약속했던 공약 중 가장 잘 수행한 것과, 아쉬움이 남는 것을 소개해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "학교 단체활동에서 역할을 잘 수행하기 위해 노력했던 점을 소개해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "조직(단체)가 원활하게 흘러가기 위해 가장 필요한 것은 무엇이라고 생각하나요? 학교활동 중 본인이 역량이 잘 발휘된 경험이 있나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "여러 갈등상황에서 의견을 조율하는 리더십 역량을 발휘한 경험이 있는데, 기억에 남는 경험 한 가지를 소개하고 어떠한 의사소통역량을 발휘하였는지 말씀해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "○○책을 읽고 서평을 작성한 경험이 있는데 책을 통해 얻은 배움과 느낀점은 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "○○선생님께서 지원자를 ○○학생이라고 평가하셨는데, 이러한 평가를 받을 수 있는 지원자의 모습을 소개해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "○○활동을 하며 가장 기억에 남는 경험은 무엇이며, 본인의 역할과 친구들과의 협업을 통해 배운점이 무엇인지 구체적으로 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "다양한 교내봉사활동에 참여한 경험이 있는데, 가장 의미가 있었던 활동은 무엇인가요? 또한 다양한 봉사활동에 참여한 특별한 이유가 있다면 설명해 주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "서류기반",
+      "competency": "공동체역량",
+      "passage": null,
+      "prompts": [
+        "학업 외 활동 중 자신에게 가장 의미 있었던 활동은 무엇이며, 활동을 통해 배우고 느낀 점은 무엇인지 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    }
+  ]
+}

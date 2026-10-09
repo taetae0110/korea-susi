@@ -1,0 +1,130 @@
+{
+  "source": {
+    "university": "전북대학교",
+    "year": 2025,
+    "file": "2025_전북대학교"
+  },
+  "interviews": [
+    {
+      "admission": "큰사람",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "지원자 1인에 대해 3인의 면접위원이 1단계 서류내용을 바탕으로 평가 기준에 의거하여 약 10분 내외로 평가를 진행",
+      "duration": "약 10분 내외",
+      "criteria": [],
+      "page": 8
+    },
+    {
+      "admission": "SW인재",
+      "units": "자연",
+      "format": "서류기반",
+      "method": "지원자 1인에 대해 3인의 면접위원이 1단계 서류내용을 바탕으로 평가 기준에 의거하여 약 10분 내외로 평가를 진행",
+      "duration": "약 10분 내외",
+      "criteria": [],
+      "page": 8
+    },
+    {
+      "admission": "사회통합",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "지원자 1인에 대해 3인의 면접위원이 1단계 서류내용을 바탕으로 평가 기준에 의거하여 약 10분 내외로 평가를 진행",
+      "duration": "약 10분 내외",
+      "criteria": [],
+      "page": 8
+    },
+    {
+      "admission": "특성화고졸재직자",
+      "units": "자연",
+      "format": "서류기반",
+      "method": "지원자 1인에 대해 3인의 면접위원이 1단계 서류내용을 바탕으로 평가 기준에 의거하여 약 10분 내외로 평가를 진행",
+      "duration": "약 10분 내외",
+      "criteria": [],
+      "page": 8
+    },
+    {
+      "admission": "특성화고교졸업자",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "지원자 1인에 대해 3인의 면접위원이 1단계 서류내용을 바탕으로 평가 기준에 의거하여 약 10분 내외로 평가를 진행",
+      "duration": "약 10분 내외",
+      "criteria": [],
+      "page": 8
+    },
+    {
+      "admission": "재외국민특별전형",
+      "units": "전체",
+      "format": "서류기반",
+      "method": "지원자 1인에 대해 3인의 면접위원이 1단계 서류내용을 바탕으로 평가 기준에 의거하여 약 10분 내외로 평가를 진행",
+      "duration": "약 10분 내외",
+      "criteria": [],
+      "page": 8
+    }
+  ],
+  "questions": [
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "본인이 지원한 계열(학과)에 관심을 갖게된 시기는 언제이고, 그 계기는 무엇인가?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 8
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 때 어떤 진로선택 과목을 수강했으며, 그 과목을 선택하여 수강한 이유는 무엇인가?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 8
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "다른 사람들과 함께 생활하거나 활동을 수행할 때, 본인만의 장점이나 특징이 있다면?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 8
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "타인과 소통이 잘 이루어졌던 경험이 있다면 말해보라."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 8
+    },
+    {
+      "admission": "학생부종합전형",
+      "unit": null,
+      "format": "서류기반",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고교 생활 중 팀 프로젝트를 수행한 경험이 있다면 어떤 활동이었으며, 본인은 어떠한 역할을 했는지 말해보라. (동아리 활동, 수행평가, 봉사활동 등)"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 8
+    }
+  ]
+}

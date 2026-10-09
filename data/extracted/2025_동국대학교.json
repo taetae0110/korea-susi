@@ -1,0 +1,258 @@
+{
+ "source": {
+  "university": "동국대학교",
+  "year": 2025,
+  "file": "2025_동국대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부위주전형",
+   "units": null,
+   "format": "서류기반",
+   "method": "개별 면접/일반 면접(문제 출제 없음)",
+   "duration": "5분~12분",
+   "criteria": [
+    {
+     "name": "전형취지적합성",
+     "weight": "20"
+    },
+    {
+     "name": "전공적합성 / SW전공적합성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": "30"
+    }
+   ],
+   "page": 174
+  }
+ ],
+ "questions": [
+  {
+   "admission": "Do Dream",
+   "unit": "건축공학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년 동아리활동에서 동아리 차장으로서 학교 공간 조성을 위한 사용자 참여 설계 프로젝트에 참여하고 아이디어를 제안했다고 되어 있는데요. 학교 공간에 어떤 문제가 있었고 본인이 제시한 아이디어는 무엇이었는지 설명해 주세요. 또 동아리원들과 협업 시 어려웠던 점이 있었다면 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 174
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "통계학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 수업량 유연화에 따른 교육과정에서 코딩과 알고리즘에 대해 학습했다고 했는데요. 알고리즘이 무엇인지 예를 들어 설명해 주세요. 또 코딩 과정에서 협업의 중요성을 느끼게 되었다고 했는데요. 그 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 174
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "생명과학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1~3학년 진로활동을 보면, 원래 수의학과가 희망했다가 생명과학과로 진로를 변경했는데요. 생명과학 분야 중 특히, 합성생물학에 관심을 갖고 진로주제탐구를 하게 된 계기와 이유가 있다면 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 174
+  },
+  {
+   "admission": "불교추천인재",
+   "unit": "불교학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 윤리와사상 시간에 ‘현대 사회 윤리 문제 탐구하기’ 활동을 하며 불교와 도가 사상을 바탕으로 환경오염 문제를 해결하는 방안을 조사하고 발표했다고 했는데요. 본인이 탐구한 내용을 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "경영정보학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 출결상황에 미인정 지각이 3번 있었는데요. 어떤 이유였는지 설명해 줄 수 있나요? 또 이를 개선하기 위한 노력이 있었다면 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "법학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 진로활동을 보면 사회적 약자를 주제로 진로 탐구활동을 했다고 되어있는데요. 탐구과정에서 알게 된 사회적 약자의 어려움은 무엇이었고 본인은 이에 대해 어떤 해결방안을 제시하였나요? 이와 관련해 법학과 입학 후 본인이 목표하는 바가 있다면 얘기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "정보통신공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리학Ⅰ 시간에 전자기유도에 대해 학습하고 전자기유도실험도 했는데요. 전자기유도가 무엇인지 설명해보고, 실험 결과 어떤 경우에 강한 전류가 흘렀는지 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "국어국문문예창작학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고전 읽기 수업에서 '짐노래'와 '빈녀음' 속 여성 화자들의 고단한 삶을 이해한 뒤 어머니의 고됨을 이해하는 편지를 썼다고 되어 있는데요. 어머니에게 편지를 쓴 까닭과 고전이 우리 삶에 어떤 영향을 끼칠 수 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "경영정보학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2~3학년 때 전교 학생자치회 홍보마케팅부 차장으로 학교를 알리는 행사를 구성하고 리더십을 발휘했다고 했는데요. 어떤 행사를 기획했는지 얘기해 주세요. 또 해당 활동 과정에서 친구들과 협력한 내용이 있다면 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "통계학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 때 미적분 과목 멘토로 활동했다고 되어 있는데요. 멘티가 가장 어려워했던 부분은 무엇이고 이를 해결하기 위해 본인은 어떤 노력을 기울였나요? 또 멘토-멘티 활동을 하며 배운 점이 있다면 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 175
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "약학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 화법과 작문, 2학년 문학 과목 세부능력 및 특기사항살펴보면 ‘언어 능력이 탁월하다’, ‘발표 능력이 우수하다’ 등 언어 및 소통 역량에 대해 기재되어 있는데요. 본인의 의사소통 능력을 어떻게 생각하는지 얘기해주세요. 또 그러한 역량이 약사가 되는데 어떤 긍정적인 영향을 줄 거라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 176
+  },
+  {
+   "admission": "Do Dream(소프트웨어)",
+   "unit": "컴퓨터·AI학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 진로와 직업에서 IoT 개발자가 되고 싶다고 기재되어 있는데요. 해당 진로를 생각하게 된 계기와 대학 입학 후 배우고 싶은 전공 분야가 있다면 얘기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 176
+  },
+  {
+   "admission": "특수교육대상자",
+   "unit": "경영학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년 행동특성 및 종합의견에서 평소 사회적 약자에 관심이 많고 특수교사와 행정가로서의 자질과 성품이 배어있다고 기재되어 있는데요. 그럼에도 불구하고 경영학과에 지원한 이유와 입학 후 본인이 목표하는 바는 무엇인지 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 176
+  },
+  {
+   "admission": "특성화고등을졸업한재직자",
+   "unit": "사회복지상담학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부 1학년 진로활동에 학생인권에 대한 관심이 매우 높다고 기술되어 있는데요. 우리나라 고등학생의 인권 수준은 어느 정도라고 평가하며 그렇게 생각하는 이유를 얘기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 176
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "역사교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 진로활동에서 '역사교사의 사회적 역할'을 주제로 발표했는데, 어떤 내용이었는지 설명해주세요. 해당 활동을 통해 느낀 점과 본인이 바라는 역사교사의 모습에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 176
+  },
+  {
+   "admission": "Do Dream",
+   "unit": "건축공학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 때 인공지능 기초 과목을 이수하게 된 계기가 있다면 말해 주세요. 수업시간에 AI가 건축가를 대체할 수 있을지에 대한 고민을 바탕으로 인공지능의 건축적 쓰임에 관한 실태를 주제로 발표했다고 하는데요. 발표한 내용 소개해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 176
+  },
+  {
+   "admission": "특성화고등을졸업한재직자",
+   "unit": "사회복지상담학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "창의적 체험활동을 보면 어르신 대상 복지제도와 사회복지사의 업무에 대해 관심을 갖고 조사하는 활동을 했다고 되어 있는데요. 본인이 탐색한 내용을 토대로 어르신을 대상으로 일하는 사회복지사의 경우 가장 바람직한 관점, 태도는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 59
+  }
+ ]
+}

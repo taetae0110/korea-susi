@@ -1,0 +1,37 @@
+{
+ "source": {
+  "university": "상명대학교",
+  "year": 2026,
+  "file": "2026_상명대학교"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민특별전형",
+   "units": "자유전공·인문사회·경상·사범·자연공학·문화예술",
+   "format": null,
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  },
+  {
+   "admission": "상명인재전형",
+   "units": "예체능(애니메이션전공, AR·VR미디어 디자인전공, 문화예술경영전공 제외)",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  },
+  {
+   "admission": "조기취업형계약학과전형",
+   "units": "바이오푸드테크학과, 스마트IT융합공학과",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  }
+ ],
+ "questions": []
+}

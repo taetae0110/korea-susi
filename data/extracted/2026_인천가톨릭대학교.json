@@ -1,0 +1,181 @@
+{
+ "source": {
+  "university": "인천가톨릭대학교",
+  "year": 2026,
+  "file": "2026_인천가톨릭대학교"
+ },
+ "interviews": [
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "units": "문화콘텐츠학과",
+   "format": "인성",
+   "method": "인성 면접",
+   "duration": "10분 ~ 15분",
+   "criteria": [],
+   "page": 2
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "units": "간호학과",
+   "format": "인성",
+   "method": "인성 면접",
+   "duration": "10분 ~ 15분",
+   "criteria": [],
+   "page": 2
+  },
+  {
+   "admission": "대건안드레아",
+   "units": "신학과",
+   "format": "인성",
+   "method": "인성 면접",
+   "duration": "10분 ~ 15분",
+   "criteria": [],
+   "page": 2
+  }
+ ],
+ "questions": [
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인천가톨릭대학교의 교육이념에 대해 설명해 주세요."
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과에 진학한 후 해보고 싶은 작업은 무엇인가요?"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신이 잘하는 것과 못하는 것에 대해 구체적인 사례를 들어 설명해 주세요."
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "ICCU 미래인재, 가톨릭지도자 추천, 기회 균형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신과 생각이 맞지 않는 사람들이 같은 그룹에 있을 때, 어떻게 문제를 해결하시나요?"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인천가톨릭대학교의 교육이념과 본인의 지원동기를 연결해서 간단히 말씀해 보세요."
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호학과를 오기 위해 준비한 것이 있나요"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호사가 갖추어야 할 소양은 무엇이라고 생각하나요?"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "학교생활 우수자, 가톨릭지도자 추천, 농어촌학생, 기회 균형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신은 행복한 삶이 무엇이라고 생각하나요?"
+   ],
+   "intent": "인성 면접",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "대건안드레아",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "하느님은 어떤 분이라고 생각합니까?"
+   ],
+   "intent": "인성 면접(종교 교리 필답)",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "대건안드레아",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "친구와 오해를 풀기 위해 노력한 사례가 있나요? 소통에 대한 자신의 의견을 말해보세요"
+   ],
+   "intent": "인성 면접(종교 교리 필답)",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "대건안드레아",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사제란? 또한 사제에게 가장 중요한 덕목은 무엇이라고 생각하십니까? 그리고 본인은 그 덕목을 갖추고 있다고 생각하십니까?"
+   ],
+   "intent": "인성 면접(종교 교리 필답)",
+   "sample_answer": null,
+   "page": 5
+  }
+ ]
+}

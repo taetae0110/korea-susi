@@ -1,0 +1,211 @@
+{
+ "source": {
+  "university": "성결대학교",
+  "year": 2026,
+  "file": "2026_성결대학교"
+ },
+ "interviews": [
+  {
+   "admission": "체육특기자",
+   "units": null,
+   "format": "인성",
+   "method": "개별 구술 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    },
+    {
+     "name": "인성/사회성",
+     "weight": null
+    }
+   ],
+   "page": 6
+  },
+  {
+   "admission": "SKU창의적인재",
+   "units": null,
+   "format": "제시문기반",
+   "method": "다대다 토론 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "주제의 이해력",
+     "weight": null
+    },
+    {
+     "name": "주장의 논리력",
+     "weight": null
+    },
+    {
+     "name": "언어구사능력",
+     "weight": null
+    },
+    {
+     "name": "태도 및 성실성",
+     "weight": null
+    }
+   ],
+   "page": 6
+  },
+  {
+   "admission": "목회자추전자, 미래인재",
+   "units": null,
+   "format": "인성",
+   "method": "개별 구술 면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성/사회성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "체육특기자",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 체육 수업에서 공정성과 스포츠 정신을 강조하는 이유는 무엇이며, 이를 학생들에게 어떻게 교육할 수 있을지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "체육특기자",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "체육 수업에서 학생들의 자율성을 높이기 위한 방법과, 그로 인해 얻을 수 있는 교육적 효과에 대해 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "체육특기자",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교폭력 및 스포츠계에서 발생하는 폭력에 대해 본인의 견해를 말하고, 이를 예방하고 해결할 수 있는 방법을 제시해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "체육특기자",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠 경기에서 공정한 경쟁을 위해 필요한 규칙과 윤리적 기준에 대해 본인의 생각을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "SKU창의적인재",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고령운전자의 운전면허를 취소하자는 주장에 대해 찬성과 반대 의견으로 토론해 주시기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "SKU창의적인재",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1인 미디어에 대한 규제를 강화해야 한다는 주장에 대해 찬성과 반대 의견으로 토론해 주시기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "SKU창의적인재",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "디지털 교과서를 전면적으로 도입해 종이 교과서를 대체해야 한다는 주장에 대해 찬성과 반대 의견으로 토론해 주시기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "목회자추천자, 미래인재전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 지원자의 삶에 가장 큰 영향을 주신 분이나 책이 있다면 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "목회자추천자, 미래인재전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회봉사를 한 경험이 있는지 또 중요하게 느낀 점은 무엇인지 간단하게 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "목회자추천자, 미래인재전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자가 생각하는 이웃 사랑이 무엇인지 설명하고 어떻게 실천할 수 있는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  }
+ ]
+}

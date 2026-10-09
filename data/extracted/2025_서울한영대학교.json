@@ -1,0 +1,258 @@
+{
+ "source": {
+  "university": "서울한영대학교",
+  "year": 2025,
+  "file": "2025_서울한영대학교"
+ },
+ "interviews": [
+  {
+   "admission": "장애인 등 대상자전형",
+   "units": "인문사회 계열",
+   "format": "인성",
+   "method": "구술면접으로 면접위원 3명이 교과지식과 관련이 없는 사명감 및 인성 관련 질문으로 진행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "지원동기 및 학업능력",
+     "weight": null
+    },
+    {
+     "name": "학문적 역량(전공)",
+     "weight": null
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": null
+    },
+    {
+     "name": "윤리성",
+     "weight": null
+    }
+   ],
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학과 지원동기는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회구성원들이 가져야 할 기본적인 성품은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한국교회가 갖고 있는 가장 큰 문제는 무엇이라 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 교회에서 활동한 것은 어떤 것들이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "이 사회와 나라에 한국교회의 사명이 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "재활상담심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "상담심리 관련 봉사 경험이 있다면?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "재활상담심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "상담심리사로서 갖추어야 할 소양은 무엇이라고 생각하는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "재활상담심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "상담자에게 가장 중요한 경험은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "유아특수재활학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "영유아에게 가장 중요한 경험은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "유아특수재활학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "보육교사 또는 장애영유아교사로서 갖추어야 할 소양은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "유아특수재활학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "아동학대에 대해 어떻게 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지 관련 봉사경험이 있다면?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지사에게 가장 중요한 덕목은 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리나라 사회문제 중 가장 심각하다고 생각하는 것은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "재활복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 장애인을 대상으로 봉사활동경험이 있는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "재활복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애인에 대한 인권침해나 부정적 인식으로 발생되는 문제는 어떤 것이 있는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "장애인 등 대상자전형",
+   "unit": "재활복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리나라의 장애인과 관련된 사회문제 중 가장 심각하다고 생각하는 것은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  }
+ ]
+}

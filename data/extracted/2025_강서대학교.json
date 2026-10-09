@@ -1,0 +1,531 @@
+{
+  "source": {
+    "university": "강서대학교",
+    "year": 2025,
+    "file": "2025_강서대학교"
+  },
+  "interviews": [
+    {
+      "admission": "일반학생전형",
+      "units": "인문사회계열, 자연계열, 의약간호계열",
+      "format": "인성",
+      "method": "면접위원 3명과 지원자 1명인 3:1 면접",
+      "duration": "5분 내외",
+      "criteria": [
+        {
+          "name": "본교 인재상 부합정도",
+          "weight": null
+        },
+        {
+          "name": "지원한 전공 관심도",
+          "weight": null
+        },
+        {
+          "name": "인성·가치관",
+          "weight": null
+        },
+        {
+          "name": "학업의지",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "사회통합전형",
+      "units": "인문사회계열, 자연계열, 의약간호계열",
+      "format": "인성",
+      "method": "면접위원 3명과 지원자 1명인 3:1 면접",
+      "duration": "5분 내외",
+      "criteria": [
+        {
+          "name": "본교 인재상 부합정도",
+          "weight": null
+        },
+        {
+          "name": "지원한 전공 관심도",
+          "weight": null
+        },
+        {
+          "name": "인성·가치관",
+          "weight": null
+        },
+        {
+          "name": "학업의지",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "농어촌학생전형",
+      "units": "의약간호계열",
+      "format": "인성",
+      "method": "면접위원 3명과 지원자 1명인 3:1 면접",
+      "duration": "5분 내외",
+      "criteria": [
+        {
+          "name": "본교 인재상 부합정도",
+          "weight": null
+        },
+        {
+          "name": "지원한 전공 관심도",
+          "weight": null
+        },
+        {
+          "name": "인성·가치관",
+          "weight": null
+        },
+        {
+          "name": "학업의지",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "기회균등할당제전형",
+      "units": "의약간호계열",
+      "format": "인성",
+      "method": "면접위원 3명과 지원자 1명인 3:1 면접",
+      "duration": "5분 내외",
+      "criteria": [
+        {
+          "name": "본교 인재상 부합정도",
+          "weight": null
+        },
+        {
+          "name": "지원한 전공 관심도",
+          "weight": null
+        },
+        {
+          "name": "인성·가치관",
+          "weight": null
+        },
+        {
+          "name": "학업의지",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "특수교육대상자전형",
+      "units": "인문사회계열",
+      "format": "인성",
+      "method": "면접위원 3명과 지원자 1명인 3:1 면접",
+      "duration": "5분 내외",
+      "criteria": [
+        {
+          "name": "본교 인재상 부합정도",
+          "weight": null
+        },
+        {
+          "name": "지원한 전공 관심도",
+          "weight": null
+        },
+        {
+          "name": "인성·가치관",
+          "weight": null
+        },
+        {
+          "name": "학업의지",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "일반학생전형",
+      "units": "의약간호계열",
+      "format": "인성",
+      "method": "면접위원 3명과 지원자 1명인 3:1 면접",
+      "duration": "5분 내외",
+      "criteria": [
+        {
+          "name": "본교 인재상 부합정도",
+          "weight": null
+        },
+        {
+          "name": "지원한 전공 관심도",
+          "weight": null
+        },
+        {
+          "name": "인성·가치관",
+          "weight": null
+        },
+        {
+          "name": "학업의지",
+          "weight": null
+        }
+      ],
+      "page": 10
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": "신학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "강서대학교 인재상과 부합하는 자신의 장점이나 특기는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "신학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "교회를 다니나요? 교회를 다니지 않는다면 신학과에 지원한 동기가 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "신학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "한국이나 외국 역사에서 가장 존경하는 인물은 누구이며, 그 이유는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "신학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "학교 공부를 진행하는 중에 갑자기 진로를 변경하고 싶은 마음이 생긴다면 어떻게 하시겠어요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "G2빅데이터경영학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자신의 장점이나 특기는 무엇인가요? 강서대학교 인재상과 연결해서 설명해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "G2빅데이터경영학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "G2빅데이터경영학과를 졸업 후에 어떤 일을 하고 싶으세요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "G2빅데이터경영학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "시험 때 부정행위를 하는 친구를 발견하게 됐다면 어떻게 할 것인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "G2빅데이터경영학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고등학교 재학 기간 중 경험한 일 중 도전적인 목표를 정하고 노력해서 성취해낸 일이 있다면 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "사회복지학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "10년 후 나는 어떤 능력과 역량을 갖춘 인재가 되어 있을까요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "사회복지학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "사회복지학과 지원동기를 자신의 꿈과 관련지어 말해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "사회복지학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자신이 누군가의 도움이 되었던 경험을 이야기하고, 왜 도와주어야 한다고 생각했는지 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "사회복지학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "사회복지와 관련된 활동을 한 것이 있다면 말해 보세요"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 10
+    },
+    {
+      "admission": null,
+      "unit": "상담심리학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "강서대학교는 어떤 대학이라고 알고 있나요? 강서대학교를 선택한 이유를 얘기해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "상담심리학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "상담이란 무엇이라고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "상담심리학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자신이 가장 중요하게 여기는 인생의 가치는 무엇인가요? 그 이유는 무엇인가요?."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "상담심리학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "고교 생활을 하면서 힘들었지만, 성공적으로 해결했던 일에 대해 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "간호학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "살면서 중요하다고 생각하는 가치 또는 삶의 모토가 무엇이며 그것을 중요하게 생각하는 이유를 얘기해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "간호학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "좋은 간호사가 되려면 어떤 준비가 필요하며, 본인의 준비 정도에 대해 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "간호학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "1억 복권에 당첨된다면 어떻게 사용할지와 그 이유에 대해 말해보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "간호학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "본인의 학업 능력은 어느 수준이라고 스스로 판단하며, 그 근거는 무엇인가요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "식품영양학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "강서대학교 인재상에 걸맞은 자기소개를 해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "식품영양학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "인공지능에 의한 식단작성이 가능한 시대가 온다면, 이 시기 영양사의 역할이 무엇이라고 생각하나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "식품영양학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "지금까지 살아오면서 가장 감사했던 일은 무엇이었나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "식품영양학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "자신이 가장 취약한 교과목은 무엇이며 성적향상을 위해 어떤 노력을 하였나요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "실용음악학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "강서대학교는 어떤 대학이라고 알고 있는지 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "실용음악학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "강서대학교 실용음악학과에 입학하게 된다면 어떤 주제나 내용을 공부하고 싶은지 구체적으로 설명해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "실용음악학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "어떤 음악을 추구하고 좋아하는지, 그리고 음악을 통해 이루고 싶은 목표가 있다면 무엇인지 소개해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    },
+    {
+      "admission": null,
+      "unit": "실용음악학과",
+      "format": "인성",
+      "competency": null,
+      "passage": null,
+      "prompts": [
+        "강서대학교 실용음악학과에 입학하게 되면 학업 및 학과생활과 관련하여 어떤 활동들을 하고 싶은지 말씀해주세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 11
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+ "source": {
+  "university": "경희대학교",
+  "year": 2026,
+  "file": "2026_경희대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "서류 역량을 재확인하는 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 25
+  },
+  {
+   "admission": "재외국민특별전형",
+   "units": null,
+   "format": "인성",
+   "method": "비대면(온라인) 실시간 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 25
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "고등학교 재학 중 가장 흥미를 가졌던 과목은? 관심 분야와 관련해 주도적으로 이수한 과목이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "관심을 갖고 깊게 탐구했던 활동을 하나만 소개해보자."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "○과목의 세부능력 및 특기사항에 독서활동이 기록되어 있는데, 어떤 부분이 가장 인상적이었는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "이 개념이 쓰이는 실제 사례나 상황을 말해 볼 수 있을까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "자신의 생각을 뒷받침할 수 있는 근거는 뭐고, 반대되는 사례나 예시는 없을까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "이 문제를 해결하기 위해 어떤 방법을 떠올렸나요? 팀의 아이디어가 실패했다면 그 원인은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "조별 과제나 팀별 활동에서 협업해서 이룬 성과, 본인의 역할은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "미인정 지각이 수회 있는데, 특별한 이유가 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "최근 맡았던 일 중 끝까지 책임지고 해낸 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "팀 내 의견 충돌(갈등)이 있었을 때 어떻게 해결했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "주변에서 이타심을 인정받거나 칭찬받은 경험이 있다면?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "리더십을 발휘하면서 느낀 가장 큰 보람과 어려움은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": "인성",
+   "passage": "현대 미술관 바닥에 종이컵 하나가 놓여 있었다. 이 종이컵은 12살짜리 초등학생이 장난으로 놓아둔 것인데, 이를 본 관람객은 종이컵을 보면서 심오한 의미를 찾으려 했고, 어떤 이는 바닥에 무릎을 꿇고 사진을 찍기도 했다. 관람객들이 이 종이컵을 ‘예술품’으로 대한 것이다.",
+   "prompts": [
+    "다음 글을 읽고, ‘종이컵’을 예술품으로 볼 수 있는지 말해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "재외국민특별전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업적성(한국어 능력)",
+   "passage": null,
+   "prompts": [
+    "본인이 지원한 학과(전공)에서 학업을 쌓기 위해 필요한 역량에는 어떤 것들이 있다고 생각합니까? 필요한 역량 두 가지를 제시하고 그것이 필요한 이유를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+  "source": {
+    "university": "수원대학교",
+    "year": 2026,
+    "file": "2026_수원대학교"
+  },
+  "interviews": [
+    {
+      "admission": "면접위주교과",
+      "units": "전계열",
+      "format": "인성",
+      "method": "그룹면접으로(지원자 3명이 한 그룹)",
+      "duration": null,
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": null
+        },
+        {
+          "name": "학업계획 및 포부",
+          "weight": null
+        },
+        {
+          "name": "창의력 및 사고력",
+          "weight": null
+        },
+        {
+          "name": "전공적합성",
+          "weight": null
+        }
+      ],
+      "page": 10
+    },
+    {
+      "admission": "고교추천",
+      "units": "전계열",
+      "format": "인성",
+      "method": "그룹면접으로(지원자 3명이 한 그룹)",
+      "duration": null,
+      "criteria": [
+        {
+          "name": "인성",
+          "weight": null
+        },
+        {
+          "name": "학업계획 및 포부",
+          "weight": null
+        },
+        {
+          "name": "창의력 및 사고력",
+          "weight": null
+        },
+        {
+          "name": "전공적합성",
+          "weight": null
+        }
+      ],
+      "page": 10
+    }
+  ],
+  "questions": [
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "인성(자기소개)",
+      "passage": null,
+      "prompts": [
+        "1분간 자유롭게 자기소개"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "학업계획 및 포부",
+      "passage": null,
+      "prompts": [
+        "본인이 생각하는 ‘성공적인 대학 생활’ 이란 무엇이며, 이를 위해 스스로 설정하고 싶은 목표를 말해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "학업계획 및 포부",
+      "passage": null,
+      "prompts": [
+        "대학생활이 이전의 고교생활과는 어떤 차이점이 있을 것으로 예상되나요? 이러한 차이점의 극복을 통해 성공적인 대학생활을 하기 위한 준비사항들을 설명해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "창의력 및 사고력",
+      "passage": null,
+      "prompts": [
+        "현재 우리 사회가 직면한 문제 중 하나를 선택하고, 이를 해결하기 위해 필요한 창의적인 아이디어를 제시해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "창의력 및 사고력",
+      "passage": null,
+      "prompts": [
+        "기존의 틀을 벗어난 사고를 통해 문제를 해결했던 경험을 구체적으로 설명하고, 그 과정에서 배운 점은 무엇입니까?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "전공선택 및 적응을 위해 본인이 대학 생활 동안 할 수 있는 것들은 무엇이 있을까요?"
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    },
+    {
+      "admission": null,
+      "unit": null,
+      "format": "인성",
+      "competency": "전공적합성",
+      "passage": null,
+      "prompts": [
+        "지원한 전공의 미래 사회에서의 기여와 향후 전망에 대하여 설명해 보세요."
+      ],
+      "intent": null,
+      "sample_answer": null,
+      "page": 7
+    }
+  ]
+}

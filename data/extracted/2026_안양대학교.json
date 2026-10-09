@@ -1,0 +1,68 @@
+{
+ "source": {
+  "university": "안양대학교",
+  "year": 2026,
+  "file": "2026_안양대학교"
+ },
+ "interviews": [
+  {
+   "admission": "아리학생부면접전형",
+   "units": "전체",
+   "format": "인성",
+   "method": "면접관 2명, 지원자 1명의 일대다 방식",
+   "duration": "5분 이내",
+   "criteria": [
+    {
+     "name": "지원동기 및 지원학과에 대한 관심도",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력 및 공동체의식",
+     "weight": null
+    }
+   ],
+   "page": 9
+  },
+  {
+   "admission": "아리학생부종합Ⅰ전형",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "면접관 2명, 지원자 1명의 일대다 방식",
+   "duration": "10분 이내",
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 9
+  },
+  {
+   "admission": "체육특기자전형",
+   "units": "예체능계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "경기실적우수자전형",
+   "units": "예체능계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  }
+ ],
+ "questions": []
+}

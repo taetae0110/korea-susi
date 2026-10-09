@@ -1,0 +1,19 @@
+{
+ "source": {
+  "university": "숙명여자대학교",
+  "year": 2025,
+  "file": "2025_숙명여자대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(숙명인재(면접형)전형, 소프트웨어인재전형, 특수교육대상자전형)",
+   "units": null,
+   "format": "서류기반",
+   "method": "개별 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 7
+  }
+ ],
+ "questions": []
+}
