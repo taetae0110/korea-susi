@@ -1,7 +1,10 @@
 import sys, os, re, glob, json
 src = sys.argv[1]; dst = sys.argv[2]
+only = set(sys.argv[3:])  # optional: limit to these file bases (e.g. 2026_서울교육대학교)
 stats = []
 for f in sorted(glob.glob(os.path.join(src, "*.raw.txt"))):
+    if only and os.path.basename(f)[:-len(".raw.txt")] not in only:
+        continue
     base = os.path.basename(f)[:-len(".raw.txt")]
     pages = open(f, encoding="utf-8", errors="replace").read().split("\f")
     keep = []

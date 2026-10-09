@@ -1,0 +1,907 @@
+{
+ "source": {
+  "university": "인제대학교",
+  "year": 2027,
+  "file": "2027_인제대학교_면접질문예시"
+ },
+ "interviews": [
+  {
+   "admission": "면접, 사회배려대상자, 지역인재Ⅰ, 특성화고교, 실기 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 의사소통 능력",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "우리 학교 도서관의 좌석은 늘 부족하다. 특히 시험 기간 중에는 더욱 그러한데, 학생들은 자신의 물건을 올려 두고 자리를 꽤 오랫동안 비우는 일이 흔하다. 학생들의 불만이 커지자, 학생회에서는‘일정 시간 이상 자리를 비우면 물건을 치우자’는 안을 내었다.\n‘사정이 있어서 잠시 비울 수도 있는데, 너무하다.’‘일일이 감시하는 것도 좀 그렇다.’‘컴퓨터, 패드 등 고가의 물건도 많은데 남의 물건을 건드리는 것은 부담된다.’등의 의견이 있었다.\n결국 학생 투표를 통해 이 안에 대한 찬반을 묻기로 하였다. 오늘은 투표일이다.",
+   "prompts": [
+    "이 상황을 어떻게 생각합니까?",
+    "학생회 안과 여러 의견에 어떻게 생각합니까?",
+    "응시자가‘나’라면 어떻게 하겠습니까?"
+   ],
+   "intent": "지원자의 문제해결능력, 의사소통 및 협업능력, 윤리의식 등을 종합적으로 평가",
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": null,
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "각 구성원이 함께 열심히 노력하였으나 성과가 그리 좋지 않았던 활동 중 가장 기억에 남는 경험을 말하시오."
+   ],
+   "intent": "지원자의 문제해결능력, 의사소통 및 협업능력, 윤리의식 등을 종합적으로 평가",
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "의예⋅약학 전형",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "[뉴스 기사 발췌] 최근 문을 연‘창고형 약국’에 약사 사회의 관심이 집중되고 있다. 약사단체는‘창고형 약국’의 약물 오남용, 사재기, 약 배송 문제를 제기하며 반대 입장을 표하였다. 이에 비해 소비자단체 쪽에서는 의약품 선택권 보장과 편의성을 보장해야 한다는 의견이 나온다.",
+   "prompts": [
+    "다음 기사내용을 읽고 이러한 사회적 이슈에 대해 지원자의 의견을 말해보세요. 그리고 지원자가 생각하는‘약사의 역할’에 대해 말해보세요."
+   ],
+   "intent": "약사의 사회적 역할, 가치관, 약학과 지원 동기 확인",
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "의예⋅약학 전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학창시절부터 현재까지 지원자가 갖게 된 가치관 형성에 영향을 끼쳤다고 생각하는 경험이 있다면 말해보세요."
+   ],
+   "intent": "약사의 사회적 역할, 가치관, 약학과 지원 동기 확인",
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "의예⋅약학 전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 약학과를 선택한 이유는 무엇인가요?"
+   ],
+   "intent": "약사의 사회적 역할, 가치관, 약학과 지원 동기 확인",
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역인재 전형",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "1. 최근에는 창고형 약국과 같은 새로운 유통 구조가 생겨나 사람들의 큰 호응을 얻고 있다. 창고형 약국은 마트와 같이 카트를 이용해 일반의약품뿐만이 아니라 건강기능식품 등을 자유롭게 시중보다 저렴한 가격으로 구매할 수 있다.\n2. 최근에는 다이소에서 소위“5,000원 건강기능식품”을 판매하면서 싼 가격과 편리성으로 바람을 일으키고 있다.\n위와 같은 변화가 가속화된다고 전제할 때 아래에 대해서 답변해 보세요.",
+   "prompts": [
+    "약사의 역할에서 지켜나가야 할 것과 변화되어야 할 것은 무엇이 있을까요?",
+    "약사가 가질 수 있는 기회 요인과 위험 요인은 무엇이 있을까요?"
+   ],
+   "intent": "약사의 사회적 역할, 타인과의 협업의 중요성",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역인재 전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자가 의약품안전관리 발표를 준비하는 5명으로 구성된 팀의 팀장을 맡았다고 가정합니다. 한 팀원이 자료를 제출하지 않아 다른 팀원들이 불만을 제기하고 있습니다. 발표는 이틀 후입니다. 이 상황에서 팀장으로서 지원자는 가장 먼저 무엇을 하겠습니까? 팀의 목표와 개인의 입장을 어떻게 조율하겠습니까? 팀원 간 신뢰를 유지하기 위해 어떤 노력을 하겠습니까?"
+   ],
+   "intent": "약사의 사회적 역할, 타인과의 협업의 중요성",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역인재 전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자가 약학대학 실습을 하는 과정에서 동료 약학대학생이 실수를 자주 하는 것을 보게 되었습니다. 예비약사로서 동료 약학대학생에게 어떤 도움을 줄 수 있을까요?"
+   ],
+   "intent": "약사의 사회적 역할, 타인과의 협업의 중요성",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "농어촌학생 전형, 기초생활수급권자 전형",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "“비대면조제”가 현재 제한된 지역 및 조건에서 시범적으로 시행되고 있다. 비대면조제가 제도화되어 전국적으로 시행될 경우, 약사는 새로운 업무 수행을 위한 전문 역량을 확보해야 한다.",
+   "prompts": [
+    "지원자가 생각하는 가장 중요한 전문 역량 3가지를 설명해 보세요."
+   ],
+   "intent": "약사의 미래 전문역량, AI에 대한 약사 대응방안, 지원 동기 확인",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "농어촌학생 전형, 기초생활수급권자 전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "AI 시대에서 약사가 전문직업인의 업무를 수행하기 위하여 어떤 노력을 수행해야 한다고 생각하나요?"
+   ],
+   "intent": "약사의 미래 전문역량, AI에 대한 약사 대응방안, 지원 동기 확인",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "농어촌학생 전형, 기초생활수급권자 전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자가 생각하는 인제대학교 약학대학의 강점과 약점을 말해보세요."
+   ],
+   "intent": "약사의 미래 전문역량, AI에 대한 약사 대응방안, 지원 동기 확인",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": null,
+   "unit": "혁신신약⋅제약공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 생활 중 가장 의미 있었던 활동이나 경험은 무엇이며, 그 경험을 통해 배운 점을 말해보세요."
+   ],
+   "intent": "지원자가 고등학교 생활에서의 경험을 통해 무엇을 배우고 성장했는지, 제약·바이오 분야에 대한 관심과 이해를 가지고 있는지, 그리고 학업이나 생활에서 어려움을 겪었을 때 이를 극복할 수 있는 태도와 역량을 갖추고 있는지를 종합적으로 평가하고자 함.",
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": null,
+   "unit": "혁신신약⋅제약공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "제약·바이오 분야와 관련하여 최근 관심을 가지게 된 주제나 이슈가 있다면 간단히 말해보세요."
+   ],
+   "intent": "지원자가 고등학교 생활에서의 경험을 통해 무엇을 배우고 성장했는지, 제약·바이오 분야에 대한 관심과 이해를 가지고 있는지, 그리고 학업이나 생활에서 어려움을 겪었을 때 이를 극복할 수 있는 태도와 역량을 갖추고 있는지를 종합적으로 평가하고자 함.",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "혁신신약⋅제약공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "성적 또는 자신감이 떨어졌을 때 어떻게 극복했는지 말해보세요."
+   ],
+   "intent": "지원자가 고등학교 생활에서의 경험을 통해 무엇을 배우고 성장했는지, 제약·바이오 분야에 대한 관심과 이해를 가지고 있는지, 그리고 학업이나 생활에서 어려움을 겪었을 때 이를 극복할 수 있는 태도와 역량을 갖추고 있는지를 종합적으로 평가하고자 함.",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대 간호대학에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": "지원자의 인성 및 의사소통, 전공적합성, 발전가능성 평가",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "AI가 간호사를 대체할 수 있다고 생각하는지 그 근거에 대해 설명해 보세요."
+   ],
+   "intent": "지원자의 인성 및 의사소통, 전공적합성, 발전가능성 평가",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교내 교육과정 또는 교외활동(예: 동아리 활동, 봉사활동) 중 돌봄을 실천한 경험에 대해 이야기해 보세요."
+   ],
+   "intent": "지원자의 인성 및 의사소통, 전공적합성, 발전가능성 평가",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리치료학과 학업을 위해 기초과학(생물, 화학, 물리)의 연관성과 필요성에 대해 설명해 보세요."
+   ],
+   "intent": "물리치료학 관련 기초과학에 대한 지식",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 몸을 구성하는 근육은 수축과 이완을 반복하면서 움직임을 만들어낸다. 근육의 수축과 이완 과정을 “흥분, 전도, 막전위”3가지 용어를 이용하여 설명해 보세요."
+   ],
+   "intent": "물리치료학 관련 기초과학에 대한 지식",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신있는 교과목과 자신이 없는 교과목이 무엇인지 말하고, 그 이유에 대해서 설명해 보세요."
+   ],
+   "intent": "물리치료학 관련 기초과학에 대한 지식",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학과를 지원하게 된 동기를 말해보세요."
+   ],
+   "intent": "지원자의 지원 의지 및 학과에 대한 준비 정도 파악",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본 학과는 동물보건사를 양성하는 학과입니다. 동물보건사의 역할에 대해 설명하고, 국가자격을 취득한 후 동물보건 전문가로서 어떤 분야에서 활동하고 싶은지 말해보세요."
+   ],
+   "intent": "지원자의 지원 의지 및 학과에 대한 준비 정도 파악",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학 분야 중 가장 관심 있는 세부 분야는 무엇인가요? 그 분야와 연계하여 현재 생각하고 있는 진로나 목표가 있다면 함께 말해보세요."
+   ],
+   "intent": "지원자의 지원 의지 및 학과에 대한 준비 정도 파악",
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": null,
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간단한 자기소개와 인제대학교 방사선학과에 지원한 동기는 무엇인가요?"
+   ],
+   "intent": "논리적 사고⋅가치관 확인, 장기적 목표 설정 능력⋅진로 계획의 현실성 및 열정 점검",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "친절⋅봉사⋅환자안전⋅소통 중 하나를 가장 먼저 지켜야 한다면, 어떤 가치를 선택하시겠고 그 이유는 무엇인가요?"
+   ],
+   "intent": "논리적 사고⋅가치관 확인, 장기적 목표 설정 능력⋅진로 계획의 현실성 및 열정 점검",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "방사선학과는 병원뿐 아니라 산업체, 연구기관, 원자력 등 다양한 분야로 진출할 수 있습니다. 졸업 후 본인이 희망하는 진로는 무엇이며, 이를 준비하기 위해 지금까지 어떤 노력을 했는지 자유롭게 말해보세요."
+   ],
+   "intent": "논리적 사고⋅가치관 확인, 장기적 목표 설정 능력⋅진로 계획의 현실성 및 열정 점검",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부 입학 후 진로 계획에 대해 말해보세요."
+   ],
+   "intent": "학부 전공에 대한 이해도 및 적합성 여부",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부에 지원한 동기가 무엇입니까?"
+   ],
+   "intent": "학부 전공에 대한 이해도 및 적합성 여부",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부에 진학하기 위해 어떤 노력을 했나요?"
+   ],
+   "intent": "학부 전공에 대한 이해도 및 적합성 여부",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간단한 자기소개와 함께 인제대학교 임상병리학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": "지원자의 지원 의지 확인, 수학능력과 적성 평가, 학업에 대한 준비 정도와 진로에 대한 구체적인 인식 이해 정도 확인",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 장점은 무엇이며, 직무에 어떻게 적용할 것인가요?"
+   ],
+   "intent": "지원자의 지원 의지 확인, 수학능력과 적성 평가, 학업에 대한 준비 정도와 진로에 대한 구체적인 인식 이해 정도 확인",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 학업 계획과 졸업 후 진로 계획은 무엇인가요?"
+   ],
+   "intent": "지원자의 지원 의지 확인, 수학능력과 적성 평가, 학업에 대한 준비 정도와 진로에 대한 구체적인 인식 이해 정도 확인",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업 치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해보세요."
+   ],
+   "intent": "학과에 대한 지원자의 지원 의지를 확인하고자 함, 지원자가 과제를 수행하는데 있어 유형 및 성격을 파악하고자 함, 학과 전공에 대한 지원자의 생각과 동기를 파악하고자 함",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "작업치료사는 장애인, 노인, 아동 등 다양한 사람들을 대하게 됩니다. 이러한 사람들을 만날 때 가장 중요하다고 생각하는 태도는 무엇이며, 그 이유는 무엇입니까?"
+   ],
+   "intent": "학과에 대한 지원자의 지원 의지를 확인하고자 함, 지원자가 과제를 수행하는데 있어 유형 및 성격을 파악하고자 함, 학과 전공에 대한 지원자의 생각과 동기를 파악하고자 함",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": "학과에 대한 지원자의 지원 의지를 확인하고자 함, 지원자가 과제를 수행하는데 있어 유형 및 성격을 파악하고자 함, 학과 전공에 대한 지원자의 생각과 동기를 파악하고자 함",
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": null,
+   "unit": "의생명보건·의료공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 “의생명보건·의료공학계열”에 지원하게 된 동기와 졸업 후 희망하는 진로(OOO전공))분야 및 그 분야에 관심을 갖게 된 배경을 말해보세요."
+   ],
+   "intent": "진취성, 구체성, 협력성, 융합적 사고, 의사소통 능력",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "의생명보건·의료공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 학교생활을 하면서 학업 외 다른 일에서 목표를 정하고 성취한 경험이 있습니까? 있다면 그 내용을 말하고, 없다면 입학 후에 성취하고 싶은 일과 그 이유를 말해보세요. [전공별]"
+   ],
+   "intent": "진취성, 구체성, 협력성, 융합적 사고, 의사소통 능력",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "의생명보건·의료공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 “의생명보건·의료공학계열”에는 계열 기초 교과목으로 “의학 용어, 기초생명과학, 기초화학, 기초물리학, 기초수학”이 편성되어 있습니다. 지원자가 희망하는 전공분야(OOO)에서 이러한 계열 기초 교과목이 왜 필요한지, 그리고 중·고등학교 과정에서 지원자는 어떠한 준비를 해 왔는지 말해보세요."
+   ],
+   "intent": "진취성, 구체성, 협력성, 융합적 사고, 의사소통 능력",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "의생명보건·의료공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "[지원자가 희망하는 OOO전공 분야는 OOO, OOO, OOO 등 다양한 산업 및 연구 분야로 진출할 수 있습니다.] 해당 분야에서 최고의 전문가가 되기 위해 갖추어야 할 가장 중요한 역량과 태도는 무엇이며, 이러한 역량을 기르기 위해 대학 생활 동안 어떤 노력을 할 계획인지 말해보세요."
+   ],
+   "intent": "진취성, 구체성, 협력성, 융합적 사고, 의사소통 능력",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "의생명보건·의료공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "[OOO] 분야가 발전하면서 [OOO전공]과 관련된 다양한 산업 분야가 급속도로 성장하고 있습니다. 이 중 지원자가 가장 관심 있는 분야는 무엇이며, 그 이유는 무엇인가요? 만약 해당 분야를 장래 직업으로 삼고자 한다면, 대학 재학 중 무엇을 어떻게 준비해야 할지 말해보세요."
+   ],
+   "intent": "진취성, 구체성, 협력성, 융합적 사고, 의사소통 능력",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "의생명보건·의료공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절 동아리 활동, 탐구 활동, 프로젝트 또는 팀 활동 중 지원자가 희망하는 전공 분야 [OOO]와 관련된 활동 경험 중 가장 기억에 남는 활동은 무엇이며, 그 경험이 대학 생활 및 향후 사회생활에 어떤 도움이 될 것이라고 생각하는지 말해보세요."
+   ],
+   "intent": "진취성, 구체성, 협력성, 융합적 사고, 의사소통 능력",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교육과에 지원한 동기(교직 선택 동기)는 무엇인가요?"
+   ],
+   "intent": "인성 및 기초소양",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교사가 갖추어야 할 자질 중에서 자신의 강점과 약점은 무엇이라고 생각하나요?"
+   ],
+   "intent": "인성 및 기초소양",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교육과에 입학한 후, 원하는 진로를 위해 어떤 노력을 할 계획인가요?"
+   ],
+   "intent": "인성 및 기초소양",
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": null,
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 봉사활동 경험을 통해 미래의 장애인 교육 및 복지의 바람직한 방향을 제시해 주세요."
+   ],
+   "intent": "미래사회에서 특수교사가 갖춰야 할 기본적인 소양",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 기사와 사회적 이슈에 대해 공동체의 한 구성원으로서 자신의 견해를 말해보세요."
+   ],
+   "intent": "미래사회에서 특수교사가 갖춰야 할 기본적인 소양",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "급변하는 사회에서 요구되는 특수교사의 자질은 어떠한지 말해보세요."
+   ],
+   "intent": "미래사회에서 특수교사가 갖춰야 할 기본적인 소양",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "사회과학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회과학대학의 여러 전공(사회복지학과, 상담심리치료학과, 보건행정학과, 법학과, 경찰⋅행정학과) 중에서 현재 가장 관심이 있는 분야는 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": "관심있는 전공 탐색, 사회과학적 사고수준을 파악하기 위함, 전공 선택과 관심을 파악",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "사회과학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "당신이 생각하는‘사회정의’란 무엇이며, 이를 실현하기 위해 사회과학 분야가 어떤 역할을 해야 한다고 생각하나요?"
+   ],
+   "intent": "관심있는 전공 탐색, 사회과학적 사고수준을 파악하기 위함, 전공 선택과 관심을 파악",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "사회과학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "당신이 경험했던 어떤 상황이나 활동이 자신에게 가장 의미 있었으며, 그것이 전공 선택에 어떤 영향을 미쳤는지 말해보세요."
+   ],
+   "intent": "관심있는 전공 탐색, 사회과학적 사고수준을 파악하기 위함, 전공 선택과 관심을 파악",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "경영계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경영계열 지원 동기는 무엇입니까?"
+   ],
+   "intent": "학과 지원 동기를 확인하고, 지원자의 장점과 경영학에 대한 관심도를 확인하고자 함",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "경영계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 진로 목표와 연관 지어 자신의 장점 2가지는 무엇이라고 생각하나요?"
+   ],
+   "intent": "학과 지원 동기를 확인하고, 지원자의 장점과 경영학에 대한 관심도를 확인하고자 함",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "경영계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 2, 3년간 가장 큰 성취감을 느낀 경험에 대해 말해보세요."
+   ],
+   "intent": "학과 지원 동기를 확인하고, 지원자의 장점과 경영학에 대한 관심도를 확인하고자 함",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "글로컬리더스학부[이공계열]",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인공지능은 인간의 인지와 판단 기능을 빠르게 대체하고 있습니다. 이런 기술 발전이 인간 사회에 주는 영향을 긍정적 또는 부정적으로 본다면, 그 이유는 무엇인가요?"
+   ],
+   "intent": "글로컬리더스학부의 교육 목표에 대한 수험생의 이해 수준과 과학 및 공학 분야에 대한 관심과 동기를 확인. 대학 입학 이후 자기주도적 학업 계획과 진로 목표를 가지고 있는지를 파악하고, 구체적 사고력과 학업 의지를 평가.",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "글로컬리더스학부[이공계열]",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "과학 또는 공학 관련 프로젝트나 팀 활동 중 가장 기억에 남는 경험은 무엇인가요? 그 활동에서 어떤 역할을 맡았고, 다시 한다면 어떤 점을 보완하고 싶나요?"
+   ],
+   "intent": "글로컬리더스학부의 교육 목표에 대한 수험생의 이해 수준과 과학 및 공학 분야에 대한 관심과 동기를 확인. 대학 입학 이후 자기주도적 학업 계획과 진로 목표를 가지고 있는지를 파악하고, 구체적 사고력과 학업 의지를 평가.",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "글로컬리더스학부[이공계열]",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 힘든 상황을 맞았을 때, 어떻게 극복하나요? 구체적인 사례가 있다면 함께 말해보세요."
+   ],
+   "intent": "글로컬리더스학부의 교육 목표에 대한 수험생의 이해 수준과 과학 및 공학 분야에 대한 관심과 동기를 확인. 대학 입학 이후 자기주도적 학업 계획과 진로 목표를 가지고 있는지를 파악하고, 구체적 사고력과 학업 의지를 평가.",
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": null,
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자유전공학부 지원동기를 말해보세요."
+   ],
+   "intent": "지원동기, 학부에 대한 정보, 경험",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자유전공학부 홈페이지를 방문한 적이 있나요? 있었다면 가장 관심을 가진 내용이 무엇이었나요?"
+   ],
+   "intent": "지원동기, 학부에 대한 정보, 경험",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "나를 행복하게 하는 것은 어떤 것인가? 그것이 나를 어떻게/왜 행복하게 하는가? 내가 행복하다는 것을 어떻게 알 수 있는지 말해보세요."
+   ],
+   "intent": "지원동기, 학부에 대한 정보, 경험",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "현재의 나(성격, 기질, 태도, 생각 등)를 만드는데 영향을 끼친 기억할 만한 일/ 사건/기억/경험 등에 관해 말해보세요."
+   ],
+   "intent": "지원동기, 학부에 대한 정보, 경험",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "공학·건축 계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신을 간단히 소개하고, 공학 및 건축 계열에 지원하게 된 동기와 이를 위해 준비한 경험이나 노력을 설명해 주세요."
+   ],
+   "intent": "공학 및 건축 계열의 지원동기 및 성장 가능성을 확인하고, 입학 후 진로탐색을 위한 관심과 열정 및 지원자의 사고력과 표현력 등을 종합적으로 평가하고자 함.",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "공학·건축 계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 가장 배우고 싶은 분야와 그 이유를 설명하고, 이를 바탕으로 어떤 진로를 희망하는지 말해보세요."
+   ],
+   "intent": "공학 및 건축 계열의 지원동기 및 성장 가능성을 확인하고, 입학 후 진로탐색을 위한 관심과 열정 및 지원자의 사고력과 표현력 등을 종합적으로 평가하고자 함.",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "공학·건축 계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "일상생활에서 사용하는 기술적 원리가 적용된 사례(공학/건축)를 선택하여 소개하고, 관심을 가지게 된 이유를 설명해 주세요."
+   ],
+   "intent": "공학 및 건축 계열의 지원동기 및 성장 가능성을 확인하고, 입학 후 진로탐색을 위한 관심과 열정 및 지원자의 사고력과 표현력 등을 종합적으로 평가하고자 함.",
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": "컴퓨터⋅AI·게임·스마트물류계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생성형 AI(예: ChatGPT)를 사용해 본 경험이 있다면, 어떤 용도로 활용했으며 장점과 한계는 무엇이라고 생각하나요?"
+   ],
+   "intent": "평소 학생이 AI에 관심이 있고 활용을 하고 있는지를 살피는 문제, AI시대를 각자 어떻게 준비하고자 하는지를 알 수 있는 문제, 학생의 인성을 알 수 있는 문제.",
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": null,
+   "unit": "컴퓨터⋅AI·게임·스마트물류계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "앞으로 AI기술이 우리 사회를 어떻게 변화시킬 것이라고 생각하며, 본인은 어떤 인재가 되고 싶습니까?"
+   ],
+   "intent": "평소 학생이 AI에 관심이 있고 활용을 하고 있는지를 살피는 문제, AI시대를 각자 어떻게 준비하고자 하는지를 알 수 있는 문제, 학생의 인성을 알 수 있는 문제.",
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": null,
+   "unit": "컴퓨터⋅AI·게임·스마트물류계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀 프로젝트에서 본인은 열심히 했지만 일부 팀원이 거의 참여하지 않았습니"
+   ],
+   "intent": "평소 학생이 AI에 관심이 있고 활용을 하고 있는지를 살피는 문제, AI시대를 각자 어떻게 준비하고자 하는지를 알 수 있는 문제, 학생의 인성을 알 수 있는 문제.",
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": null,
+   "unit": "컴퓨터⋅AI·게임·스마트물류계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "프로젝트가 끝난 후 어떻게 행동하겠습니까?"
+   ],
+   "intent": "평소 학생이 AI에 관심이 있고 활용을 하고 있는지를 살피는 문제, AI시대를 각자 어떻게 준비하고자 하는지를 알 수 있는 문제, 학생의 인성을 알 수 있는 문제.",
+   "sample_answer": null,
+   "page": 10
+  }
+ ]
+}
