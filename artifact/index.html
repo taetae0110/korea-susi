@@ -137,6 +137,13 @@ dl.kv dt { color: var(--muted); } dl.kv dd { margin: 0; min-width: 0; }
 .pager { display: flex; justify-content: center; align-items: center; gap: 10px; }
 .empty { text-align: center; color: var(--muted); padding: 28px 16px; }
 .loading { color: var(--muted); padding: 24px 0; }
+table.adm { width: 100%; min-width: 620px; border-collapse: collapse; font-size: 13.5px; font-variant-numeric: tabular-nums; }
+table.adm th { background: var(--sunken); color: var(--muted); font-size: 12px; font-weight: 600; padding: 7px 8px; text-align: right; white-space: nowrap; width: 8%; }
+table.adm th.l { width: auto; }
+table.adm td { border-top: 1px solid var(--border); padding: 6px 8px; text-align: right; }
+table.adm .l { text-align: left; }
+table.adm .hi { color: var(--accent); font-weight: 700; }
+table.adm .muted { color: var(--muted); font-size: 12px; }
 @media (max-width: 520px) {
   .scores li { grid-template-columns: 1fr auto; }
   .scores li .cm { grid-column: 1 / -1; }
@@ -168,6 +175,7 @@ dl.kv dt { color: var(--muted); } dl.kv dd { margin: 0; min-width: 0; }
   const TABS = [
     ["questions", "기출 문항"],
     ["universities", "대학별 면접"],
+    ["admissions", "입시결과"],
     ["practice", "모의 면접"],
     ["record", "생기부 예상 질문"],
     ["notes", "내 노트"],
@@ -256,6 +264,55 @@ dl.kv dt { color: var(--muted); } dl.kv dd { margin: 0; min-width: 0; }
       if (list.length < 3 && !list.includes(text)) list.push(text);
     }
     return { questions, interviews, sources, sourceMap, qMap, universities, competencies, years, hints };
+  }
+
+  // ---------- admissions (loaded on first visit to the 입시결과 tab) ----------
+  let admissionsPromise = null;
+  function loadAdmissions() {
+    if (!admissionsPromise) {
+      admissionsPromise = fetch("admissions.json")
+        .then((r) => {
+          if (!r.ok) throw new Error(`admissions.json ${r.status}`);
+          return r.json();
+        })
+        .then((d) => {
+          const fileUrl = (f) => f.url || `https://www.adiga.kr/cmm/com/file/fileDown.do?fileId=${f.fileId}&fileSn=${f.fileSn}`;
+          const rows = d.rows.map((r, i) => {
+            const u = d.universities[r.u];
+            const file = r.f != null ? d.files[r.f] : null;
+            return {
+              key: i,
+              university: u.campus ? `${u.name} (${u.campus})` : u.name,
+              universityName: u.name,
+              year: r.y,
+              type: d.types[r.t] || "기타",
+              period: d.periods[r.p] || "",
+              admission: r.a >= 0 ? d.admissions[r.a] : "",
+              unit: d.units[r.n] || "",
+              recruit: r.r, competition: r.c, waitlist: r.w,
+              grade: r.g || null, score: r.s || null, scoreTotal: r.st || null,
+              withheld: r.x != null ? d.withheld[r.x] : null,
+              extra: r.m || null,
+              caption: r.k != null && r.k >= 0 ? d.captions[r.k] : null,
+              source: file ? { kind: "file", site: Boolean(file.url), name: file.name, url: fileUrl(file) } : { kind: "adiga" },
+            };
+          });
+          const uni = new Map();
+          for (const r of rows) {
+            const u = uni.get(r.university) || { key: r.university, name: r.universityName, withGrade: 0, with90: 0 };
+            if ((r.grade && r.grade.some(Boolean)) || r.extra) u.withGrade++;
+            if (r.grade && r.grade[3]) u.with90++;
+            uni.set(r.university, u);
+          }
+          return {
+            rows,
+            universities: [...uni.values()].sort((a, b) => a.key.localeCompare(b.key, "ko")),
+            years: [...new Set(rows.map((r) => r.year))].sort((a, b) => b - a),
+            types: d.types.filter((t) => t !== "기타"),
+          };
+        });
+    }
+    return admissionsPromise;
   }
 
   function sourceUrl(doc, page) {
@@ -449,6 +506,7 @@ ${record}
     const [qFilter, setQFilter] = useState({ university: "", format: "", competency: "", year: "", q: "", answer: false, page: 1 });
     const [uniDetail, setUniDetail] = useState(null);
     const [practicePreset, setPracticePreset] = useState(null);
+    const [admFilter, setAdmFilter] = useState({ university: "", year: "", type: "", q: "", only90: false, page: 1 });
     const sample = useCapability("sample");
     const downloads = useCapability("downloads");
 
@@ -477,6 +535,11 @@ ${record}
     const app = {
       data, tab, setTab, answers, setAnswers, basket, setBasket, generated, setGenerated, sessions, setSessions,
       profile, setProfile, qFilter, setQFilter, uniDetail, setUniDetail, practicePreset, setPracticePreset, sample, downloads,
+      admFilter, setAdmFilter,
+      openAdmissions: (filter) => {
+        setAdmFilter({ university: "", year: "", type: "", q: "", only90: false, ...filter, page: 1 });
+        setTab("admissions");
+      },
       practice: (preset) => {
         setPracticePreset({ ...preset, at: Date.now() });
         setTab("practice");
@@ -496,6 +559,7 @@ ${record}
     else if (!data) body = html`<${Home} loading=${true} />`;
     else if (tab === "questions") body = html`<${Questions} />`;
     else if (tab === "universities") body = uniDetail ? html`<${UniversityDetail} name=${uniDetail} />` : html`<${Universities} />`;
+    else if (tab === "admissions") body = html`<${Admissions} />`;
     else if (tab === "practice") body = html`<${Practice} />`;
     else if (tab === "record") body = html`<${Record} />`;
     else if (tab === "notes") body = html`<${Notes} />`;
@@ -746,12 +810,151 @@ ${record}
               ${qs.length > shown && html`<button class="btn" onClick=${() => setShown((n) => n + 20)}>더 보기 (${qs.length - shown}개 남음)</button>`}
             </div>`}
       </section>
+      <section class="card" style=${{ gap: "8px" }}>
+        <h2 style=${{ fontSize: "18px" }}>수시 입시결과</h2>
+        <p class="note">대교협 어디가 표준 공개 자료(50%·70% 컷)와 대학이 추가로 공개한 80%·90% 컷을 모집단위별로 봅니다.</p>
+        <div><button class="btn primary" onClick=${() => app.openAdmissions({ university: name })}>${name} 입시결과 보기</button></div>
+      </section>
       <section class="stack">
         <h2 style=${{ fontSize: "18px" }}>출처 문서</h2>
         <ul class="note" style=${{ margin: 0, paddingLeft: "18px" }}>
           ${docs.map((doc) => html`<li key=${doc.id}><a href=${doc.url} target="_blank" rel="noopener noreferrer">${doc.title}</a></li>`)}
         </ul>
       </section>`;
+  }
+
+  // ---------- admissions ----------
+  function Admissions() {
+    const app = useApp();
+    const [adm, setAdm] = useState(null);
+    const [err, setErr] = useState("");
+    useEffect(() => {
+      loadAdmissions().then(setAdm, (e) => setErr(String(e && e.message ? e.message : e)));
+    }, []);
+    const f = app.admFilter;
+    const [draft, setDraft] = useState(f);
+    useEffect(() => setDraft(f), [f]);
+    const set = (k, v) => setDraft((x) => ({ ...x, [k]: v }));
+    const hasQuery = Boolean(f.university || f.q || f.only90);
+    const all = useMemo(() => {
+      if (!adm || !hasQuery) return [];
+      const terms = (f.q || "").toLowerCase().split(/\s+/).filter(Boolean);
+      return adm.rows.filter((r) => {
+        if (f.university && r.university !== f.university && r.universityName !== f.university) return false;
+        if (f.year && r.year !== Number(f.year)) return false;
+        if (f.type && r.type !== f.type) return false;
+        if (f.only90 && !(r.grade && r.grade[3])) return false;
+        if (terms.length) {
+          const hay = `${r.university} ${r.admission} ${r.unit}`.toLowerCase();
+          if (!terms.every((t) => hay.includes(t))) return false;
+        }
+        return true;
+      });
+    }, [adm, f, hasQuery]);
+    const SIZE = 150;
+    const pageCount = Math.max(1, Math.ceil(all.length / SIZE));
+    const page = Math.min(Math.max(1, f.page || 1), pageCount);
+    const go = (p) => { app.setAdmFilter({ ...f, page: p }); window.scrollTo(0, 0); };
+
+    return html`<div class="page-head">
+        <h1>수시 입시결과</h1>
+        <p class="lede">최종등록자 기준 학생부 환산등급 컷입니다. 50%·70% 컷은 대교협 「대입정보포털 어디가」 표준 공개 자료(필수 공개)이고, 80%·90%·100% 컷은 대학이 선택해 공개했거나 대학 추가안내자료에 실린 값만 넣었습니다. 공개되지 않은 칸은 비워 둡니다.</p>
+      </div>
+      ${err && html`<div class="card"><b>입시결과를 불러오지 못했습니다.</b><p class="note">${err}</p></div>`}
+      ${!adm && !err && html`<p class="loading">입시결과를 불러오는 중…</p>`}
+      ${adm && html`<form class="card" onSubmit=${(e) => { e.preventDefault(); app.setAdmFilter({ ...draft, page: 1 }); }}>
+        <div class="grid">
+          <label class="field"><span>대학</span>
+            <select id="ad-university" class="input" value=${draft.university} onChange=${(e) => set("university", e.target.value)}>
+              <option value="">대학 선택</option>
+              ${adm.universities.map((u) => html`<option key=${u.key} value=${u.key}>${u.key}${u.with90 ? " · 90%컷" : ""}</option>`)}
+            </select></label>
+          <label class="field"><span>결과 학년도</span>
+            <select id="ad-year" class="input" value=${draft.year} onChange=${(e) => set("year", e.target.value)}>
+              <option value="">전체</option>
+              ${adm.years.map((y) => html`<option key=${y} value=${y}>${y}</option>`)}
+            </select></label>
+          <label class="field"><span>전형 유형</span>
+            <select id="ad-type" class="input" value=${draft.type} onChange=${(e) => set("type", e.target.value)}>
+              <option value="">전체</option>
+              ${adm.types.map((t) => html`<option key=${t} value=${t}>${t}</option>`)}
+            </select></label>
+          <label class="field"><span>모집단위·전형 키워드</span>
+            <input id="ad-q" class="input" value=${draft.q} placeholder="예: 간호, 지역균형" onChange=${(e) => set("q", e.target.value)} /></label>
+        </div>
+        <div class="row" style=${{ justifyContent: "space-between" }}>
+          <label class="check"><input id="ad-only90" type="checkbox" checked=${draft.only90} onChange=${(e) => set("only90", e.target.checked)} /> 90% 컷이 공개된 결과만</label>
+          <div class="row">
+            <button type="button" class="btn" onClick=${() => app.setAdmFilter({ university: "", year: "", type: "", q: "", only90: false, page: 1 })}>초기화</button>
+            <button type="submit" class="btn primary">검색</button>
+          </div>
+        </div>
+      </form>`}
+      ${adm && !hasQuery && html`<section class="stack">
+        <p class="meta">${adm.universities.length}개 대학(캠퍼스 포함). 대학을 고르거나 모집단위를 검색하세요.</p>
+        <div class="grid">
+          ${adm.universities.map((u) => html`<button key=${u.key} class="stat" onClick=${() => app.setAdmFilter({ university: u.key, year: "", type: "", q: "", only90: false, page: 1 })}>
+            <span class="lbl">${u.key}</span><span class="sub">${u.withGrade.toLocaleString()}행${u.with90 ? ` · 90% ${u.with90}` : ""}</span>
+          </button>`)}
+        </div>
+      </section>`}
+      ${adm && hasQuery && (all.length === 0
+        ? html`<div class="card empty">조건에 맞는 입시결과가 없습니다.</div>`
+        : html`<p class="meta">${all.length.toLocaleString()}개 결과 · ${page}/${pageCount}쪽</p>
+          <${AdmTable} rows=${all.slice((page - 1) * SIZE, page * SIZE)} showUniversity=${!f.university} />
+          ${pageCount > 1 && html`<nav class="pager">
+            <button class="btn" disabled=${page <= 1} onClick=${() => go(page - 1)}>← 이전</button>
+            <span class="meta">${page} / ${pageCount}</span>
+            <button class="btn" disabled=${page >= pageCount} onClick=${() => go(page + 1)}>다음 →</button>
+          </nav>`}`)}
+      <div class="card note" style=${{ fontSize: "12px", gap: "4px" }}>
+        <p>· 50% 컷: 최종등록자 중 학생부 교과성적 순으로 상위 50%에 해당하는 성적(100명 중 50등). 서류·종합 순위가 아닙니다.</p>
+        <p>· 대학별로 반영 교과·산출 방식이 달라 대학 간 수치를 그대로 비교할 수 없습니다.</p>
+        <p>· 모집인원 3명 이하 모집단위 등은 대학이 공개하지 않아 사유만 표시합니다.</p>
+      </div>`;
+  }
+
+  function AdmTable({ rows, showUniversity }) {
+    const groups = [];
+    for (const r of rows) {
+      const title = `${showUniversity ? `${r.university} · ` : ""}${r.year}학년도 ${r.admission || r.type}`;
+      const sk = `${title}|${r.source.kind === "file" ? r.source.name : "adiga"}|${r.caption || ""}`;
+      const last = groups[groups.length - 1];
+      if (last && last.sk === sk) last.rows.push(r);
+      else groups.push({ title, sk, source: r.source, caption: r.caption, sub: `${r.type}${r.period && r.period !== "수시" ? ` · ${r.period}` : ""}`, rows: [r] });
+    }
+    const label = (k) => (k === "avg" ? "평균" : k === "min" ? "최저" : k === "max" ? "최고" : `${k}%`);
+    return html`<div class="stack">${groups.map((g, gi) => {
+      const extraKeys = [...new Set(g.rows.flatMap((r) => Object.keys(r.extra || {})))];
+      const scoreOnly = g.rows.some((r) => !r.grade && r.score);
+      return html`<section key=${gi} class="card" style=${{ padding: 0, gap: 0 }}>
+        <div class="row" style=${{ justifyContent: "space-between", padding: "12px 14px", borderBottom: "1px solid var(--border)" }}>
+          <div><b>${g.title}</b><div class="meta">${g.sub}</div>${g.caption && html`<div class="meta">자료 표기: ${g.caption}</div>`}</div>
+          <span class="meta">출처: ${g.source.kind === "file"
+            ? html`<a href=${g.source.url} target="_blank" rel="noopener noreferrer">${g.source.site ? "대학 입학처" : "대학 추가안내자료"} 「${g.source.name}」</a>`
+            : html`<a href="https://www.adiga.kr/uct/acd/ade/criteriaAndResultView.do" target="_blank" rel="noopener noreferrer">어디가 전년도 결과공개</a>`}</span>
+        </div>
+        <div style=${{ overflowX: "auto" }}>
+          <table class="adm">
+            <thead><tr>
+              <th class="l">모집단위</th><th>모집</th><th>경쟁률</th><th>충원</th><th>50%</th><th>70%</th><th>80%</th><th class="hi">90%</th><th>100%</th>
+              ${extraKeys.map((k) => html`<th key=${k}>${label(k)}</th>`)}
+            </tr></thead>
+            <tbody>${g.rows.map((r) => {
+              const vals = r.grade || r.score;
+              return html`<tr key=${r.key}>
+                <td class="l">${r.unit}</td><td>${r.recruit || ""}</td><td>${r.competition || ""}</td><td>${r.waitlist || ""}</td>
+                ${r.withheld
+                  ? html`<td class="l muted" colSpan=${5 + extraKeys.length}>비공개: ${r.withheld}</td>`
+                  : html`${[0, 1, 2, 3, 4].map((i) => html`<td key=${i} class=${i === 3 ? "hi" : ""}>${(vals && vals[i]) || ""}</td>`)}
+                    ${extraKeys.map((k) => html`<td key=${k}>${(r.extra && r.extra[k]) || ""}</td>`)}`}
+              </tr>`;
+            })}</tbody>
+          </table>
+        </div>
+        ${scoreOnly && html`<p class="note" style=${{ padding: "8px 14px", borderTop: "1px solid var(--border)" }}>등급 대신 환산점수만 공개한 행은 환산점수를 표시했습니다.</p>`}
+      </section>`;
+    })}</div>`;
   }
 
   // ---------- practice ----------

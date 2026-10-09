@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 const LINKS = [
   { href: "/questions", label: "기출 문항" },
   { href: "/universities", label: "대학별 면접" },
+  { href: "/admissions", label: "입시결과" },
   { href: "/practice", label: "모의 면접" },
   { href: "/record", label: "생기부 예상 질문" },
   { href: "/notes", label: "내 노트" },

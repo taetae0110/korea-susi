@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import AdmissionTable from "@/components/AdmissionTable";
 import QuestionCard from "@/components/QuestionCard";
+import { admissionsFor } from "@/lib/admissions";
 import { getSource, interviews, questions, sources, sourceUrl, universities } from "@/lib/data";
 import { FORMATS } from "@/lib/types";
 
@@ -32,6 +34,10 @@ export default async function UniversityPage({ params }: PageProps<"/universitie
   const ivs = interviews.filter((i) => i.university === name);
   const qs = questions.filter((q) => q.university === name);
   const docs = sources.filter((s) => s.university === name);
+  const results = admissionsFor(name);
+  const latestYear = results.reduce((m, r) => Math.max(m, r.year), 0);
+  const latest = results.filter((r) => r.year === latestYear && (r.grade || r.score) && r.period === "수시");
+  const preview = latest.slice(0, 30);
 
   return (
     <div className="space-y-6">
@@ -133,6 +139,27 @@ export default async function UniversityPage({ params }: PageProps<"/universitie
           </div>
         )}
       </section>
+
+      {results.length > 0 && (
+        <section className="space-y-2">
+          <div className="flex items-baseline justify-between">
+            <h2 className="text-lg font-bold">{latestYear}학년도 수시 입시결과</h2>
+            <Link href={`/admissions?university=${encodeURIComponent(name)}`} className="text-sm font-semibold text-accent">
+              전체 입시결과 ({results.length.toLocaleString()}행) →
+            </Link>
+          </div>
+          {preview.length > 0 ? (
+            <AdmissionTable rows={preview} showUniversity={false} />
+          ) : (
+            <p className="card p-5 text-sm text-muted">공개된 등급 컷이 없습니다. 전체 입시결과에서 비공개 사유를 확인하세요.</p>
+          )}
+          {latest.length > preview.length && (
+            <Link href={`/admissions?university=${encodeURIComponent(name)}&year=${latestYear}`} className="btn w-full">
+              {latestYear}학년도 결과 모두 보기 ({latest.length}행)
+            </Link>
+          )}
+        </section>
+      )}
 
       <section className="space-y-2 text-sm">
         <h2 className="text-lg font-bold">출처 문서</h2>
