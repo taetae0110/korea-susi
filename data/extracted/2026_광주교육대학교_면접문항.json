@@ -1,0 +1,33 @@
+{
+ "source": {
+  "university": "광주교육대학교",
+  "year": 2026,
+  "file": "2026_광주교육대학교_면접문항"
+ },
+ "interviews": [
+  {
+   "admission": null,
+   "units": null,
+   "format": "제시문기반",
+   "method": "비대면 면접고사",
+   "duration": null,
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "수시",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "국제생수협회(IBWA)의 연구 보고에서는 1리터의 생수를 생산하는 과정에서 사용되는 물(원료수 1리터 포함)까지 합쳐 약 1.32~1.41리터의 물이 사용된다고 한다. 그러나 물 발자국(water footprint) 개념을 적용하면 생수 용기인 플라스틱(PET)병을 만드는 과정에서 원유 시추 및 정제, 플라스틱 생산 등에 상당량의 물이 간접적으로 사용되어 생수 1리터당 총 2~3리터의 물이 사용된다는 추정치가 나온다.\n※ 물 발자국(water footprint): 제품의 원료 채취부터 제조, 유통, 사용, 폐기까지 모든 과정에서 사용되거나 오염되는 물의 총량",
+   "prompts": [
+    "생수 생산이 지구 생태 환경에 미치는 영향을 설명하고, 생활 속에서 환경을 보전하기 위해 초등학교 학생들이 실천할 수 있는 방안을 제시하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

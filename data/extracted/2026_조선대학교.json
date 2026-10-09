@@ -1,0 +1,635 @@
+{
+ "source": {
+  "university": "조선대학교",
+  "year": 2026,
+  "file": "2026_조선대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(면접전형)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 가치관",
+     "weight": null
+    },
+    {
+     "name": "지원동기",
+     "weight": null
+    },
+    {
+     "name": "전공(계열) 및 적성 영역에 대한 학업열의",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(창업인재전형)",
+   "units": "경영학부",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 가치관",
+     "weight": null
+    },
+    {
+     "name": "지원동기",
+     "weight": null
+    },
+    {
+     "name": "전공(계열) 및 적성 영역에 대한 학업열의",
+     "weight": null
+    }
+   ],
+   "page": 13
+  },
+  {
+   "admission": "학생부교과(군사학과전형)",
+   "units": "군사학과",
+   "format": "인성",
+   "method": "비교과과정에 대해 질문하고 수험생이 답변하는 방식",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "신체 균형·자세",
+     "weight": null
+    },
+    {
+     "name": "발성·발음",
+     "weight": null
+    },
+    {
+     "name": "표현력·논리성",
+     "weight": null
+    },
+    {
+     "name": "국가관·리더십",
+     "weight": null
+    },
+    {
+     "name": "지원동기·품성",
+     "weight": null
+    },
+    {
+     "name": "성장환경(가정·학교)",
+     "weight": null
+    }
+   ],
+   "page": 16
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "국어국문학부(국어국문학전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활기록부에 나타난 활동 가운데 성실성, 경험의 다양성, 협업 역량이 잘 드러난 사례를 하나 선택하여, 본인의 역할과 그 경험을 통해 배운 점을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "문예창작학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "현대문학 감상을 통해 문학의 의의와 필요성을 고민했다고 기록되어 있습니다. 이 활동을 바탕으로, 본인이 생각하는 문학의 가치를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "글로벌비즈니스커뮤니케이션학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 「다문화 사회에서 세계시민으로 살기」를 읽었다고 기록되어 있습니다. 이 책을 선택한 이유와 가장 인상 깊었던 내용을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "K-컬처공연·기획학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "『K컬처를 만든 K콘텐츠의 힘』을 읽고 ‘한국만의 스토리로 세계인의 공감을 얻고 있다’는 점에 관심을 보였다고 기록되어 있습니다. 본인이 생각하는 한국만의 스토리는 무엇이며, 그것이 세계인의 공감을 얻는 이유는 무엇이라고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "식품영양학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "음식물쓰레기를 줄이기 위해 학생들의 취향을 반영한 식단 구성 방안을 제시했다고 기록되어 있습니다. 이 활동을 바탕으로, 취향을 반영하면서도 영양 불균형을 줄일 수 있는 방법을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "경찰행정학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경찰의 역할을 인권 보장과 사회 질서 유지의 조화로 이해한 활동이 기록되어 있습니다. 이와 관련해 가장 중요하다고 본 가치와 그 이유를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "상담심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "갈등을 해결하는 것에 보람을 느껴 심리상담사가 되기를 희망한다고 기록되어있습니다. 갈등 해결 과정에서 상담자가 가장 중요하게 갖추어야 할 태도는 무엇이라고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "언어치료학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동에서 언어 표현에 어려움을 겪는 아동들을 위해, 기술적 접근과 심리적 지원을 결합한 온라인 발음 멘토링 플랫폼을 구상했는데, 어떤 것인지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "작업치료학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리활동에서 힐링아트브러쉬 활동이 기록되어 있습니다. 활동 과정에서 느낀 점과 작업치료 분야와 연결된다고 생각한 부분을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "소방재난관리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘기후변화가 재난 대응 직업에 미치는 영향’을 주제로 탐구 보고서를 작성하고 발표했는데, 주제 선정 배경과 발표 내용에 대해 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "법학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "“국가는 누구를 위해 존재해야 하는가?”라는 논점으로 모둠 토론에서 사회계약설과 복지국가 이론을 연결하여 공공의 책임과 국가의 역할에 대해 발표했다고 기록되어 있습니다. 발표에서 다룬 핵심 내용과, 그 활동을 통해 새롭게 생각하게 된 점을 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "행정복지학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "행정법과 권한 남용을 주제로 발표한 기록이 있습니다. 어떤 사례를 중심으로 발표했고, 이를 통해 어떤 생각을 하게 되었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "정치외교학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 시민 단체 활동 사례를 바탕으로 정치 과정 참여를 탐구했다고 기록되어있습니다. 어떤 사례였고, 그 의미를 어떻게 이해했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 소셜미디어를 통한 정보 확산의 위험성을 탐구했다고 기록되어 있습니다. 그렇게 판단한 이유와 근거를 실제 사례와 함께 말씀해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "경영학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "「국제사회의 인권문제와 경영의 역할」을 주제로 탐구했다고 기록되어 있습니다. 어떤 사례에 주목했고, 기업이 어떤 역할을 할 수 있다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "경제학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한국의 금리정책을 주제로 찬반 토론에 참여했다고 기록되어 있습니다. 토론에서 어떤 입장을 취했는지, 그 근거는 무엇이었는지 말씀해 주세요. 지원자가 생각하기에 현재 금리인하가 필요한지 아니면 인상이 필요하지도 함께 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "무역학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "트럼프 행정부의 관세정책이 글로벌 공급망에 미치는 영향을 탐구했다고 기록되어 있습니다. 이 활동에서 주목한 변화와, 관세정책의 장단점에 대해 어떻게 이해했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "토목공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동 중 친환경 자재를 활용한 도시 설계를 탐구했다고 기록되어 있습니다. 지속가능한 사회를 위해 토목공학이 어떤 역할을 할 수 있다고 보았는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "건축공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "친환경 건축 재료와 에너지 효율성에 관심을 가지고, 팀별 미니 구조물 제작 및 하중 실험에서 창의적이고 실용적인 아이디어를 제시했다고 기록되어 있습니다. 어떤 아이디어를 제안했고, 그 이유는 무엇이었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "건축학과(5년제)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "『마을의 렌즈로 세상을 찍다』를 읽고 세상의 아름다움을 글과 사진으로 표현했다고 기록되어 있습니다. 어떤 점이 인상 깊었는지, 그리고 그 경험을 건축에 어떻게 연결해볼 수 있다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "기계공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동에서 3D프린터를 활용한 물체 제작 과정에서 디자인을 담당했다고 기록되어있습니다. 어떤 아이디어를 제시했고, 그 활동을 통해 무엇을 배웠는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "전기공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전기회로를 직접 제작하며 전기의 구조와 원리를 체험했다고 기록되어 있습니다. 제작 과정과 본인의 역할, 배운 점을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "환경공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "『6번째 대멸종 시그널』, 『식량전쟁』을 읽고 신문 만들기 활동에 참여했다고 기록되어 있습니다. 어떤 주제를 중심으로 신문을 구성했고, 그 과정에서 주목한 환경 문제는 무엇이었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "전자공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 유니티와 프로그래밍을 활용한 결과물을 만들었다고 기록되어 있습니다. 어떤 결과물을 만들었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI·SW학부(컴퓨터공학전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2024 □□□□ SW융합 학생 해커톤에 참여했다고 기록되어 있습니다. 팀에서 해결하고자 했던 문제는 무엇이었고, 본인은 어떤 역할을 맡았는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI·SW학부(정보보안전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교생활 중 배운 과목 또는 프로젝트 가운데 가장 의미 있었던 활동 하나를 선택하여, 그 내용과 AI·정보보안 분야와의 관련성을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI·SW학부(인공지능공학전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인공지능 관련 주제를 탐구한 활동이 기록되어 있습니다. 그 활동을 바탕으로, 인공지능이 사회에 미칠 긍정적 영향과 우려되는 점을 어떻게 이해했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "국어교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동에서 다문화 학생의 교육 불평등 문제를 탐구했다고 기록되어 있습니다. 다문화 학생에게 효과적인 국어교육 방안을 어떻게 생각했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "영어교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "AI 기반 디지털 교과서 도입에 대한 영자신문 기사 분석 활동을 했다고 기록되어 있습니다. 활동 내용을 간단히 설명하고, 교사의 역할 변화에 대한 생각을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "특수교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "「꼬인 인생을 푸는 뇌과학: 특수교육에서 희망을 찾다」라는 제목의 강연을 직접 기획하고 대본을 작성했다고 기록되어 있습니다. 어떤 내용을 중심으로 준비했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "수학교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "「AI 시대 속 수학교사의 역할 변화와 미래교육 방향」을 탐구했다고 기록되어 있습니다. 본인이 생각하는 수학교사의 역할을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "물리교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "과학 탐구 동아리 활동 가운데 가장 인상 깊었던 탐구를 소개하고, 그 활동을 통해 무엇을 배웠는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "생물교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 과학 실험 수업이 학생에게 미치는 영향을 주제로 탐구했다고 기록되어 있습니다. 이 주제를 선택한 계기와 탐구 결과를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "지구과학교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로활동에서 ALPS 시스템 관련 기사를 분석했다고 기록되어 있습니다. 어떤 내용을 중심으로 분석했고, 지구과학교사가 학생들에게 어떤 점을 전달할 수 있다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "교육학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 한국 교육의 역사를 바탕으로 미래 학교의 모습을 전망했다고 기록되어있습니다. 어떤 변화를 예상했고, 그 속에서 교사의 역할은 무엇이라고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 DNA 연구가 질병 치료와 재활에 어떻게 기여할 수 있는지 탐구했다고 기록되어 있습니다. 이 활동에서 특히 주목한 내용과, 이후 추가로 탐구해 보고 싶었던 부분을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호 분야에 AI 기술이 도입되는 현상을 중심으로 인간 간호사와 간호로봇의 역할 차이를 탐구했다고 기록되어 있습니다. 본인이 이해한 역할의 차이와, 앞으로 인간 간호사에게 더욱 중요해질 역량은 무엇이라고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 구강 내 미생물과 구강질환이 전신질환에 미치는 영향을 탐구했다고 기록되어 있습니다. 탐구한 핵심 내용과 가장 인상 깊었던 부분을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "약학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "바이오 기술과 백신 개발 플랫폼을 활용한 치매 신약 개발 과정을 다룬 독서 활동이 기록되어 있습니다. 이 활동을 바탕으로, 해당 기술의 장단점과 활용 가능성이 높다고 본 질환 분야를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "스포츠산업학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠분석전문가 관련 정보를 탐색한 이유와 방법은 무엇이고, 탐색을 통해 알게 된 것은 무엇인지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "자유전공학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교 생활 중 모둠활동에서 맡았던 역할 가운데 가장 기억에 남는 경험을 중심으로, 협업 과정에서의 역할을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(창업인재전형)",
+   "unit": "경영학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로 박람회에서 ‘모의주식 체험’ 부스를 기획·운영했다고 기록되어 있습니다. 이 활동에서 본인이 맡은 역할과, 학생들이 경영학적 사고와 투자 과정을 경험할 수 있도록 어떤 점을 고려했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  }
+ ]
+}

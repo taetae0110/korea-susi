@@ -1,0 +1,583 @@
+{
+ "source": {
+  "university": "조선대학교",
+  "year": 2025,
+  "file": "2025_조선대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(면접전형)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 가치관",
+     "weight": null
+    },
+    {
+     "name": "지원동기",
+     "weight": null
+    },
+    {
+     "name": "전공(계열) 및 적성 영역에 대한 학업열의",
+     "weight": null
+    }
+   ],
+   "page": 14
+  },
+  {
+   "admission": "학생부종합(창업인재전형)",
+   "units": "인문",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 가치관",
+     "weight": null
+    },
+    {
+     "name": "지원동기",
+     "weight": null
+    },
+    {
+     "name": "전공(계열) 및 적성 영역에 대한 학업열의",
+     "weight": null
+    }
+   ],
+   "page": 14
+  },
+  {
+   "admission": "학생부교과(군사학과전형)",
+   "units": "군사학과",
+   "format": "인성",
+   "method": "비교과과정에 대한 면접 실시",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "신체 균형·자세",
+     "weight": null
+    },
+    {
+     "name": "발성·발음",
+     "weight": null
+    },
+    {
+     "name": "표현력·논리성",
+     "weight": null
+    },
+    {
+     "name": "국가관·리더십",
+     "weight": null
+    },
+    {
+     "name": "지원동기·품성",
+     "weight": null
+    },
+    {
+     "name": "성장환경(가정·학교)",
+     "weight": null
+    }
+   ],
+   "page": 17
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "문예창작학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "여러 교과목 활동 및 창의적체험활동에 '비평문 쓰기' 활동 이 기록되어 있습니다. 영화 감상후 비평문을 작성했을 때와 감상만을 했을 때는 어떤 차이점이 있는지, 비평문 쓰기를 통해 배운 점은 무엇인지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "글로벌비즈니스커뮤니케이션학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "관광사업 개발로 발생한 문제들을 바탕으로 지속 가능한 여행 방법을 고민해봤다고 창의적체험활동에 기록되어 있습니다. 고민했던 과정과 내용에 대해서 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "K-컬처공연·기획학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "다양한 공연과 전시회를 경험한 내용이 기록되어 있습니다. 구체적으로 어떤 공연이나 전시회를 관람하였고, 가장 기억에 남는 공연이나 전시는 무엇인지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "식품영양학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가상 우주 기지 만들기 활동에서 외계 행성에 유인 우주 기지를 건설하고 인간이 장기간 거주할 때를 가정하고, 영양학자로서 관찰과 조사를 겸했다고 기록되어 있습니다. 이때 영양학자로서 어떤 관찰과 조사를 했는지와, 해당 가정 활동에서 영양학자의 역할은 무엇이라고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "경찰행정학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경찰의 총기사용을 통한 강력 범죄 예방과 대체 무기 사용의 필요성 등에 대해 조사활동을 진행한 기록이 있습니다. 이에 대해 간단히 설명하고 지원자의 의견을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "상담심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "외향적이고 대인관계 좋고 봉사정신이 강한 것으로 기록되고 있습니다. 이 외에 좋은 상담가가 되기 위해 지원자가 보완해야 할 점은 무엇이라고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "작업치료학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 수업 중 백제의 의료인이던 '덕래'를 분석한 내용이 기록되어 있습니다. 작업치료사라는 진로를 희망하는 만큼 많은 교훈을 얻었다고 기록되어 있는데, 그의 어떤 면을 통해 어떤 교훈을 얻었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "소방재난관리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 인공지능에 대해 조사한 내용이 기록되어 있습니다. 지원자가 생각하는 소방과 인공지능은 어떠한 연결고리가 있다고 생각하는지 말씀해 주세요. 또한 향후 소방과 인공지능은 어떤 연관성을 가지고 발전해야 한다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "법학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 시각장애인 복지에 관한 활동 내용이 기록되어 있습니다. 지원자가 활동한 내용을 바탕으로 시각 및 청각 장애인에 대하여 우리나라의 법제도는 어느 정도 수준에서 갖추어져 있다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "행정복지학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "소식지를 만드는 활동 중 소식지가 관심 없이 버려지지 않도록 아이디어를 제시하는 등 관련된 활동에서 많은 노력을 기울인 것으로 기록되어 있습니다. 어떤 아이디어를 제시했으며, 어떤 사고 과정을 거쳐 활동했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "정치외교학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "복지 수혜와 관련된 활동 내용이 기록되어 있습니다. 복지 수혜자를 민간이 신청하거나 정부가 선정했을 때의 차이점과 장단점에 대해서, 또한 각 방법에 대한 지원자의 의견을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인권 문제에 대한 발표수업 중에 '인종차별'을 주제로 선정하여 조사한 기록이 있습니다. 우리나라에서 인종차별이 벌어지고 있는 양상이나 사례를 설명하고, 그 해결 방안은 무엇이라고 생각했는지 지원자의 의견을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "경영학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생활금융지식 강의를 수강하면서 금융시장에 대한 다양한 관심이 기록되어 있습니다. 지원자가 대학에 입학하여 경제활동을 통해 획득한 소득으로 금융상품에 투자를 하고자 한다면 어떤 금융자산에 투자해 보고 싶은지, 또한 그 이유는 무엇인지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "경제학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경제수학 시간에 수학적 지식을 사용하여 가격상승 및 가격변동에 대한 사례를 설명한 기록이 있습니다. 이에 대한 내용을 좀 더 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "무역학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 교과활동 중 무역과 관련된 내용이 기록되어 있습니다. 무역의존도의 개념은 무엇이고, 무역이 국가경제에 미치는 영향에 대해 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "토목공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "과학탐구실험 중 전기 사용불가 조건에서 흙장고라는 장치를 고안했다는데 기록되어 있습니다. 어떤 원리를 사용했으며 어떤 기능이 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "건축공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 공학과 기하의 밀접한 연관성에 관심을 가지고 관련 분야를 탐색하던 중 건축물의 형태를 이차곡선 지식을 이용해 설명하는 보고서를 작성했다고 기록되어 있습니다. 이 보고서의 내용에 대해 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "건축학과(5년제)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 수도권 집중에 따른 지역 간 격차를 줄이기 위해 건축가로서 할 수 있는 역할에 대한 보고서를 작성했다고 기록되어 있습니다. 이와 같은 상황에서 건축가가 어떤 역할을 할 수 있다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "기계공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "로봇 공학자의 발전 가능성과 관련 자격증 및 기술에 대한 활동이 기록되어 있습니다. 어떤 내용이었는지 설명해 주시고, 지원자가 향후 어떤 역할을 할 수 있다고 생각하는지 혹은 어떤역할을 하고 싶은지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "전기공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로주제 탐구활동에서의 경험을 바탕으로 탄소중립의 개념에 대해 설명하고, 전기공학자로서 탄소중립을 위해 어떤 역할을 할 수 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI소프트웨어학부(컴퓨터공학전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "컴퓨터에 관심을 가지고 프로그래밍 언어들을 정리하여 설명한 활동이 기록되어 있습니다. 지원자의 경험을 바탕으로 초보자가 가장 사용하기 쉬운 프로그래밍 언어에는 어떤 것이 있는지, 그 이유는 무엇인지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI소프트웨어학부(정보통신공학전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "프로그래밍 언어와 관련한 진로활동이 기록되어 있습니다. 이 중 재밌게 수행했었던 프로그래밍 언어 및 구현 대상이 무엇이고 주어진 문제를 어떻게 해결했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI소프트웨어학부(정보보안전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 프로그래밍 및 보안 관련 분야에 관심이 많아 ‘소셜 딜레마’를 주제로 하는 다큐를 시청하고 모둠 토의를 한 기록이 있습니다. 어떤 내용이었는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "AI소프트웨어학부(모빌리티SW전공)",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로선택과목 활동 중 자동차의 무게 중심에 대해 깊이 탐구한 내용이 기록되어 있습니다. 지원자가 탐구한 내용을 설명하고 가장 인상 깊었던 부분에 대해 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "국어교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 박지원 작가의 허생전을 읽고 주제를 탐구하는 활동을 통해 문학적 감상력을 높였다고 기록되어 있습니다. 허생전의 작품 주제를 당시의 시대적 맥락과 관련지어 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "영어교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 '오늘날 교육 받을 권리와 교육할 권리'를 주제로 발표한 내용이 기록되어 있습니다. 어떤 내용으로 발표를 했고, 왜 해당 주제를 선정했는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "특수교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 지적 기능에 제한이 있는 사람을 위해 언어의 장점을 활용하여 좀 더 쉬운 언어 악보를 만들어 배포하고 싶다는 계획을 발표했다는 기록이 있습니다. 이런 계획을 하게 된 계기는 무엇이며, 구체적으로 어떻게 구현할 수 있는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "수학교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로탐색활동 중 ‘수포자의 수학 학습 포기 경험에 대한 사회학적 해석'이라는 글을 읽고 주제를 나누는 활동을 했다고 기록되어 있습니다. 주요 내용은 무엇이었으며 어떤 부분을 우리 실제 교육현장에 적용할 수 있을지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "생물교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 생명윤리에 관심이 많다는 내용이 기록되어 있습니다. 생명윤리에 관심을 가지게 된 계기는 무엇인지, 전세계적으로 생명권을 보호하기 위해서는 어떤 정책을 펼쳐야 하는지 지원자의 생각을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "지구과학교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로활동 중 교육학 모의수업을 통해 3차원을 2차원으로 설명하는 수업의 한계를 체험하고 이를 개선하기 위해 학습용 교구 제작을 기획했다고 기록되어 있습니다. 한계라고 생각되는 부분을 간단히 이야기하고, 기획한 내용을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "교육학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동 중 ‘교권보호에 적극적으로 나서야 한다'는 주제로 토론한 내용이 기록되어 있습니다. 현 교권의 실태와 문제점, 그리고 이에 관한 지원자의 관점과 해결책에 대해서 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 수도권과 지방의 의료인력 빈부격차를 해결할 수 있는 적정기술에 대해 탐구한 기록이 있습니다. 어떤 기술들이 있는지, 의료계에 적용할 수 있는 방법이 무엇이라고 생각하는지 설명하고 지원자 본인의 의견을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 카뮈의 '페스트'를 읽고, 의료인의 직업적 책임과 사회적 의무를 책과 연계하여 탐구 보고서를 작성한 기록이 있습니다. 소설 '페스트' 속 전염 대응 방식, 20세기 중반 스페인의 독감 대응 방식, 오늘날 COVID-19 전염병 대응 방식을 비교 분석하고, 전염병 대응 전략이 시대와 기술 발전에 따라 어떻게 진화해 왔는지를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "치의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동 중 구강상피세포 DNA 추출과 PCR 기법 사용, 제한효소 처리 과정으로 실험을 진행하고 현재 의료계에서 사용되고 있는 기법 등을 탐구한 내용이 기록되어 있습니다. PCR 기법의 종류 및 각각의 방법에 대해 설명해 주시고, 의료계에서 이 기법들이 어떻게 응용되고 있는지 설명해 주시기 바랍니다. 또한 실험 중 어려움을 극복한 과정에 대해서도 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "약학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 활동 중 ‘노화의 종말(데이비드 싱클레어 외)’이라는 책을 읽고 탐구한 내용이 기록되어있습니다. 노화와 질병의 관계와 이에 대해 탐구한 내용에 대해 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "스포츠산업학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로탐색 활동 중 SNS에서 추출한 데이터를 바탕으로 성공한 국내외 스포츠 기업의 사례를 조사했다고 기록되어 있습니다. 어떤 방법으로 데이터를 추출하고 활용했는지 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "학생부종합(면접전형)",
+   "unit": "자유전공학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "일에 책임감을 가지고 자기 주도적으로 행하는 학생으로, 동아리활동을 하면서 친구들과 협업을 한 경험이 있으면 설명해 보세요. 지원자는 그 동아리에서 어떤 역할을 했습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": "학생부종합(창업인재전형)",
+   "unit": "경영학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경영자를 희망하는 내용이 다수 기록되어 있습니다. 그 이유가 무엇인지, 경영자에게 필요하다고 생각되는 덕목이 무엇이라고 생각하는지 말씀해 주세요. 또한 실제 학교생활 중 해당 덕목을 보여준 사례를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  }
+ ]
+}

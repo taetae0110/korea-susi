@@ -1,0 +1,35 @@
+{
+ "source": {
+  "university": "가톨릭관동대학교",
+  "year": 2025,
+  "file": "2025_가톨릭관동대학교_정시의예과면접"
+ },
+ "interviews": [
+  {
+   "admission": "정시모집 의학과(의예과)",
+   "units": "의학과(의예과)",
+   "format": "인성",
+   "method": "영상 업로드 면접",
+   "duration": "5분 이내 1개의 파일",
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "정시모집 의학과(의예과)",
+   "unit": "의학과(의예과)",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 대학 의학과(의예과)에 지원하게 된 동기에 대해 설명해 주세요.",
+    "의학과(의예과)에 입학하기 위해 어떤 노력을 해 왔는지 설명해 주세요.",
+    "본인이 생각하는 의사상과 의사로서의 장래 계획을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  }
+ ]
+}

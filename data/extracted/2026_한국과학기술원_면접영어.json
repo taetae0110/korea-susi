@@ -1,0 +1,59 @@
+{
+ "source": {
+  "university": "한국과학기술원",
+  "year": 2026,
+  "file": "2026_한국과학기술원_면접영어"
+ },
+ "interviews": [
+  {
+   "admission": "일반전형, 고른기회전형, 반도체시스템인재전형Ⅱ",
+   "units": "영어",
+   "format": "제시문기반",
+   "method": null,
+   "duration": "5분",
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "일반전형, 고른기회전형, 반도체시스템인재전형Ⅱ",
+   "unit": "영어",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "Portuguese Origin of Japanese Tempura As the Portuguese merchants and missionaries began arriving in Japan in the late Muromachi period, Nagasaki, once a quiet fishing village, underwent a transformation into a major center of trade and Christianity. Along with cultural exchange came a novel method of food preparation: tempura. Modern-day tempura is created by deep-frying seafood or vegetables in a light batter of flour, eggs, and ice-cold water. Before the Portuguese arrived, however, the Japanese had no method of deep-frying battered ingredients. It was the Portuguese who introduced Peixinhos de horta—deep-fried green beans coated in flour batter and eaten during Catholic fasting periods; indeed, the word “tempura” originates from the Latin “tempora,” which referred to such religious times. As Portuguese influence spread in Nagasaki, local cooks began adapting the method, for example, by replacing green beans with seafood and vegetables available in the area. Though born in the excitement of Nagasaki’s evolution (Q1) into a key trading port, tempura developed into what it is today only when it reached Edo in the Tokugawa period. In Edo, cooks began employing ice-cold water, yielding the characteristic extra-crispy texture of modern tempura. Sold at food stands throughout the city, it became immensely popular with Edo residents.\nAs Japan remained a hermitlike nation-state throughout the Tokugawa era, most foreign contact was forbidden, and tempura remained largely unknown abroad. After the Meiji Restoration, however, Japan’s reopening to the world—combined with the appealing flavor and texture of tempura—enabled the dish to capture the attention of foreign visitors and spread its popularity beyond Japan’s borders, ultimately leading to its recognition today as one of the country’s most characteristic and enduring dishes.\nGlossary\nmissionaries (noun): people sent to spread religious belief\nChristianity (noun): the religion based on the life and teachings of Jesus Christ\nbatter (noun): a mixture of flour, eggs, and liquid for cooking\nPeixinhos de horta (noun): a Portuguese dish; (English pronunciation): pay-SHEEN-yoosh dee OR-tah\nfasting (noun): not eating food (and sometimes not drinking) for a period of time\nhermitlike (adjective): living in isolation from others; withdrawn from society",
+   "prompts": [
+    "In the passage, find a synonym (a word with a similar meaning) for “evolution”.(1 point)"
+   ],
+   "intent": "서류전형을 통과한 지원자를 대상으로 기본적인 학업능력과 영어 활용 능력이 충분한지를 평가한다.",
+   "sample_answer": "transformation",
+   "page": 2
+  },
+  {
+   "admission": "일반전형, 고른기회전형, 반도체시스템인재전형Ⅱ",
+   "unit": "영어",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "Portuguese Origin of Japanese Tempura As the Portuguese merchants and missionaries began arriving in Japan in the late Muromachi period, Nagasaki, once a quiet fishing village, underwent a transformation into a major center of trade and Christianity. Along with cultural exchange came a novel method of food preparation: tempura. Modern-day tempura is created by deep-frying seafood or vegetables in a light batter of flour, eggs, and ice-cold water. Before the Portuguese arrived, however, the Japanese had no method of deep-frying battered ingredients. It was the Portuguese who introduced Peixinhos de horta—deep-fried green beans coated in flour batter and eaten during Catholic fasting periods; indeed, the word “tempura” originates from the Latin “tempora,” which referred to such religious times. As Portuguese influence spread in Nagasaki, local cooks began adapting the method, for example, by replacing green beans with seafood and vegetables available in the area. Though born in the excitement of Nagasaki’s evolution (Q1) into a key trading port, tempura developed into what it is today only when it reached Edo in the Tokugawa period. In Edo, cooks began employing ice-cold water, yielding the characteristic extra-crispy texture of modern tempura. Sold at food stands throughout the city, it became immensely popular with Edo residents.\nAs Japan remained a hermitlike nation-state throughout the Tokugawa era, most foreign contact was forbidden, and tempura remained largely unknown abroad. After the Meiji Restoration, however, Japan’s reopening to the world—combined with the appealing flavor and texture of tempura—enabled the dish to capture the attention of foreign visitors and spread its popularity beyond Japan’s borders, ultimately leading to its recognition today as one of the country’s most characteristic and enduring dishes.\nGlossary\nmissionaries (noun): people sent to spread religious belief\nChristianity (noun): the religion based on the life and teachings of Jesus Christ\nbatter (noun): a mixture of flour, eggs, and liquid for cooking\nPeixinhos de horta (noun): a Portuguese dish; (English pronunciation): pay-SHEEN-yoosh dee OR-tah\nfasting (noun): not eating food (and sometimes not drinking) for a period of time\nhermitlike (adjective): living in isolation from others; withdrawn from society",
+   "prompts": [
+    "In what ways did the method of making tempura evolve in Nagasaki and in Edo? (2 points)"
+   ],
+   "intent": "서류전형을 통과한 지원자를 대상으로 기본적인 학업능력과 영어 활용 능력이 충분한지를 평가한다.",
+   "sample_answer": "Nagasaki: Local cooks adapted the Portuguese method by replacing green beans with seafood and vegetables available in the area.\nEdo: Cooks began using ice-cold water in the batter, creating the light, crispy texture of modern tempura.",
+   "page": 2
+  },
+  {
+   "admission": "일반전형, 고른기회전형, 반도체시스템인재전형Ⅱ",
+   "unit": "영어",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "Portuguese Origin of Japanese Tempura As the Portuguese merchants and missionaries began arriving in Japan in the late Muromachi period, Nagasaki, once a quiet fishing village, underwent a transformation into a major center of trade and Christianity. Along with cultural exchange came a novel method of food preparation: tempura. Modern-day tempura is created by deep-frying seafood or vegetables in a light batter of flour, eggs, and ice-cold water. Before the Portuguese arrived, however, the Japanese had no method of deep-frying battered ingredients. It was the Portuguese who introduced Peixinhos de horta—deep-fried green beans coated in flour batter and eaten during Catholic fasting periods; indeed, the word “tempura” originates from the Latin “tempora,” which referred to such religious times. As Portuguese influence spread in Nagasaki, local cooks began adapting the method, for example, by replacing green beans with seafood and vegetables available in the area. Though born in the excitement of Nagasaki’s evolution (Q1) into a key trading port, tempura developed into what it is today only when it reached Edo in the Tokugawa period. In Edo, cooks began employing ice-cold water, yielding the characteristic extra-crispy texture of modern tempura. Sold at food stands throughout the city, it became immensely popular with Edo residents.\nAs Japan remained a hermitlike nation-state throughout the Tokugawa era, most foreign contact was forbidden, and tempura remained largely unknown abroad. After the Meiji Restoration, however, Japan’s reopening to the world—combined with the appealing flavor and texture of tempura—enabled the dish to capture the attention of foreign visitors and spread its popularity beyond Japan’s borders, ultimately leading to its recognition today as one of the country’s most characteristic and enduring dishes.\nGlossary\nmissionaries (noun): people sent to spread religious belief\nChristianity (noun): the religion based on the life and teachings of Jesus Christ\nbatter (noun): a mixture of flour, eggs, and liquid for cooking\nPeixinhos de horta (noun): a Portuguese dish; (English pronunciation): pay-SHEEN-yoosh dee OR-tah\nfasting (noun): not eating food (and sometimes not drinking) for a period of time\nhermitlike (adjective): living in isolation from others; withdrawn from society",
+   "prompts": [
+    "Which two factors contributed to tempura's international recognition after it had remained largely unknown abroad during the Tokugawa era? (2 points)"
+   ],
+   "intent": "서류전형을 통과한 지원자를 대상으로 기본적인 학업능력과 영어 활용 능력이 충분한지를 평가한다.",
+   "sample_answer": "Japan’s reopening to the world after the Meiji Restoration.\nThe appealing flavor and texture (deliciousness) of tempura, which attracted foreign visitors.",
+   "page": 2
+  }
+ ]
+}

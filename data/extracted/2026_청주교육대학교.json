@@ -1,0 +1,230 @@
+{
+ "source": {
+  "university": "청주교육대학교",
+  "year": 2026,
+  "file": "2026_청주교육대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(배움나눔인재전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(지역인재전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(국가보훈대상자전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(다문화가족자녀전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(농어촌학생전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(장애인학생전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(기회균형선발제전형)",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인·적성",
+     "weight": null
+    },
+    {
+     "name": "창의적 탐구 및 리더십 역량",
+     "weight": null
+    },
+    {
+     "name": "의사소통 역량",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "수능(일반전형)",
+   "units": "인문사회계열",
+   "format": "인성",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인성",
+     "weight": null
+    },
+    {
+     "name": "교직 적성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "수능(농어촌학생전형)",
+   "units": "인문사회계열",
+   "format": "인성",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인성",
+     "weight": null
+    },
+    {
+     "name": "교직 적성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 7
+  },
+  {
+   "admission": "수능(장애인학생전형)",
+   "units": "인문사회계열",
+   "format": "인성",
+   "method": "개별면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "교직 인성",
+     "weight": null
+    },
+    {
+     "name": "교직 적성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 7
+  }
+ ],
+ "questions": []
+}

@@ -1,0 +1,163 @@
+{
+ "source": {
+  "university": "고신대학교",
+  "year": 2026,
+  "file": "2026_고신대학교_면접공개문항_기독교교육과"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합 자기추천전형",
+   "units": "기독교교육과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체 역량",
+     "weight": "30"
+    },
+    {
+     "name": "학업역량",
+     "weight": "30"
+    },
+    {
+     "name": "진로역량",
+     "weight": "40"
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "지금까지 학교나 신앙 공동체에서 섬기며 지체들과 소통했던 경험중, 함께 이루어낸 의미 있는 사례를 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "기독교 교육을 전공하면서 지혜를 어떤 방식으로 섬김과 나눔에 적용할 수 있을지 본인의 생각을 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "기독교교육과를 지원하게 된 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "전공 학업을 통해 배우고 싶은 내용은 무엇이며, 그것이 앞으로의 진로와 어떻게 연결된다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

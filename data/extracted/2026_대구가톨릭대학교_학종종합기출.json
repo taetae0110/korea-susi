@@ -1,0 +1,137 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2026,
+  "file": "2026_대구가톨릭대학교_학종종합기출"
+ },
+ "interviews": [
+  {
+   "admission": "종합전형",
+   "units": "글로벌항공서비스학과",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생활기록부에 다양한 봉사활동이 기재되어 있는데, 그중 가장 기억에 남는 활동과 그 이유를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교과 세부능력특기사항에서 ‘성실하고 책임감이 있다’는 평가를 받았습니다. 본인이 그렇게 평가받은 이유가 무엇이라 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활 중 협업을 통해 문제를 해결한 경험이 있다면 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 과목에서 흥미를 느꼈던 이유와 그 학습 경험이 진로 선택에 어떤 영향을 주었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "앞으로 대학 생활 중 가장 발전시키고 싶은 자신의 역량은 무엇이며, 이를 위해 어떤 노력을 하고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "항공 서비스 직무에서 ‘글로벌 마인드’가 중요한 이유는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "승객이 비행 중 불만을 제기했을 때, 감정적으로 대응하지 않고 상황을 해결하는 당신만의 방법은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "항공 승무원에게 필요한 ‘서비스 마인드’란 무엇이며, 이를 일상에서 어떻게 실천하고 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "종합전형",
+   "unit": "글로벌항공서비스학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "항공 서비스 분야가 기술 발전(예: AI·스마트 공항)과 함께 변화하고 있습니다. 이러한 변화 속에서 본인은 어떤 역량을 강화하고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

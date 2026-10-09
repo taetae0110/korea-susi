@@ -1,0 +1,1066 @@
+{
+ "source": {
+  "university": "인제대학교",
+  "year": 2026,
+  "file": "2026_인제대학교"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민 특별전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 25
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 기초생활수급권자, 수능, 지역인재 전형 [의예과]",
+   "units": "의예과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 26
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 농어촌학생, 기초생활수급권자 전형 [약학과]",
+   "units": "약학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 27
+  },
+  {
+   "admission": "지역인재Ⅰ, 지역인재 기초생활수급권자 전형 [간호학과]",
+   "units": "간호학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 27
+  },
+  {
+   "admission": "면접 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 28
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 30
+  },
+  {
+   "admission": "실기 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 31
+  }
+ ],
+ "questions": [
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "25℃에서 3.2 m A(aq) 110 mL에 물 x g을 추가한 수용액의 농도는 20%이다. 25℃에서 3.2 m A(aq)의 밀도는 1.2 g/mL이다. (단, A의 화학식량은 100이다.)",
+   "prompts": [
+    "다음 지문을 읽고 답을 쓰시오.",
+    "[수식] 값을 쓰시오."
+   ],
+   "intent": "농도 단위 간의 변환(몰랄농도 → 질량%)과 희석 계산 능력을 평가한다. 주어진 용액의 질량, 용질 질량, 용매 질량 관계를 파악하고, 물을 추가했을 때 농도 변화(20%)를 계산할 수 있는지를 확인한다. 몰랄농도 (molality)의 정의와 질량 % 농도의 정의를 통합적으로 적용할 수 있는지를 평가한다.",
+   "sample_answer": "[수식]값을 쓰시오. 정답: 28",
+   "page": 9
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "다음은 25℃, 1 atm에서 NH3​ (g)와 관련된 2가지 열화학 반응식이다. (단, 25℃, 1 atm에서 N2(g)와 H2(g)의 생성 엔탈피는 0이다.)\n[수식]",
+   "prompts": [
+    "NH3(g)의 표준 생성 엔탈피 값은 얼마인지 단위와 함께 쓰시오.",
+    "N2H4(g) 1 mol이 분해되어 N2(g) 1 mol과 H2(g) 2 mol이 생성될 때 반응 엔탈피 ΔH 는 얼마인지 쓰시오."
+   ],
+   "intent": "<반응 엔탈피 이해하기>\n1. 화학 반응의 열역학적 성격 이해:\n반응의 엔탈피 변화 ΔH 부호를 보고 흡열 반응(ΔH > 0) 과 발열 반응(ΔH < 0) 을 구분할 수 있는가. 에너지의 출입 방향(흡수 또는 방출)을 해석하고, 물질의 안정성과 관련지어 설명할 수 있는가.\n2. 표준 생성 엔탈피의 개념 적용\n생성 엔탈피를 이용하여 화학 반응의 총 엔탈피 변화를 계산할 수 있는가. 주어진 반응식에서 한 물질의 표준 생성 엔탈피를 역산할 수 있는가.\n3. 엔탈피 변화의 부호와 계산 원리 이해\n분해 반응과 생성 반응의 관계(ΔH_reverse = –ΔH_forward)를 이해하고, 수치 계산에 적용할 수 있는가.",
+   "sample_answer": "1) NH3(g)의 표준 생성 엔탈피 값은 얼마인지 단위와 함께 쓰시오. 정답: -45 kJ/mol\n2) N2H4(g) 1 mol이 분해되어 N2(g) 1 mol과 H2(g) 2 mol이 생성될 때 반응 엔탈피 ΔH 는 얼마인지 쓰시오. 정답: -100 kJ",
+   "page": 11
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "그림은 H₂O의 상평형 그림을 나타낸 것이고, 표는 t °C에서 압력에 따른 H₂O의 안정한 상의 수에 대한 자료이다. P₁ < P₂ < 1 이고, a > b 이다.\n[그림]\n[표]",
+   "prompts": [
+    "P₂ atm, t °C에서 H₂O의 안정한 상은 무엇인지 쓰시오.",
+    "그림에서 t °C에서의 H₂O(l)의 증기압은 P₁, P₂ 중 어느 압력에 해당하는지 쓰시오."
+   ],
+   "intent": "<H2O의 상평형 이해하기>\n1. 물의 상평형도(phase diagram)를 해석할 수 있는가\n2. 주어진 온도와 압력 조건에 따라 고체·액체·기체의 안정한 상태를 구분할 수 있는가\n3. 증기압의 의미(액체와 기체가 평형을 이루는 압력)를 이해하고 설명할 수 있는가",
+   "sample_answer": "1) P₂ atm, t °C에서 H₂O의 안정한 상은 무엇인지 쓰시오. 정답: 기체\n2) 그림에서 t °C에서의 H₂O(l)의 증기압은 P₁, P₂ 중 어느 압력에 해당하는지 쓰시오. 정답: P₁ atm",
+   "page": 14
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "그림 (가)는 진핵세포에서 일어나는 세포 호흡 과정의 일부를, (나)는 (가)의 과정이 일어나는 세포 일부를 나타낸 것이다. A~C는 과당 2인산, 아세틸 CoA, 피루브산을 순서 없이 나타낸 것이고, 막 ⓐ와 ⓑ는 미토콘드리아의 내막과 외막을 순서 없이 나타낸 것이다. 과정 Ⅰ은 ㉢에서, 과정 Ⅱ는 ㉠에서 일어난다.\n[그림]",
+   "prompts": [
+    "과정 Ⅰ에서 생성되는 주요 에너지 화합물의 이름과 그 생성 과정을 간단히 설명하시오.",
+    "막 ⓐ와 ⓑ중에서 과정 Ⅱ가 일어나는 곳을 말하고, 이 위치에서의 반응 특성을 설명하시오.",
+    "포도당 1분자의 A가 2분자의 B로 전환될 때 생성되는 NADH 분자의 수를 말하고, 그 이유를 설명하시오."
+   ],
+   "intent": "<해당 과정 적용하기>\n1. 세포 호흡의 주요 단계(해당과정, 피루브산 산화, 기질회로)의 위치와 산물을 이해하고 설명할 수 있는가\n2. 미토콘드리아 구조(내막·외막)의 역할을 구분할 수 있는가\n3. NADH 생성량을 분자적 수준에서 논리적으로 산출할 수 있는가",
+   "sample_answer": "1) 과정 Ⅰ에서 생성되는 주요 에너지 화합물의 이름과 그 생성 과정을 간단히 설명하시오.\n정답: ATP / 해당과정으로 포도당이 피루브산으로 분해될 때 ATP가 생성됩니다.\n2) 막 ⓐ와 ⓑ중에서 과정 Ⅱ가 일어나는 곳을 말하고, 이 위치에서의 반응 특성을 설명하시오.\n정답: 막 ⓑ / 전자전달계와 ATP 합성, 산화적 인산화를 통해 다량의 ATP가 생성됩니다.\n3) 포도당 1분자의 A가 2분자의 B로 전환될 때 생성되는 NADH 분자의 수를 말하고, 그 이유를 설명하시오.\n정답: 2분자 / 포도당 1분자의 A(과당 2인산)가 2분자의 B(피브루산)로 전환되는 과정에서 탈수소 반응이 두 번 일어나므로, NADH는 총 2분자가 생성됩니다.",
+   "page": 16
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "그림은 폴리펩타이드 합성 과정 중 형성되는 복합체를 나타낸 것이다. tRNA ㉠과 ㉡은 각각 리보솜의 A 자리와 P 자리 중 하나에 위치한다.\n[그림]",
+   "prompts": [
+    "ⓐ반응, ⓑ반응이 일어나는 순서를 말하고 그 이유를 설명하시오.",
+    "㉠ 반응과 ㉡ 반응이 mRNA와 결합하는 순서와 그 이유를 말하시오.",
+    "진핵생물과 원핵생물의 리보솜 구조적 차이를 말하고, 이러한 차이가 생명공학• 의학적으로 어떻게 활용되는지 말하시오."
+   ],
+   "intent": "1. 단백질 합성의 세부 과정 이해: 리보솜의 A자리와 P자리의 기능을 구분하고, tRNA의 위치 이동 순서를 설명할 수 있는가.\n2. tRNA와 mRNA 결합 순서의 논리적 설명 능력 평가: tRNA가 결합하여 펩타이드 결합 형성이 진행되는 번역 연장 과정을 단계적으로 설명할 수 있는가.\n3. 진핵생물과 원핵생물의 리보솜 구조 차이를 이해하고, 이를 기반으로 항생제 선택성이 생기는 이유를 설명할 수 있는가.",
+   "sample_answer": "1) ⓐ반응, ⓑ반응이 일어나는 순서를 말하고 그 이유를 설명하시오.\n정답: ⓐ반응 다음에 ⓑ반응이 일어납니다. 이유: 단백질은 N-terminal에서 C-terminal 방향으로 생합성이 일이나며, ⓐ가 N-terminal 쪽이므로 ⓐ, ⓑ 순으로 반응이 일어납니다.\n2) ㉠ 반응과 ㉡ 반응이 mRNA와 결합하는 순서와 그 이유를 말하시오.\n정답: ㉡ – ㉠ 순서로 결합합니다. ㉠은 아미노산이 하나뿐이고 ㉡은 아미노산이 결합한 단백질이기 때문입니다.\n3) 진핵생물과 원핵생물의 리보솜 구조적 차이를 말하고, 이러한 차이가 생명공학•의학적으로 어떻게 활용되는지 말하시오.\n정답: 진핵생물 리보솜은 80S(40S + 60S)이고, 원핵생물 리보솜은 70S(30S + 50S)로 구조가 다릅니다. 이 차이를 이용해서 세균(원핵생물)의 리보솜만 선택적으로 억제하는 항생제를 개발할 수 있습니다.",
+   "page": 18
+  },
+  {
+   "admission": "재외국민 외국인 특별전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자가면역에 대해 설명하고 자가면역 질환 3개 이상을 간략히 설명하세요."
+   ],
+   "intent": "현대사회의 점점 늘어나고 있는 자가면역 질환에 대해 이해하고 관련 질병들에 대해 설명할 수 있다.",
+   "sample_answer": "자가면역: 면역계가 자기 물질과 비자기 물질을 구분하지 못하여 발생하는 면역반응으로 자기 몸을 구성하는 세포나 조직을 공격하는 것.\n자가면역 질환\n- 류머티스 관절염: 면역 세포가 관절 부위의 연골을 파괴하여 발생하는 자가면역 질환\n- 제 1형 당뇨병: 췌장의 베타세포를 면역 세포가 공격하여 인슐린 분비가 떨어져 발생하는 당뇨병\n- 홍반성 루프스: 피부, 콩팥, 폐 등 전신에서 염증 반응이 나타나는 자가면역 질환\n- 건선: 피부에서 발생하는 자가면역 질환. 면역 세포가 피부 세포를 병원균으로 오인해 발생하는 질환으로 각질이 대표적 특징\n- 염증성 장 질환 (크론병): 장에서 발생하는 자가면역 질환\n- 아토피성 피부염: 진물과 가려움증이 대표적 증상이 피부에서 발생하는 자가면역 질환\n- 갑상샘 기능 항진증, 자가면역성용혈성빈혈, 중증근무력증 등",
+   "page": 21
+  },
+  {
+   "admission": "재외국민 외국인 특별전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대전체를 물줄기에 가까이 대면 물줄기가 대전체 쪽으로 끌려온다. 물의 분자구조를 그리고, 해당 현상을 분자구조, 결합극성 및 분자극성과 관련지어 설명해보세요."
+   ],
+   "intent": "기초적인 분자구조를 그릴 수 있고, 물질의 물리적 성질이 분자구조와 관계가 있음을 설명할 수 있다.",
+   "sample_answer": "물의 분자구조\n물(H2O)은 (1) 서로 다른 종류의 원자 간(H-O)의 극성공유결합을 형성하고, (2) 중심원자인 O가 비공유전자쌍을 가져 분자구조가 굽은 형이므로, (3) 결합극성이 서로 상쇄되지 않아 분자의 쌍극자 모멘트가 0이 아니므로 극성분자이기 때문에 물줄기가 대전체 쪽으로 끌려온다.",
+   "page": 23
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "우리 학교 도서관의 좌석은 늘 부족하다. 특히 시험 기간 중에는 더욱 그러한데, 학생들은 자신의 물건을 올려 두고 자리를 꽤 오랫동안 비우는 일이 흔하다. 학생들의 불만이 커지자, 학생회에서는 ‘일정 시간 이상 자리를 비우면 물건을 치우자‘는 안을 내었다.\n‘사정이 있어서 잠시 비울 수도 있는데, 너무하다.’‘일일이 감시하는 것도 좀 그렇다.’‘컴퓨터, 패드 등 고가의 물건도 많은데 남의 물건을 건드리는 것은 부담된다.’등의 의견이 있었다.\n결국 학생 투표를 통해 이 안에 대한 찬반을 묻기로 하였다. 오늘은 투표일이다.",
+   "prompts": [
+    "이 상황을 어떻게 생각합니까?",
+    "학생회 안과 여러 의견에 어떻게 생각합니까?",
+    "응시자가 ‘나’라면 어떻게 하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "각 구성원이 함께 열심히 노력하였으나 성과가 그리 좋지 않았던 활동 중 가장 기억에 남는 경험을 말하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 약학과에 지원한 동기와 졸업 후 진로는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "약학과 입학 후 희망하는 진로를 추구하기 위해 어떤 노력을 할 것인지, 본인의 어떤 강점이 해당 진로를 추구하기에 도움이 되는지 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대 간호대학에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "외국에서의 수학 경험이 대학 생활(학업 및 교우관계 등)에 어떠한 영향을 미칠 것이라 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 기초생활수급권자, 수능, 지역인재 전형 [의예과]",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "우리 학교 도서관의 좌석은 늘 부족하다. 특히 시험 기간 중에는 더욱 그러한데, 학생들은 자신의 물건을 올려 두고 자리를 꽤 오랫동안 비우는 일이 흔하다. 학생들의 불만이 커지자, 학생회에서는 ‘일정 시간 이상 자리를 비우면 물건을 치우자‘는 안을 내었다.\n‘사정이 있어서 잠시 비울 수도 있는데, 너무하다.’‘일일이 감시하는 것도 좀 그렇다.’‘컴퓨터, 패드 등 고가의 물건도 많은데 남의 물건을 건드리는 것은 부담된다.’등의 의견이 있었다.\n결국 학생 투표를 통해 이 안에 대한 찬반을 묻기로 하였다. 오늘은 투표일이다.",
+   "prompts": [
+    "이 상황을 어떻게 생각합니까?",
+    "학생회 안과 여러 의견에 어떻게 생각합니까?",
+    "응시자가 ‘나’라면 어떻게 하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 기초생활수급권자, 수능, 지역인재 전형 [의예과]",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "각 구성원이 함께 열심히 노력하였으나 성과가 그리 좋지 않았던 활동 중 가장 기억에 남는 경험을 말하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "약학⋅약학",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "[뉴스기사 발췌] 최근 문을 연 ‘창고형 약국’에 약사 사회의 관심이 집중되고 있다. 약사단체는 ‘창고형 약국’의 약물 오남용, 사재기, 약 배송 문제를 제기하며 반대 입장을 표하였다. 이에 비해 소비자단체 쪽에서는 의약품 선택권 보장과 편의성을 보장해야 한다는 의견이 나온다.",
+   "prompts": [
+    "다음 기사내용을 읽고 이러한 사회적 이슈에 대해 지원자의 의견을 말해 보세요. 그리고 지원자가 생각하는 ‘약사의 역할’에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "약학⋅약학",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학창시절부터 현재까지 지원자가 갖게 된 가치관 형성에 영향을 끼쳤다고 생각하는 경험이 있다면 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "지역인재Ⅰ, 지역인재 기초생활수급권자",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "최근에는 창고형 약국과 같은 새로운 유통 구조가 생겨나 사람들의 큰 호응을 얻고 있다. 창고형 약국은 마트와 같이 카트를 이용해 일반의약품뿐만이 아니라 건강기능식품 등을 자유롭게 시중보다 저렴한 가격으로 구매할 수 있다.\n최근에는 다이소에서 소위 “5,000원 건강기능식품”을 판매하면서 싼 가격과 편리성으로 바람을 일으키고 있다.\n위와 같은 변화가 가속화된다고 전제할 때 아래에 대해서 답변해 보세요.",
+   "prompts": [
+    "약사의 역할에서 지켜나가야 할 것과 변화되어야 할 것은 무엇이 있을까요?",
+    "약사가 가질 수 있는 기회 요인과 위험 요인은 무엇이 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "농어촌학생, 기초생활수급권자",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "“비대면조제”가 현재 제한된 지역 및 조건에서 시범적으로 시행되고 있다. 비대면조제가 제도화되어 전국적으로 시행될 경우, 약사는 새로운 업무 수행을 위한 전문 역량을 확보해야 한다.",
+   "prompts": [
+    "지원자가 생각하는 가장 중요한 전문 역량 3가지를 설명해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "지역인재Ⅰ, 지역인재 기초생활수급권자 전형 [간호학과]",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교내 교육과정 또는 교외활동(예: 동아리 활동, 봉사활동) 중 돌봄을 실천한 경험에 대해 이야기 해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "혁신신약⋅제약공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "제약산업에서 가장 관심있는 분야는 무엇이며, 그 이유와 학업 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "혁신신약⋅제약공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학생활 동안 전공 공부 이외에 계발하고 싶은 능력과 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "혁신신약⋅제약공학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "성적 또는 자신감이 떨어졌을 때 어떻게 극복했는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리치료학과 학업을 위해 기초과학(생물, 화학, 물리)의 연관성과 필요성에 대하여 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 몸을 구성하는 근육은 수축과 이완을 반복하면서 움직임을 만들어낸다. 근육의 수축과 이완 과정을 “흥분, 전도, 막전위” 3가지 용어를 이용하여 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신있는 교과목과 자신이 없는 교과목이 무엇인지 말하고, 그 이유에 대해서 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학과 지원동기는 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학과 졸업 후, 어떤 직업을 가지고 싶은지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학은 어떤 학문 분야라고 생각하는지, 또 반려동물보건학의 어떤 세부 분야에 관심이 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "친절⋅봉사⋅환자안전⋅소통 중 하나를 가장 먼저 지켜야 한다면, 어떤 가치를 선택하고 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간단한 자기소개와 함께 인제대학교 임상병리학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 장점은 무엇이며, 직무에 어떻게 적용할 것인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 학업 계획과 졸업 후 진로 계획은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "치매, 뇌졸중, 발달장애 아동 중 하나를 선택하여 해당 질환의 특징을 설명하고, 이에 대한 작업치료의 역할과 중재 방법을 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교육과에 지원한 동기(교직 선택 동기)는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교사가 갖추어야 할 자질 중에서 자신의 강점과 약점은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교육과에 입학한 후, 원하는 진로를 위해 어떤 노력을 할 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 봉사활동 경험을 통해 미래의 장애인 교육 및 복지의 바람직한 방향을 제시해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애관련 기사와 사회적 이슈에 대해 공동체의 한 구성원으로서 자신의 견해를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "급변하는 사회에서 요구되는 특수교사의 자질은 어떠한지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "사회과학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회과학대학의 여러 전공(사회복지학과, 상담심리치료학과, 보건행정학과, 법학과, 경찰⋅행정학과) 중에서 현재 가장 관심이 있는 분야는 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "사회과학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "당신이 생각하는‘사회정의’란 무엇이며, 이를 실현하기 위해 사회과학 분야가 어떤 역할을 해야 한다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "사회과학계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "당신이 경험했던 어떤 상황이나 활동이 자신에게 가장 의미 있었으며, 그것이 전공 선택에 어떤 영향을 미쳤는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "경영계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경영계열 지원 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "경영계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 진로 목표와 연관 지어 자신의 장점 2가지는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "경영계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 2, 3년간 가장 큰 성취감을 느낀 경험에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "글로컬리더스학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인공지능은 인간의 인지와 판단 기능을 빠르게 대체하고 있습니다. 이런 기술 발전이 인간 사회에 주는 영향을 긍정적 또는 부정적으로 본다면, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "글로컬리더스학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "과학 또는 공학 관련 프로젝트나 팀 활동 중 가장 기억에 남는 경험은 무엇인가요? 그 활동에서 어떤 역할을 맡았고, 다시 한다면 어떤 점을 보완하고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "글로컬리더스학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 힘든 상황을 맞았을 때, 어떻게 극복하나요? 구체적인 사례가 있다면 함께 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자유전공학부 지원동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자유전공학부 홈페이지를 방문한 적이 있나요? 있었다면 가장 관심을 가진 내용이 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "나를 행복하게 하는 것은 어떤 것인가? 그것이 나를 어떻게, 왜 행복하게 하는가? 내가 행복하다는 것을 어떻게 알 수 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "면접 전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "현재의 나(성격, 기질, 태도, 생각 등)를 만드는데 영향을 끼친 기억할 만한 일, 사건, 기억, 경험 등에 관해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리치료학과 학업을 위해 기초과학(생물, 화학, 물리)의 연관성과 필요성에 대하여 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 몸을 구성하는 근육은 수축과 이완을 반복하면서 움직임을 만들어낸다. 근육의 수축과 이완 과정을 “흥분, 전도, 막전위” 3가지 용어를 이용하여 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신있는 교과목과 자신이 없는 교과목이 무엇인지 말하고, 그 이유에 대해서 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "친절⋅봉사⋅환자안전⋅소통 중 하나를 가장 먼저 지켜야 한다면, 어떤 가치를 선택하고 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "치매, 뇌졸중, 발달장애 아동 중 하나를 선택하여 해당 질환의 특징을 설명하고, 이에 대한 작업치료의 역할과 중재 방법을 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "치매, 뇌졸중, 발달장애 아동 중 하나를 선택하여 해당 질환의 특징을 설명하고, 이에 대한 작업치료의 역할과 중재 방법을 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 봉사활동 경험을 통해 미래의 장애인 교육 및 복지의 바람직한 방향을 제시해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애관련 기사와 사회적 이슈에 대해 공동체의 한 구성원으로서 자신의 견해를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "급변하는 사회에서 요구되는 특수교사의 자질은 어떠한지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부 입학 후 진로 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부에 진학하기 위해 어떤 노력을 했는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "실기 전형",
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 31
+  },
+  {
+   "admission": "실기 전형",
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부 입학 후 진로 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 31
+  },
+  {
+   "admission": "실기 전형",
+   "unit": "스포츠헬스케어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학부에 진학하기 위해 어떤 노력을 했는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 31
+  }
+ ]
+}

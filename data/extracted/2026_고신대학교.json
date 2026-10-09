@@ -1,0 +1,924 @@
+{
+ "source": {
+  "university": "고신대학교",
+  "year": 2026,
+  "file": "2026_고신대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합 자기추천",
+   "units": "유아교육, 작업치료, 응급구조, 디지털영상마케팅, 자율전공, 신학, 기독교교육, 간호학과",
+   "format": "인성",
+   "method": "입학사정관 2인이 지원자 1인을 대상으로 면접 진행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체 역량",
+     "weight": null
+    },
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    }
+   ],
+   "page": 9
+  },
+  {
+   "admission": "학생부교과전형(특수교육대상자)",
+   "units": "전체",
+   "format": "인성",
+   "method": "면접관 2~3인이 지원자 1~3인을 대상으로 면접 진행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체의식",
+     "weight": null
+    },
+    {
+     "name": "지원동기 및 전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "일반고전형, 지역인재전형 (비대면)",
+   "units": "의예과",
+   "format": "제시문기반",
+   "method": "1인 지원자의 제출된 면접 영상을 면접관 2인이 참여하여 다수평가",
+   "duration": "5분",
+   "criteria": [
+    {
+     "name": "인성 및 공동체의식",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 12
+  },
+  {
+   "admission": "지역인재기회균형전형, 농어촌전형 (대면)",
+   "units": "의예과",
+   "format": "제시문기반",
+   "method": "1인 지원자를 대상으로 면접관 2인이 참여하여 다수평가",
+   "duration": "5분",
+   "criteria": [
+    {
+     "name": "인성 및 공동체의식",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 12
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "여러 사람이 함께하는 활동(예: 팀 과제, 동아리, 봉사 등)에서 의견 충돌이나 갈등 상황이 있었을 때, 그 상황을 해결하기 위해 본인이 어떤 태도로 임했는지 구체적인 사례와 함께 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "어떤 수업이나 과목을 배우면서 ‘더 깊이 알고 싶다’는 생각이 들었던 주제가 있었나요? 그 주제에 대해 본인이 자발적으로 더 알아보기 위해 어떤 노력을 했는지 구체적으로 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "간호사는 다양한 분야에서 일할 수 있습니다. 본인이 관심이 있는 간호 분야가 있다면 무엇인지, 그리고 그 분야에서 활동하기 위해 어떤 준비가 필요하다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "지금까지 학교나 신앙 공동체에서 섬기며 지체들과 소통했던 경험 중, 함께 이루어낸 의미 있는 사례를 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "기독교 교육을 전공하면서 지혜를 어떤 방식으로 섬김과 나눔에 적용할 수 있을지 본인의 생각을 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "기독교교육과를 지원하게 된 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "전공 학업을 통해 배우고 싶은 내용은 무엇이며, 그것이 앞으로의 진로와 어떻게 연결된다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "기독교교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "지난 3년간(고등학교 재학 기간) 가족, 학우, 친구 등과 함께 공동의 목표를 위해 협력했던 경험이 있나요? 그 과정에서 본인이 맡았던 역할과 배운 점은 무엇인지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요? 그리고 그 과정에서 어떤 배움을 얻었는지 구체적으로 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "미디어영상마케팅학과에 지원하게 된 동기는 무엇인가요? 진로와 연계해 어떤 활동이나 경험을 해왔는지 말씀해 주세요. 또한 앞으로의 학업과 진로 계획, 그리고 그 목표를 통해 어떤 사람이 되고 싶은지도 구체적으로 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "졸업 이후 어떤 사람이 되길 원하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "미디어영상마케팅학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 생활 중 참여했던 동아리 활동을 말씀해 주세요. 그 안에서 본인이 맡았던 역할과 기여한 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "고등학교에서 가장 흥미를 느낀 교과목은 무엇이었나요? 그 과목을 통해 배우고 깨달은 점이 있다면 구체적으로 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "성경에 나타난 기독교의 본질은 무엇이라고 생각하나요? 또한 앞으로 어떻게 실천하며 더 좋은 기독교인이 될 수 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "신학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "유아는 말과 행동에서 교사의 성실함, 따뜻함, 배려심을 크게 느낍니다. 본인이 유아와 관계를 맺는 데 도움이 될 자신의 성격이나 태도는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "유아교육은 다양한 학문(교육학, 아동발달, 예술 등)과 연결됩니다. 본인이 관심을 가지고 깊이 탐구해 본 교과나 활동은 무엇이며, 그것이 유아교육과 전공 공부에 어떻게 도움이 될 것이라 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "유아교사가 되기를 꿈꾸게 된 계기와 본인이 생각하는 좋은 유아교사의 모습는 무엇이며, 앞으로 교사로서 유아와 가정, 지역사회에 어떤 긍정적 영향을 주고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "응급 현장에서 돌발 상황이 발생해서 구조가 지연된다면, 어떻게 대응하겠습니까? 먼저 무엇을 확인하시고, 어떻게 협력해 나갈지 단계적으로 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 때 배웠던 과목 중에서 가장 어려웠던 과목은 무엇이었습니까? 그 과목을 이해하기 위해 기초 개념을 어떻게 다졌는지, 세운 학습 계획과 실천 방법은 무엇이었는지 말해주세요. 또 호기심을 넓혀 추가 탐구한 경험과 그 과정에서 배운 점을 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "응급구조학과에 지원하게 된 이유는 무엇인가요? 대학에서 어떤 과목·활동으로 전공 실력을 키울 계획인지, 그리고 그것이 앞으로의 진로 목표와 어떻게 연결되는지 구체적으로 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "학생부종합 자기추천",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "일반고, 지역인재전형",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "인성",
+   "passage": "2025년 11월 10일 00대학 본부 발표에 따르면 교양과목 '고령사회에 대한 다학제적 이해'의 비대면 온라인 중간고사에서 일부 학생들이 카카오톡 오픈채팅방을 이용해 시험 문제와 답안을 공유하는 부정행위를 저질렀다고 밝혔다. 이 강의는 약 1,400명이 수강하는 비대면 대형 강의였으며, 부정행위가 있었던 채팅방에는 최대 500명 가량이 참여한 것으로 알려졌다. 이 사실이 다른 학생들의 제보로 드러나자, 학교 측은 해당 과목의 중간고사를 전면 무효로 처리했다. 비대면 온라인 강의 교수진은 학생들을 위한 후속 조치로 'GPT 킬러(AI 활용 탐지) 5％ 미만'을 기준으로 한 과제를 제출하라고 공지하였다.",
+   "prompts": [
+    "학교 측이 이번 사건을 '초유의 사태' 라며 중간고사를 전면 무효화한 이유는 무엇이라고 생각하는가?",
+    "향후 시험 중 집단 부정 행위 재발 방지를 위한 적절한 보완책은 무엇이라고 생각하는가?"
+   ],
+   "intent": "1. AI(인공지능) 활용 부정행위의 도덕적 문제성을 알고 있다.\n2. 자발적인 정직의 중요성을 알고 있다.\n3. 재발방지를 위한 효과적인 대안을 제시할 수 있다.",
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "일반고, 지역인재전형",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "적성",
+   "passage": "다음은 감염병 A를 진단하기 위한 검사의 진단능력에 대한 사전자료이다. 가로축은 실제 감염병 A가 있는 경우와 없는 경우, 세로축은 각 검사에서 양성과 음성 결과를 나타낸다.\n검사 ‘가’ (민감도 75%, 특이도 95%)\n실제 감염병 A가 있는 사람 실제 감염병 A가 없는 사람\n검사 양성 150 명 25 명\n검사 음성 50 명 475 명\n검사 ‘나’ (민감도 90%, 특이도 94%)\n실제 감염병 A가 있는 사람 실제 감염병 A가 없는 사람\n검사 양성 180 명 30 명\n검사 음성 20 명 470 명\n민감도(Sensitivity) : 병이 있는 사람이 검사에서 양성으로 판정될 확률\n특이도(Specificity) : 병이 없는 사람이 검사에서 음성으로 판정될 확률\n감염병 A가 의심되는 환자의 수술이 불가피할 경우 의료진은 감염병 A 전파 차단을 위한 조치를 한 후 수술을 시행하여야 한다. 위에서 주어진 사전자료를 바탕으로 이 환자의 수술전 검사를 시행한다면, 두 가지 검사 중",
+   "prompts": [
+    "어떤 검사를 하는 것이 적절하다고 생각하는가?",
+    "그렇게 생각한 이유를 선정한 검사의 특징을 고려하여 설명해 보세요."
+   ],
+   "intent": "1. 주어진 제시문을 수학적으로 분석하는 능력을 평가한다.\n2. 전파가능한 감염병이라는 주어진 상황을 파악하는 능력을 평가한다.\n3. 상황에 맞는 적절한 검사를 선택하는 능력을 평가한다.",
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": "지역인재기회균형, 농어촌",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "인성",
+   "passage": "모 의과대학 의학과 2학년 최00은 조기 복귀자라는 이유로 같은 학과 동급생들과 학과 선배 들로부터 수차례 놀림과 동아리 내 차별을 받아 교내 상담실을 찾았다.\n'의대 2,000명 증원'이라는 갑작스런 정부 정책으로 시작된 의정갈등은 1년 6개월 만에 종식 되었지만 선복귀자들과 후복귀자들 사이에 깨어진 관계는 아직도 갈등의 불씨로 남아 있다. 가해 학생은 특정 행위를 “장난”으로 인식하는 경우가 많고, 피해 학생은 같은 행위를 “지속적 괴롭힘·관계적 배제”로 경험했다.\n모 의과대학에선 소그룹 모임 중 일부 학생들이 조기 복귀한 학생을 향해 ‘배신자’, ‘감귤’ 등으로 공개 비난하는 일도 발생했다. 감귤은 의대생·전공의 사이에서 집단행동에 참여하지 않은 이들에 대한 혐오의 표현이다. 모 의과대학 의예과 1학년 대상 의료 윤리 수업인 ‘좋은 의사 지향하기’ 강의시간. 수업을 진행하는 교수는 ‘좋은 의사란 무엇인가’라는 질문에 일부 학생들이 “감귤 짓 안 하는 의사”, “배신 않고 동료들과 협력할 수 있는 의사”, “동료를 버리지 않는 의사”라는 답을 적어냈다.",
+   "prompts": [
+    "최00 학생의 경우와 같은 학교 내 집단 따돌림은 개인과 공동체에 어떤 문제를 유발 할 수 있나요?",
+    "향후 유사한 사건 재발 방지를 위한 적절한 방법은 무엇이 있을까요?"
+   ],
+   "intent": "1. 소수자를 향한 다수의 집단따돌림의 도덕적 문제성을 알고 있고 개개인의 입장과 판단이 존중받아야 함을 알고 있다.\n2. 문제에 대한 효과적인 대안을 제시할 수 있다.",
+   "sample_answer": null,
+   "page": 14
+  },
+  {
+   "admission": "지역인재기회균형, 농어촌",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "적성",
+   "passage": "’이OO’은 검진센터에서 받은 선별검사에서 암이 의심된다며 의뢰되었다.\n다음은 추가로 암을 확진하기 위해 고려 중인 검사의 진단능력에 대한 사전자료이다.\n< 검사 A >\n실제 암이 있는 사람 실제 암이 없는 사람\n검사 A 양성 98 명 9 명\n검사 A 음성 2 명 891 명\n합계 100 명 900 명\n< 검사 B >\n실제 암이 있는 사람 실제 암이 없는 사람\n검사 B 양성 99 명 90 명\n검사 B 음성 1 명 810 명\n합계 100 명 900 명\n민감도는 병이 있는 사람이 검사에서 양성으로 판정될 확률이며 특이도는 병이 없는 사람이 검사에서 음성으로 판정될 확률이다. 수식으로 나타내면 다음과 같다.\n민감도 = [수식]\n특이도 = [수식]",
+   "prompts": [
+    "위 사전자료에서 검사 A와 B의 민감도와 특이도는 각각 얼마인가?",
+    "위에서 주어진 자료를 바탕으로 확진검사를 실시하고 그 결과에 따라 위험성이 있는 암 치료 시행 여부를 결정하려고 한다.",
+    "검사 A, 검사 B 중 어느 검사가 더 적절하다고 생각하는가?",
+    "그 이유를 병의 특성과 선택한 검사의 특징을 고려하여 설명해 보세요."
+   ],
+   "intent": "1. 주어진 제시문을 수학적으로 분석하는 능력을 평가한다.\n2. 검사결과가 침습적인 치료로 이어질 것이라는 주어진 상황을 파악하는 능력을 평가한다.\n3. 상황에 맞는 적절한 검사를 선택하는 능력을 평가한다.",
+   "sample_answer": null,
+   "page": 15
+  }
+ ]
+}

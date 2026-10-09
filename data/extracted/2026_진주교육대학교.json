@@ -1,0 +1,98 @@
+{
+ "source": {
+  "university": "진주교육대학교",
+  "year": 2026,
+  "file": "2026_진주교육대학교"
+ },
+ "interviews": [
+  {
+   "admission": "수시모집",
+   "units": "인문사회계열",
+   "format": "서류기반",
+   "method": "지원자 1인에 대해 면접위원 3인이 질의·응답을 통해 평가",
+   "duration": "지원자 1인 15분 이내",
+   "criteria": [],
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "admission": "수시모집",
+   "unit": "인문사회계열",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 출결사항에 질병 및 미인정 출결사항이 많은 편인데, 이유가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "인문사회계열",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년 창의적체험활동 부분에서 OOO활동이 있는데, 이 활동은 지원자가 교사로서의 자질을 키우는데 도움이 되었나요? 도움이 되었다면 어떤 부분일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "인문사회계열",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동이 많은데 특히 생각나는 활동이 있으면 소개해주고, 그 활동은 지원자가 교사가 된다면 어떻게 활용할 수 있다고 생각하시나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "인문사회계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "초등교사가 되려고 하는 이유가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "인문사회계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "초등교사로서 가장 중요한 역량은 무엇이라고 생각하고, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "인문사회계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자가 교사라면, 본인 수업에 유달리 집중하지 못하는 학생이 있다면 어떻게 지도하면 좋을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  }
+ ]
+}

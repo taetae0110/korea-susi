@@ -1,0 +1,163 @@
+{
+ "source": {
+  "university": "고신대학교",
+  "year": 2026,
+  "file": "2026_고신대학교_면접공개문항_간호학과"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합 자기추천전형",
+   "units": "간호학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체 역량",
+     "weight": "30"
+    },
+    {
+     "name": "학업역량",
+     "weight": "30"
+    },
+    {
+     "name": "진로역량",
+     "weight": "40"
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "여러 사람이 함께하는 활동(예: 팀 과제, 동아리, 봉사 등)에서 의견 충돌이나 갈등 상황이 있었을 때, 그 상황을 해결하기 위해 본인이 어떤 태도로 임했는지 구체적인 사례와 함께 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "어떤 수업이나 과목을 배우면서 ‘더 깊이 알고 싶다’는 생각이 들었던 주제가 있었나요? 그 주제에 대해 본인이 자발적으로 더 알아보기 위해 어떤 노력을 했는지 구체적으로 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "간호사는 다양한 분야에서 일할 수 있습니다. 본인이 관심이 있는 간호 분야가 있다면 무엇인지, 그리고 그 분야에서 활동하기 위해 어떤 준비가 필요하다고 생각하는지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

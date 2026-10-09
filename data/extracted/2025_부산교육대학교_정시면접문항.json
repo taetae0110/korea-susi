@@ -1,0 +1,49 @@
+{
+ "source": {
+  "university": "부산교육대학교",
+  "year": 2025,
+  "file": "2025_부산교육대학교_정시면접문항"
+ },
+ "interviews": [],
+ "questions": [
+  {
+   "admission": "정시모집",
+   "unit": "초등교육학부",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "교육은 미래를 준비하는 현재의 활동입니다.",
+   "prompts": [
+    "10년 후 한 초등학교 교실에서 공부하는 학생들의 모습을 상상해 보고, 현재의 교사는 어떠한 준비를 해야 할지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "정시모집",
+   "unit": "초등교육학부",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "현재 우리나라의 초등학교에서는 학급 담임교사가 대부분의 교과를 가르치고, 일부 교과만 교과 전담 교사가 담당하고 있습니다. 초등학교도 중등학교처럼 교과담임제를 중심으로 교과 전문성을 강화하여 수업의 질을 높이자는 목소리가 있어 왔습니다.",
+   "prompts": [
+    "이에 대한 자신의 생각을 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "정시모집",
+   "unit": "초등교육학부",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "<보기>는 부산교육대학교의 교육 이념입니다.\n<보 기>\n사랑, 슬기, 봉사",
+   "prompts": [
+    "이를 바탕으로 초등학교에서 수행할 수 있는 교사의 역할을 제시하고, 그 이유를 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

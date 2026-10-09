@@ -1,0 +1,193 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2026,
+  "file": "2026_대구가톨릭대학교_예상_실기특기자"
+ },
+ "interviews": [
+  {
+   "admission": "실기특기자전형",
+   "units": "체육교육과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "창의성 사고력",
+     "weight": null
+    },
+    {
+     "name": "미래지향성",
+     "weight": null
+    },
+    {
+     "name": "공동체성",
+     "weight": null
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "갈등 상황에서 대처방법은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "팀이나 친구들에서 어떤 역할을 주로 하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "어떤 문제가 발생했을 때 접근 방법은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "최근에 해결한 복잡한 문제는 어떤 내용이며 해결방법은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "최근에 배운 새로운 지식이나 기술은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "최근에 읽은 책 제목과 내용은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "앞으로의 목표가 무엇인지 정확하게 그리고 구체적으로 설명할 수 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "입학 후 어떤 방향으로 학교생활을 할 생각입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "앞으로 5년이나 6년 후 어떤 모습일 것 같나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "학교생활에서 팀워크의 중요성을 인지한 경험을 한 적이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "사회의 조직이나 기타 다른 조직에 참여하여 기여한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "실기특기자전형",
+   "unit": "체육교육과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "체육수업에서 공동체의 의미를 경험한 적이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  }
+ ]
+}

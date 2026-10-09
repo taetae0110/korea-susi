@@ -1,0 +1,583 @@
+{
+ "source": {
+  "university": "건양대학교",
+  "year": 2026,
+  "file": "2026_건양대학교"
+ },
+ "interviews": [
+  {
+   "admission": "지역인재전형[면접]",
+   "units": "의학과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "지역인재전형[기초]",
+   "units": "의학과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "농어촌학생전형(의학과)",
+   "units": "의학과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "units": "의학과, 간호학과, 물리치료학과, 치위생학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "채용조건형계약학과전형",
+   "units": "유무인항공학과, 방위산업공학전공",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "발전가능성",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": "[수시] 지역인재전형[면접]",
+   "unit": "의학과",
+   "format": "MMI",
+   "competency": "인성",
+   "passage": "여러분은 보건소 또는 병원에서 무료로 제공되는 예방접종 프로그램을 담당하고 있는 책임 의사로 임명되었습니다. 그러나 일부 환자들이 개인적 신념, 불신 또는 잘못된 정보로 인해 예방접종을 거부하고 있습니다.",
+   "prompts": [
+    "환자가 예방접종을 거부하는 경우, 그들의 입장을 이해하고 예방접종의 중요성을 설득할 때 의사소통에서 가장 중요한 점은 무엇이라고 생각하나요?",
+    "개인의 자유와 공공의 건강이 충돌할 때, 어느 쪽을 우선시해야 한다고 생각합니까? 그 이유는요?",
+    "의학적 지식과 현실(예: 환자의 불신, 문화적 차이 등) 사이의 괴리가 있는 상황에서 어떻게 대처하시겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "[수시] 농어촌전형, 지역인재전형[기초]",
+   "unit": "의학과",
+   "format": "제시문기반",
+   "competency": "전공적합성",
+   "passage": "A, B, C 사람이 각각 같은 양의 주스를 마신 후, 시간에 따른 혈당량과 혈액속 인슐린 농도를 나타낸 것이다.\n[그래프]",
+   "prompts": [
+    "A, B, C의 그래프를 보고 각 환자의 상태를 어떻게 구별할 수 있는지 설명하시오.",
+    "1형 당뇨병과 2형 당뇨병의 차이점에 대해 설명하시오.",
+    "인슐린과 글루카곤 중심으로 혈당의 항상성 조절에 대해 설명하시오.",
+    "2형 당뇨병 환자 중 노인에게 근육 운동을 권유하는 이유를 설명하시오."
+   ],
+   "intent": "주어진 고교수준의 자료에서 생명과학 I 교과가 다루는 ‘항상성조절 (혈당량 조절 )’ 키워드를 바탕으로 제시된 자료의 주제와 요지를 빠르게 파악하고 논리적으로 설명할 수 있는 능력을 평가하고자 함",
+   "sample_answer": "[주질문]\n- A : 제2형 당뇨병, B: 정상인, C: 제1형 당뇨병\n[추가질문1]\n- 1형 당뇨 : 인슐린 분비 문제 (인슐린 의존성), 2형 당뇨 : 인슐린 감수성 문제 (인슐린 비의존성)\n[추가질문2]\n– 인슐린 : 혈당억제, 글루카곤: 혈당증가\n[추가질문3]\n– 근육에서 글루코스 소모",
+   "page": 23
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "의학과",
+   "format": "MMI",
+   "competency": "발전가능성 + 인성",
+   "passage": "건양의대의 학생선발인재상에는 “자기성찰능력”항목이 있다. 아래 질문에 대하여 본인의 경험을 바탕으로 답하시오.",
+   "prompts": [
+    "본인의 경험에서 실수나 한계를 느꼈을 때, 그 이유를 분석하고 개선 방안을 구체적으로 세운 적이 있는가?",
+    "다른 사람으로부터 받은 피드백을 수용하고, 실제 행동 변화로 이어간 경험이 있는가?",
+    "의사에게 자기성찰능력이 필요한 이유를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 34
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "자신의 삶에서 가장 중요하게 생각하는 가치관 또는 인생관을 말하고, 그 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "해외 생활에서 힘들었던 어려움을 극복했던 경험은 무엇이었습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "간호학과 졸업 후 기대하는 진로방향은 무엇입니까? 이를 위해 재학 중 어떤 노력을 할 것인지 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "최근의 사회적 변화를 생각할 때, 현재 간호사의 역할에서 변화되어야 하는 것은 무엇이라고 생각하십니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "지원자 본인의 어떤 면이 간호학과에 적합하다고 생각하는지 그 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "과거에 본인이 세운 목표 중 본인의 노력을 통해 달성한 경험에 대해 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "AI인공지능기술의 발전이 물리치료에 어떤 영향을 줄 수 있는지 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "물리치료사에게 필요한 역량은 무엇이고, 그 이유는 무엇인지 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "재외국민과 외국인특별전형",
+   "unit": "치위생학과",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "치과위생사가 하는 주요 업무에 대해 본인이 알고 있는 바를 구체적으로 설명하고, 그 역할이 왜 중요하다고 생각하는지 말해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 36
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "유무인항공학과 [유아이헬리콥터]",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "맡은 역할을 끝까지 수행하기 위해 본인이 노력했던 사례를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "유무인항공학과 [유아이헬리콥터]",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "대학 입학 후 자신의 어떤 부분을 가장 성장시키고 싶은가요? 장래 희망은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "유무인항공학과 [유아이헬리콥터]",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "유무인항공학과 졸업 후 항공산업분야에서 어떤 역할을 하고 싶으며, 본교에서 수학계획 및 포부는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "방위산업공학전공(네비웍스)",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "국방과학기술 또는 방위산업 분야 무기체계는 생명과 직결되는 분야입니다. 기술 개발 과정에서 윤리적 딜레마가 발생한다면 어떻게 판단하고 행동하시겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "방위산업공학전공(네비웍스)",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "무인화 기술이 인간 병력을 대체하거나 보완하는 방식으로 발전할 경우, 국방 작전의 전략과 윤리에 어떤 변화가 생길 수 있다고 보나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "방위산업공학전공(유텍)",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "공동의 목표를 위해 본인의 의견이나 계획을 양보했던 경험이 있다면 말씀해 주세요. 그 선택이 팀에 어떤 영향을 주었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "방위산업공학전공(유텍)",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "AI가 실시간으로 전장 데이터를 분석해 지휘관에서 전략적 의사결정을 지원하는 시스템이 있다면, 그 기술이 어떤 장점과 위험 요소를 동시에 가질 수 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 37
+  },
+  {
+   "admission": "[수시] 채용조건형계약학과전형",
+   "unit": "방위산업공학전공(한국씨앤오테크)",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "VR/AR/XR 등의 콘텐츠를 활용한 과학화 훈련이 어떠한 장점을 제공할 수 있다고 보나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "자신이 속한 조직이나 공동체를 위해 개인의 이익을 포기했던 경험이 있다면 말씀해주세요. 그 결정은 어떤 영향을 주었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "공동체 목표를 위해 본인의 의견이나 계획을 양보했던 경험이 있다면 말씀해 주세요. 그 선택이 팀에 어떤 영향을 주었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "조직이나 친구들을 위해 본인이 희생하거나 손해를 감수했던 일이 있다면 소개해 주세요. 그 경험을 통해 무엇을 느꼈나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 2차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "국방 기술은 생명과 직결되는 분야입니다. 기술 개발 과정에서 윤리적 딜레마가 발생한다면 어떻게 판단하고 행동하시겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 39
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 2차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "군사 기술 개발 과정에서 정보의 비공개 또는 은폐가 요구되는 상황이 있을 수 있습니다. 이럴 때 본인은 투명성과 보안 사이에서 어떻게 균형을 잡을 수 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 39
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "최근에 본인이 도전했던 일 중 가장 어려웠던 경험은 무엇이며, 그 과정을 통해 무엇을 배웠나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "예상과 달리 결과가 좋지 않았던 경험이 있다면 말씀해 주세요. 그 상황을 어떻게 받아들이고 극복했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "스스로 부족하다고 느꼈던 능력이나 분야를 개선하기 위해 노력했던 경험이 있다면 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 2차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "졸업 후 방위산업 분야에서 어떤 역할을 수행하고 싶으며, 그 목표를 위해 어떤 준비를 하고 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 39
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 2차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "발전가능성",
+   "passage": null,
+   "prompts": [
+    "앞으로 방위산업 분야에서 사회에 어떤 기여를 하고 싶나요? 이를 위해 본인이 갖추어야 할 자질은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 39
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "자율주행 기술이 군사 작전에서 어떻게 활용될 수 있다고 생각하나요? 구체적인 예를들어 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "자율주행 드론이 국방 분야에서 수행할 수 있는 임무에는 어떤 것들이 있다고 생각하나요? 기술적 장점과 한계도 함께 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 1차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "자율주행 기술이 인간 병력을 대체하거나 보완하는 방식으로 발전할 경우, 국방 작전의 전략과 윤리에 어떤 변화가 생길 수 있다고 보나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 38
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 2차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "인공지능 기반 시뮬레이션 기술이 전투 시나리오 분석에 미치는 영향에 대해 본인의 생각을 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 39
+  },
+  {
+   "admission": "[추가모집] 채용조건형계약학과전형 (추가 2차)",
+   "unit": "방위산업공학전공[대아테크]",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "인공지능이 적군의 행동 패턴을 예측하는 시뮬레이션에 활용될 경우, 작전의 효율성과 전략수립에 어떤 변화가 생길 수 있다고 보나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 39
+  }
+ ]
+}

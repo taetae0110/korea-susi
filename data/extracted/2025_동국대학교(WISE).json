@@ -1,0 +1,82 @@
+{
+ "source": {
+  "university": "동국대학교(WISE)",
+  "year": 2025,
+  "file": "2025_동국대학교(WISE)"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과(면접전형)",
+   "units": "전체",
+   "format": "인성",
+   "method": "인성면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "성장 가능성",
+     "weight": null
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": null
+    }
+   ],
+   "page": 8
+  },
+  {
+   "admission": "참사람",
+   "units": "한의예과 의예과 간호학과",
+   "format": "서류기반",
+   "method": "학교생활기록부 서류평가 기반 확인면접",
+   "duration": null,
+   "criteria": [],
+   "page": 8
+  },
+  {
+   "admission": "지역인재(종합)",
+   "units": null,
+   "format": "서류기반",
+   "method": "학교생활기록부 서류평가 기반 확인면접",
+   "duration": null,
+   "criteria": [],
+   "page": 8
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "units": "한의예과 의예과",
+   "format": "서류기반",
+   "method": "학교생활기록부(및 대체서식) 기반 인성면접",
+   "duration": null,
+   "criteria": [],
+   "page": 8
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부교과(면접전형)",
+   "unit": "전체",
+   "format": "인성",
+   "competency": "성장가능성",
+   "passage": null,
+   "prompts": [
+    "본인이 우리대학/학과에 지원한 동기와 입학 후 자신의 미래를 위해 어떤 계획을 세우고 준비를 할 것인지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "학생부교과(면접전형)",
+   "unit": "전체",
+   "format": "인성",
+   "competency": "인성 및 사회성",
+   "passage": null,
+   "prompts": [
+    "최근 생성형 AI가 다양한 분야에 활용되면서 저작권 및 윤리적 이슈에 대한 논의가 진행되고 있다. 이와 관련하여, 생성형 AI 기술의 발전에 따른 저작권 쟁점과 대응 방안에 대한 본인의 견해를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  }
+ ]
+}

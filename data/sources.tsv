@@ -184,3 +184,101 @@ year	file	university	url	title
 2026	2026_한동대학교	한동대학교	https://admissions.handong.edu/ext/bbs/download.dcp?id=15803	한동대학교 2026학년도 선행학습 영향평가 자체평가보고서
 2025	2025_동아대학교	동아대학교	https://ent.donga.ac.kr/upload/BBS0004/20250325111921X3P5FK.PDF	동아대학교 2025학년도 선행학습 영향평가 결과 보고서
 2026	2026_동아대학교	동아대학교	https://ent.donga.ac.kr/upload/BBS0004/20260320091813KFKHJU.PDF	동아대학교 2026학년도 선행학습 영향평가 자체평가 보고서
+2025	2025_가톨릭관동대학교	가톨릭관동대학교	https://ipsi.cku.ac.kr/bbs/iphak/1059/144215/download.do	2025학년도 선행학습 영향평가 자체평가보고서(가톨릭관동대학교)
+2025	2025_가톨릭관동대학교_정시의예과면접	가톨릭관동대학교	https://ipsi.cku.ac.kr/bbs/iphak/1059/143243/download.do	2025학년도 정시모집 의학과(의예과) 영상 업로드 면접 안내
+2025	2025_건양대학교	건양대학교	https://ipsi.konyang.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000207556&fileSn=0	2025학년도 대학별고사 선행학습 영향평가 보고서(건양대학교)
+2025	2025_건양대학교_면접문항	건양대학교	https://ipsi.konyang.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000207399&fileSn=0	2025학년도 건양대학교 면접문항 종합
+2025	2025_경인교육대학교	경인교육대학교	https://ipsi.ginue.ac.kr/ipsi/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsNzMyNzcsWQ==	2025학년도 대학별고사 선행학습 영향평가 자체평가보고서_경인교대
+2025	2025_고신대학교	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000055&mode=fdn&idx=1572&num=1	2025학년도 고신대학교 선행학습 영향평가 자체평가보고서
+2025	2025_공주교육대학교	공주교육대학교	https://www.gjue.ac.kr/attach/5e8fe56d035793d0885d05bb6f201414/9a9db098b587ee18b321c826f3707a49	공주교육대학교 2025학년도 선행학습 영향평가 결과 보고서
+2025	2025_공주교육대학교_정시면접문제	공주교육대학교	https://www.gjue.ac.kr/attach/c5cdc7add9dff45921a34afc6652e504/9a9db098b587ee18b321c826f3707a49	2025학년도 정시모집 면접고사 기출문제 안내 공지 - 2025학년도 정시모집 면접고사 문제
+2025	2025_광주교육대학교	광주교육대학교	https://portal.gnue.ac.kr/jfile/readDownloadFile.do?fileId=195db3df30516&fileSeq=1	2025학년도 광주교육대학교 선행학습 영향평가 자체평가보고서
+2025	2025_광주교육대학교_면접문항	광주교육대학교	https://portal.gnue.ac.kr/jfile/readDownloadFile.do?fileId=1966b4e984394&fileSeq=1	2025학년도 광주교육대학교 수시모집 면접 문항
+2025	2025_대구가톨릭대학교	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000003999&fileSn=0	대구가톨릭대학교 2025학년도 선행학습 영향평가 결과보고서
+2025	2025_대구가톨릭대학교_공통인성	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000003742&fileSn=0	2025학년도 수시모집 공통인성 문제(공지용)
+2025	2025_대구가톨릭대학교_예상_약학지역교과	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000003743&fileSn=0	2025학년도 수시모집 약학부(지역교과전형) 면접고사 예상문제
+2025	2025_대구가톨릭대학교_의예MMI기출	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004135&fileSn=0	대구가톨릭대학교 2025학년도 수시모집 의예과(학생부교과) MMI면접 기출문제
+2025	2025_대구가톨릭대학교_학종SW기출	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004032&fileSn=0	대구가톨릭대학교 2025학년도 학생부종합(SW전형) 면접고사 기출문제
+2025	2025_대구가톨릭대학교_학종종합기출	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004032&fileSn=1	대구가톨릭대학교 2025학년도 학생부종합(종합전형) 면접고사 기출문제
+2025	2025_대구가톨릭대학교_학종지역종합기출	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004032&fileSn=2	대구가톨릭대학교 2025학년도 학생부종합(지역종합전형) 면접고사 기출문제
+2025	2025_대구교육대학교	대구교육대학교	https://admission.dnue.ac.kr/ipsi/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMTg5MTgsWQ==	2025학년도 대구교육대학교 입학전형 선행학습 영향 평가
+2025	2025_대구교육대학교_면접문항	대구교육대학교	https://admission.dnue.ac.kr/ipsi/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMTg5MjMsWQ==	대구교육대학교 2025학년도 대학별고사(정시 면접문항) 자료
+2025	2025_동국대학교(WISE)	동국대학교(WISE)	https://ipsi.dongguk.ac.kr/cmmn/fileDown.do?fileSeq=1821	2025학년도 대학입학전형 선행학습 영향평가 자체평가보고서
+2025	2025_부산교육대학교	부산교육대학교	https://enter.bnue.ac.kr/file/download?fileKey=BBS_18060800025_4374328924	부산교육대학교 2025학년도 선행학습 영향평가 결과 보고서
+2025	2025_부산교육대학교_수시면접문항	부산교육대학교	https://enter.bnue.ac.kr/file/download?fileKey=BBS_18060800030CTG_18071600032_4358928680	2025학년도 신입생 수시모집 면접고사 문제
+2025	2025_부산교육대학교_정시면접문항	부산교육대학교	https://enter.bnue.ac.kr/file/download?fileKey=BBS_18060800030CTG_18071600033_4359028681	2025학년도 신입생 정시모집 면접고사 문제
+2025	2025_서울교육대학교	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=684932020fe1b335559635f30edf322c&bbsId=3073	2025학년도 선행학습 영향평가 결과보고서(서울교대)
+2025	2025_서울교육대학교_수시오전	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=2e99b4f67e12e526e5afc13ee237cc1d&bbsId=3070	2025학년도 수시 입학전형 면접평가 기출문제 - 2025_수시_오전 문제
+2025	2025_서울교육대학교_수시오후	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=f3322be470c02c9f66b54e6762abf49c&bbsId=3070	2025학년도 수시 입학전형 면접평가 기출문제 - 2025_수시_오후 문제
+2025	2025_서울교육대학교_정시오전	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=23f95abaae52d0f6bc00e6140aed943d&bbsId=3070	2025학년도 정시 입학전형 면접평가 기출문제 - 2025_정시_오전 문제
+2025	2025_서울교육대학교_정시오후	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=ee7d5ad8f70b9772552b497ace728bad&bbsId=3070	2025학년도 정시 입학전형 면접평가 기출문제 - 2025_정시_오후 문제
+2025	2025_영남대학교	영남대학교	https://enter.yu.ac.kr/files/enter/content/202608/cdcde90c7cc8809ba6f5f68c2e056b1e.pdf	영남대학교 선행학습 영향평가 자체평가보고서 (2025학년도)
+2025	2025_울산대학교	울산대학교	https://iphak.ulsan.ac.kr/board/download.do?no=507	2025학년도 선행학습 영향평가 자체평가보고서
+2025	2025_원광대학교	원광대학교	https://ipsi.wku.ac.kr/file/download.do?sfn=20250328110726358_2025%ed%95%99%eb%85%84%eb%8f%84+%ec%9b%90%ea%b4%91%eb%8c%80%ed%95%99%ea%b5%90+%ec%84%a0%ed%96%89%ed%95%99%ec%8a%b5+%ec%98%81%ed%96%a5%ed%8f%89%ea%b0%80+%ec%9e%90%ec%b2%b4%ed%8f%89%ea%b0%80+%eb%b3%b4%ea%b3%a0%ec%84%9c.pdf&ofn=2025%ed%95%99%eb%85%84%eb%8f%84+%ec%9b%90%ea%b4%91%eb%8c%80%ed%95%99%ea%b5%90+%ec%84%a0%ed%96%89%ed%95%99%ec%8a%b5+%ec%98%81%ed%96%a5%ed%8f%89%ea%b0%80+%ec%9e%90%ec%b2%b4%ed%8f%89%ea%b0%80+%eb%b3%b4%ea%b3%a0%ec%84%9c.pdf	2025학년도 원광대학교 선행학습 영향평가 자체평가 보고서
+2025	2025_인제대학교	인제대학교	https://iphak.inje.ac.kr/board/view.asp?m=6&m2=1&part=6&idx=1703	2025학년도 인제대학교 선행학습 영향평가 자체평가 보고서
+2025	2025_조선대학교	조선대학교	https://i.chosun.ac.kr/main/menu?gc=1042YGJI&do=view&bwrite_id=VU1kbZqMElJF	2025학년도 조선대학교 선행학습 영향평가 자체평가보고서
+2025	2025_조선대학교_면접기출	조선대학교	https://i.chosun.ac.kr/main/menu?gc=1043CYPP&do=view&bwrite_id=VU1kbcSmcr7i	2025학년도 조선대학교 수시모집 학생부종합전형 모집단위별 면접평가 기출문제
+2025	2025_진주교육대학교	진주교육대학교	https://www.cue.ac.kr/enter/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMzcyMDQsWQ==	2025학년도 진주교육대학교 선행교육 영향평가 자체평가 보고서
+2025	2025_진주교육대학교_정시면접문항	진주교육대학교	https://www.cue.ac.kr/enter/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMzcyMDMsWQ==	2025학년도 정시모집 면접고사 기출문제
+2025	2025_포항공과대학교	포항공과대학교	https://adm-u.postech.ac.kr/wp-content/uploads/2025/03/POSTECH-2025학년도-선행학습영향평가-결과보고서.pdf	2025학년도 POSTECH 대학입학전형 선행학습 영향평가 결과보고서
+2025	2025_한국과학기술원_면접물리학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2040/download/0	[2025학년도] 수시 입학전형 면접 기출문제(물리학)
+2025	2025_한국과학기술원_면접생명과학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2042/download/0	[2025학년도] 수시 입학전형 면접 기출문제(생명과학)
+2025	2025_한국과학기술원_면접수학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2039/download/0	[2025학년도] 수시 입학전형 면접 기출문제(수학)
+2025	2025_한국과학기술원_면접영어	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2043/download/0	[2025학년도] 수시 입학전형 면접 기출문제(영어-일반전형, 고른기회전형만 해당)
+2025	2025_한국과학기술원_면접적합성	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2044/download/0	[2025학년도] 수시 입학전형 면접 기출문제(적합성)
+2025	2025_한국과학기술원_면접화학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2041/download/0	[2025학년도] 수시 입학전형 면접 기출문제(화학)
+2026	2026_가톨릭관동대학교	가톨릭관동대학교	https://ipsi.cku.ac.kr/bbs/iphak/1059/150067/download.do	2026학년도 선행학습 영향평가 자체평가보고서(가톨릭관동대학교)
+2026	2026_건양대학교	건양대학교	https://ipsi.konyang.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000220939&fileSn=0	2026학년도 대학별고사 선행학습 영향평가 보고서(건양대학교)
+2026	2026_건양대학교_면접문항	건양대학교	https://ipsi.konyang.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000220762&fileSn=0	2026학년도 건양대학교 면접문항 종합
+2026	2026_경인교육대학교	경인교육대학교	https://ipsi.ginue.ac.kr/ipsi/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsNzY3NjQsWQ==	2026학년도 경인교육대학교 대학별고사 선행학습 영향평가 자체평가보고서
+2026	2026_고신대학교	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000055&mode=fdn&idx=2694&num=1	2026학년도 고신대학교 선행학습 영향평가 자체평가보고서
+2026	2026_고신대학교_면접공개문항_간호학과	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000025&mode=fdn&idx=2183&num=1	[간호학과] 2026학년도 수시모집 학생부종합 자기추천전형 면접 공개 문항
+2026	2026_고신대학교_면접공개문항_기독교교육과	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000025&mode=fdn&idx=2151&num=5	[기독교교육과]_2026학년도_수시모집_학생부종합_자기추천전형_면접_공개_문항
+2026	2026_고신대학교_면접공개문항_미디어영상마케팅학과	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000025&mode=fdn&idx=2151&num=3	[미디어영상마케팅학과]_2026학년도_수시모집_학생부종합_자기추천전형_면접_공개_문항
+2026	2026_고신대학교_면접공개문항_신학과	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000025&mode=fdn&idx=2151&num=4	[신학과]_2026학년도_수시모집_학생부종합_자기추천전형_면접_공개_문항
+2026	2026_고신대학교_면접공개문항_유아교육과	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000025&mode=fdn&idx=2151&num=2	[유아교육과]_2026학년도_수시모집_학생부종합_자기추천전형_면접_공개_문항
+2026	2026_고신대학교_면접공개문항_응급구조학과	고신대학교	https://www.kosin.ac.kr/dream/index.php?pCode=MN7000025&mode=fdn&idx=2151&num=1	[응급구조학과]_2026학년도_수시모집_학생부종합_자기추천전형_면접_공개_문항
+2026	2026_공주교육대학교	공주교육대학교	https://www.gjue.ac.kr/attach/ab9260a6f71996acd822aa10489cd113/9a9db098b587ee18b321c826f3707a49	공주교육대학교 2026학년도 대학별고사 선행학습 영향평가 결과보고서
+2026	2026_광주교육대학교	광주교육대학교	https://portal.gnue.ac.kr/jfile/readDownloadFile.do?fileId=19d2e160b7c39&fileSeq=1	2026학년도 광주교육대학교 선행학습 영향평가 자체평가보고서
+2026	2026_광주교육대학교_면접문항	광주교육대학교	https://portal.gnue.ac.kr/jfile/readDownloadFile.do?fileId=19abd70a33720&fileSeq=1	2026학년도 광주교육대학교 수시 비대면 면접고사 문항 공개
+2026	2026_대구가톨릭대학교	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004271&fileSn=0	2026학년도 대구가톨릭대학교 선행학습 영향평가 자체평가보고서
+2026	2026_대구가톨릭대학교_공통인성	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004096&fileSn=0	2026학년도 수시모집 공통인성 문제(공지용)
+2026	2026_대구가톨릭대학교_예상_가톨릭지도자추천	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004090&fileSn=1	2026학년도 수시모집 면접고사 예상문제(가톨릭지도자추천전형)_공개용
+2026	2026_대구가톨릭대학교_예상_실기특기자	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004090&fileSn=2	2026학년도 수시모집 면접고사 예상문제(실기특기자전형)_공개용
+2026	2026_대구가톨릭대학교_예상_지역교과	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004090&fileSn=0	2026학년도 수시모집 면접고사 예상문제(지역교과전형)_공개용
+2026	2026_대구가톨릭대학교_학종종합기출	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004347&fileSn=0	2026학년도 학생부종합(종합전형) 면접고사 기출문제
+2026	2026_대구가톨릭대학교_학종지역종합기출	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004347&fileSn=1	2026학년도 학생부종합(지역종합전형) 면접고사 기출문제
+2026	2026_대구교육대학교	대구교육대학교	https://admission.dnue.ac.kr/ipsi/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMjE4MjYsWQ==	2026학년도 대구교육대학교 입학전형 선행학습 영향 평가
+2026	2026_대구교육대학교_면접문항	대구교육대학교	https://admission.dnue.ac.kr/ipsi/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMjE4NjIsWQ==	2026학년도 대구교육대학교 정시모집 면접 문항
+2026	2026_대구대학교	대구대학교	https://ipsi.daegu.ac.kr/attach/07aadb31d7bca281d1825e20f6c6fb33/13055e35ba7465cb478c5b4be490c5a8	2026학년도 대구대학교 입학전형 선행학습 영향평가 결과보고서
+2026	2026_동국대학교(WISE)	동국대학교(WISE)	https://ipsi.dongguk.ac.kr/cmmn/fileDown.do?fileSeq=2381	[동국대학교(WISE)] 2026학년도 대학별고사 선행학습 영향평가 자체평가보고서
+2026	2026_부산교육대학교	부산교육대학교	https://enter.bnue.ac.kr/file/download?fileKey=20260330103349-4bc5d6da08c541ac8dae5289b5daa71f	2026학년도 대학별고사 선행학습 영향평가 자체평가보고서(부산교육대학교)
+2026	2026_부산교육대학교_수시면접문항	부산교육대학교	https://enter.bnue.ac.kr/file/download?fileKey=20260330103906-9609c39844a44a9a912e2c746eca69d4	2026학년도 신입생 수시모집 면접고사 문제
+2026	2026_부산교육대학교_정시면접문항	부산교육대학교	https://enter.bnue.ac.kr/file/download?fileKey=20260330104017-cb02c21f74024b459bc84b4a39f0edd4	2026학년도 신입생 정시모집 면접고사 문제
+2026	2026_서울교육대학교	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=8de06fd376032efc2743f0b59ddb6d80&bbsId=3073	서울교육대학교_2026학년도 선행학습 영향평가 결과보고서
+2026	2026_서울교육대학교_수시오전_학생부종합	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=01ab0bbec83f7ef29ce5736c1d0e09b6&bbsId=3070	2026학년도 수시 입학전형 면접평가 기출문제 - 2026_수시_오전 문제_학생부종합
+2026	2026_서울교육대학교_수시오후_학생부교과	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=3f8e8a1fe2be9c6e169fc93ca902635b&bbsId=3070	2026학년도 수시 입학전형 면접평가 기출문제 - 2026_수시_오후 문제_학생부교과
+2026	2026_서울교육대학교_수시오후_학생부종합	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=0574e2f8e38945b6aaa4b2f90f1a35da&bbsId=3070	2026학년도 수시 입학전형 면접평가 기출문제 - 2026_수시_오후_문제_학생부종합
+2026	2026_서울교육대학교_정시오전	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=6f405d9fcca231e6719362e5742c4996&bbsId=3070	2026학년도 정시 입학전형 면접평가 기출문제 - 2026_정시_오전 문제
+2026	2026_서울교육대학교_정시오후	서울교육대학교	https://admission.snue.ac.kr/common/nttFileDownload.do?fileKey=b605fef1f6cfb24c44def573a57ddc18&bbsId=3070	2026학년도 정시 입학전형 면접평가 기출문제 - 2026_정시_오후 문제
+2026	2026_영남대학교	영남대학교	https://enter.yu.ac.kr/files/enter/content/202608/93fd49c4a4178202e634fb2896676b46.pdf	2026학년도 영남대학교 선행학습 영향평가 자체평가보고서
+2026	2026_울산대학교	울산대학교	https://iphak.ulsan.ac.kr/board/download.do?no=673	2026학년도 울산대학교 선행학습 영향평가 자체평가보고서
+2026	2026_원광대학교	원광대학교	https://ipsi.wku.ac.kr/file/download.do?sfn=20260331090522395_2026%ed%95%99%eb%85%84%eb%8f%84+%ec%9b%90%ea%b4%91%eb%8c%80%ed%95%99%ea%b5%90+%ec%84%a0%ed%96%89%ed%95%99%ec%8a%b5+%ec%98%81%ed%96%a5%ed%8f%89%ea%b0%80+%ec%9e%90%ec%b2%b4%ed%8f%89%ea%b0%80+%eb%b3%b4%ea%b3%a0%ec%84%9c.pdf&ofn=2026%ed%95%99%eb%85%84%eb%8f%84+%ec%9b%90%ea%b4%91%eb%8c%80%ed%95%99%ea%b5%90+%ec%84%a0%ed%96%89%ed%95%99%ec%8a%b5+%ec%98%81%ed%96%a5%ed%8f%89%ea%b0%80+%ec%9e%90%ec%b2%b4%ed%8f%89%ea%b0%80+%eb%b3%b4%ea%b3%a0%ec%84%9c.pdf	2026학년도 원광대학교 선행학습 영향평가 자체평가 보고서
+2026	2026_인제대학교	인제대학교	https://iphak.inje.ac.kr/board/view.asp?m=6&m2=1&part=6&idx=2763	2026학년도 인제대학교 선행학습 영향평가 자체평가 보고서
+2026	2026_전주교육대학교	전주교육대학교	https://portal.jnue.kr/ext/html5fileupload/fileDownload.do?fileId=19d430301aa32&fileSeq=1&fileStoreDir=bbs	2026학년도 선행학습 영향평가 자체평가보고서
+2026	2026_조선대학교	조선대학교	https://i.chosun.ac.kr/main/menu?gc=1042YGJI&do=view&bwrite_id=VU1kba5IRZ6x	2026학년도 조선대학교 선행학습 영향평가 자체평가보고서
+2026	2026_조선대학교_면접기출	조선대학교	https://i.chosun.ac.kr/main/menu?gc=1043CYPP&do=view&bwrite_id=VU1kbf7DPjeA	2026학년도 학생부종합전형 모집단위별 면접평가 기출문제
+2026	2026_진주교육대학교	진주교육대학교	https://www.cue.ac.kr/enter/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsMzk4OTQsWQ==	2026학년도 진주교육대학교 선행학습 영향평가 자체평가보고서
+2026	2026_청주교육대학교	청주교육대학교	https://www.cje.ac.kr/attach/cms/board/2026/03/BB9F40E5E1E74801947C31676DD6E7A4.pdf	2026학년도 선행학습 영향평가 결과보고서
+2026	2026_포항공과대학교	포항공과대학교	https://adm-u.postech.ac.kr/wp-content/uploads/2026/03/POSTECH-2026학년도-선행학습영향평가-결과보고서_260330.pdf	2026학년도 POSTECH 대학입학전형 선행학습 영향평가 결과보고서
+2026	2026_한국과학기술원_면접물리학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2207/download/0	[2026학년도] 수시 입학전형 면접 기출문제(물리학)
+2026	2026_한국과학기술원_면접생명과학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2209/download/0	[2026학년도] 수시 입학전형 면접 기출문제(생명과학)
+2026	2026_한국과학기술원_면접수학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2206/download/0	[2026학년도] 수시 입학전형 면접 기출문제(수학)
+2026	2026_한국과학기술원_면접영어	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2210/download/0	[2026학년도] 수시 입학전형 면접 기출문제(영어)
+2026	2026_한국과학기술원_면접적합성	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2211/download/0	[2026학년도] 수시 입학전형 면접 기출문제(적합성)
+2026	2026_한국과학기술원_면접화학	한국과학기술원	https://admission.kaist.ac.kr/wz/api/board/46/2208/download/0	[2026학년도] 수시 입학전형 면접 기출문제(화학)
+2027	2027_광주교육대학교_면접문항	광주교육대학교	https://portal.gnue.ac.kr/jfile/readDownloadFile.do?fileId=1a0eaaa8e1525&fileSeq=1	2027학년도 광주교육대학교 수시 비대면 면접고사 문항 공개
+2027	2027_대구가톨릭대학교_공통인성	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004390&fileSn=0	2027학년도 수시모집 공통인성 문제
+2027	2027_대구가톨릭대학교_예상_가톨릭지도자추천	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004383&fileSn=1	2027학년도 수시모집 면접고사 예상문제(가톨릭지도자추천전형)_공개용
+2027	2027_대구가톨릭대학교_예상_실기특기자	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004383&fileSn=2	2027학년도 수시모집 면접고사 예상문제(실기특기자전형)_공개용
+2027	2027_대구가톨릭대학교_예상_지역교과	대구가톨릭대학교	https://ibsi.cu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000004383&fileSn=0	2027학년도 수시모집 면접고사 예상문제(지역교과전형)_공개용

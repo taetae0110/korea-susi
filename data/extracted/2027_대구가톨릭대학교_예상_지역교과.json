@@ -1,0 +1,167 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2027,
+  "file": "2027_대구가톨릭대학교_예상_지역교과"
+ },
+ "interviews": [
+  {
+   "admission": "지역교과전형",
+   "units": "약학부",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "창의성 사고력",
+     "weight": null
+    },
+    {
+     "name": "미래지향성",
+     "weight": null
+    },
+    {
+     "name": "공동체성",
+     "weight": null
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "약사는 사람의 건강과 생명에 영향을 미치는 직업입니다. 약사에게 가장 필요한 도덕적 자질은 무엇이라고 생각하며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "자신의 생각이나 행동이 잘못되었다는 것을 알게 되었을 때 이를 인정하고 수정했던 경험이 있다면 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "환자가 여러 병원에서 처방받은 약을 동시에 복용하고 있습니다. 이 경우 발생할 수 있는 문제와 약사가 확인해야 할 사항을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "신약 개발에는 약학뿐 아니라 생명과학, 화학, 공학, 인공지능 등 여러 학문이 활용되고 있습니다. 본인이 관심 있는 분야와 약학을 어떻게 연결하고 싶습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "같은 증상을 가진 두 사람이 같은 약을 복용했는데 한 사람에게만 부작용이 나타났습니다. 이러한 차이가 발생할 수 있는 이유를 어떻게 생각해볼 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "인공지능이 발전하면서 약사의 업무 중 일부를 대신할 수 있다는 전망이 있습니다. 앞으로도 사람이 수행하는 약사의 역할이 필요한 이유는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "기후변화와 환경 문제가 인간의 건강과 의약품 사용에도 영향을 줄 수 있습니다. 미래의 약사는 이러한 문제에 어떻게 기여할 수 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "대학에서 배운 지식이 졸업 후에는 빠르게 오래된 지식이 될 수도 있습니다. 약사가 지속적으로 전문성을 유지하기 위해서는 어떤 자세가 필요하다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 본인의 의견과 다수의 의견이 다를 때 어떻게 행동하는 편입니까? 실제 경험이나 예상되는 행동을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "지역사회에는 경제적·지역적 이유로 의료서비스나 의약품 이용이 어려운 사람들이 있을 수 있습니다. 약사는 이러한 문제 해결에 어떤 역할을 할 수 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  }
+ ]
+}

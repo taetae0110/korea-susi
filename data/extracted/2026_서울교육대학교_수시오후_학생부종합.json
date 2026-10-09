@@ -1,0 +1,23 @@
+{
+ "source": {
+  "university": "서울교육대학교",
+  "year": 2026,
+  "file": "2026_서울교육대학교_수시오후_학생부종합"
+ },
+ "interviews": [],
+ "questions": [
+  {
+   "admission": "학생부종합(기회균형 특별 전형 Ⅰ), 학생부종합(기회균형 특별 전형 Ⅱ)",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": "교직 적‧인성",
+   "passage": "‘생산적 실패(Productive Failure)’는 시행착오를 겪거나 실패하는 경험을 통해 자신의 한계를 깨닫고, 이를 발전의 동력으로 삼을 수 있음을 뜻한다. 그러나 실패의 경험은 때로는 좌절감이나 학습 의욕 저하로 이어질 수 있다는 우려도 있다. 다음은 학습과 성과를 두 축으로 하여 생산적 실패를 나타내기 위한 그림이다. [그림] <그림 출처: Kapur (2016). Productive Failure: Unlocking Deeper Learning Through the Science of Failing>",
+   "prompts": [
+    "위 그림의 A~C 중 ①‘생산적 실패’에 해당하는 영역을 선택하고 그 이유를 설명하시오. 학생이 경험하는 실패가 좌절이 아닌 배움의 기회가 되도록 하기 위해 ②교사로서 실천할 수 있는 교육적 방안을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

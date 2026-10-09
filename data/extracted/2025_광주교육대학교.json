@@ -1,0 +1,553 @@
+{
+ "source": {
+  "university": "광주교육대학교",
+  "year": 2025,
+  "file": "2025_광주교육대학교"
+ },
+ "interviews": [
+  {
+   "admission": "수시모집 학생부종합전형",
+   "units": "인문계열 초등교육과",
+   "format": "서류기반",
+   "method": "면접·구술고사",
+   "duration": "개별 학교생활기록부 질문 10분 이내",
+   "criteria": [
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "교직적합성",
+     "weight": null
+    },
+    {
+     "name": "교직인성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-기술가정) 유니버설 디자인의 의미에 대해 설명하고, 초등학교 발명 교육에 이를 어떻게 적용할 수 있을지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-화법과 작문)'3분 스피치' 활동에서 'V2X' 기술에 대해 발표해 보았는데, V2X기술이란? 어디에 활용할 수 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-논술) 3학년 논술 과목에서 '핀란드 교육혁명'을 읽고 비평 활동을 했습니다. 지원자가 진행했던 주요 활동과 그를 통해 느낀 교육적 시사점을 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-영어독해와 작문) 의사소통적 특성을 보인 직업 분야에서는 인공지능이 일자리를 대체할 수 없다는 주장을 했는데, 최근의 빠른 인공지능 기술의 발전 상황에서 지원자의 생각은 어떠한지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-수학) 명제를 방정식으로 표현하는 방법에 대해 알아보고자 하는 노력을 했다고 기술되어있습니다. 자신의 목표에 대해 수립한 명제가 무엇이며, 그 명제를 어떻게 방정식으로 표현할 수 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-영어독해와 작문) 에세이 주제로 '우리나라 교육의 문제점'을 선택하고, 탑다운 방식의 교육이 학생들의 창의성 발달에 미치는 부정적인 영향을 논리적으로 설명하였다는데, 이에 대해 구체적 예시를 들어 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-통합사회) 지구적 차원의 환경문제에 관심을 갖고 ‘지구온난화’를 주제로 문제의 원인과 대안을 고민하는 사회문제 탐구 보고서를 작성하였는데, 지원자가 분석한 문제 원인과 제시한 대안을 차례대로 얘기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-생활과 윤리) 환경문제에 대한 윤리적 쟁점 탐구에서 플로깅과 같은 환경보호 운동에 적극적으로 동참하겠다는 의지를 표현하였다고 기술되어있는데, 그 의지를 실천한 경험이 있는지에 대해 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-독서와 문법) 3학년 독서와 문법 시간에 '물의 자연사'를 읽고 발표한 경험이 있습니다. 그 책을 고른 이유와 발표의 주요 내용을 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-세계사) 신문 제작 활동에서 '산업혁명의 이면'이라는 사설을 작성하여 아동노동 문제의 현실과 해결방안을 논리적으로 서술하였다고 기술되어있는데, 지원자가 분석한 아동노동 문제 및 해결방안은 무엇이었는지 얘기해보세요. [참고: 2학년 정치와 법. 아동 인권에 관심을 가지고 국제기의 활동을 조사함. 비정부기구를 통한 정기적 후원 등의 방안을 제시함]"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-통합사회) 사회적 약자에 대한 차별과 인권 침해 문제의 양상 및 해결방안에 대한 논리적인 글을 씀으로써 인권 감수성을 키웠다고 기술되어있는데, 지원자가 제시한 인권 침해의 양상과 해결방안은 무엇이었는지 얘기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-확률과 통계) 통계자료를 활용하여 '대한민국 사교육비 지출에 따른 교육 불평등 해석'을 주제로 보고서를 작성하였는데, 주요 내용을 설명하고 교육 불평등 해소 방안에 대한 본인의 생각을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-문학) 김종익의 '잡초', 김남조의 '생명', 한정숙의 '잡초' 세 편에 대한 분석과 감상을 담은 보고서를 제출하였다고 기술되어있는데, 이 세 편의 시가 보여주는 공통점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-생활과 윤리) 다문화 이해교육과 관련한 정책의 보완점을 분석해보며 실질적인 해결방안을 모색하였다고 기술되어있는데, 지원자가 파악한 한국 다문화 이해 교육의 문제점과 해결방안을 차례로 얘기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-생명과학) 우리나라는 안락사가 허용되지 않고 있지만, 네덜란드는 안락사가 허용되고 있는데 사회적인 측면에서 긍정적 또는 부정적 특징을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-화법과 작문) 루소의 생애 및 교육관에 대해 발표했습니다. 루소의 '에밀'에서 기억에 남는 내용과 교육적 시사점에 대해 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-사회문화) ‘클라우드 슈밥의 4차 산업혁명’을 읽었다고 했는데 핵심적인 내용을 소개하고, 미래 교육에 어떠한 시사점을 가지는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-사회문제 탐구) 학년제를 폐지하고 인공지능으로 개인의 학업능력 분석 후 맞춤 교육을 실시하면 교사의 업무 부담을 줄이고 교육이라는 본연의 역할 수행에 충실할 수 있다고 주장한 것으로 기술되어있는데, 이를 초등교육의 관점에서 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-생활과 윤리) 사교육비 증가와 교육 불평등 문제를 에듀테크로 해결할 수 있다고 하였는데, 그 방안을 구체적으로 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-영어독해와 작문) '교사의 격려 언어가 학생들의 학교생활에 미치는 영향'에 대한 글을 찾아 탐독해 보았는데, 인상깊은 부분은 무엇이었나요? 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-동아리) ‘교실속딜레마상황100문101답’을 읽고 보고서를 작성한 바 있네요. 교실 속 딜레마 상황 중에서 가장 기억에 남는 딜레마 상황은 무엇이었는지 설명해 보세요. 또 어떻게 그 딜레마 상황을 극복했는지도 설명해 주시기 바랍니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-세특) 2학년 때 <교사제> 참가의 경험이 있는데, 어떠한 행사였고, 구성원과의 소통하고 협의한 경험을 소개해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-행특) \"학급 내 의사소통 과정에서 이견이 있을 때 친구들의 의견을 잘 조율\"했다고 나오는데, 비결은? 향후 교사가 되어 학생들 간의 불협화음이 생겨 이를 조정해야 할 때 어떻게 하면 좋을지 자신의 경험을 바탕으로 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-동아리) '멘토스' 동아리 활동에서 교실 안 다문화 학생 따돌림 문제를 해결하기 위한 교육 프로그램들을 연구하였는데 그 내용은 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-영어) 롤모델 프리젠테이션 활동에서 스폰지밥을 자신의 롤모델로 정한 이유는 무엇이며, 그것이 초등교사에게 어떤 시사점을 줄 수 있다고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-진로) 지원자가 작성한 대한민국아동청소년 삶의 만족도에 대한 보고서에서, 아동청소년 삶의 만족도를 높이기 위해 교사 역할의 중요성을 언급했습니다. 이에 대해 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-진로) \"AI가 바꾸는 학교 수업 챗GPT 교육 활용\"을 읽은 것으로 확인됩니다. 미래교실에서 AI는 어떻게 사용되고 자리매김할 수 있는지 생각해 본적이 있나요? 있다면 자신이 그리는 미래 교실의 AI의 활용방안에 대해서 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-진로) '다문화학생을 위한 교육방법'을 주제로 탐구계획서를 작성하였다고 기술되어있는데, 다문화학생을 지도하기 위해 초등교사가 갖추어야 할 역량을 교직 인성의 관점에서 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-교육학) 교사로서 가져야 할 교육 리더십에 관해 알아보았는데, 지원자는 교사는 어떤 리더십을 가져야 된다고 생각하나요? 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-자율) 생태환경교육 프로젝트' 팀장을 담당했는데, 주 역할은? 리더십을 보여 줄 수 있었던 사례가 있다면 얘기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "1학년 때 의학에 관심이 있었던 것 같은데, 교사로서의 꿈을 갖게 된 계기는 무엇이고 본인이 생각하는 훌륭한 교사란 어떤 교사인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-생활과 윤리) 'AI로 변화된 사회 모습과 그 안에서 우리가 해야 하는 일'을 주제로 신문스크랩 활동을 해보았는데, 미래 초등교육은 어떻게 변화할까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-독서) '선생님도 아프다(양곤성)'를 읽고 독후감을 작성해 보았는데, 가장 인상깊은 부분이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-동아리) 학생인권조례 폐지 찬반론을 조사하고 절충안을 모색했는데, 그 내용을 간단히 설명해 보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-출결) 미인정 지각이 2회 있네요. 원격수업 중에 발생한 것인가요? 지원자의 성실성을 보여주는 사례를 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-봉사) 학생주도 프로젝트형 봉사활동에서 지원자가 했던 구체적인 활동 내용을 이야기해주세요. 활동을 통해 지원자가 배우고 느낀 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-문학) '방과 후(히가시노 게이고)'를 읽고 교사로서 지녀야 할 올바른 행동 양식에 대해 고민을 해봤는데, 교사의 올바른 행동 양식이 무엇일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율, 동아리) 윤리적 문제에 관련한 탐구활동이 많습니다. 교사의 직업윤리는 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-자율) '지혜롭게 갈등 해결하기'에서 갈등 해결을 위한 7단계 프로세스에 대해 알아보았는데, 본인만의 갈등을 해소하기 위한 가장 좋은 방법이 있다면 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-행특) '민주적 학급 살이'를 읽고 학급자치회를 직접 구성했는데, 자치회를 구성하는데 어떤 부분을 고려하였나요? 책의 내용을 근거로 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  }
+ ]
+}

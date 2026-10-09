@@ -1,0 +1,259 @@
+{
+ "source": {
+  "university": "전주교육대학교",
+  "year": 2026,
+  "file": "2026_전주교육대학교"
+ },
+ "interviews": [
+  {
+   "admission": "수시모집",
+   "units": "인문계열 초등교육과",
+   "format": "서류기반",
+   "method": "대면면접",
+   "duration": "8분이내",
+   "criteria": [
+    {
+     "name": "교직적성",
+     "weight": null
+    },
+    {
+     "name": "교직인성",
+     "weight": null
+    },
+    {
+     "name": "의사소통력",
+     "weight": null
+    }
+   ],
+   "page": 8
+  },
+  {
+   "admission": "정시모집",
+   "units": "인문계열 초등교육과",
+   "format": "인성",
+   "method": "대면 면접",
+   "duration": "5분이내",
+   "criteria": [
+    {
+     "name": "교직적성",
+     "weight": null
+    },
+    {
+     "name": "교직인성",
+     "weight": null
+    }
+   ],
+   "page": 8
+  }
+ ],
+ "questions": [
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미래 사회를 대비하여 초등교사가 교육에 임하는 바람직한 자세로 요구되는 것은 무엇일까요? 구체적으로 준비하고 갖추어야 할 능력으로 무엇이 중요할까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활 중, 본인이 주도적인 역할을 담당했던 일이 있다면 무엇인지 간단히 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급 회장을 수행한 경험이 초등교사가 되는 길에 어떤 도움이 되었는지 말해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "초등교육학과에 지원하기 위하여 가장 중점을 두고 한 학교생활과 프로젝트는 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "초등교사가 되기 위해 어떠한 노력들을 해 왔으며, AI시대에 교사의 역할이 어떠해야 하는지 말씀해주시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "초등교사가 되고자 노력해 온 활동들을 말하고, 좋은 교사가 되는 능력과 자질을 갖추기 위해, 꾸준히 노력해야 야 할 점이 무엇이라고 생각하나요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "멘토-멘티 활동을 하면서 가장 보람찬 일과 가장 힘들었던 일은 무엇이고, 그 문제를 어떻게 풀었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미래 사회를 대비하여 초등교사가 교육에 임하는 바람직한 자세로 요구되는 것은 무엇일까요? 구체적으로 준비하고 갖추어야 할 능력은 무엇이 필요할까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "새로운 일을 시도해 본 경험이 있다면, 그 결과와 배운 점을 말해보세요. 실패를 경험했을 때, 어떻게 극복했는지 구체적으로 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 인식 개선 교육에 관한 창체 활동을 하였는데, 그 경험이 교사로서 학생을 이해하거나 지도하는 데 어떤 도움이 될 것이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "핀란드 교육과 한국 교육을 비교하면서, 교사로서 어떤 점을 본받고 어떤 점을 개선해야 한다고 느꼈나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 초등교사가 되고자 어떠한 활동들을 노력해 왔으며, 향후 초등교사로서 갖추어야 할 자질과 역량이 어떠해야 하는지 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "초등교사에게 가장 중요한 역량은 무엇인가요? 그렇게 생각하는 이유와 그 역량을 키우기 위한 자신만의 방법을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활에서 친구와 의견 차이로 갈등을 겪었던 경험을 소개하고, 친구와의 관계를 회복하기 위해 어떤 노력을 했는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "정시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교사가 되고 싶다고 생각하게 된 계기는 무엇인가요? 또, 교사가 되기 위해 지금까지 어떤 노력을 해왔는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "정시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생들 사이에 서로 다른 의견이 있을 때, 학생들이 공정하고 올바른 결정을 내릴 수 있도록 교사는 어떤 역할을 해야 한다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  }
+ ]
+}

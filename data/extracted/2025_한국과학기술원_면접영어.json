@@ -1,0 +1,59 @@
+{
+ "source": {
+  "university": "한국과학기술원",
+  "year": 2025,
+  "file": "2025_한국과학기술원_면접영어"
+ },
+ "interviews": [
+  {
+   "admission": "일반전형, 고른기회전형",
+   "units": "영어",
+   "format": "제시문기반",
+   "method": null,
+   "duration": "5분",
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "일반전형, 고른기회전형",
+   "unit": "영어",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "Early Human Species Homo habilis and Homo erectus are two early human species that mark important stages in human evolution. Both species played crucial roles in the development of the genus* Homo. Despite their evolutionary closeness, these species have differences in their physical structure and technological innovations. The physical differences between Homo habilis and Homo erectus are significant. Homo habilis had a relatively small brain, ranging from 500 to 800, and its body structure was still somewhat primitive. Homo habilis had longer arms and shorter legs, suggesting that it was likely more adapted to climbing and forest environments, though it could also walk upright** . Homo erectus, on the other hand, exhibited a more modern body structure. Its brain size was significantly larger, ranging from 600 to 1100. Homo erectus also had a taller body, with longer legs and shorter arms, which allowed for more efficient upright walking and running, suggesting Homo erectus was better adapted to environments on the ground. One of the defining characteristics of Homo habilis is its association with early stone tools, particularly the Oldowan tool industry. [Q1]These were simple, typically consisting of large stones that were chipped to create sharp edges for cutting and processing dead animals. Homo habilis’s ability to craft and use tools is considered a major achievement in human evolution, marking the beginning of technology-assisted survival. [Q3] missing part\nIn conclusion, Homo habilis and Homo erectus represent two important stages in early human evolution, with each species contributing to the development of human-like characteristics. The evolutionary progression from Homo habilis to Homo erectus reflects a noticeable leap in both physical and mental development, allowing for the emergence of later human species, including Homo sapiens.\n*genus (noun): A specific class of things with common characteristics.\n**upright (adjective): Standing on two legs with the back straight.",
+   "prompts": [
+    "What does the highlighted word “These” refer to in the text? [1point]"
+   ],
+   "intent": "서류전형을 통과한 지원자를 대상으로 기본적인 학업능력과 영어 활용 능력이 충분한지를 평가한다.",
+   "sample_answer": "“These” refer to tools, Oldowan tools, the Oldowan tool industry",
+   "page": 2
+  },
+  {
+   "admission": "일반전형, 고른기회전형",
+   "unit": "영어",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "Early Human Species Homo habilis and Homo erectus are two early human species that mark important stages in human evolution. Both species played crucial roles in the development of the genus* Homo. Despite their evolutionary closeness, these species have differences in their physical structure and technological innovations. The physical differences between Homo habilis and Homo erectus are significant. Homo habilis had a relatively small brain, ranging from 500 to 800, and its body structure was still somewhat primitive. Homo habilis had longer arms and shorter legs, suggesting that it was likely more adapted to climbing and forest environments, though it could also walk upright** . Homo erectus, on the other hand, exhibited a more modern body structure. Its brain size was significantly larger, ranging from 600 to 1100. Homo erectus also had a taller body, with longer legs and shorter arms, which allowed for more efficient upright walking and running, suggesting Homo erectus was better adapted to environments on the ground. One of the defining characteristics of Homo habilis is its association with early stone tools, particularly the Oldowan tool industry. [Q1]These were simple, typically consisting of large stones that were chipped to create sharp edges for cutting and processing dead animals. Homo habilis’s ability to craft and use tools is considered a major achievement in human evolution, marking the beginning of technology-assisted survival. [Q3] missing part\nIn conclusion, Homo habilis and Homo erectus represent two important stages in early human evolution, with each species contributing to the development of human-like characteristics. The evolutionary progression from Homo habilis to Homo erectus reflects a noticeable leap in both physical and mental development, allowing for the emergence of later human species, including Homo sapiens.\n*genus (noun): A specific class of things with common characteristics.\n**upright (adjective): Standing on two legs with the back straight.",
+   "prompts": [
+    "Based on the text, what two adaptations suggest Homo erectus probably lived on the ground? [2 points]"
+   ],
+   "intent": "서류전형을 통과한 지원자를 대상으로 기본적인 학업능력과 영어 활용 능력이 충분한지를 평가한다.",
+   "sample_answer": "Homo erectus probably lived on the ground because it had a tall body and could walk upright efficiently.",
+   "page": 2
+  },
+  {
+   "admission": "일반전형, 고른기회전형",
+   "unit": "영어",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "Early Human Species Homo habilis and Homo erectus are two early human species that mark important stages in human evolution. Both species played crucial roles in the development of the genus* Homo. Despite their evolutionary closeness, these species have differences in their physical structure and technological innovations. The physical differences between Homo habilis and Homo erectus are significant. Homo habilis had a relatively small brain, ranging from 500 to 800, and its body structure was still somewhat primitive. Homo habilis had longer arms and shorter legs, suggesting that it was likely more adapted to climbing and forest environments, though it could also walk upright** . Homo erectus, on the other hand, exhibited a more modern body structure. Its brain size was significantly larger, ranging from 600 to 1100. Homo erectus also had a taller body, with longer legs and shorter arms, which allowed for more efficient upright walking and running, suggesting Homo erectus was better adapted to environments on the ground. One of the defining characteristics of Homo habilis is its association with early stone tools, particularly the Oldowan tool industry. [Q1]These were simple, typically consisting of large stones that were chipped to create sharp edges for cutting and processing dead animals. Homo habilis’s ability to craft and use tools is considered a major achievement in human evolution, marking the beginning of technology-assisted survival. [Q3] missing part\nIn conclusion, Homo habilis and Homo erectus represent two important stages in early human evolution, with each species contributing to the development of human-like characteristics. The evolutionary progression from Homo habilis to Homo erectus reflects a noticeable leap in both physical and mental development, allowing for the emergence of later human species, including Homo sapiens.\n*genus (noun): A specific class of things with common characteristics.\n**upright (adjective): Standing on two legs with the back straight.",
+   "prompts": [
+    "A paragraph has been deleted before the final paragraph. What are the likely topic and focus of the missing paragraph? [2 points]"
+   ],
+   "intent": "서류전형을 통과한 지원자를 대상으로 기본적인 학업능력과 영어 활용 능력이 충분한지를 평가한다.",
+   "sample_answer": "The likely topic and focus are Homo erectus and using tools",
+   "page": 2
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "source": {
+  "university": "원광대학교",
+  "year": 2026,
+  "file": "2026_원광대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합",
+   "units": "의약학계열, 원불교학과",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "지역인재종합",
+   "units": "의약학계열",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "지역인재기회균형",
+   "units": "의예과,치의예과,한의예과, 약학과,한약학과",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "기회균형",
+   "units": "의약학계열",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "농어촌학생",
+   "units": "의약학계열",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  },
+  {
+   "admission": "특기자",
+   "units": "예체능",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합",
+   "unit": "의약학계열",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "중증외상 분야에 관심이 있는데, 이 분야는 기피분야인 데 본인이 생각하는 해결책은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합",
+   "unit": "의약학계열",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미국 의료보험기사와 우리나라 의료 시스템을 조사했는데, 두 나라의 의료보험 시스템을 비교해서 설명해보세요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "학생부종합",
+   "unit": "의약학계열",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한의학과 의학의 통합의학을 위한 노력으로 무엇이 필요하다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 10
+  },
+  {
+   "admission": "특기자전형",
+   "unit": "예체능계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "운동선수로서 이루고자 하는 목표에 대해 말해보시고, 그 목표를 달성하기 위한 구체적인 계획을 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "특기자전형",
+   "unit": "예체능계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 장점과 단점은 무엇이고, 그것을 위해 평소 어떤 노력을 하고 있는지 구체적으로 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "특기자전형",
+   "unit": "예체능계열",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학창시절 힘들었던 일을 어떻게 극복할 수 있었으며, 그러한 경험을 통해 느끼거나 배운 점이 있다면 무엇인지 말해보시오"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  }
+ ]
+}

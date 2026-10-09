@@ -1,0 +1,133 @@
+{
+ "source": {
+  "university": "대구교육대학교",
+  "year": 2025,
+  "file": "2025_대구교육대학교"
+ },
+ "interviews": [
+  {
+   "admission": "수시모집",
+   "units": "초등교육과",
+   "format": "서류기반",
+   "method": "대면 개별 심층 면접 (학생부 기반)",
+   "duration": "1인 10분 내외",
+   "criteria": [
+    {
+     "name": "의사소통능력",
+     "weight": null
+    },
+    {
+     "name": "문제해결능력",
+     "weight": null
+    },
+    {
+     "name": "교직소양 및 인성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "정시모집",
+   "units": "초등교육과",
+   "format": "제시문기반",
+   "method": "문항 제시형 집단면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "의사소통능력",
+     "weight": null
+    },
+    {
+     "name": "문제해결능력",
+     "weight": null
+    },
+    {
+     "name": "교직소양 및 인성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 1학기 수학성적 향상된 이유는 무엇인가? 어떤 방법으로 공부하였는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "A 독서활동을 통해 교사로서 어떤 자질이 필요하다고 생각했는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "B 동아리 활동 중 갈등관리의 경험이 교직에서 어떻게 활용할 수 있다고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인은 어떤 강점을 가진 교사가 될 수 있다고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "수시모집",
+   "unit": "초등교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 공부법 중 초등학생에게 도움이 될 수 있다고 생각하는 방법과 그 이유는 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "정시모집",
+   "unit": "초등교육과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "김교사\n수업 내용을 체계적으로 정리하고 명확하게 설명하는 교사입니다. 중요한 개념을 전달하며, 학생들이 이를 잘 이해하도록 돕습니다. 정기적으로 학습 진도를 확인하며 필요할 때 추가 설명이나 피드백을 제공합니다.\n박교사\n학생 스스로 학습하고 문제를 해결할 수 있도록 돕는 교사입니다. 학생 주도 학습 환경을 만들어 주며, 협력과 토론을 통해 깊이 있는 이해를 지원합니다. 학생들이 다양한 경험을 통해 새로은 지식을 습득하로록 유도합니다.",
+   "prompts": [
+    "다음 두 유형의 교사 중 하나를 선택하여, 과거에 이와 비슷한 방식으로 수업을 진행한 교사와의 경험을 이야기해 주세요. 그 경험이 여러분의 학업성취와 개인적 성장에 어떻게 영향을 주었는지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  }
+ ]
+}

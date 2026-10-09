@@ -1,0 +1,1142 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2026,
+  "file": "2026_대구가톨릭대학교_예상_가톨릭지도자추천"
+ },
+ "interviews": [
+  {
+   "admission": "가톨릭지도자추천전형",
+   "units": "경영학과, 방사선학과, 물리치료학과, 컴퓨터소프트웨어학부, 간호학과, 약학부, 사회복지학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "창의성 사고력",
+     "weight": null
+    },
+    {
+     "name": "미래지향성",
+     "weight": null
+    },
+    {
+     "name": "공동체성",
+     "weight": null
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인이 가장 중요하게 생각하는 가치(예: 정직, 책임, 성실 등)는 무엇이며, 그것을 지키기 위해 노력했던 경험을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인의 장점과 단점을 각각 이야기하고, 단점을 극복하기 위해 어떤 노력을 해왔는지 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "최근 읽은 책이나 기사 중 인상 깊었던 내용을 소개하고, 그것이 왜 의미 있다고 생각했는지 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "우리 사회에서 AI(인공지능)의 활용이 늘어나면서 나타날 수 있는 긍정적/부정적 측면을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "최근 뉴스에서 접한 경제·경영 관련 이슈 중 가장 관심 있는 사건을 말하고, 본인의 의견을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "본인이 가장 흥미롭게 느끼는 경영학 분야의 문제점 하나를 제시하고, 이에 대한 해결 방향을 생각해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "앞으로 본인이 경영학을 전공하면서 이루고 싶은 목표는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "10년 후 본인이 어떤 경영 전문가(예: 창업가, 컨설턴트, 기업 관리자)로 성장하고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "실패나 좌절을 경험했을 때, 그것을 미래 성장의 발판으로 삼기 위한 본인만의 방법은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "본인이 선택한 전공(혹은 관심 있는 분야)을 통해 사회에 어떤 기여를 하고 싶은지 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "공동의 목표를 이루기 위해 다른 사람과 협력했던 경험을 구체적으로 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "학교나 지역사회에서 본인이 기여했던 활동이나 봉사 경험을 소개해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "팀 프로젝트나 동아리 활동에서 본인이 맡았던 역할과 책임을 어떻게 수행했는지 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "방사선사가 되기 위해 필요한 인성 덕목은 어떠한 것이 있을까요? 그 중에서 본인이 생각하기에 가장 갖추어야 할 덕목은 무엇이고 그렇게 생각하는 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "봉사활동 중에 가장 기억에 남는 일이 있다면 무엇인가? 그리고 그 이유는 무엇인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "방사선이 무엇이라고 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "많은 사람들은 방사선은 위험하다고 하는데 본인이 생각하기에 방사선은 위험한가? 위험하다고 생각하면 그 이유는 무엇인가? 반대로 위험하지 않다고 하면 왜 그렇게 생각하는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "방사선과 관련된 심화활동 또는 비교과 활동을 했다면 어떤 것이 있는지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "고등학교 과목중에 어려웠던 과목이 있으면 무엇이고 이를 극복하기 위해 어떤 노력을 했는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "방사선이 의료분야에 많이 활용되고 있습니다. 의료분야 이외에 방사선이 활용되고 분야가 있다면 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "의료 보건과 관련하여 읽은 책중에 가장 기억에 남는 것은 무엇이 있는가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "방사선학을 공부하기 위해서는 과학 과목(물리, 화학, 생물 등)에 대한 지식이 어느 정도 필요한데 이수하지 못한 과학 과목에 대해서 어떻게 관련 지식을 학습할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "본인이 학교생활을 하면서 가장 적극적으로 활동한 경험이 있다면 이야기 해주세요. 그 활동을 통해 얻었던 것은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "방사선학과에는 다양한 지역의 학생이 입학합니다. 본인은 1학년 신입생의 단합을 위해 어떤 노력을 할 수 있는지요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인이 물리치료학과에 지원하게 된 동기를 구체적으로 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "어려운 상황에서 포기하지 않고 끝까지 해낸 경험이 있나요? 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "환자와의 관계에서 가장 중요하다고 생각하는 태도는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "실패 경험을 말해주시고, 그것을 통해 무엇을 배웠는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "스스로 정의하는 ‘좋은 물리치료사’란 어떤 사람인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "물리치료사의 역할을 환자에게 설명한다면 어떻게 설명하시겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "‘재활’이라는 개념을 본인만의 언어로 정의해 본다면 어떻게 정의할 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "환자가 치료를 거부할 경우, 어떻게 설득할 수 있을지 구체적인 방법을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "10년 뒤 본인은 어떤 물리치료사로 성장해 있을 것 같나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "인공지능이나 로봇 재활치료가 발전하고 있는데, 물리치료사의 역할은 앞으로 어떻게 달라질까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "본인이 학과 생활 중 가장 도전해보고 싶은 연구 주제나 활동은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "물리치료사가 사회적으로 더 기여할 수 있는 새로운 영역을 제안한다면 어떤 것이 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "팀 프로젝트에서 의견이 크게 갈릴 때, 어떻게 조율해 본 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "봉사활동이나 동아리 활동에서 협력했던 경험을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "환자의 회복은 의료진 전체의 협력이 필요한데, 다른 전공자(의사, 간호사 등)와 협업할 때 중요한 점은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "본인이 속한 공동체에 긍정적인 영향을 준 경험이 있다면 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인이 중요하게 생각하는 가치(예: 정직, 책임, 배려 등)는 무엇이며, 실제 경험 속에서 어떻게 실천했는지 말씀해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "어려운 상황에서 본인의 약속이나 원칙을 지킨 경험이 있다면 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "제한된 자원을 활용해 문제를 해결했던 경험을 설명하고, 그 과정에서 본인의 역할은 무엇이었는지 말씀해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "일상에서 불편하다고 느낀 점을 하나 말하고, 이를 해결할 수 있는 소프트웨어 아이디어를 제시해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "복잡한 문제를 해결하기 위해 본인이 사용한 방법이나 사고 과정을 단계별로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "최근 접한 기술이나 뉴스 중 흥미롭게 본 사례를 선택하고, 그것이 사회에 어떤 영향을 줄 수 있다고 생각하는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "앞으로 10년 후 소프트웨어 분야가 어떤 모습으로 변화할 것이라고 예상하며, 그 속에서 본인은 어떤 역할을 하고 싶습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "인공지능·빅데이터·모빌리티 등 최신 기술 중 하나를 선택해, 앞으로 사회문제 해결에 어떻게 기여할 수 있을지 본인의 생각을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "본인이 대학에서 배우고 싶은 전공 지식을 바탕으로, 향후 이루고 싶은 목표나 진로 계획을 구체적으로 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "팀 프로젝트나 동아리 활동에서 의견 충돌이 있었을 때, 이를 조정하거나 해결했던 경험을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "함께하는 사람들을 위해 양보하거나 희생한 경험이 있다면, 그때 느낀 점과 배운 점을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "공동체 안에서 본인이 맡은 역할을 충실히 수행하여 긍정적인 결과를 이끌어낸 경험이 있다면 구체적으로 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "간호학과 실습 중에 친구가 윤리에 어긋나는 행동을 하고 이를 숨기는 것을 발견했다면 어떻게 하시겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "간호사로서 갖추어야 하는 참된 인성은 무엇이고, 이를 갖추기 위해 어떤 노력을 하고 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "현재 간호계의 이슈 중에서 본인이 가장 관심있는 주제와 이에 대한 자신의 견해를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "본인이 참여했던 탐구나 연구활동을 간단히 소개하고, 어떤 점이 어려웠고, 이를 어떻게 해결해 나갔었는지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "본인이 읽었던 책에서 자신에게 깨달음이나 감명을 준 내용을 간단히 설명하고 그 이유를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "살아오면서 어려움을 극복했던 경험과 이때 어떤 구체적인 노력을 통해 어려움을 극복할 수 있었는지 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "간호학과에 진학한 후 구체적인 학업계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "AI 시대 간호사가 갖추어야 하는 역량과 이를 갖추기 위해 어떤 노력을 기울여야 하는지 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "인간을 돌보는 로봇이 등장하고 있습니다. 10년 후 간호사는 로봇간호사와 어떻게 다른 업무를 하고 있을지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "간호학과에 진학해서 이루고 싶은 목표나 꿈이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "봉사활동 중에서 가장 기억에 남는 활동과 그 이유에 대해 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "조별과제를 진행하는 중에 자신의 역할을 하지 않는 조원이 있다면 어떻게 하시겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "조별 과제 진행 중 다른 조원 두명이 갈등을 겪고 있는 상황에서 본인은 이 상황에 어떻게 대처할지 이야기해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "약학을 공부하고 약사가 되려는 목표는 단순히 성공이나 안정적인 직업을 얻는 것 외에 본인의 가치관과 어떻게 연결되어 있습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인의 성격 중 약학대학 생활에 가장 큰 도움이 될 장점과 단점은 무엇이라고 생각하나요? 단점은 어떻게 극복할 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "건강기능식품과 의약품의 차이를 설명하고, 소비자 혼동을 줄이기 위한 방안을 제시해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "의약품의 부작용 발생 시 약사가 취해야 할 조치는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "약사가 환자에게 복약지도를 할 때 ‘쉽게 설명하는 것’과 ‘정확히 설명하는 것’ 사이에 균형을 어떻게 맞춰야 한다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "제약바이오산업의 변화가 약사의 직무에 어떤 영향을 줄 것으로 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "우리 약학대학의 비전(인간 중심의 약사, 창의융합적 약학자, 책임감 있는 리더)에 비추어 본인의 미래상을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "약학뿐만 아니라 다른 분야에 대한 관심도 있습니까? 만약 있다면, 약학과 그 분야를 어떻게 융합하여 미래에 활용하고 싶습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "자신이 속한 공동체(학교, 동아리, 봉사 단체 등)를 위해 헌신했던 경험이 있다면 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "환자·의사·약사 간의 협력에서 약사가 담당해야 하는 가장 중요한 역할은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "자신의 성격과 관련해서 어떻게 이해하고 있는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "최근 힘든 감정을 느꼈던 경험이 있었는지, 또한 그러한 감정이 들 때 그러한 감정을 이겨내는 노하우가 있다면 무엇인지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "사회론과 갈등론 간의 대립에서 갈등론이 의미하는 바가 무엇이고, 본인의 입장은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "게이머와 게임 중독자와의 차이는 무엇인지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "사회복지와 관련된 주제로서 관심을 갖고 있는 것이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "학교밖청소년이란 무엇이며 이들에게 관심을 가져야 할 이유를 사회복지 차원에서 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "결혼이주여성이란 무엇이고, 예상되는 사회문제 및 문제해결을 위한 방안을 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "유치원 등 아동보육기관에서의 아동학대를 방지하기 위한 대책은 무엇이 있을지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "고등학교 생활에서 가장 기억에 남는 것이 있다면 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "가톨릭지도자추천전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "고등학생 시절 진로와 관련해서 가장 관심을 가졌던 분야는 어떤 것이며, 그것이 사회복지와의 관련성은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  }
+ ]
+}

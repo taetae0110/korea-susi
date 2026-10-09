@@ -1,0 +1,969 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2026,
+  "file": "2026_대구가톨릭대학교_학종지역종합기출"
+ },
+ "interviews": [
+  {
+   "admission": "지역종합전형",
+   "units": "외식조리제과제빵학과, 소방방재학과, 건축학과, 컴퓨터소프트웨어학부, 의예과, 간호학과, 약학부, 심리학과, 사회복지학과",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원학과와 관련된 비교과 활동은 무엇이 있었으며 그 활동에서 자신의 역할과 기억에 남는 것에 대하여 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 맡은 역할과 기여를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로를 위한 활동을 위해서 무엇을 했으며 진행한 내용에 대하여 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "여러 대학의 동일유사전공이 많은데 저희 학과에 지원한 동기를 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원학과 전공을 위해서 고교시절 준비한 내용을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "외식업 현장실무자(조리사, 파티쉬에, 커피바리스타 등)로서 가져야할 역량은 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원학과 전공과 관련하여 자신의 장점과 단점은 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "외식조리제과제빵학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원학과 관련하여 꿈이 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 흥미를 느끼는 과목은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교내 수업 외 활동 중 ㅇㅇㅇㅇ사항이 있는데 이 활동을 하게된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "위 질문에서 활동 후 느낀 소감을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로관련해서 주 관심분야는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리학과를 지원하게 된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "소방방재 분야에 대해 어떻게 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신이 평가하는 자기자신은 어떤 사람인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신이 직접 구성하거나 참여한 공간 프로젝트가 있다면, 그 과정에서 창의적 사고가 어떻게 발휘되었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 생활 중 환경이나 지속가능성과 관련된 활동에 참여한 경험이 있다면 소개해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "다양한 팀 활동을 수행하기 위해 협업 중 의견 충돌이 있었던 경험이 있나요? 그 상황을 어떻게 해결했는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 기억에 남는 봉사 활동 경험은 무엇이며, 그 활동을 통해 무엇을 배웠나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건축학과에 지원한 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학교에 지원한 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "관심 있는 건축물이나 건축가가 있다면 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과에 지원하게 된 계기와 본인이 잘할 수 있다고 생각하는 이유를 말해주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 생활 중 전공과 관련 있다고 생각되는 활동을 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 생활에서 어려움이 있었을 때 어떻게 해결했는지 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 본인이 이 학과에서 어떤 역량을 키우고 싶은지 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "프로그래밍이나 컴퓨터 관련해서 관심을 가지게 된 계기가 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인공지능(AI) 또는 소프트웨어 기술이 일상생활에서 어떻게 활용되고 있다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "새로운 기술을 배우거나 어려운 문제가 주어졌을 때, 본인은 어떤 방식으로 학습하고 해결하려 하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 4
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교내 봉사활동 경험 중 가장 의미있었던 활동과 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교 탐구 활동 중 팀을 구성하여 실험한 경험들이 있는데, 팀원 간 갈등이 있었던 경우가 있었는지와 어떻게 해결하였는지 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "친구를 도와주려고 한 행동이 다른 사람의 마음을 상하게 했던 경험이 있었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "어려운 상황에서 타인의 도움을 받은 경험이 있었는지와 그 때의 마음은 어떠했는지 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최신의 기술이 우리에게 가져다 주는 장점과 문제점 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애인교육에 참여한 경험을 토대로 장애에 대한 본인의 생각은 무엇이며 의사의 입장에서 장애를 바라보는 시각은 어떠한가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "의예과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의사로 진로를 선택하게 된 이유 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 5
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "이수한 교과목 중에 본인이 가장 흥미있었고 또한 학업성과도 좋았던 교과목은 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수업 시간 , 자율활동에서 ~에 대해 발표했던데, 구체적으로 어떤 내용이었고 그 과정을 통해 새롭게 알게 된 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동은 ~~을 하였던데 이를 통해서 본인이 지식적으로나 인성적으로 성장한 계기가 있다면 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생회장, 부회장으로서 혹은 학급반장/부반장을 활동 중 가장 기억에 남는 경험은 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급에서 1인 1역할을 수행하면서 학급공동체를 위해 어떤 노력을 하였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "교내외 봉사활동을 수행하였는데 가장 기억에 남는 활동이 있었다면 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부 기록에 학생의 장점이 군데군데 엿보입니다. 본인이 생각하는 자신의 장점은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본 간호학과에 입학하고 싶은 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 희망진로와 관련하여 어떤 노력을 해왔고, 그 성과는 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호학과에 입학하면 자신이 원하는 간호사가 되기 위해 어떤 준비를 할 것인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간호학과 입학을 한 후 학업계획에 대해 설명해 볼까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본 대학, 간호학과 홈페이지를 방문한 적이 있는지요? 어떤 부분이 가장 인상적이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 6
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 기재된 탐구 활동 중에서 가장 의미 있었던 활동을 소개해 주세요. 약학 공부와는 어떻게 연결된다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 기록된 실험이나 연구 활동 중에서 예상대로 되지 않거나 오차가 크게 나타난 경험이 있다면 소개해 주세요. 다시 한다면 무엇을 개선하고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수업이나 독서 활동에서 약물, 질병, 보건의료와 관련해 인상 깊었던 내용을 하나만 골라 설명해 주세요. 그 내용을 통해 생각하게 된 점이나 의문점은 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "팀 프로젝트나 동아리 활동에서 맡았던 역할과 기여를 구체적으로 설명해 주세요. 활동 중에 의견 충돌이나 갈등이 있었다면, 어떻게 해결했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학생부에 기재된 봉사활동이나 동아리 활동 중에서 ‘타인의 건강’ 또는 ‘지역사회 보건’과 관련된 경험이 있다면 소개해 주세요. 그 활동을 통해 느낀 점과 본인이 변화한 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "약학부의 기초가 되는 과목들 중에서 자신이 강점 이 있다고 생각하는 과목과 보완이 필요한 과목은 무엇인가요? 입학 후 학습 계획과 보완 전략을 구체적으로 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "약학부에 지원하게 된 구체적인 계기와 과정을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 7
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 등 비교과 활동 중에 본인의 역할(리더, 조력, 중재 등)은 무엇이었으며, 역할을 통해 느낀 점은 무엇이었습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "○ ○공동체 활동에서 리더십과 공감 중 하나를 더 중요하게 생각하는 것은 무엇이고, 그 이유에 대해서 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "○ ○진로 활동 경험을 통해 구체적으로 배운 것이 무엇이었습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 기억에 남는 봉사활동은 무엇이고, 그 이유에 대해 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교 생활 중 아쉬웠던 부분은 무엇이고 다시 돌아갈 수 있다면 어떻게 할 것입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "집단 활동 중 겪었던 갈등은 무엇이고, 갈등 해결 방법은 무엇이었습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "집단 활동의 장점과 단점을 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "10년 후에 어떤 모습으로 살아가고 있을 것으로 예상합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "심리학을 전공해서 최종적으로 되고자 하는 것이 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "심리학으로 진로를 설정하게 된 계기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "심리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대구가톨릭대학교 심리학과에 지원하게 된 이유와 매력이 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지 관련 봉사, 진로탐색 내용 및 역할은 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회문제에 대한 관심과 탐구한 노력에 대하여 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 팀 프로젝트 수행 경험과 무임승차 또는 낙오 학생에 대한 개인의 태도 및 의견을 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사랑과 봉사를 실천한 경험이 있다면 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 사랑과 봉사를 실천하기 위한 계획이 있다면 무엇이고 어떠한 노력을 할 것인지 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지 영역 중 관심 분야 및 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "지역종합전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지사로서의 자아상에 대하여 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  }
+ ]
+}

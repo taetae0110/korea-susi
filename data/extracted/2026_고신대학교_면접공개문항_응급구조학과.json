@@ -1,0 +1,163 @@
+{
+ "source": {
+  "university": "고신대학교",
+  "year": 2026,
+  "file": "2026_고신대학교_면접공개문항_응급구조학과"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합 자기추천전형",
+   "units": "응급구조학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체 역량",
+     "weight": "30"
+    },
+    {
+     "name": "학업역량",
+     "weight": "30"
+    },
+    {
+     "name": "진로역량",
+     "weight": "40"
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "응급 현장에서 돌발 상황이 발생해서 구조가 지연된다면, 어떻게 대응하겠습니까? 먼저 무엇을 확인하시고, 어떻게 협력해 나갈지 단계적으로 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "다른 사람을 도와주기 위해 본인의 시간이나 노력을 기꺼이 희생했던 경험이 있다면 말해주세요. 그 경험이 본인에게 어떤 의미였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "인성 및 공동체 역량",
+   "passage": null,
+   "prompts": [
+    "팀 활동에서 맡은 역할을 끝까지 책임지고 수행했던 경험을 예로 들어 말해주세요. 그 과정에서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 때 배웠던 과목 중에서 가장 어려웠던 과목은 무엇이었습니까? 그 과목을 이해하기 위해 기초 개념을 어떻게 다졌는지, 세운 학습 계획과 실천 방법은 무엇이었는지 말해주세요. 또 호기심을 넓혀 추가 탐구한 경험과 그 과정에서 배운 점을 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업 과정에서 가장 성취감을 느낀 과목이나 경험은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교과 수업 외에 스스로 탐구하거나 연구해 본 경험이 있다면, 그 과정을 통해 무엇을 배우고 느꼈는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "응급구조학과에 지원하게 된 이유는 무엇인가요? 대학에서 어떤 과목·활동으로 전공 실력을 키울 계획인지, 그리고 그것이 앞으로의 진로 목표와 어떻게 연결되는지 구체적으로 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련된 활동(탐구·체험·독서 등) 중 가장 의미 있었던 경험은 무엇이며, 그 경험이 진로 선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원 전공과 관련해 최근에 접한 뉴스나 사회 현상이 있다면 진로선택에 어떤 영향을 주었는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "학생부종합 자기추천전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인이 지원 전공에서 강점을 발휘할 수 있다고 생각하는 역량은 무엇이며, 이를 발전시키기 위한 어떤 노력을 해왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

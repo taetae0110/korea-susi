@@ -1,0 +1,167 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2026,
+  "file": "2026_대구가톨릭대학교_예상_지역교과"
+ },
+ "interviews": [
+  {
+   "admission": "지역교과전형",
+   "units": "약학부",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "창의성 사고력",
+     "weight": null
+    },
+    {
+     "name": "미래지향성",
+     "weight": null
+    },
+    {
+     "name": "공동체성",
+     "weight": null
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "약학을 공부하고 약사가 되려는 목표는 단순히 성공이나 안정적인 직업을 얻는 것 외에 본인의 가치관과 어떻게 연결되어 있습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인의 성격 중 약학대학 생활에 가장 큰 도움이 될 장점과 단점은 무엇이라고 생각하나요? 단점은 어떻게 극복할 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "건강기능식품과 의약품의 차이를 설명하고, 소비자 혼동을 줄이기 위한 방안을 제시해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "의약품의 부작용 발생 시 약사가 취해야 할 조치는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "약사가 환자에게 복약지도를 할 때 ‘쉽게 설명하는 것’과 ‘정확히 설명하는 것’ 사이에 균형을 어떻게 맞춰야 한다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "제약바이오산업의 변화가 약사의 직무에 어떤 영향을 줄 것으로 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "우리 약학대학의 비전(인간 중심의 약사, 창의융합적 약학자, 책임감 있는 리더)에 비추어 본인의 미래상을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "약학뿐만 아니라 다른 분야에 대한 관심도 있습니까? 만약 있다면, 약학과 그 분야를 어떻게 융합하여 미래에 활용하고 싶습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "자신이 속한 공동체(학교, 동아리, 봉사 단체 등)를 위해 헌신했던 경험이 있다면 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "환자·의사·약사 간의 협력에서 약사가 담당해야 하는 가장 중요한 역할은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  }
+ ]
+}

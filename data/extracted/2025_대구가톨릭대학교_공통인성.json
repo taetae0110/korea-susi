@@ -1,0 +1,49 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2025,
+  "file": "2025_대구가톨릭대학교_공통인성"
+ },
+ "interviews": [],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학교의 교훈은 사랑과 봉사입니다. 느낌이 어떠합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "내가 생각하기에 사랑의 대상은 누구까지 가능합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "요즘의 세상에서 봉사의 의미는 무엇이라 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}

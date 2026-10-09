@@ -1,0 +1,390 @@
+{
+ "source": {
+  "university": "고신대학교",
+  "year": 2025,
+  "file": "2025_고신대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합전형",
+   "units": null,
+   "format": "인성",
+   "method": "입학사정관 2인이 지원자 1인을 대상으로 면접 진행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체역량",
+     "weight": null
+    },
+    {
+     "name": "학업역량",
+     "weight": null
+    },
+    {
+     "name": "진로역량",
+     "weight": null
+    }
+   ],
+   "page": 8
+  },
+  {
+   "admission": "학생부교과전형(특수교육대상자)",
+   "units": null,
+   "format": "인성",
+   "method": "면접관 2~3인이 지원자 1~3인을 대상으로 면접 진행",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성 및 공동체의식",
+     "weight": null
+    },
+    {
+     "name": "지원동기 및 전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 9
+  },
+  {
+   "admission": "일반고전형 ∙ 지역인재전형(비대면)",
+   "units": "의예과",
+   "format": "제시문기반",
+   "method": "1인 지원자의 제출된 면접 영상을 면접관 2인이 참여하여 다수평가",
+   "duration": "6분",
+   "criteria": [
+    {
+     "name": "인성 및 공동체의식",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 10
+  },
+  {
+   "admission": "지역인재기회균형 ∙ 농어촌전형(대면)",
+   "units": "의예과",
+   "format": "제시문기반",
+   "method": "1인 지원자를 대상으로 면접관 2인이 참여하여 다수평가",
+   "duration": "6분",
+   "criteria": [
+    {
+     "name": "인성 및 공동체의식",
+     "weight": null
+    },
+    {
+     "name": "전공적합성",
+     "weight": null
+    },
+    {
+     "name": "의사소통능력",
+     "weight": null
+    }
+   ],
+   "page": 10
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "공동체 생활을 하면서 가장 힘들었던 점과 그것을 극복한 사례를 구체적으로 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "자신은 공동체에서 어떤 존재라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "자신이 지속적으로 남을 배려하고 섬기고 도와주웠던 경험(행동)이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "자기 자랑을 해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "고교 교과 중 가장 좋아하는 과목과 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교내 활동 중에서 최선을 다한 경험이 있다면 어떤 활동이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 8
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원한 학과에 대한 지원동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "입학 후 대학에서 꼭 하고 싶은 활동은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원자를 합격시켜야 하는 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "고등학교 3년 중 자기가 좋아하는 일 또는 해보고 싶은일(취미, 학업, 여행 등)을 자기주도적으로 실행하여 성취한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "자신이 지속적으로 남을 배려학 섬기고 도와주었던 경험(행동)이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "스트레스를 받는 상황과 환경에서 어떤 행동을 했나요? 그때 본인이 후회되는 행동을 했었다면 어떤 행동이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "인성 및 공동체역량",
+   "passage": null,
+   "prompts": [
+    "친구들과의 갈등 극복 등의 경험에 대해 사례를 들어 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "학업을 진행하며 어려운 점은 없었나요? 그것을 극복하기 위해 어떤 노력을 했는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "교내 활동 중(교과,자율,동아리,진로 등)에서 최선을 다한 경험이 있다면 어떤 활동이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "지원한 학과(부)에 대한 지원동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "대학에 입학한 후 공부 이외에 꼭 하고 싶은 것이 있다면 이에 대한 지원자의 생각을 듣고 싶습니다."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "학생부종합전형",
+   "unit": null,
+   "format": "인성",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "본인의 인생에서 진로 결정에 가장 영향을 미쳤던 것은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": "일반고, 지역인재전형",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "적성",
+   "passage": "2024년 6월 인천의 A 산부인과에서 발생한 36주 태아 낙태 사건으로 보건복지부는 서울특별시 경찰청에 산모와 병원장, 수술 집도의를 살인 혐의로 수사 의뢰하였다.",
+   "prompts": [
+    "본 사건에 대해 낙태죄가 아닌 살인죄로 수사 의뢰한 이유는?",
+    "임신 36주의 태아를 인간으로 볼 수 있는가?",
+    "본 사건에 살인죄가 적용되기 위해서 우선 검토되어야 할 사항은?"
+   ],
+   "intent": "1. 상황판단 능력을 평가한다.\n2. 의사소통능력을 평가한다.\n3. 전문가 윤리를 평가한다.",
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "일반고, 지역인재전형",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "인성",
+   "passage": "최근 사회적으로 ‘필수의료’ 문제가 논란이 되고 있다. 지난 2022년 7월, 서울아산병원에서 근무 중 뇌출혈로 쓰러진 간호사가 수술할 담당 의사가 없어 사망한 사건이 발생한 후 ‘필수의료’에 대한 사회적 관심과 중요성이 대두되었다. 정부는 ‘필수의료 기반 강화 및 의료비 부담 완화’를 국정과제로 선정하였다.",
+   "prompts": [
+    "학생이 생각하는 ‘필수의료’의 정의는 무엇인가?",
+    "필수의료 기피현상을 해결하기 위해 정부는 어떤 노력을 해야할까?",
+    "필수의료 기피현상을 해결하기 위해 의료계는 어떤 노력을 해야할까?"
+   ],
+   "intent": "1. 상황판단 능력을 평가한다.\n2. 윤리적 의사결정을 평가한다.\n3. 전문가 윤리를 평가한다.",
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "지역인재기회균형, 농어촌",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "인성",
+   "passage": "‘슬기로운 의사생활’, ‘낭만 닥터 김사부’, ‘뉴하트’ 등의 의학드라마들은 모두 외과, 흉부외과, 신경외과, 산부인과, 소아과 등 레지던트 지원율이 낮은 과 의사들이 주인공이다.",
+   "prompts": [
+    "이런 소위 ‘필수의료’ 의사들을 다룬 드라마가 시청자들에게 인기를 얻는 이유는 무엇이라 생각하는가?",
+    "인기있는 의학드라마처럼 언급된 과들의 지원율을 높이기 위해서 어떤 노력이 필요하리라 생각하는가?"
+   ],
+   "intent": "1. 필수의료 지원율이 낮은 이유를 인지한다.\n2. 진료과별 편차를 해결할 수 있는 사회적 접근 및 의료계의 노력에 대해 설명한다.",
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": "지역인재기회균형, 농어촌",
+   "unit": "의예과",
+   "format": "제시문기반",
+   "competency": "적성",
+   "passage": "의료폐기물에는 감염병과 관련된 격리의료폐기물, 혈액이나 배양액, 수술용 칼날, 주사바늘, 혈액투석 폐기물을 포함한 위해의료폐기물, 체액이나 분비물이 묻은 탈지면과 붕대, 거즈, 수액세트가 포함된 일반의료폐기물이 있다. 의료폐기물은 전용용기에 투입하고 이중밀폐와 소독을 거쳐 아래의 그래프와 같이 대부분 소각된다.\n[그래프]\n병원에서 배출되는 폐기물이 모두 의료폐기물은 아니다. 미국질병관리본부의 통계에 의하면 병원 폐기물의 85%가 일반 사무용 빌딩에서 나오는 폐기물과 같은 일반폐기물이며, 10~15%는 일반의료폐기물, 5% 미만이 위해의료폐기물과 격리의료폐기물이다.",
+   "prompts": [
+    "병원에서 배출되는 병원폐기물들이 환경오염을 가중시키는 현실에서 의료폐기물 처리 및 비용절감을 위한 방안에 대해 견해를 밝히시오."
+   ],
+   "intent": "1. 의료폐기물의 발생 및 처리에 대한 문제점을 인식한다.\n2. 의료폐기물을 분류하고 각각의 처리방법에 대해 대안을 제시할 수 있다.\n3. 의료폐기물의 감염전파 위험성을 고려하여 대안을 제시한다.\n4. 제작 단계에서 의료폐기물을 줄이기 위한 대안이나 소각 외에 폐기물을 재활용할 수 있는 방안(멸균분쇄 등)을 제시할 수 있다.",
+   "sample_answer": null,
+   "page": 12
+  }
+ ]
+}

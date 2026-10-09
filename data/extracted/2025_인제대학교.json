@@ -1,0 +1,2190 @@
+{
+ "source": {
+  "university": "인제대학교",
+  "year": 2025,
+  "file": "2025_인제대학교"
+ },
+ "interviews": [
+  {
+   "admission": "재외국민 특별전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 22
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 기초생활수급권자, 수능 전형 [의예과]",
+   "units": "의예과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 23
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 농어촌학생, 기초생활수급권자 전형 [약학과]",
+   "units": "약학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 24
+  },
+  {
+   "admission": "지역인재Ⅰ, 지역인재 기초생활수급권자 전형 [간호학과]",
+   "units": "간호학과",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 24
+  },
+  {
+   "admission": "면접전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 25
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 29
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "units": null,
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 30
+  }
+ ],
+ "questions": [
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "(가) HNO2 + NH3 → ㉠ + 2H2O\n(나) aN2O + bNH3 → 4㉠ + aH2O (a, b는 반응 계수)",
+   "prompts": [
+    "㉠에 해당되는 것을 답하시오.",
+    "a 값과 b 값을 답하시오.",
+    "(가)와 (나)에서 각각 NH3 1[수식]이 모두 반응했을 때 생성되는 H2O의 질량 값을 각각 답하시오."
+   ],
+   "intent": "화학 반응식 원리를 평가한다.\n화학 반응이 일어날 때 반응 전후 원자의 종류와 수는 일정하다.\n(가)와 (나)의 화학 반응식을 완성하면 다음과 같다.\n(가) HNO2 + NH3 → N2 + 2H2O / (나) 3N2O + 2NH3 → 4N2 + 3H2Oa=3, b=2이므로 a + b = 5이다.\n(가)와 (나)에서 각각 NH3 1mol이 모두 반응할 때 생성되는 H2O의 양(mol)의 비는 (가) : (나) = 4 : 3이다.",
+   "sample_answer": "1) ㉠에 해당되는 것을 답하시오. 정답: N2\n2) a 값과 b 값을 답하시오. 정답: a = 3, b = 2\n3) (가)와 (나)에서 각각 NH3 1[수식]이 모두 반응했을 때 생성되는 H2O의 질량 값을 각각 답하시오. 정답: (가): 4, (나): 3",
+   "page": 8
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "다음은 25℃, 1 atm에서 H20에 대한 열화학 반응식이다.\nH2O(ɭ ) ⇄ H2O([수식]) △H = 44 kJ",
+   "prompts": [
+    "H2O(ɭ )의 기화는 어떤 반응인가?",
+    "H2O([수식]) → H2O(ɭ ) 반응의 △H 는 값은?"
+   ],
+   "intent": "반응 엔탈피를 이해한다.\n기화는 액체에서 기체로 상태가 변화하는 것이다. H2O(ɭ ) → H2O([수식]) 반응이 일어날 때 에지를 흡수하므로 H2O(ɭ )의 기화는 흡열 반응이다.\nH2O(ɭ ) → H2O([수식]) 반응의 반응 엔탈피(△H )는 0보다 크므로 1mol의 엔탈피(H )는 H2O(ɭ ) < H2O([수식])이다. H2O([수식]) → H2O(ɭ ) 반응은 H2O(ɭ ) → H2O([수식]) 반응의 역반응이므로 반응 엔탈피(△H)는 -44 kJ이다.",
+   "sample_answer": "1) H2O(ɭ )의 기화는 어떤 반응인가? 정답: 흡열 반응\n2) H2O([수식]) → H2O(ɭ ) 반응의 △H 는 값은? 정답: – 44 kJ",
+   "page": 10
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "표는 사람의 내분비샘, 호르몬, 표적 기관을 나타낸 것이다.\n내분비샘 호르몬 표적 기관\n㉠ 갑상샘 자극 호르몬 (TSH) 갑상샘\n㉡ 향이뇨 호르몬 (ADH) ?",
+   "prompts": [
+    "㉠과 ㉡을 각각 답하시오.",
+    "항이뇨 호르몬(ADH)의 기능을 말하고, ADH가 과다 분비될 때 일어나는 생리 변화를 설명하시오."
+   ],
+   "intent": "호르몬의 특성과 종류를 이해한다.\n갑상샘 자극 호르몬(TSH)이 분비되는 ㉠은 뇌하수체 전엽이고, 항이뇨 호르몬(ADH)이 분비되는 ㉡은 뇌하수체 후엽이다. ADH는 콩팥에서 물의 재흡수를 촉진하여 삼투압 조절에 관여하는 호르몬이다. TSH와 ADH 같은 호르몬은 혈액을 통해 온몸 구석구석 퍼져 멀리 떨어진 표적 세포(기관)에 신호를 전달한다.",
+   "sample_answer": "1) ㉠과 ㉡을 각각 답하시오. 정답: ㉠: 뇌하수체 전엽, ㉡: 뇌하수체 후엽\n2) 항이뇨 호르몬(ADH)의 기능을 말하고, ADH가 과다 분비될 때 일어나는 생리 변화를 설명하시오. 정답: 물의 재흡수를 촉진하여 삼투압 조절, 혈압상승, 소변량 감소. (혈액 농도 조절, 혈압 조절, 소변량 감소)",
+   "page": 12
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "그림은 진핵세포에서 일어나는 세포 호흡 과정이다. ㉠과 ㉡은 ATP와 CO2를 순서 없이 나타낸 것이다.\n[그림]",
+   "prompts": [
+    "(가), (나), (다) 대사가 일어나는 세포내 부위를 각각 답하시오?",
+    "(나)와 (다)에서 공통적으로 생성되는 것을 말하고, 그 기능을 설명하시오."
+   ],
+   "intent": "해당과정을 적용할 수 있다.\n㉠은 ATP, ㉡은 CO2이다. 진핵세포에서 세포 호흡이 일어날 때 포도당은 과당 2인산, 피루브산을 거쳐 아세틸 CoA로 전환된다. 세포질에서 포도당이 과당 2인산으로 전환되는 과정이 일어난다. 과당 2인산이 피루브산으로 전환되는 과정 (나)와 피루브산이 아세틸 CoA로 전환되는 과정 (다)에서 모두 탈수소 반응이 일어나 NADH가 생성된다.",
+   "sample_answer": "1) (가), (나), (다) 대사가 일어나는 세포내 부위를 각각 답하시오? 정답: (가)와 (나)는 세포질, (다)는 미토콘드리아 (기질)\n2) (나)와 (다)에서 공통적으로 생성되는 것을 말하고, 그 기능을 설명하시오. 정답: NADH, 세포내에서 대사되어 ATP생성반응, 환원반응에 관여",
+   "page": 14
+  },
+  {
+   "admission": "재외국민전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "그림은 식물 세포의 구조이다. 표는 ㉠~㉢에서 합성되는 물질을 나타낸다. ㉠~㉢은 A~C를 순서 없이 나타낸다.\n구분 합성 물질\n㉠ ⓐ\n㉡ 포도당\n㉢ ATP\n[그림]",
+   "prompts": [
+    "㉠, ㉡, ㉢의 공통점과 차이점을 설명하시오."
+   ],
+   "intent": "세포 소기관의 구조와 기능을 이해한다.\nA(㉡)는 엽록체, B(㉠)는 리보솜, C(㉢)는 미토콘드리아이다. 리보솜은 막 구조를 갖지 않는다. 엽록체에서는 포도당이, 리보솜에서는 단백질이, 미토콘드리아에서는 ATP가 합성된다.",
+   "sample_answer": "㉠, ㉡, ㉢의 공통점과 차이점을 설명하시오.\n정답: 공통점: ㉡, ㉢은 2중막 구조이다. DNA와 리보솜이 있어 스스로 복제하여 증식할 수 있다. 에너지 전환이 일어난다. 차이점: ㉠은 리보솜으로 막 구조를 갖지 않는다.",
+   "page": 16
+  },
+  {
+   "admission": "재외국민 전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대전체를 물줄기에 가까이 대면 물줄기가 대전체 쪽으로 끌려온다. 물의 분자구조를 그리고, 해당 현상을 분자구조, 결합극성 및 분자극성과 관련지어 설명해보세요."
+   ],
+   "intent": "기초적인 분자구조를 그릴 수 있고, 물질의 물리적 성질이 분자구조와 관계가 있음을 설명할 수 있다.",
+   "sample_answer": "물의 분자구조\n물(H2O)은 (1) 서로 다른 종류의 원자 간(H-O)의 극성공유결합을 형성하고, (2) 중심원자인 O가 비공유전자쌍을 가져 분자구조가 굽은 형이므로, (3) 결합극성이 서로 상쇄되지 않아 분자의 쌍극자 모멘트가 0이 아니므로 극성분자이기 때문에 물줄기가 대전체 쪽으로 끌려온다.",
+   "page": 18
+  },
+  {
+   "admission": "재외국민 외국인 특별전형",
+   "unit": null,
+   "format": "제시문기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 비만 인구가 늘어나고 있는 이유 및 비만에 의해 유발될 수 있는 대사성 질환 5종 이상에 대해 설명하세요."
+   ],
+   "intent": "대사의 불균형에 의해 유발되는 비만에 대해 이해하고 비만에 의해 유발되는 대사성 질환들을 이해하고 설명할 수 있다.",
+   "sample_answer": "1) 비만의 원인\n- 서구화된 식습관으로 과다한 영양섭취\n- 운동부족\n- 스트레스에 의한 대사불균형 발생\n- 읍주, 흡연\n2) 비만에 의해 유발될 수 있는 대사성 질환\n- 당뇨병: 혈당이 조절되지 않는 대사성 질환 (공복 혈당 100 mg/dL 이상).\n- 고혈압: 혈압이 기준치 이상 (130/85 mmHg)으로 나타나는 대사성 질환\n- 고지혈증: 혈액에 중성지방 수치가 높게 나타나는 대사성 질환 (중성지방 150 mmg/dL 이상)\n- 동맥경화: 혈관에 지방질이 쌓여 혈관의 탈력이 떨어지고 막혀가는 질환\n- 심근 경색: 심장에 피를 공급해주는 혈관이 막혀 심장 손상이 일어나는 질환\n- 뇌졸중 (뇌에 피를 공급해주는 혈관이 막혀 뇌 손상이 일어나는 질환)",
+   "page": 20
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "나는 고등학생이다. 나는 친구 A의 생일잔치에 초청받아 갔다. 식사가 끝나고, 친구 A가 노래자랑을 하고 투표하여 등수를 정하자고 제안하였다. 앉은 순서대로 노래를 불렀는데 친구 B는 자신의 차례가 오자 자신은 안 부르겠다고 했다. 친구 A는“그러지 말고 불러봐. 못해도 괜찮아. 그러니까 친구가 없지.”라며 웃었다.",
+   "prompts": [
+    "친구 A의 행동에 대해 어떻게 생각합니까?",
+    "친구 B의 행동에 대해 어떻게 생각합니까?",
+    "응시자가‘나’라면 어떻게 하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "참여한 공동작업 중에서 자신은 열심히 하였으나 결과가 좋지 않았던 사례를 말하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 약학대학을 지원한 이유는 무엇이며 졸업 후 어떤 약사가 되길 원하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대 간호대학에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "외국에서의 수학 경험이 대학 생활(학업 및 교우관계 등)에 어떠한 영향을 미칠 것이라 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리치료학과 학업을 위해 기초과학(생물, 화학, 물리)의 연관성과 필요성에 대한 지원자의 생각을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 몸을 구성하는 근육은 수축과 이완을 반복하면서 움직임을 만들어 냅니다. 근육의 수축과 이완 과정을 “흥분, 전도, 막전위” 3가지 용어를 이용하여 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "재외국민 특별전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업이 어려웠을 때 어떤 방법으로 극복 또는 해결했는지 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 22
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 기초생활수급권자, 수능 전형 [의예과]",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": "나는 고등학생이다. 나는 친구 A의 생일잔치에 초청받아 갔다. 식사가 끝나고, 친구 A가 노래자랑을 하고 투표하여 등수를 정하자고 제안하였다. 앉은 순서대로 노래를 불렀는데 친구 B는 자신의 차례가 오자 자신은 안 부르겠다고 했다. 친구 A는“그러지 말고 불러봐. 못해도 괜찮아. 그러니까 친구가 없지.”라며 웃었다.",
+   "prompts": [
+    "친구 A의 행동에 대해 어떻게 생각합니까?",
+    "친구 B의 행동에 대해 어떻게 생각합니까?",
+    "응시자가‘나’라면 어떻게 하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "의예⋅약학, 지역인재Ⅰ, 지역인재 기초생활수급권자, 기초생활수급권자, 수능 전형 [의예과]",
+   "unit": "의예과",
+   "format": "MMI",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "참여한 공동작업 중에서 자신은 열심히 하였으나 결과가 좋지 않았던 사례를 말하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 23
+  },
+  {
+   "admission": "약학",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 약학과에 지원한 동기와 졸업 후 진로는 무엇인가요?",
+    "약대 입학 후에 희망하는 진로를 추구하기 위하여 어떤 노력을 할 것인지",
+    "본인의 어떤 강점이 약사 직능을 수행하는데 도움이 되는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "약학",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인생에서 가장 존경하는 위인은 누구이며 그 이유는 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "지역인재Ⅰ",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인공지능을 활용할 수 있는 약업 분야 중 지원자가 생각하는 주요 분야를 두세 가지 들고 활용 방안을 구체적으로 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "지역인재Ⅰ",
+   "unit": "약학과",
+   "format": "제시문기반",
+   "competency": null,
+   "passage": "학생A는 그룹A 조에 소속되어 있고 학생B는 그룹B에 소속되어 있다. 어느 날 선생님께서 그룹별 과제를 출제하셨는데 자신의 그룹에 출제하신 주제가 어렵고 도저히 해결할 수 없다는 생각을 하게 되었다. 그러던 중 학생B가 소속된 그룹B에 주어진 과제 주제를 보고 자신보다 쉽거나 자기가 잘 할 수 있는 부분이라는 생각이 들었다.",
+   "prompts": [
+    "다음 경우를 읽고 본인이 학생 A라는 가정 하에 어떻게 대처할지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "농어촌학생, 기초생활수급권자",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "다음에 대해 답해 주세요.",
+    "약학(藥學)전공을 선택한 이유는 무엇인가요?",
+    "약사(藥師)가 갖추어야 할 역량과 덕목은 무엇이 라고 생각하나요?",
+    "장래에 어떤 모습의 약사(藥師)가 되길 원하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "농어촌학생, 기초생활수급권자",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업 외에 본인이 가장 열정을 쏟아서 무언가를 이루려고 노력해 본 경험에 대해 이야기하고 그것이 지금 어떤 모습으로 본인에게 남아 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "농어촌학생, 기초생활수급권자",
+   "unit": "약학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "감명 깊게 읽었던 책이 있다면 한 가지 정해서 소개하고 왜 그렇게 생각하고 있는지 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "지역인재Ⅰ, 지역인재 기초생활수급권자 전형 [간호학과]",
+   "unit": "간호학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신에게 맡겨진 일(과제)을 잘 수행하기 위해 어려움이 있어도 끝까지 포기하지 않고 완수한 (의무를 다한) 경험이 있나요? (예; 자기계발, 학생회 활동, 동아리 활동, 지역사회봉사, 각종 행사 등)"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 24
+  },
+  {
+   "admission": "면접전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리치료학과 학업을 위해 기초과학(생물, 화학, 물리)의 연관성과 필요성에 대한 지원자의 생각을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 몸을 구성하는 근육은 수축과 이완을 반복하면서 움직임을 만들어 냅니다. 근육의 수축과 이완 과정을 “흥분, 전도, 막전위” 3가지 용어를 이용하여 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업이 어려웠을 때 어떤 방법으로 극복 또는 해결했는지 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학과 지원동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동물을 키우고 있습니까? 동물을 키우고 있다면 키우고 있는 동물을 소개해주시고, 키우지 않고 있다면 어떤 동물을 키우고 싶은지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "반려동물보건학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반려동물보건학은 어떤 학문 분야라고 생각하는지, 또 반려동물학의 어떤 세부 분야에 관심이 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 방사선학과에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘방사선사’로서의 의무란 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 합격 후 해보고 싶은 것에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "간단한 자기소개와 함께 인제대학교 임상병리학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 장점은 무엇이며, 직무에 어떻게 적용할 것인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "임상병리학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 학업 계획과 졸업 후 진로 계획은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "조별 과제를 한다면, 어떤 역할을 할 건지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "보건안전공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘안전’이 무엇이라고 생각하나요? 그리고 안전하면 떠오르는 것은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "보건안전공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "안전이 왜 중요한가와 일하면서 생길 수 있는 안전 문제에 관해서 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "보건안전공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "보건이 왜 중요한가와 일하면서 생길 수 있는 직업병에 관해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "스포츠헬스케어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학과 입학 후 진로 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "스포츠헬스케어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학과에 지원한 동기가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "스포츠헬스케어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학과에 진학하기 위해 어떤 노력을 했었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "식품영양·식품공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "식품 관련 분야에 관심을 갖게 된 계기를 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "식품영양·식품공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학생활에서 가장 중요하게 생각하는 것은 무엇인지 그 이유와 함께 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "식품영양·식품공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미래 식품산업에서 식품영양 또는 식품공학전공자의 장점(역할)은 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 25
+  },
+  {
+   "admission": "면접전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 응급구조학과에 지원하게 된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "응급구조학과 입학 후 진로계획에 대해서 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "응급구조학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "응급구조사의 마음가짐은 무엇이라고 생각하시나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의공학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교에서 잘했던 과목, 좋아했던 과목과 그 이유를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "면접을 위해 따로 준비한 사항 또는 얘기하고 싶은 내용 있으면 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의료IT학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "중고등학교 시절의 IT 관련 활동(없다면, 다른 공부나 학술 활동) 경험을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의료IT학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "살아오면서 가장 보람되었던 일과 가장 후회되었던 일을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의생명공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의생명공학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의생명공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의생명공학과를 전공한 후 자신의 진로 계획을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "의생명공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의생명공학과를 전공할 때 도움이 되는 자신의 장점을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "제약공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 지원 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "제약공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학생활 동안 학과 전공 공부 이외에 계발하고 싶은 능력과 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "제약공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인이‘잘할 수 있는 일’과 본인이‘좋아하는 일’중 어떤 직업을 선택하는 것이 바람직 하겠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "제약공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인이 제약공학과에 입학한다면, 4차 산업 혁명시대를 대비하기 위해 어떻게 노력할 것인가?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "영유아 관련 언론 기사 또는 사회적 이슈에 대한 자신의 견해를 제시하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아 교사가 갖추어야 할 자질은 무엇이며, 이와 관련하여 자신의 강점과 약점은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "유아교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "유아교육과에 지원한 동기(교직 선택 동기)와 이와 같은 진로를 위해 노력한 경험을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 봉사활동 경험을 통해 미래의 장애인 교육 및 복지의 바람직한 방향을 제시해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 기사와 사회적 이슈에 대해 공동체의 한 구성원으로서 자신의 견해를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "급변하는 사회에서 요구되는 특수교사의 자질은 어떠한지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경찰·행정학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 경찰·행정학과에 지원한 동기에 대해서 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경찰·행정학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 장점, 특기 사항에 대해서 적당한 예를 들어서 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경찰·행정학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경찰·행정학과 졸업 후, 자신의 진로계획에 대해서 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "법학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "법학과 진학 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "법학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "평소 관심 분야(졸업 후 진로 등)는 어떻습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "법학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 생활에 대한 기대(학업, 동아리 활동 등)가 있다면 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "보건행정학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "보건행정학과에 지원하게 된 동기가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "보건행정학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학교에 입학해서 자기계발을 위해 무슨 활동을 가장 하고 싶은가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "보건행정학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "보건행정학을 전공한 후에 성취하고자 하는 목표는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 26
+  },
+  {
+   "admission": "면접전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지에 관심을 갖게 된 계기에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 참여했던 자원봉사활동 내용에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 사회복지학과 동아리 중에 가장 관심이 있는 동아리는 무엇이고 왜 관심이 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "상담심리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 강점과 약점을 말한 후, 이를 상담심리치료학과와 향후 자신의 진로와 연관 지어 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "상담심리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "타인과 협동해야 하는 상황에서 본인의 역할이 주로 어떠했는지 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "상담심리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "상담 전문가의 역할에 대하여 아는 대로 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개와 지원동기를 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 진로 목표와 연관 지어 자신의 장점 2가지는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 2, 3년간 가장 큰 성취감을 느낀 경험에 대해 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "경영학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "만약 자신이 인제대 앞에서 창업한다면 어떤 아이템(제품&서비스)으로 하고 싶은지, 아이템과 이유를 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자유전공학부 홈페이지를 방문한 적이 있나요? 있었다면 가장 관심을 가진 내용이 무엇이었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "나를 행복하게 하는 것은 어떤 것인가? 그것이 나를 어떻게 / 왜 행복하게 하는가? 내가 행복하다는 것을 어떻게 알 수 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "자유전공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "현재의 나(성격, 기질, 태도, 생각 등)를 만드는데 영향을 끼친 기억할 만한 일/ 사건/ 기억/ 경험 등에 관해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "멀티미디어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 인제대학교 멀티미디어학과에 지원한 동기를 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "멀티미디어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 살아오면서 가장 보람된 일이나 기뻤던 일에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "멀티미디어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학생활 동안 꼭 하고 싶은 일 3가지를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "문화콘텐츠학과 지원동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "문화콘텐츠의 다양한 분야와 장르가 있습니다. (예) 영상 영화 콘텐츠, 문학콘텐츠, 역사콘텐츠, 서양문화콘텐츠, 동양문화콘텐츠, 드라마, K-콘텐츠, 콘텐츠산업, 문화기획, 문화경영 등) 진학해서 본격적으로 배우고 전공하고 싶은 분야를 몇 가지 고른다면 어떤 것입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "문화콘텐츠학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업 후에 종사하고 싶은 분야나, 하고 싶은 일은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과에 지원한 동기를 말하고 우리 학과와 관련하여 본인이 가진 장점이 있다면 그것은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 진로와 관련해 롤 모델로 삼고자 하는 사람이 있다면 누구이고 그 이유는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 미디어에서 접한 사회적 이슈 중 본인에게 인상 깊었던 이슈는 무엇이고, 이에 대한 본인의 생각은 어떻습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "공간이 왜 필요하다고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "건축가의 사회적 역할은 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "30년 후 건축물은 어떻게 바뀌어 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 27
+  },
+  {
+   "admission": "면접전형",
+   "unit": "기계·전기차공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개를 해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "기계·전기차공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "기계⋅전기차공학과 지원 사유를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "반도체·전자공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반도체·전자공학부에 지원하게 된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "반도체·전자공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신이 생각하고 있는 대학생활이란 어떤 것이며, 대학생활 중 하고 싶은 일은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "반도체·전자공학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "반도체·전자공학부의 전공 중 자신이 관심이 있는 분야는 무엇이며, 어떻게 진로를 계획하고 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 소방방재학과 지원동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "소방과 생명의 안전에 관해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업 후 장래희망이 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "소방방재학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "추가로 하고 싶은 말이 있으면 자유롭게 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "실내건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "실내건축학과에 지원하게 된 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "실내건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "실내건축학과 홈페이지에서 가장 관심 있는 내용은 무엇인가요? 그 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "실내건축학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 사고방식을 크게 바꾸게 된 계기가 있었습니까? 있었다면 그 후의 삶은 어떻게 변화하였는지요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "전기·배터리공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전기·배터리공학과에 지원한 동기와 학과 홈페이지에서 가장 관심을 가진 내용이 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "전기·배터리공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학생활 동안 꼭 하고 싶은 일 2가지는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "전기·배터리공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "전기·배터리공학과를 졸업한 후 생각하고 있는 진로는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "게임학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 게임학과에 지원한 동기가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "게임학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "가장 감명 깊게 보았던 영화나 좋아하는 게임은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "게임학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 살아오는 동안 가장 잘했다고 생각하는 것은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "스마트물류학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물류산업의 현황과 성장 가능성에 대해 설명해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "스마트물류학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지원자가 희망하고 원하는‘대학 교육’은 무엇인지 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "스마트물류학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미래 사회와 도시의 변화에 대해 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "컴퓨터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "컴퓨터공학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "컴퓨터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "실생활의 불편한 점을 컴퓨터를 활용하여 해결할 수 있는 것에 대하여 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "면접전형",
+   "unit": "컴퓨터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 인생에서 가장 보람 있었던 일에 대하여 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 28
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리치료학과 학업을 위해 기초과학(생물, 화학, 물리)의 연관성과 필요성에 대한 지원자의 생각을 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 몸을 구성하는 근육은 수축과 이완을 반복하면서 움직임을 만들어 냅니다. 근육의 수축과 이완 과정을 “흥분, 전도, 막전위” 3가지 용어를 이용하여 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "물리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학업이 어려웠을 때 어떤 방법으로 극복 또는 해결했는지 말해보세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 방사선학과에 지원한 동기는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘방사선사’로서의 의무란 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "방사선학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 합격 후 해보고 싶은 것에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "조별 과제를 한다면, 어떤 역할을 할 건지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "상담심리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인의 강점과 약점을 말한 후, 이를 상담심리치료학과와 향후 자신의 진로와 연관 지어 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "상담심리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "타인과 협동해야 하는 상황에서 본인의 역할이 주로 어떠했는지 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "지역인재Ⅰ 전형",
+   "unit": "상담심리치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "상담 전문가의 역할에 대하여 아는 대로 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 29
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고등학교 시절, 많은 시간과 노력을 들여 열심히 한 활동이 있다면 어떠한 것이 있는지, 그리고 작업치료 전공을 지원할 때 어떤 영향을 미쳤는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "조별 과제를 한다면, 어떤 역할을 할 건지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "작업치료학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자기소개 및 작업치료학과에 지원한 동기를 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "의공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "의공학과에 지원한 동기를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "의공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교에서 잘했던 과목, 좋아했던 과목과 그 이유를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "의공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "면접을 위해 따로 준비한 사항 또는 얘기하고 싶은 내용 있으면 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 봉사활동 경험을 통해 미래의 장애인 교육 및 복지의 바람직한 방향을 제시해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "장애 관련 기사와 사회적 이슈에 대해 공동체의 한 구성원으로서 자신의 견해를 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "특수교육과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "급변하는 사회에서 요구되는 특수교사의 자질은 어떠한지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "법학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "법학과 진학 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "법학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "평소 관심 분야(졸업 후 진로 등)는 어떻습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "법학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학 생활에 대한 기대(학업, 동아리 활동 등)가 있다면 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회복지에 관심을 갖게 된 계기에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "지금까지 참여했던 자원봉사활동 내용에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "사회복지학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "인제대학교 사회복지학과 동아리 중에 가장 관심이 있는 동아리는 무엇이고 왜 관심이 있는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "우리 학과에 지원한 동기를 말하고 우리 학과와 관련하여 본인이 가진 장점이 있다면 그것은 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자신의 진로와 관련해 롤 모델로 삼고자 하는 사람이 있다면 누구이고 그 이유는 무엇입니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "사회배려대상자 전형",
+   "unit": "미디어커뮤니케이션학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 미디어에서 접한 사회적 이슈 중 본인에게 인상 깊었던 이슈는 무엇이고, 이에 대한 본인의 생각은 어떻습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "unit": "스포츠헬스케어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학과 입학 후 진로 계획에 대해 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "unit": "스포츠헬스케어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학과에 지원한 동기가 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  },
+  {
+   "admission": "특성화고교 전형",
+   "unit": "스포츠헬스케어학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스포츠헬스케어학과에 진학하기 위해 어떤 노력을 했었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 30
+  }
+ ]
+}

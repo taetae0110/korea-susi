@@ -1,0 +1,306 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2025,
+  "file": "2025_대구가톨릭대학교_학종SW기출"
+ },
+ "interviews": [
+  {
+   "admission": "SW전형",
+   "units": "컴퓨터소프트웨어학부, AI빅데이터공학과, 소프트웨어융합학과",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "소프트웨어와 관련된 활동 내역을 소개해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "활동 중에 팀원들과의 갈등이 있었던 경험이 있었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "프로그래밍을 배우면서 어려웠던 점과 어떻게 해결하였는지 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "프로그래밍하면서 어려웠던 점과 극복하기 위해 본인이 기울인 노력에 대해서 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "컴퓨터소프트웨어학부에 지원한 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "어떤 프로그래밍 언어를 사용했는지 알 수 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "개발자 커뮤니티에서 활동한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회적 약자를 위해 SW를 개발한다면 어떤 게 좋을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "입학 후 계획은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "컴퓨터소프트웨어학부",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "졸업 후 계획은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 등 비교과 활동 중에 리더로서 활동한 경험을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "좋아했던 과목과 힘들었던 과목을 말하고 그 이유에 대해 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "비교과 활동 중 문제해결을 한 경험을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "AI빅데이터공학과에 지원한 동기를 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "소프트웨어를 통해 문제해결을 한 경험이나 컴퓨터 언어로 프로그래밍한 경험을 말해보시오. 특히, 프로그래밍 경험이 있다면 사용한 컴퓨터 언어에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "AI빅데이터공학과에 입학하면 만들어보고 싶은 소프트웨어에 대해 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "AI빅데이터공학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "향후 어떤 회사에 취업하고 싶으며, 성공적인 취업을 위해 어떤 노력을 할 것인지 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 2
+  },
+  {
+   "admission": "SW전형",
+   "unit": "소프트웨어융합학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "SW에 관련한 학과 동아리 활동과 자신이 주도적으로 수행한 부분에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "SW전형",
+   "unit": "소프트웨어융합학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고교 재학 당시 가장 흥미 있었던 교과목이 무엇인지, 그 이유는 무엇인지 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "SW전형",
+   "unit": "소프트웨어융합학과",
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "SW와 관련 있는 창의적 체험활동과 해당 활동을 통해 성장한 점을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "SW전형",
+   "unit": "소프트웨어융합학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "대학에 입학하여 중점적으로 학습하고자 하는 내용 및 계획에 대해 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  },
+  {
+   "admission": "SW전형",
+   "unit": "소프트웨어융합학과",
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "최근 관심 있게 살펴본 SW 분야 최신 기술에 대해 소개하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 3
+  }
+ ]
+}

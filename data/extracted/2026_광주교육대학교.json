@@ -1,0 +1,580 @@
+{
+ "source": {
+  "university": "광주교육대학교",
+  "year": 2026,
+  "file": "2026_광주교육대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(전남교육감추천전형), 학생부종합(전남교육감다문화전형), 학생부종합(광주인재전형), 학생부종합(사회통합전형), 학생부종합(장애인대상자전형)",
+   "units": "인문계열 초등교육과",
+   "format": "서류기반",
+   "method": "면접·구술고사(대면)",
+   "duration": "개별 학교생활기록부 질문 10분 이내",
+   "criteria": [
+    {
+     "name": "문제해결역량",
+     "weight": null
+    },
+    {
+     "name": "교직적합성",
+     "weight": null
+    },
+    {
+     "name": "교직인성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "학생부종합(교직적성우수자전형Ⅱ) / 학생부종합(농어촌학생전형) / 학생부종합(기초/차상위/한부모전형)",
+   "units": "인문계열 초등교육과",
+   "format": "제시문기반",
+   "method": "면접·구술고사(비대면)",
+   "duration": "2분 이내",
+   "criteria": [
+    {
+     "name": "교직인성",
+     "weight": null
+    }
+   ],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-수학) '나만의 스팀 수업' 활동에서 수학과 영어를 융합한 수업을 계획한 과정과 결과를 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-심화영어독해) 인공지능이 교사의 역할을 대체할 수 있다'라는 주장에 대해 반론을 펼쳤다고 되어 있는데 초등교사의 역할과 관련해 구체적 근거와 예시를 들어 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-통합사회) 다양한 문화권의 특징과 삶의 방식 탐구하셨는데 초등교실에서 다문화가정 학생들과 일반 학생들이 어울리도록 지도할 수 있는 방안이 있다면 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-사회문제탐구) '생산 가능 인구 감소와 노동 시장 변화'에 대해 탐구한 과정을 설명하고 교육분야에서 미칠 수 있는 영향이나 예상되는 현상은 무엇이 있겠는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-사회문화) 교사 집단을 준거 집단으로 설정하여 자신의 역할과 삶을 연결지어 설명했다고 하는데, 교사로서 역할과 자신의 삶이 어떻게 연결되는지 구체적으로 사례를 들어 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-영어1) 스티브 잡스의 스탠퍼드 대학 졸업 연설문 선정해 활동했다고 나오는데, 연설의 주요 내용 설명해 보고 느낀 점, 본인 삶에의 적용 등에 대해 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-논술) 고교학점제가 가진 순기능과 정책으로 인해 나타날 수 있는 역기능은 무엇이 있겠는지 탐구한 과정과 결과를 중심으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-통합사회) 교육과 불평등의 문제, 특히 지역 간 격차에 관심을 가지고 조사 활동을 했다고 하는데, 초등 맥락에서도 교육 불평등이 지역에 따라 나타난다고 생각하는지, 어떤 해결책이 필요하다고 생각하는지 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-진로선택) ‘초등학교 체험학습 중단’ 이슈를 탐색했다고 나오는데, 그 내용은 무엇인가? 지원자가 생각하는 바람직한 해결책은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-교육학) '구성주의와 본질주의'라는 두 교육을 학습하고, 자신에게 더 적합한 교육관을 선택하여 그 이유를 명확히 설명했던 내용을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-영어1) 아동 놀이와 교육의 관계에 대한 영어 지문 분석을 통해 아동 발달의 핵심 개념을 탐구했다고 나오는데, 이 내용 설명해 보고 초등교사에게 어떤 시사점 주는지?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-영어독해와작문) '자신감키우는법'에 대한 영어강의 시청하셨는데, 자신감 있는 발표하는 5가지 방법 설명 후 교사로서 학생들 자신감 향상시킬 수 있는 방안을 얘기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-영어2) ‘교사와 학생 간 상호작용의 중요성’을 주제로 한 에세이 작성했다고 나오는데, 교사와 학생 간의 상호작용이 학업 성장과 개인적 발전에 끼치는 영향에 대해 설명해 보고, 그것이 초등교사에게 줄 수 있는 시사점은 무엇일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-문학) ‘소년, 독립을 위한 소리 없는 외침’이라는 시에서 시인이 느끼는 죄의식과 자기 성찰에 대해 해석했던 내용을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(영어1) 평등한 교육을 위한 지원 방안을 연구하고 싶다는 포부를 밝혔다고 하는데, 학생이 생각하는 평등한 교육이 무엇인지, 그것을 위한 교사의 노력은 무엇이 필요한지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-영어2) '게임을 교육적 전략으로써 성공적으로 활용하는 방안은 무엇인가'에 대한 발표 과제 수행했다고 나오는데, 그 내용은 무엇인지, 초등교육에 어떤 시사점 줄 수 있는지 설명해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1학년 1학기 과학탐구실험) 인공지능의 발달과 교육현장의 변화를 연결 지어 기사문을 작성하였던 내용을 바탕으로 자신의 견해를 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(윤리와 사상2) 다문화 교육에 관심을 가지고 스토아 학파의 자연법 이론을 적용하여 분석을 했다고 하는데, 스토아 학파의 자연법 이론이 무엇인지 설명하고, 분석의 결과는 무엇인지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-심화국어) 최근 논란인 문해력 부족 현상에 관심 갖고 '학생 문해력 부족 현상의 해결'을 주제로 한 자기주도적 탐구 보고서를 작성한 과정을 설명하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-화법과 작문)존 듀이의 교육 철학을 분석하여 교육의 본질이 인격 형성과 공동체 역량 강화에 있다고 주장한 근거를 제시하시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 18
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(동아리 1-3) 의료, 역사, 경제 등 다양한 분야에 관심을 가지고 진로를 탐색하고 동아리 활동을 해온 것으로 보입니다. 이와 같은 탐색 활동 중 자신의 초등교육 진로선택에 영향을 준 것이 있다면 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(행특2) 학업의지가 커 부족한 과목을 보완하는 모습이 보인다는 기술과 함께 실제로 성적도 꾸준히 향상한 것으로 보입니다. 이런 경험 바탕으로 할 때 기초 학습 성취가 부족한 학생들이 포함된 학급에서 어떻게 가르칠 수 있다고 생각하는지 말해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-창체 동아리) 동아리 회장으로서 외부 활동과 협력을 통해 동아리의 인지도를 높이는 데 기여한 사례를 말씀해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-창체 진로) 1학기 공강 프로그램 및 프로젝트형 봉사활동으로 수학 교과에 대한 멘토-멘티 활동을 한 경험에서 자신의 역할을 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3 동아리) 교직과 관련하여 최근 읽었던 책 '미래교육, 교사가 디자인하다(곽덕주 외)'의 주요 내용은 무엇이며, 해당 도서를 통해 교직 윤리와 교직관에 대해 어떠한 고민과 탐색을 할 수 있었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3 진로) 진로 활동에서 탐구한 '느린 학습자를 위한 맞춤형 교육'에 대해 본인의 교사로서의 가치관과 연결지어 설명하고, 이외에 최근 교육 문제나 현안과 관련하여 탐색해 본 경험이 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(행특) 인성 칭찬, 학교현장에서 인성교육을 중시하는데 초등학교 교사가 된다면 본인의 학창시절을 비추어 어떻게 교육하는 것이 좋을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(행특) 인공지능 교과서에 대한 기사를 소개하였다는 이야기가 있는데, 초등 맥락에서 디지털 교과서가 가지는 강점과 한계에 대해 이야기하고, 어떻게 교실 수준에서 한계를 보완할 수 있을지 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3 진로) 진로 활동에서 탐구한 '디지털 격차와 교육적 대응 문제'에 대해 본인의 교사로서의 가치관과 연결지어 설명하고, 이외에 최근 교육 문제나 현안과 관련하여 탐색해 본 경험이 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-진로) 수학교사/수학교육과 희망했는데, 초등교육과 지원 동기 및 초등교사 부합 자질 보여주는 고교 활동 사례를 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(진로3) 학급 자율 주제 탐구 활동으로 '디지털 정보 탐구'를 초등 맥락에서 수행했다고 하는데, 초등학생에게 디지털 교육에서 어떤 부분이 가장 중요하다고 생각하는지 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(동아리1-3) 생명과학 등 탐색을 하다가 특수 교육에 대한 관심으로 진로 탐색이 확장된 것으로 보입니다. 특수 교육 학과가 아닌 초등교육을 선택한 이유가 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(자율2) 사회 참여 프로젝트 활동에 대한 기록이 있는데, 초등학교 단계에서 사회 참여 프로젝트 활동이 가능하다고 생각하는지, 자신의 교실에서 해보고 싶은 프로젝트가 있다면 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-진로) 특수교사 앤 설리번을 롤모델로 선정하고 장애 학생 교육 방법론과 교사의 역할에 대해 심도있게 분석했다는 기록이 있습니다. 분석한 내용을 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-창체 진로) 독서를 통한 철학적 성찰과 실험을 통한 탐구 역량 향상을 병행하며 교육 분야의 진로에 대한 목표의식을 더욱 확고히 하게 된 과정에 대해 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3-행동) 예의와 존중을 중요시하면서, 학우들이 때때로 교사에게 예의 없는 행동을 보일 때 먼저 나서 이를 중재하고 어른을 공경하는 태도를 보였던 경험을 말해보시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(2-진로) 미디어 리터러시의 이해 특강에 참여한 후 미디어 리터러시 교육의 중요성을 인식하였는데, 중요성은 무엇이며 초등학생들에게 미디어 리터러시를 함양시키기 위해서는 교사는 어떤 노력을 해야 할까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(3학년 출결) 3학년 출결 미인정 결석 5회, 미인정 조퇴 3회가 있고, 질병 결석 6회, 질병 조퇴도 1회가 있는데, 이에 대해 보충 설명해주기 바랍니다. (1학년 행특기록: 뛰어난 자기관리역량이 돋보임과 배치)"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-동아리) 초등학생 멘토링 중 레포(라포)형성하는 모습이 인상적이라는 교사의 평이 있습니다. 라포형성의 중요성과 본인만의 라포형성 방법에 대해 이야기해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "(1-3동아리) 3년간 사서부, 도서부를 꾸준히 하였습니다. 초등학생에게 독서의 중요성을 알려주기 위한 효과적인 방법이 있다면 무엇이 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 19
+  },
+  {
+   "admission": "학생부종합(교직적성우수자전형Ⅱ) / 학생부종합(농어촌학생전형) / 학생부종합(기초/차상위/한부모전형)",
+   "unit": "인문계열",
+   "format": "제시문기반",
+   "competency": "교직인성",
+   "passage": "국제생수협회(IBWA)의 연구 보고에서는 1리터의 생수를 생산하는 과정에서 사용되는 물(원료수 1리터 포함)까지 합쳐 약 1.32~1.41리터의 물이 사용된다고 한다. 그러나 물 발자국(water footprint) 개념을 적용하면 생수 용기인 플라스틱(PET)병을 만드는 과정에서 원유 시추 및 정제, 플라스틱 생산 등에 상당량의 물이 간접적으로 사용되어 생수 1리터당 총 2~3리터의 물이 사용된다는 추정치가 나온다.\n※ 물 발자국(water footprint): 제품의 원료 채취부터 제조, 유통, 사용, 폐기까지 모든 과정에서 사용되거나 오염되는 물의 총량",
+   "prompts": [
+    "생수 생산이 지구 생태 환경에 미치는 영향을 설명하고, 생활 속에서 환경을 보전하기 위해 초등학교 학생들이 실천할 수 있는 방안을 제시하시오."
+   ],
+   "intent": "이 문제는 ‘물 발자국(water footprint)’ 예를 통하여 생활 속에서의 환경 오염과 지구 생태 환경과의 관계를 인식하고, 지구 생태 환경에 미치는 영향을 분석하여 초등학교 학생 수준에서 환경 보전을 위해 실천할 수 있는 방안을 제시할 수 있는지를 알아보기 위한 문항임. 생활 속에서 쉽게 접할 수 있는 환경에 대한 감수성, 환경 보전에 대한 수용성과 실천 능력, 환경 문제에 대한 해결 능력 등을 알아보고자 하였음.",
+   "sample_answer": "(영향) 예\n1. 자원 소비 및 지하수 고갈: 해당 지역의 지하수 대수층에 부담을 주어 지역 사회의 물 부족이나 생태계 교란 유발\n2. 탄소 발자국 및 기후 변화: 생수 생산 및 유통 과정에서 막대한 양의 이산화탄소 배출로 인해 지구 온난화 가속\n3. 플라스틱 폐기물 및 오염: 생산된 플라스틱 생수병의 낮은 재활용율로 인한 환경 오염 발생\n4. 기타\n(실천 방안) 예\n1. 일회용품 사용 줄이기(플라스틱 컵, 빨대, 물티슈 등)\n2. 에너지 절약하기(절전 기능 사용, 엘리베이터 대신 계단 이용, 가전제품 플러그 뽑기 등)\n3. 쓰레기 줄이기(올바른 분리 배출, 음식물 쓰레기 줄이기 등)\n4. 물건 아껴 쓰기(학용품, 장난감 등)\n5. 기타",
+   "page": 20
+  }
+ ]
+}

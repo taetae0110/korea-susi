@@ -1,0 +1,477 @@
+{
+ "source": {
+  "university": "울산대학교",
+  "year": 2026,
+  "file": "2026_울산대학교"
+ },
+ "interviews": [
+  {
+   "admission": "잠재역량",
+   "units": "전체",
+   "format": "서류기반",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "지역교과",
+   "units": "의예과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "지역인재",
+   "units": "의예과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "지역인재 (기초생활/차상위)",
+   "units": "의예과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "수능",
+   "units": "의예과",
+   "format": "MMI",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "특기자",
+   "units": "예술체육계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  },
+  {
+   "admission": "경기실적우수자",
+   "units": "예술체육계열",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [],
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "학업성취",
+   "passage": null,
+   "prompts": [
+    "수업만으로 해결되지 않아 스스로 자료를 찾아 개념을 이해하고자 노력한 경험이 있나요? 구체적으로 무엇이며 그 결과는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "학업성취",
+   "passage": null,
+   "prompts": [
+    "OO과목 수업 시간에 진행한 탐구 활동의 내용과 그 과정에서 배운 점을 말해주십시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "학업성취",
+   "passage": null,
+   "prompts": [
+    "어떤 과목의 문제 풀이 중 \"다른 관점은 없을까?\"라는 생각으로 다른 방식의 풀이를 고민해본 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "학업성취",
+   "passage": null,
+   "prompts": [
+    "주요 교과목의 학업성취도가 하락한 시기가 있었는데, 그 이유와 극복을 위해 어떤 노력을 했나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "학업성취",
+   "passage": null,
+   "prompts": [
+    "OO학부에 진학을 희망하면서 관련 기초 과목(예: 수학, 과학 계열)을 이수하지 않은 특별한 이유가 있나요? 앞으로의 보완 계획은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "학업성취",
+   "passage": null,
+   "prompts": [
+    "가장 흥미로웠던 교과 활동에서 배운 개념을 실생활이나 다른 분야에 적용해 보려 노력한 경험이 있다면 말해주십시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "OO학부에 지원하게 된 동기는 무엇이며, 입학 후 어떤 분야를 집중적으로 공부하고 싶나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "학생부에서 지원 학부와 직접 관련된 활동이 많지 않은데, 이 분야에 관심을 갖게 된 계기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "졸업 후 어떤 직업을 희망하나요? 그 목표를 이루기 위해 대학에서 어떤 노력을 할 계획인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "3년간 동아리 활동을 꾸준히 해왔는데, 그 활동이 진로 선택과 어떤 연관이 있는지 설명해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "고교 시절 다양한 분야에 관심을 가졌는데, 여러 분야 중 OO학부를 최종 선택하게 된 계기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "가장 관심 있는 전공 세부 분야나 연구 주제가 있다면 무엇이며, 그 이유는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "전공적합성 및 잠재역량",
+   "passage": null,
+   "prompts": [
+    "[동아리/진로활동] 탐구하거나 조사한 주제 중 OO학부와 연계된 내용이 있다면 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "본인에게 다소 손해가 되더라도 공동체의 규칙이나 원칙을 지키기 위해 노력한 경험이 있나요? 그 이유와 결과는?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "단체 활동 중 구성원 간 갈등이 생겼을 때 이를 해결하고자 했던 경험이 있나요? 어떤 상황이\n었으며 그로부터 배운 점은?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "학교생활에서 타인을 돕거나 배려한 경험 중 가장 기억에 남는 것은 무엇이며, 상대방과 자신에게 어떤 영향을 주었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "리더 역할을 수행하면서 본인의 한계를 느꼈던 순간이 있었나요? 그 이후 어떻게 변화하였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "공동 프로젝트에서 다른 구성원들이 하기 꺼려하는 일을 솔선수범해 수행한 경험이 있다면 말해주십시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "잠재역량",
+   "unit": "전체",
+   "format": "서류기반",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "봉사활동 중 가장 기억에 남는 활동은 무엇이며, 그 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 15
+  },
+  {
+   "admission": "지역교과, 잠재역량, 지역인재, 수능",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "해당 교과 수업의 우수한 성적 유지를 위해 가장 노력을 기울였던 점을 이야기해 보세요. 그러한 노력을 바탕으로 성취해 낸 것 중 가장 기억에 남는 것은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "지역교과, 잠재역량, 지역인재, 수능",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": "학업역량",
+   "passage": null,
+   "prompts": [
+    "해당 교과목 시간에 교과관련 모둠 활동을 많이 하였는데, 가장 기억에 남는 모둠활동의 내용에 관해 설명해 주세요. (설명 후) 해당 내용과 연관하여 의예과 입학 후 학문적으로 어떻게 연계하여 활동할 수 있을지 본인의 생각에 대해 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "지역교과, 잠재역량, 지역인재, 수능",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "해당 교과의 진로 활동에서 수행한 탐구 활동을 통해 알게 된 내용은 무엇인가요? 탐구 과정을 구체적으로 이야기해 보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "지역교과, 잠재역량, 지역인재, 수능",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": "진로역량",
+   "passage": null,
+   "prompts": [
+    "해당 교과목에서 진로활동에 관련된 연구/실험을 진행하였는데 그 주제를 선정하게 된 계기와 연구/실험설계 과정부터 결과 도출까지의 과정을 간략하게 정리하여 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "지역교과, 잠재역량, 지역인재, 수능",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "학교생활에서 나눔과 배려를 실천한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "지역교과, 잠재역량, 지역인재, 수능",
+   "unit": "의예과",
+   "format": "서류기반",
+   "competency": "공동체역량",
+   "passage": null,
+   "prompts": [
+    "3년 동안의 학급 임원 경험 중 어려운 점은 없었나요? 있었다면 어려움을 해결하기 위하여 어떠한 노력을 했는지 말해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 16
+  },
+  {
+   "admission": "특기자, 경기실적우수자",
+   "unit": "스포츠과학부",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "운동선수의 심리적 준비가 경기 성과에 미치는 영향에 대해 어떻게 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특기자, 경기실적우수자",
+   "unit": "스포츠과학부",
+   "format": "인성",
+   "competency": "전공적합성",
+   "passage": null,
+   "prompts": [
+    "목표 설정의 중요성과 이를 효과적으로 수행하는 방법은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특기자, 경기실적우수자",
+   "unit": "스포츠과학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "팀워크에 대한 당신의 생각은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특기자, 경기실적우수자",
+   "unit": "스포츠과학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "지도자나 코치의 피드백을 어떻게 받아들이고, 이를 통해 어떻게 성장하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특기자, 경기실적우수자",
+   "unit": "스포츠과학부",
+   "format": "인성",
+   "competency": "사고력 및 의사소통",
+   "passage": null,
+   "prompts": [
+    "생활체육의 중요성에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  },
+  {
+   "admission": "특기자, 경기실적우수자",
+   "unit": "스포츠과학부",
+   "format": "인성",
+   "competency": "사고력 및 의사소통",
+   "passage": null,
+   "prompts": [
+    "체육이 개인의 건강에 미치는 긍정적인 영향은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 17
+  }
+ ]
+}

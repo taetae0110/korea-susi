@@ -15,7 +15,8 @@ export default function QuestionsPage({ searchParams }: PageProps<"/questions">)
       <div>
         <h1 className="text-2xl font-extrabold">기출 문항</h1>
         <p className="mt-1 text-sm text-muted">
-          대학이 공개한 보고서의 면접 문항을 원문 그대로 보여 줍니다. 문항마다 출처 문서와 쪽수가 있습니다.
+          대학이 공개한 면접 문항(기출 문항, 예시 문항, 사전 공개 문항)을 원문 그대로 보여 줍니다. 문항마다 출처
+          문서 이름과 쪽수가 있으니 어떤 성격의 자료인지 확인하세요.
         </p>
       </div>
       <Suspense fallback={<div className="card h-40 animate-pulse" />}>

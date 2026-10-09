@@ -1,0 +1,91 @@
+{
+ "source": {
+  "university": "동국대학교(WISE)",
+  "year": 2026,
+  "file": "2026_동국대학교(WISE)"
+ },
+ "interviews": [
+  {
+   "admission": "학생부교과(면접전형)",
+   "units": "전체",
+   "format": "인성",
+   "method": "인성면접",
+   "duration": null,
+   "criteria": [
+    {
+     "name": "성장 가능성",
+     "weight": null
+    },
+    {
+     "name": "인성 및 사회성",
+     "weight": null
+    }
+   ],
+   "page": 10
+  },
+  {
+   "admission": "참사람",
+   "units": "한의예과 의예과 간호학과",
+   "format": "서류기반",
+   "method": "학교생활기록부 서류평가 기반 확인면접",
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  },
+  {
+   "admission": "지역인재(종합)",
+   "units": "의예과 간호학과",
+   "format": "서류기반",
+   "method": "학교생활기록부 서류평가 기반 확인면접",
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  },
+  {
+   "admission": "재외국민과 외국인 특별전형",
+   "units": "한의예과 의예과",
+   "format": "서류기반",
+   "method": "학교생활기록부(및 대체서식) 기반 인성면접",
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  },
+  {
+   "admission": "만학도전형",
+   "units": "글로컬인재학부",
+   "format": "인성",
+   "method": "인성면접",
+   "duration": null,
+   "criteria": [],
+   "page": 10
+  }
+ ],
+ "questions": [
+  {
+   "admission": "학생부교과(면접전형)",
+   "unit": "전체",
+   "format": "인성",
+   "competency": "성장 가능성",
+   "passage": null,
+   "prompts": [
+    "타인과 협력하여 공동의 목표를 완성했던 경험을 이야기하며, 그 과정에서 본인이 중요하다고 생각한 가치나 태도를 구체적으로 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 31
+  },
+  {
+   "admission": "학생부교과(면접전형)",
+   "unit": "전체",
+   "format": "인성",
+   "competency": "인성 및 사회성",
+   "passage": null,
+   "prompts": [
+    "최근 자신이 도전하거나 새로운 일을 시도한 경험에 대해 말씀해 주시고, 그 과정에서 얻은 깨달음과 이를 어떻게 미래에 활용하고 싶은지 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 31
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "source": {
+  "university": "대구가톨릭대학교",
+  "year": 2025,
+  "file": "2025_대구가톨릭대학교_예상_약학지역교과"
+ },
+ "interviews": [
+  {
+   "admission": "지역교과전형",
+   "units": "약학부",
+   "format": "인성",
+   "method": null,
+   "duration": null,
+   "criteria": [
+    {
+     "name": "인성",
+     "weight": null
+    },
+    {
+     "name": "창의성 사고력",
+     "weight": null
+    },
+    {
+     "name": "미래지향성",
+     "weight": null
+    },
+    {
+     "name": "공동체성",
+     "weight": null
+    }
+   ],
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "약학대학에 지원하게 된 동기는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "약사로서 적합한 본인의 특성은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "인성",
+   "passage": null,
+   "prompts": [
+    "감명 깊게 읽었던 책은 무엇이며, 감명을 받은 이유는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "약사라는 직무를 수행하는 데 있어 가장 필요한 업무 능력은 무엇이라고 생각합니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "창의성 사고력",
+   "passage": null,
+   "prompts": [
+    "살아오면서 자신만의 독특한 창의적인 사고로 문제를 해결한 경험을 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "우리 사회가 원하는 미래 약사의 모습은 어떤 것일까요? 신약 개발자로서의 역할은 제외하고 말씀해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "미래지향성",
+   "passage": null,
+   "prompts": [
+    "미래의 약사는 현재의 업무 이외에 어떤 업무를 담당하게 될 것인지 설명하고, 그 이유를 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "약사가 갖추어야 할 윤리적 기준은 무엇일까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "각박한 현대 사회에서 봉사의 사회적 의미는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  },
+  {
+   "admission": "지역교과전형",
+   "unit": "약학부",
+   "format": "인성",
+   "competency": "공동체성",
+   "passage": null,
+   "prompts": [
+    "사회생활을 하다 보면 구성원들과 다양한 갈등이 발생할 수 있습니다. 이러한 갈등 상황을 어떻게 해결하면 좋을지 예를 들어 설명해 주십시오."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 1
+  }
+ ]
+}
