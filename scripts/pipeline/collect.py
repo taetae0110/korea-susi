@@ -16,8 +16,14 @@ import verify  # noqa: E402
 verify.TXT = os.path.join(work, "txt")
 dest = os.path.join(repo, "data", "extracted")
 os.makedirs(dest, exist_ok=True)
-ok = bad = 0
+# Only extractions whose source document is listed (data/sources.tsv or WORK_DIR/sources_extra/) are collected.
+listed = {l.split("\t")[1] for l in open(os.path.join(repo, "data", "sources.tsv"), encoding="utf-8").read().strip().split("\n")[1:]}
+listed |= {os.path.basename(p)[:-4] for p in glob.glob(os.path.join(work, "sources_extra", "*.tsv"))}
+ok = bad = skipped = 0
 for path in sorted(glob.glob(os.path.join(work, "out", "*.json"))):
+    if os.path.basename(path)[:-5] not in listed:
+        skipped += 1
+        continue
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
         passed = verify.verify(path, quiet=True)
@@ -27,7 +33,7 @@ for path in sorted(glob.glob(os.path.join(work, "out", "*.json"))):
     else:
         bad += 1
         print(buf.getvalue().strip())
-print(f"copied {ok} verified files, rejected {bad}")
+print(f"copied {ok} verified files, rejected {bad}, skipped {skipped} without a source row")
 
 # Source rows for documents found on universities' own sites (WORK_DIR/sources_extra/<FILE>.tsv)
 tsv = os.path.join(repo, "data", "sources.tsv")

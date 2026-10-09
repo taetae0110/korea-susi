@@ -1,0 +1,60 @@
+{
+ "source": {
+  "university": "동아대학교",
+  "year": 2025,
+  "file": "2025_동아대학교"
+ },
+ "interviews": [
+  {
+   "admission": "학생부종합(잠재능력우수자)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인, 지원자 1인을 대상으로 학교생활기록부 기반 교과 지식과 관련 없는 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 7
+  },
+  {
+   "admission": "학생부종합(지역인재종합)",
+   "units": "의예과",
+   "format": "서류기반",
+   "method": "면접위원 2인, 지원자 1인을 대상으로 학교생활기록부 기반 교과 지식과 관련 없는 면접",
+   "duration": null,
+   "criteria": [],
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "OO 활동 경험 사례는 어떤 상황에서(목적으로/의도로) 이루어진 것입니까?",
+    "그 준비 과정에서 어떤 아이디어를 냈습니까? 역할을 했습니까?",
+    "활동 과정에서 무엇을 배웠습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "공동체의 발전(리더십 발휘/이타적 봉사활동 등)을 위한 활동에 참여했던 경험이 있다면 이야기 해보세요.",
+    "그 과정에서 본인의 역할은 무엇입니까?",
+    "문제 상황에서 어떤 행동을 취했습니까?",
+    "그 행동 결과(본인의 성장 및 변화 포함)는 어떻게 되었습니까?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 9
+  }
+ ]
+}
