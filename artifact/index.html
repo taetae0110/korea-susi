@@ -1,0 +1,1278 @@
+<title>수시 면접 연습실</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: one reading column (max 880px) under a sticky tab bar; cards only for questions and settings blocks */
+:root {
+  --bg: #f5f6f8;
+  --surface: #ffffff;
+  --sunken: #eef1f5;
+  --fg: #161a22;
+  --muted: #5a6273;
+  --border: #dfe3ea;
+  --accent: #2b59c3;
+  --accent-soft: #e7edfb;
+  --accent-fg: #ffffff;
+  --good: #1d7a4b;
+  --warn: #9a5a06;
+  --bad: #b42318;
+  --font: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --radius: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1218; --surface: #171b23; --sunken: #1d222c; --fg: #e7eaf0; --muted: #9aa2b1; --border: #2a303b;
+    --accent: #84a6f4; --accent-soft: #1d2843; --accent-fg: #0f1218; --good: #4cc38a; --warn: #f0b356; --bad: #f97066;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1218; --surface: #171b23; --sunken: #1d222c; --fg: #e7eaf0; --muted: #9aa2b1; --border: #2a303b;
+  --accent: #84a6f4; --accent-soft: #1d2843; --accent-fg: #0f1218; --good: #4cc38a; --warn: #f0b356; --bad: #f97066;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 15px; line-height: 1.65; word-break: keep-all; overflow-wrap: anywhere; }
+button, input, select, textarea { font: inherit; color: inherit; }
+a { color: var(--accent); }
+h1, h2, h3 { line-height: 1.35; text-wrap: balance; margin: 0; }
+p { margin: 0; }
+
+.topbar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); }
+.topbar-inner { max-width: 880px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.brand { font-weight: 700; font-size: 17px; letter-spacing: -0.01em; background: none; border: 0; padding: 0; cursor: pointer; }
+.tabs { display: flex; gap: 2px; overflow-x: auto; flex: 1 1 auto; min-width: 0; scrollbar-width: none; }
+.tab { flex: none; border: 0; background: none; padding: 6px 11px; border-radius: 8px; font-size: 14px; font-weight: 600; color: var(--muted); cursor: pointer; }
+.tab:hover { color: var(--fg); }
+.tab[aria-current="page"] { background: var(--accent-soft); color: var(--accent); }
+
+main { max-width: 880px; margin: 0 auto; padding-inline: 16px; padding-block: 20px 48px; display: flex; flex-direction: column; gap: 18px; }
+.page-head { display: flex; flex-direction: column; gap: 4px; }
+.page-head h1 { font-size: 24px; }
+.lede { color: var(--muted); font-size: 14px; }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.stack { display: flex; flex-direction: column; gap: 12px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); }
+.grid > * { min-width: 0; }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; border: 1px solid var(--border); background: var(--surface); border-radius: 10px; padding: 8px 14px; font-size: 14px; font-weight: 600; cursor: pointer; text-decoration: none; color: var(--fg); }
+.btn:hover { border-color: var(--accent); }
+.btn:focus-visible, .tab:focus-visible, .input:focus-visible, .opt:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); }
+.btn.big { padding: 12px 16px; font-size: 16px; width: 100%; }
+.btn.danger { color: var(--bad); border-color: var(--bad); }
+.link { background: none; border: 0; padding: 0; color: var(--accent); font-weight: 600; cursor: pointer; font-size: 14px; }
+.textlink { background: none; border: 0; padding: 0; color: var(--muted); cursor: pointer; font-size: 13px; }
+.textlink:hover { color: var(--bad); }
+
+.field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.field > span { font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: 0.02em; }
+.input { width: 100%; border: 1px solid var(--border); background: var(--surface); border-radius: 10px; padding: 8px 10px; font-size: 15px; }
+textarea.input { line-height: 1.7; resize: vertical; }
+.check { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+
+.chip { display: inline-flex; align-items: center; border-radius: 999px; padding: 1px 9px; font-size: 12px; font-weight: 600; background: var(--accent-soft); color: var(--accent); max-width: 100%; }
+.chip.muted { background: transparent; border: 1px solid var(--border); color: var(--muted); }
+.meta { font-size: 12px; color: var(--muted); }
+.uni { font-weight: 700; font-size: 13px; }
+
+.prompt { font-weight: 500; white-space: pre-wrap; }
+.prompts { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 8px; }
+.prompts li { display: flex; gap: 8px; }
+.prompts .n { color: var(--accent); font-weight: 700; flex: none; }
+.passage { white-space: pre-wrap; font-size: 14.5px; line-height: 1.8; }
+details.box, .box { border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; background: var(--surface); }
+details.soft { background: var(--sunken); border-radius: 10px; padding: 10px 12px; }
+details > summary { cursor: pointer; font-weight: 600; font-size: 14px; }
+details[open] > summary { margin-bottom: 8px; }
+.pre { white-space: pre-wrap; color: var(--muted); font-size: 14px; }
+.note { font-size: 13px; color: var(--muted); }
+.cite { border-top: 1px solid var(--border); padding-top: 8px; font-size: 12px; color: var(--muted); }
+.cite a { color: var(--muted); }
+.mine { background: var(--accent-soft); border-radius: 10px; padding: 10px 12px; font-size: 14px; white-space: pre-wrap; }
+.mine b { display: block; font-size: 12px; color: var(--accent); margin-bottom: 2px; }
+
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; text-align: left; cursor: pointer; display: flex; flex-direction: column; gap: 2px; }
+.stat:hover { border-color: var(--accent); }
+.stat .num { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+.stat .lbl { font-weight: 600; }
+.stat .sub { font-size: 12px; color: var(--muted); }
+.hero h1 { font-size: 28px; letter-spacing: -0.02em; }
+.hero { display: flex; flex-direction: column; gap: 12px; padding-block: 8px; }
+
+.opts { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); }
+.opt { border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; background: var(--surface); text-align: left; cursor: pointer; }
+.opt[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft); }
+.opt:disabled { opacity: 0.5; cursor: not-allowed; }
+.opt b { display: block; }
+.opt small { color: var(--muted); font-size: 12px; }
+
+.runbar { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 52px); z-index: 10; background: color-mix(in srgb, var(--bg) 94%, transparent); backdrop-filter: blur(6px); padding-block: 6px; display: flex; flex-direction: column; gap: 6px; }
+.timer { font-family: var(--mono); font-size: 22px; font-weight: 700; font-variant-numeric: tabular-nums; padding: 0 10px; border-radius: 8px; }
+.timer.warn { color: var(--warn); }
+.timer.over { color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, transparent); }
+.progress { height: 6px; background: var(--border); border-radius: 99px; overflow: hidden; }
+.progress > div { height: 100%; background: var(--accent); transition: width .3s; }
+.qtext { font-size: 18px; font-weight: 700; line-height: 1.6; white-space: pre-wrap; flex: 1 1 auto; min-width: 0; }
+.scroll { max-height: 45vh; overflow-y: auto; }
+
+.fb { background: var(--sunken); border-radius: 12px; padding: 14px; display: flex; flex-direction: column; gap: 10px; font-size: 14px; }
+.fb .avg { font-size: 20px; font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; flex: none; }
+.scores { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.scores li { display: grid; grid-template-columns: 7.5rem 4.2rem 1fr; gap: 8px; align-items: baseline; }
+.dots { font-size: 12px; letter-spacing: 1px; }
+.dots .on.hi { color: var(--good); } .dots .on.mid { color: var(--warn); } .dots .on.lo { color: var(--bad); }
+.dots .off { color: var(--border); }
+.cols { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); }
+.cols ul, .fb ol { margin: 4px 0 0; padding-left: 18px; color: var(--muted); }
+.good { color: var(--good); font-weight: 700; } .warn { color: var(--warn); font-weight: 700; } .bad { color: var(--bad); }
+
+dl.kv { display: grid; grid-template-columns: 5.5rem 1fr; gap: 2px 10px; margin: 0; font-size: 14px; }
+dl.kv dt { color: var(--muted); } dl.kv dd { margin: 0; min-width: 0; }
+.pager { display: flex; justify-content: center; align-items: center; gap: 10px; }
+.empty { text-align: center; color: var(--muted); padding: 28px 16px; }
+.loading { color: var(--muted); padding: 24px 0; }
+@media (max-width: 520px) {
+  .scores li { grid-template-columns: 1fr auto; }
+  .scores li .cm { grid-column: 1 / -1; }
+  .hero h1 { font-size: 24px; }
+  .runbar { top: calc(env(safe-area-inset-top, 0px) + 92px); }
+}
+@media (prefers-reduced-motion: reduce) { .progress > div { transition: none; } }
+</style>
+
+<div id="app"><main><p class="loading">수시 면접 연습실을 여는 중…</p></main></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.3.1/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/htm@3.1.1/dist/htm.umd.js"></script>
+<script>
+(() => {
+  const { useState, useEffect, useMemo, useRef, useCallback, createContext, useContext } = React;
+  const html = htm.bind(React.createElement);
+
+  const FORMATS = ["서류기반", "제시문기반", "MMI", "인성"];
+  const FORMAT_DESC = {
+    서류기반: "학생부·제출서류 내용을 확인하는 질문",
+    제시문기반: "제시문·자료를 읽고 답하는 구술 문항",
+    MMI: "의약학 계열 다중미니면접·상황면접",
+    인성: "가치관·태도·소양을 묻는 질문",
+  };
+  const ORAL_PROMPT =
+    "제시문을 읽고 핵심 내용과 쟁점, 자신의 생각을 말해 보세요. (실제 면접에서는 면접관이 구두로 질문하며, 대학이 질문은 공개하지 않았습니다)";
+  const TABS = [
+    ["questions", "기출 문항"],
+    ["universities", "대학별 면접"],
+    ["practice", "모의 면접"],
+    ["record", "생기부 예상 질문"],
+    ["notes", "내 노트"],
+  ];
+  const PAGE_SIZE = 20;
+
+  // ---------- browser storage (this viewer only) ----------
+  const KEYS = {
+    answers: "susi.answers.v1",
+    generated: "susi.generated.v1",
+    sessions: "susi.sessions.v1",
+    profile: "susi.profile.v1",
+    basket: "susi.basket.v1",
+  };
+  function load(k, fallback) {
+    try {
+      const raw = window.localStorage.getItem(KEYS[k]);
+      return raw ? JSON.parse(raw) : fallback;
+    } catch {
+      return fallback;
+    }
+  }
+  function persist(k, v) {
+    try {
+      window.localStorage.setItem(KEYS[k], JSON.stringify(v));
+    } catch {
+      /* storage unavailable: keep in memory for this view */
+    }
+  }
+  function useStored(k, fallback) {
+    const [v, setV] = useState(() => load(k, fallback));
+    const set = useCallback(
+      (next) =>
+        setV((prev) => {
+          const value = typeof next === "function" ? next(prev) : next;
+          persist(k, value);
+          return value;
+        }),
+      [k],
+    );
+    return [v, set];
+  }
+  const newId = () => Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
+
+  // ---------- data ----------
+  async function loadData() {
+    const get = (f) =>
+      fetch(f).then((r) => {
+        if (!r.ok) throw new Error(`${f} ${r.status}`);
+        return r.json();
+      });
+    const [questions, interviews, sources] = await Promise.all([
+      get("questions.json"),
+      get("interviews.json"),
+      get("sources.json"),
+    ]);
+    const sourceMap = new Map(sources.map((s) => [s.id, s]));
+    const qMap = new Map(questions.map((q) => [q.id, q]));
+    const byName = new Map();
+    const uni = (name) => {
+      if (!byName.has(name)) byName.set(name, { name, questionCount: 0, formats: {}, years: [], interviewCount: 0 });
+      return byName.get(name);
+    };
+    for (const q of questions) {
+      const u = uni(q.university);
+      u.questionCount++;
+      u.formats[q.format] = (u.formats[q.format] || 0) + 1;
+      for (const y of q.years) if (!u.years.includes(y)) u.years.push(y);
+    }
+    for (const iv of interviews) {
+      const u = uni(iv.university);
+      u.interviewCount++;
+      if (!u.years.includes(iv.year)) u.years.push(iv.year);
+    }
+    const universities = [...byName.values()].sort((a, b) => a.name.localeCompare(b.name, "ko"));
+    universities.forEach((u) => u.years.sort((a, b) => b - a));
+    const counts = new Map();
+    for (const q of questions) if (q.competency) counts.set(q.competency, (counts.get(q.competency) || 0) + 1);
+    const competencies = [...counts.entries()].filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).map(([c]) => c);
+    const years = [...new Set(sources.map((s) => s.year))].sort((a, b) => b - a);
+    const hints = {};
+    for (const iv of interviews) {
+      if (!iv.duration) continue;
+      const text = `${iv.year}학년도 ` + [iv.admission, iv.method, iv.duration].filter(Boolean).join(" · ");
+      const list = (hints[iv.university] = hints[iv.university] || []);
+      if (list.length < 3 && !list.includes(text)) list.push(text);
+    }
+    return { questions, interviews, sources, sourceMap, qMap, universities, competencies, years, hints };
+  }
+
+  function sourceUrl(doc, page) {
+    return /\.pdf$/i.test(doc.url) && page > 0 ? `${doc.url}#page=${page}` : doc.url;
+  }
+  function citations(data, q) {
+    return q.sources.map((ref) => {
+      const doc = data.sourceMap.get(ref.doc);
+      return { label: doc ? `${doc.title} ${ref.page}쪽` : `${ref.doc} ${ref.page}쪽`, url: doc ? sourceUrl(doc, ref.page) : null };
+    });
+  }
+  function filterQuestions(data, f) {
+    const terms = (f.q || "").toLowerCase().split(/\s+/).filter(Boolean);
+    return data.questions.filter((q) => {
+      if (f.university && q.university !== f.university) return false;
+      if (f.format && q.format !== f.format) return false;
+      if (f.competency && q.competency !== f.competency) return false;
+      if (f.year && !q.years.includes(Number(f.year))) return false;
+      if (f.answer && !q.sampleAnswer) return false;
+      if (terms.length) {
+        const hay = [q.university, q.admission, q.unit, q.competency, q.passage, ...q.prompts].filter(Boolean).join(" ").toLowerCase();
+        if (!terms.every((t) => hay.includes(t))) return false;
+      }
+      return true;
+    });
+  }
+  const questionText = (q) => (q.prompts.length ? q.prompts.join("\n") : ORAL_PROMPT);
+  const sourceLabel = (q) => [q.university, `${q.years.join("·")}학년도`, q.admission, q.unit].filter(Boolean).join(" · ");
+
+  // ---------- capabilities (sample = ask Claude as the viewer, downloads = save a file) ----------
+  function useCapability(name) {
+    const [cap, setCap] = useState(undefined);
+    useEffect(() => {
+      let alive = true;
+      const p = window.claude && typeof window.claude.use === "function" ? window.claude.use(name) : Promise.resolve(null);
+      Promise.resolve(p).then(
+        // the sample capability IS a function: wrap it so React doesn't treat it as a state updater
+        (c) => alive && setCap(() => c || null),
+        () => alive && setCap(() => null),
+      );
+      return () => {
+        alive = false;
+      };
+    }, [name]);
+    return cap; // undefined = still checking, null = unavailable
+  }
+  const HIDE_CODES = new Set(["not_granted", "sampling_disabled", "not_declared", "capability_disabled", "capability_removed"]);
+  function sampleErrorText(e) {
+    switch (e && e.code) {
+      case "cancelled":
+        return "";
+      case "not_granted":
+        return "AI 사용을 허용하지 않아 이 기능을 쓸 수 없습니다. 페이지를 다시 열면 다시 물어봅니다.";
+      case "sampling_disabled":
+      case "capability_disabled":
+      case "capability_removed":
+      case "not_declared":
+        return "이 화면에서는 AI 기능을 쓸 수 없습니다.";
+      case "rate_limited":
+        return "요청이 몰렸거나 사용 한도에 닿았습니다. 잠시 후 다시 눌러 주세요.";
+      case "session_expired":
+        return "로그인이 만료되었습니다. 다시 로그인한 뒤 시도해 주세요.";
+      case "refused":
+        return "AI가 이 내용에는 답하지 않았습니다. 내용을 바꿔 다시 시도해 주세요.";
+      case "prompt_too_large":
+        return "입력이 너무 깁니다. 내용을 줄여서 다시 시도해 주세요.";
+      case "invalid_json":
+      case "empty_completion":
+        return "AI 응답을 정리하지 못했습니다. 다시 시도해 주세요.";
+      default:
+        return "AI 응답을 받지 못했습니다. 잠시 후 다시 시도해 주세요.";
+    }
+  }
+
+  const FEEDBACK_RULES = `당신은 한국 대학 수시 면접을 오래 지도해 온 면접 코치입니다. 아래 학생 답변을 평가하고 개선 방향을 제시하세요.
+원칙:
+- 반드시 한국어로 씁니다.
+- 평가 근거는 학생 답변의 실제 표현에서 찾고, 필요하면 짧게 인용합니다.
+- 대학이 공개한 출제 의도나 예시 답안이 있으면 그것을 평가 기준으로 우선 씁니다.
+- 학생이 말하지 않은 경험·활동·성과·수치를 지어내지 않습니다. 다듬은 답변은 학생 답변(과, 주어졌다면 학생이 붙여넣은 생활기록부) 안의 사실만으로 재구성합니다.
+- 답변 시간이 주어지면 분량이 적절했는지 짧게 언급합니다.
+- 점수는 1~5 정수이며 실제 면접 기준으로 냉정하게 매깁니다.`;
+  const FEEDBACK_FORMAT = `다음 형식의 JSON 객체 하나만 답하세요(다른 글 없이):
+{"overall":"한두 문장 총평","scores":[{"criterion":"질문 의도 이해","score":3,"comment":"근거"},{"criterion":"논리와 구성","score":3,"comment":"근거"},{"criterion":"구체성","score":3,"comment":"근거"},{"criterion":"진정성과 일관성","score":3,"comment":"근거"},{"criterion":"전달력","score":3,"comment":"근거"}],"strengths":["잘한 점"],"improvements":["고칠 점"],"improvedAnswer":"다듬은 답변","followUps":["꼬리 질문1","꼬리 질문2","꼬리 질문3"]}`;
+
+  function cleanFeedback(raw) {
+    const str = (v) => (typeof v === "string" ? v.trim() : "");
+    const list = (v) => (Array.isArray(v) ? v.map(str).filter(Boolean) : []);
+    if (!raw || typeof raw !== "object") throw { code: "invalid_json" };
+    const scores = Array.isArray(raw.scores)
+      ? raw.scores
+          .map((s) => ({ criterion: str(s && s.criterion), score: Math.max(1, Math.min(5, Math.round(Number(s && s.score) || 0))), comment: str(s && s.comment) }))
+          .filter((s) => s.criterion)
+      : [];
+    const fb = { overall: str(raw.overall), scores, strengths: list(raw.strengths), improvements: list(raw.improvements), improvedAnswer: str(raw.improvedAnswer), followUps: list(raw.followUps) };
+    if (!fb.overall && !scores.length) throw { code: "invalid_json" };
+    return fb;
+  }
+
+  function feedbackPrompt(data, item, target, record) {
+    const q = item.questionId ? data.qMap.get(item.questionId) : null;
+    const parts = [FEEDBACK_RULES];
+    if (q) parts.push(`[출처] ${sourceLabel(q)} (대학 공개 면접 문항)`);
+    if (target) parts.push(`[지원 대학/학과] ${target}`);
+    if (item.passage) parts.push(`[제시문]\n${item.passage}`);
+    if (q && q.prompts.length === 0) {
+      parts.push("[질문] 대학이 질문 문장을 공개하지 않은 제시문 면접입니다(현장에서 구두로 질문). 학생이 제시문의 핵심과 쟁점을 정확히 파악하고 자기 견해를 근거와 함께 말했는지 평가하세요.");
+    } else {
+      parts.push(`[질문]\n${item.question}`);
+    }
+    if (q && q.intent) parts.push(`[대학이 공개한 출제 의도·해설]\n${q.intent}`);
+    if (q && q.sampleAnswer) parts.push(`[대학이 공개한 예시 답안]\n${q.sampleAnswer}`);
+    if (record) parts.push(`[학생이 제공한 생활기록부 내용]\n${record.slice(0, 30000)}`);
+    parts.push(`[답변 소요 시간] ${item.seconds}초`);
+    parts.push(`[학생 답변]\n${item.answer}`);
+    parts.push(FEEDBACK_FORMAT);
+    return parts.join("\n\n");
+  }
+
+  function generationPrompt(data, record, university, major, count) {
+    const docBased = data.questions.filter((q) => q.format === "서류기반" && q.prompts.length);
+    const own = university ? docBased.filter((q) => q.university === university) : [];
+    const pool = own.length >= 5 ? own : [...own, ...docBased.filter((q) => q.university !== university)];
+    const seen = new Set();
+    const refs = [];
+    for (const q of pool) {
+      const t = q.prompts.join(" ");
+      if (seen.has(t)) continue;
+      seen.add(t);
+      refs.push(`- (${q.university}${q.competency ? `, ${q.competency}` : ""}) ${t}`);
+      if (refs.length >= 20) break;
+    }
+    return `당신은 한국 대학의 학생부종합전형 서류기반 면접 문항을 만드는 입학사정관입니다. 아래 학생이 붙여넣은 학교생활기록부 내용만 근거로 실제 면접에서 나올 법한 질문 ${count}개를 만드세요.
+원칙:
+- 반드시 한국어로 씁니다.
+- 모든 질문은 생활기록부에 실제로 적힌 활동·탐구·태도에 근거해야 하며, basis에는 그 근거 문장을 원문 그대로(띄어쓰기 포함) 인용합니다. 생활기록부에 없는 내용을 전제로 한 질문은 만들지 않습니다.
+- 활동 동기, 과정에서의 역할과 어려움, 배운 개념의 이해 깊이, 이후 확장 탐구, 전공과의 연결, 협업 경험을 고르게 확인합니다.
+- 아래 '대학 공개 면접 문항'은 실제 대학이 공개한 질문입니다. 문체와 난이도만 참고하고 그대로 베끼지 않습니다.
+- 학업역량, 진로역량, 공동체역량이 고르게 섞이게 합니다.
+
+[지원 대학] ${university || "미정"}
+[지원 학과/전공] ${major || "미정"}
+${refs.length ? `[대학 공개 면접 문항 (참고용)]\n${refs.join("\n")}\n` : ""}
+[학생 생활기록부]
+${record}
+
+다음 형식의 JSON 객체 하나만 답하세요(다른 글 없이):
+{"questions":[{"question":"면접관 말투의 질문 한 개","basis":"근거가 된 생활기록부 문장 원문","competency":"학업역량|진로역량|공동체역량|인성 중 하나","intent":"이 질문으로 확인하려는 것","followUps":["꼬리 질문1","꼬리 질문2"]}]}`;
+  }
+
+  // ---------- speech (reading questions aloud) ----------
+  const canSpeak = typeof window !== "undefined" && "speechSynthesis" in window;
+  function speak(text) {
+    if (!canSpeak) return;
+    try {
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = "ko-KR";
+      const v = window.speechSynthesis.getVoices().find((x) => x.lang && x.lang.startsWith("ko"));
+      if (v) u.voice = v;
+      window.speechSynthesis.speak(u);
+    } catch {
+      /* speech unavailable */
+    }
+  }
+  function stopSpeaking() {
+    try {
+      if (canSpeak) window.speechSynthesis.cancel();
+    } catch {
+      /* ignore */
+    }
+  }
+
+  // ---------- app state ----------
+  const Ctx = createContext(null);
+  const useApp = () => useContext(Ctx);
+
+  function App() {
+    const initialTab = (() => {
+      const h = (location.hash || "").replace("#", "");
+      return TABS.some(([k]) => k === h) ? h : "home";
+    })();
+    const [tab, setTabState] = useState(initialTab);
+    const [data, setData] = useState(null);
+    const [loadError, setLoadError] = useState(null);
+    const [answers, setAnswers] = useStored("answers", {});
+    const [basket, setBasket] = useStored("basket", []);
+    const [generated, setGenerated] = useStored("generated", []);
+    const [sessions, setSessions] = useStored("sessions", []);
+    const [profile, setProfile] = useStored("profile", { university: "", major: "", record: "" });
+    const [qFilter, setQFilter] = useState({ university: "", format: "", competency: "", year: "", q: "", answer: false, page: 1 });
+    const [uniDetail, setUniDetail] = useState(null);
+    const [practicePreset, setPracticePreset] = useState(null);
+    const sample = useCapability("sample");
+    const downloads = useCapability("downloads");
+
+    useEffect(() => {
+      loadData().then(setData, (e) => setLoadError(String(e && e.message ? e.message : e)));
+    }, []);
+    useEffect(() => {
+      const onHash = () => {
+        const h = (location.hash || "").replace("#", "");
+        setTabState(TABS.some(([k]) => k === h) ? h : "home");
+      };
+      window.addEventListener("hashchange", onHash);
+      return () => window.removeEventListener("hashchange", onHash);
+    }, []);
+
+    const setTab = useCallback((t) => {
+      setTabState(t);
+      try {
+        history.replaceState(null, "", t === "home" ? location.pathname + location.search : `#${t}`);
+      } catch {
+        /* ignore */
+      }
+      window.scrollTo(0, 0);
+    }, []);
+
+    const app = {
+      data, tab, setTab, answers, setAnswers, basket, setBasket, generated, setGenerated, sessions, setSessions,
+      profile, setProfile, qFilter, setQFilter, uniDetail, setUniDetail, practicePreset, setPracticePreset, sample, downloads,
+      practice: (preset) => {
+        setPracticePreset({ ...preset, at: Date.now() });
+        setTab("practice");
+      },
+      browse: (filter) => {
+        setQFilter({ university: "", format: "", competency: "", year: "", q: "", answer: false, ...filter, page: 1 });
+        setTab("questions");
+      },
+      openUniversity: (name) => {
+        setUniDetail(name);
+        setTab("universities");
+      },
+    };
+
+    let body;
+    if (loadError) body = html`<div class="card"><b>데이터를 불러오지 못했습니다.</b><p class="note">${loadError} — 페이지를 새로 고쳐 주세요.</p></div>`;
+    else if (!data) body = html`<${Home} loading=${true} />`;
+    else if (tab === "questions") body = html`<${Questions} />`;
+    else if (tab === "universities") body = uniDetail ? html`<${UniversityDetail} name=${uniDetail} />` : html`<${Universities} />`;
+    else if (tab === "practice") body = html`<${Practice} />`;
+    else if (tab === "record") body = html`<${Record} />`;
+    else if (tab === "notes") body = html`<${Notes} />`;
+    else body = html`<${Home} />`;
+
+    return html`<${Ctx.Provider} value=${app}>
+      <header class="topbar">
+        <div class="topbar-inner">
+          <button class="brand" onClick=${() => setTab("home")}>수시 면접 연습실</button>
+          <nav class="tabs" aria-label="메뉴">
+            ${TABS.map(([k, label]) => html`<button key=${k} class="tab" aria-current=${tab === k ? "page" : undefined} onClick=${() => { if (k === "universities") setUniDetail(null); setTab(k); }}>${label}</button>`)}
+          </nav>
+        </div>
+      </header>
+      <main>${body}</main>
+    <//>`;
+  }
+
+  // ---------- home ----------
+  function Home({ loading }) {
+    const app = useApp();
+    const d = app.data;
+    const byFormat = (f) => (d ? d.questions.filter((q) => q.format === f).length : null);
+    return html`<section class="hero">
+        <h1>대학이 직접 공개한 면접 문항으로 수시 면접을 준비하세요</h1>
+        <p class="lede">
+          ${d
+            ? `${d.universities.length}개 대학이 공개한 ${Math.min(...d.years)}~${Math.max(...d.years)}학년도 자료에서 면접 문항 ${d.questions.length.toLocaleString()}개와 전형별 면접 방식 ${d.interviews.length}건을 원문 그대로 모았습니다.`
+            : "대학이 공개한 공식 문서에서 원문 그대로 옮긴 면접 문항을 불러오는 중입니다."}
+          ${" "}실제 문항으로 모의 면접을 하고, 내 생활기록부로 예상 질문을 뽑고, 답변에 AI 피드백을 받아 보세요.
+        </p>
+        <div class="row">
+          <button class="btn primary" onClick=${() => app.setTab("practice")}>모의 면접 시작</button>
+          <button class="btn" onClick=${() => app.setTab("questions")}>기출 문항 보기</button>
+          <button class="btn" onClick=${() => app.setTab("record")}>생기부로 예상 질문 만들기</button>
+        </div>
+      </section>
+      <section class="grid">
+        ${FORMATS.map((f) => html`<button key=${f} class="stat" disabled=${loading} onClick=${() => app.browse({ format: f })}>
+          <span class="num">${loading ? "…" : byFormat(f).toLocaleString()}</span>
+          <span class="lbl">${f} 면접</span>
+          <span class="sub">${FORMAT_DESC[f]}</span>
+        </button>`)}
+      </section>
+      <section class="card">
+        <h2 style=${{ fontSize: "17px" }}>데이터는 어디서 왔나요?</h2>
+        <p class="note" style=${{ fontSize: "14px" }}>
+          대학별고사를 치르는 대학은 「공교육 정상화 촉진 및 선행교육 규제에 관한 특별법」에 따라 매년 「선행학습 영향평가 자체평가 보고서」를 공개하고, 여기에 실제 출제한 면접 문항·출제 의도·예시 답안을 싣습니다. 서울대·KAIST·교육대학교처럼 면접 기출이나 사전 공개 문항을 입학처에 따로 올리는 대학은 그 원본도 함께 썼습니다.
+          ${d ? ` 공식 문서 ${d.sources.length}건에서 옮긴 문장은 원문 텍스트와 한 문장씩 대조해 일치하는 것만 남겼고,` : ""} 예시·가상 데이터는 넣지 않았습니다. 문항마다 출처 문서와 쪽수가 붙어 있습니다.
+        </p>
+        <div><button class="link" onClick=${() => app.setTab("universities")}>수록 대학과 출처 문서 보기 →</button></div>
+      </section>`;
+  }
+
+  // ---------- questions ----------
+  function Questions() {
+    const app = useApp();
+    const d = app.data;
+    const f = app.qFilter;
+    const [draft, setDraft] = useState(f);
+    useEffect(() => setDraft(f), [f]);
+    const all = useMemo(() => filterQuestions(d, f), [d, f]);
+    const pageCount = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+    const page = Math.min(Math.max(1, f.page || 1), pageCount);
+    const items = all.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+    const set = (k, v) => setDraft((x) => ({ ...x, [k]: v }));
+    const apply = (e) => {
+      e.preventDefault();
+      app.setQFilter({ ...draft, page: 1 });
+    };
+    const go = (p) => {
+      app.setQFilter({ ...f, page: p });
+      window.scrollTo(0, 0);
+    };
+    return html`<div class="page-head">
+        <h1>기출 문항</h1>
+        <p class="lede">대학이 공개한 면접 문항(기출·예시·사전 공개 문항)을 원문 그대로 보여 줍니다. 문항마다 출처 문서와 쪽수가 있습니다.</p>
+      </div>
+      <form class="card" onSubmit=${apply}>
+        <div class="grid">
+          <label class="field"><span>대학</span>
+            <select id="qf-university" class="input" value=${draft.university} onChange=${(e) => set("university", e.target.value)}>
+              <option value="">전체 대학</option>
+              ${d.universities.filter((u) => u.questionCount).map((u) => html`<option key=${u.name} value=${u.name}>${u.name} (${u.questionCount})</option>`)}
+            </select>
+          </label>
+          <label class="field"><span>면접 유형</span>
+            <select id="qf-format" class="input" value=${draft.format} onChange=${(e) => set("format", e.target.value)}>
+              <option value="">전체</option>
+              ${FORMATS.map((x) => html`<option key=${x} value=${x}>${x}</option>`)}
+            </select>
+          </label>
+          <label class="field"><span>평가요소</span>
+            <select id="qf-competency" class="input" value=${draft.competency} onChange=${(e) => set("competency", e.target.value)}>
+              <option value="">전체</option>
+              ${d.competencies.map((x) => html`<option key=${x} value=${x}>${x}</option>`)}
+            </select>
+          </label>
+          <label class="field"><span>학년도</span>
+            <select id="qf-year" class="input" value=${draft.year} onChange=${(e) => set("year", e.target.value)}>
+              <option value="">전체</option>
+              ${d.years.map((y) => html`<option key=${y} value=${y}>${y}</option>`)}
+            </select>
+          </label>
+          <label class="field"><span>키워드</span>
+            <input id="qf-q" class="input" value=${draft.q} placeholder="예: 의예과, 갈등" onChange=${(e) => set("q", e.target.value)} />
+          </label>
+        </div>
+        <div class="row" style=${{ justifyContent: "space-between" }}>
+          <label class="check"><input id="qf-answer" type="checkbox" checked=${draft.answer} onChange=${(e) => set("answer", e.target.checked)} /> 대학 공개 예시 답안이 있는 문항만</label>
+          <div class="row">
+            <button type="button" class="btn" onClick=${() => app.setQFilter({ university: "", format: "", competency: "", year: "", q: "", answer: false, page: 1 })}>초기화</button>
+            <button type="submit" class="btn primary">검색</button>
+          </div>
+        </div>
+      </form>
+      <div class="row" style=${{ justifyContent: "space-between" }}>
+        <span class="meta">${all.length.toLocaleString()}개 문항 · ${page}/${pageCount}쪽</span>
+        ${all.length > 0 && html`<button class="link" onClick=${() => app.practice({ kind: "bank", university: f.university, format: f.format, competency: f.competency })}>이 조건으로 모의 면접 →</button>`}
+      </div>
+      ${items.length === 0
+        ? html`<div class="card empty">조건에 맞는 문항이 없습니다. 조건을 줄여 보세요.</div>`
+        : html`<div class="stack">${items.map((q) => html`<${QuestionCard} key=${q.id} q=${q} />`)}</div>`}
+      ${pageCount > 1 && html`<nav class="pager">
+        <button class="btn" disabled=${page <= 1} onClick=${() => go(page - 1)}>← 이전</button>
+        <span class="meta">${page} / ${pageCount}</span>
+        <button class="btn" disabled=${page >= pageCount} onClick=${() => go(page + 1)}>다음 →</button>
+      </nav>`}`;
+  }
+
+  function QuestionCard({ q, showUniversity = true }) {
+    const app = useApp();
+    const oral = q.prompts.length === 0;
+    const inBasket = app.basket.includes(q.id);
+    const saved = app.answers[q.id];
+    const [editing, setEditing] = useState(false);
+    const [draft, setDraft] = useState("");
+    const cites = citations(app.data, q);
+    return html`<article class="card">
+      <div class="row" style=${{ gap: "6px" }}>
+        ${showUniversity && html`<span class="uni">${q.university}</span>`}
+        <span class="chip">${q.format}</span>
+        ${q.competency && html`<span class="chip muted">${q.competency}</span>`}
+        ${q.admission && html`<span class="chip muted">${q.admission}</span>`}
+        ${q.unit && html`<span class="chip muted">${q.unit}</span>`}
+        <span class="meta">${q.years.join("·")}학년도</span>
+      </div>
+      ${q.passage && oral && html`<div class="box"><div class="meta" style=${{ fontWeight: 600, marginBottom: "4px" }}>제시문</div><div class="passage scroll">${q.passage}</div></div>`}
+      ${q.passage && !oral && html`<details class="box"><summary>제시문 보기</summary><div class="passage">${q.passage}</div></details>`}
+      ${oral && html`<p class="note">질문은 면접 현장에서 면접관이 구두로 제시했으며, 대학이 질문 문장은 공개하지 않았습니다.</p>`}
+      ${!oral && html`<ol class="prompts">${q.prompts.map((p, i) => html`<li key=${i}>${q.prompts.length > 1 && html`<span class="n">${i + 1}.</span>`}<span class="prompt">${p}</span></li>`)}</ol>`}
+      ${q.intent && html`<details class="soft"><summary>출제 의도·해설 (대학 공개)</summary><div class="pre">${q.intent}</div></details>`}
+      ${q.sampleAnswer && html`<details class="soft"><summary>예시 답안 (대학 공개)</summary><div class="pre">${q.sampleAnswer}</div></details>`}
+      <div class="row">
+        <button class=${`btn ${inBasket ? "primary" : ""}`} onClick=${() => app.setBasket((b) => (b.includes(q.id) ? b.filter((x) => x !== q.id) : [...b, q.id].slice(-30)))}>
+          ${inBasket ? "✓ 연습 목록에 담김" : "+ 연습 목록에 담기"}
+        </button>
+        <button class="btn" onClick=${() => app.practice({ kind: "ids", ids: [q.id] })}>이 문항 바로 연습</button>
+        <button class="btn" onClick=${() => { setDraft(saved ? saved.answer : ""); setEditing((x) => !x); }}>${saved ? "내 답변 수정" : "내 답변 쓰기"}</button>
+      </div>
+      ${saved && !editing && html`<div class="mine"><b>내 답변</b>${saved.answer}</div>`}
+      ${editing && html`<div class="stack">
+        <textarea id=${`ans-${q.id}`} class="input" rows="5" value=${draft} onChange=${(e) => setDraft(e.target.value)} placeholder="답변을 적어 두면 '내 노트'에서 모아 볼 수 있어요."></textarea>
+        <div class="row">
+          <button class="btn primary" onClick=${() => {
+            app.setAnswers((a) => {
+              const next = { ...a };
+              if (draft.trim()) next[q.id] = { questionId: q.id, question: oral ? `[제시문] ${(q.passage || "").slice(0, 80)}…` : q.prompts.join("\n"), answer: draft.trim(), updatedAt: Date.now() };
+              else delete next[q.id];
+              return next;
+            });
+            setEditing(false);
+          }}>저장</button>
+          <button class="btn" onClick=${() => setEditing(false)}>취소</button>
+        </div>
+      </div>`}
+      <div class="cite">출처: ${cites.map((c, i) => html`<span key=${i}>${i > 0 ? " · " : ""}${c.url ? html`<a href=${c.url} target="_blank" rel="noopener noreferrer">${c.label}</a>` : c.label}</span>`)}</div>
+    </article>`;
+  }
+
+  // ---------- universities ----------
+  function Universities() {
+    const app = useApp();
+    const d = app.data;
+    const [term, setTerm] = useState("");
+    const list = d.universities.filter((u) => !term.trim() || u.name.includes(term.trim()));
+    return html`<div class="page-head">
+        <h1>대학별 면접</h1>
+        <p class="lede">${d.universities.length}개 대학 · 공식 문서 ${d.sources.length}건. 대학을 누르면 전형별 면접 방식(진행 방법, 시간, 평가요소)과 기출 문항을 볼 수 있습니다.</p>
+      </div>
+      <label class="field" style=${{ maxWidth: "320px" }}><span>대학 찾기</span>
+        <input id="uni-search" class="input" value=${term} placeholder="예: 교육대학교" onChange=${(e) => setTerm(e.target.value)} />
+      </label>
+      <div class="grid">
+        ${list.map((u) => html`<button key=${u.name} class="stat" onClick=${() => app.openUniversity(u.name)}>
+          <span class="row" style=${{ justifyContent: "space-between", width: "100%" }}><span class="lbl">${u.name}</span><span class="sub">${u.years.join("·")}</span></span>
+          <span class="row" style=${{ gap: "4px", marginTop: "4px" }}>
+            ${FORMATS.filter((f) => u.formats[f]).map((f) => html`<span key=${f} class="chip">${f} ${u.formats[f]}</span>`)}
+            ${u.questionCount === 0 && html`<span class="chip muted">문항 비공개 · 면접 방식만</span>`}
+          </span>
+        </button>`)}
+      </div>`;
+  }
+
+  function UniversityDetail({ name }) {
+    const app = useApp();
+    const d = app.data;
+    const u = d.universities.find((x) => x.name === name);
+    const ivs = d.interviews.filter((i) => i.university === name);
+    const qs = d.questions.filter((q) => q.university === name);
+    const docs = d.sources.filter((s) => s.university === name);
+    const [shown, setShown] = useState(10);
+    if (!u) return html`<div class="card empty">대학을 찾을 수 없습니다.</div>`;
+    return html`<div class="page-head">
+        <button class="textlink" style=${{ alignSelf: "flex-start" }} onClick=${() => app.setUniDetail(null)}>← 대학 목록</button>
+        <h1>${name}</h1>
+        <div class="row" style=${{ gap: "4px" }}>
+          ${FORMATS.filter((f) => u.formats[f]).map((f) => html`<button key=${f} class="chip" style=${{ border: 0, cursor: "pointer" }} onClick=${() => app.browse({ university: name, format: f })}>${f} ${u.formats[f]}</button>`)}
+        </div>
+      </div>
+      ${ivs.length > 0 && html`<section class="stack">
+        <h2 style=${{ fontSize: "18px" }}>전형별 면접 방식</h2>
+        <div class="cols">
+          ${ivs.map((iv, i) => {
+            const doc = d.sourceMap.get(iv.source.doc);
+            return html`<div key=${i} class="card" style=${{ gap: "8px" }}>
+              <div class="row" style=${{ gap: "6px" }}><b>${iv.admission || "전형명 미기재"}</b><span class="meta">${iv.year}학년도</span>${iv.format && html`<span class="chip">${iv.format}</span>`}</div>
+              <dl class="kv">
+                ${iv.units && html`<dt>모집단위</dt><dd>${iv.units}</dd>`}
+                ${iv.method && html`<dt>진행 방법</dt><dd>${iv.method}</dd>`}
+                ${iv.duration && html`<dt>면접 시간</dt><dd>${iv.duration}</dd>`}
+                ${iv.criteria.length > 0 && html`<dt>평가요소</dt><dd>${iv.criteria.map((c) => (c.weight ? `${c.name}(${c.weight})` : c.name)).join(", ")}</dd>`}
+              </dl>
+              ${doc && html`<a class="meta" href=${sourceUrl(doc, iv.source.page)} target="_blank" rel="noopener noreferrer">${doc.title} ${iv.source.page}쪽</a>`}
+            </div>`;
+          })}
+        </div>
+      </section>`}
+      <section class="stack">
+        <div class="row" style=${{ justifyContent: "space-between" }}>
+          <h2 style=${{ fontSize: "18px" }}>기출 문항 ${qs.length}개</h2>
+          ${qs.length > 0 && html`<button class="link" onClick=${() => app.practice({ kind: "bank", university: name })}>이 대학으로 모의 면접 →</button>`}
+        </div>
+        ${qs.length === 0
+          ? html`<p class="card note">이 대학 문서에는 면접 문항 원문이 실려 있지 않습니다. 위 면접 방식 정보를 참고하세요.</p>`
+          : html`<div class="stack">
+              ${qs.slice(0, shown).map((q) => html`<${QuestionCard} key=${q.id} q=${q} showUniversity=${false} />`)}
+              ${qs.length > shown && html`<button class="btn" onClick=${() => setShown((n) => n + 20)}>더 보기 (${qs.length - shown}개 남음)</button>`}
+            </div>`}
+      </section>
+      <section class="stack">
+        <h2 style=${{ fontSize: "18px" }}>출처 문서</h2>
+        <ul class="note" style=${{ margin: 0, paddingLeft: "18px" }}>
+          ${docs.map((doc) => html`<li key=${doc.id}><a href=${doc.url} target="_blank" rel="noopener noreferrer">${doc.title}</a></li>`)}
+        </ul>
+      </section>`;
+  }
+
+  // ---------- practice ----------
+  function Practice() {
+    const app = useApp();
+    const d = app.data;
+    const preset = app.practicePreset;
+    const [settings, setSettings] = useState(() => ({
+      kind: "bank",
+      university: (preset && preset.university) || "",
+      format: (preset && preset.format) || "",
+      competency: (preset && preset.competency) || "",
+      count: 5,
+      answerSec: 90,
+      prepSec: 0,
+      tts: canSpeak,
+    }));
+    const [stage, setStage] = useState("setup");
+    const [items, setItems] = useState([]);
+    const [sessionId, setSessionId] = useState("");
+    const [error, setError] = useState("");
+    const set = (k, v) => setSettings((s) => ({ ...s, [k]: v }));
+    const target = [app.profile.university, app.profile.major].filter(Boolean).join(" ");
+
+    useEffect(() => {
+      if (!preset) return;
+      setSettings((s) => ({ ...s, university: preset.university || "", format: preset.format || "", competency: preset.competency || "", kind: "bank" }));
+      if (preset.kind === "ids") begin(preset.ids);
+      app.setPracticePreset(null);
+      // eslint-disable-next-line
+    }, [preset]);
+
+    function shuffle(arr) {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+    function fromQuestion(q) {
+      return { questionId: q.id, question: questionText(q), passage: q.passage, source: sourceLabel(q), answer: "", seconds: 0 };
+    }
+    function begin(ids) {
+      setError("");
+      let next;
+      if (ids) next = ids.map((id) => d.qMap.get(id)).filter(Boolean).map(fromQuestion);
+      else if (settings.kind === "basket") next = app.basket.map((id) => d.qMap.get(id)).filter(Boolean).map(fromQuestion);
+      else if (settings.kind === "generated")
+        next = shuffle(app.generated).slice(0, settings.count).map((g) => ({ question: g.question, source: `내 생기부 예상 질문 (AI 생성) · ${g.competency}`, answer: "", seconds: 0 }));
+      else next = shuffle(filterQuestions(d, { university: settings.university, format: settings.format, competency: settings.competency })).slice(0, settings.count).map(fromQuestion);
+      if (!next.length) {
+        setError("조건에 맞는 문항이 없습니다. 조건을 바꿔 보세요.");
+        return;
+      }
+      setItems(next);
+      setSessionId(newId());
+      setStage("run");
+    }
+    const finish = (done) => {
+      stopSpeaking();
+      setItems(done);
+      setStage("done");
+      const session = { id: sessionId, startedAt: Date.now(), target, items: done };
+      app.setSessions((all) => [session, ...all.filter((s) => s.id !== session.id)].slice(0, 50));
+    };
+
+    if (stage === "run")
+      return html`<${Runner} items=${items} answerSec=${settings.answerSec} prepSec=${settings.prepSec} tts=${settings.tts} onFinish=${finish} onQuit=${() => { stopSpeaking(); setStage("setup"); }} />`;
+    if (stage === "done")
+      return html`<${Results} items=${items} target=${target} onUpdate=${(next) => { setItems(next); app.setSessions((all) => all.map((s) => (s.id === sessionId ? { ...s, items: next } : s))); }} onRestart=${() => setStage("setup")} />`;
+
+    const hints = settings.university && d.hints[settings.university];
+    const disabled = (settings.kind === "basket" && !app.basket.length) || (settings.kind === "generated" && !app.generated.length);
+    return html`<div class="page-head">
+        <h1>모의 면접</h1>
+        <p class="lede">실제 기출 문항이나 내 생기부 예상 질문으로 시간을 재며 답하고, 끝나면 답변별 AI 피드백을 받습니다.</p>
+      </div>
+      <section class="card">
+        <h2 style=${{ fontSize: "16px" }}>문항 고르기</h2>
+        <div class="opts">
+          <button class="opt" aria-pressed=${settings.kind === "bank"} onClick=${() => set("kind", "bank")}><b>기출 문항 무작위</b><small>조건에 맞는 공개 문항 중에서</small></button>
+          <button class="opt" aria-pressed=${settings.kind === "basket"} disabled=${!app.basket.length} onClick=${() => set("kind", "basket")}><b>연습 목록 (${app.basket.length})</b><small>기출 문항에서 담은 문항</small></button>
+          <button class="opt" aria-pressed=${settings.kind === "generated"} disabled=${!app.generated.length} onClick=${() => set("kind", "generated")}><b>내 예상 질문 (${app.generated.length})</b><small>생기부로 만든 AI 예상 질문</small></button>
+        </div>
+        ${settings.kind === "bank" && html`<div class="grid">
+          <label class="field"><span>대학</span>
+            <select id="pr-university" class="input" value=${settings.university} onChange=${(e) => set("university", e.target.value)}>
+              <option value="">전체 대학</option>
+              ${d.universities.filter((u) => u.questionCount).map((u) => html`<option key=${u.name} value=${u.name}>${u.name}</option>`)}
+            </select>
+          </label>
+          <label class="field"><span>면접 유형</span>
+            <select id="pr-format" class="input" value=${settings.format} onChange=${(e) => set("format", e.target.value)}>
+              <option value="">전체</option>
+              ${FORMATS.map((x) => html`<option key=${x} value=${x}>${x}</option>`)}
+            </select>
+          </label>
+          <label class="field"><span>평가요소</span>
+            <select id="pr-competency" class="input" value=${settings.competency} onChange=${(e) => set("competency", e.target.value)}>
+              <option value="">전체</option>
+              ${d.competencies.map((x) => html`<option key=${x} value=${x}>${x}</option>`)}
+            </select>
+          </label>
+        </div>`}
+        ${settings.kind === "bank" && hints && html`<div class="box note"><b style=${{ color: "var(--fg)" }}>${settings.university}가 공개한 면접 방식</b>
+          <ul style=${{ margin: "4px 0 0", paddingLeft: "18px" }}>${hints.map((h) => html`<li key=${h}>${h}</li>`)}</ul></div>`}
+      </section>
+      <section class="card">
+        <h2 style=${{ fontSize: "16px" }}>진행 방식</h2>
+        <div class="grid">
+          ${settings.kind !== "basket" && html`<label class="field"><span>문항 수</span>
+            <select id="pr-count" class="input" value=${settings.count} onChange=${(e) => set("count", Number(e.target.value))}>
+              ${[3, 5, 7, 10].map((n) => html`<option key=${n} value=${n}>${n}개</option>`)}
+            </select></label>`}
+          <label class="field"><span>문항당 답변 시간</span>
+            <select id="pr-answer" class="input" value=${settings.answerSec} onChange=${(e) => set("answerSec", Number(e.target.value))}>
+              ${[60, 90, 120, 180, 300].map((n) => html`<option key=${n} value=${n}>${n >= 120 ? `${n / 60}분` : `${n}초`}</option>`)}
+            </select></label>
+          <label class="field"><span>제시문 준비 시간</span>
+            <select id="pr-prep" class="input" value=${settings.prepSec} onChange=${(e) => set("prepSec", Number(e.target.value))}>
+              ${[0, 60, 180, 300, 600].map((n) => html`<option key=${n} value=${n}>${n === 0 ? "없음" : `${n / 60}분`}</option>`)}
+            </select></label>
+        </div>
+        ${canSpeak && html`<label class="check"><input id="pr-tts" type="checkbox" checked=${settings.tts} onChange=${(e) => set("tts", e.target.checked)} /> 질문을 소리로 읽어 주기</label>`}
+        <div class="grid">
+          <label class="field"><span>지원 대학 (피드백 참고용, 선택)</span>
+            <input id="pr-target-univ" class="input" value=${app.profile.university} placeholder="예: OO대학교" onChange=${(e) => app.setProfile((p) => ({ ...p, university: e.target.value }))} /></label>
+          <label class="field"><span>지원 학과 (선택)</span>
+            <input id="pr-target-major" class="input" value=${app.profile.major} placeholder="예: 화학공학과" onChange=${(e) => app.setProfile((p) => ({ ...p, major: e.target.value }))} /></label>
+        </div>
+        <p class="note">이 버전은 글로 답합니다. 말로 답하기(음성 인식)는 저장소의 웹앱 버전에서 쓸 수 있습니다.</p>
+      </section>
+      ${error && html`<p class="bad" style=${{ fontWeight: 600 }}>${error}</p>`}
+      <button class="btn primary big" disabled=${disabled} onClick=${() => begin()}>모의 면접 시작</button>`;
+  }
+
+  function fmt(sec) {
+    const s = Math.abs(Math.round(sec));
+    return `${sec < 0 ? "+" : ""}${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
+  }
+
+  function Runner({ items, answerSec, prepSec, tts, onFinish, onQuit }) {
+    const [index, setIndex] = useState(0);
+    const [answers, setAnswers] = useState(() => items.map(() => ""));
+    const [seconds, setSeconds] = useState(() => items.map(() => 0));
+    const current = items[index];
+    const [prepUntil, setPrepUntil] = useState(() => (current.passage && prepSec > 0 ? Date.now() + prepSec * 1000 : 0));
+    const [startedAt, setStartedAt] = useState(() => Date.now());
+    const [now, setNow] = useState(() => Date.now());
+    const phase = now < prepUntil ? "prep" : "answer";
+    const answerStart = Math.max(startedAt, prepUntil);
+    const spoken = useRef(-1);
+
+    useEffect(() => {
+      const t = setInterval(() => setNow(Date.now()), 250);
+      return () => clearInterval(t);
+    }, []);
+    useEffect(() => {
+      if (phase === "answer" && tts && spoken.current !== index) {
+        spoken.current = index;
+        speak(current.question);
+      }
+    }, [phase, tts, index, current.question]);
+
+    const remaining = phase === "prep" ? (prepUntil - now) / 1000 : answerSec - (now - answerStart) / 1000;
+    const over = phase === "answer" && remaining < 0;
+    const skipPrep = () => {
+      const t = Date.now();
+      setPrepUntil(0);
+      setStartedAt(t);
+      setNow(t);
+    };
+    const next = () => {
+      stopSpeaking();
+      const t = Date.now();
+      const used = phase === "answer" ? Math.round((t - answerStart) / 1000) : 0;
+      const secs = seconds.map((s, i) => (i === index ? used : s));
+      setSeconds(secs);
+      if (index + 1 >= items.length) {
+        onFinish(items.map((it, i) => ({ ...it, answer: answers[i].trim(), seconds: secs[i] })));
+        return;
+      }
+      const n = items[index + 1];
+      setIndex(index + 1);
+      setPrepUntil(n.passage && prepSec > 0 ? t + prepSec * 1000 : 0);
+      setStartedAt(t);
+      setNow(t);
+      window.scrollTo(0, 0);
+    };
+
+    return html`<div class="runbar">
+        <div class="row" style=${{ justifyContent: "space-between" }}>
+          <b>${index + 1} / ${items.length}</b>
+          <span class=${`timer ${over ? "over" : remaining < 15 ? "warn" : ""}`} aria-live="polite">${phase === "prep" ? "준비 " : ""}${fmt(remaining)}</span>
+          <button class="textlink" onClick=${onQuit}>그만하기</button>
+        </div>
+        <div class="progress"><div style=${{ width: `${(index / items.length) * 100}%` }}></div></div>
+      </div>
+      <section class="card">
+        <div class="meta">${current.source}</div>
+        ${current.passage && html`<div class="box scroll"><div class="meta" style=${{ fontWeight: 600, marginBottom: "4px" }}>제시문</div><div class="passage">${current.passage}</div></div>`}
+        ${phase === "prep"
+          ? html`<div class="stack" style=${{ alignItems: "center", textAlign: "center", padding: "12px 0" }}>
+              <p class="note">제시문을 읽고 답변을 준비하세요. 시간이 끝나면 질문이 나옵니다.</p>
+              <button class="btn primary" onClick=${skipPrep}>준비 완료, 질문 보기</button>
+            </div>`
+          : html`<div class="row" style=${{ alignItems: "flex-start", flexWrap: "nowrap" }}>
+                <p class="qtext">${current.question}</p>
+                ${canSpeak && html`<button class="btn" style=${{ flex: "none" }} title="다시 듣기" aria-label="질문 다시 듣기" onClick=${() => speak(current.question)}>🔊</button>`}
+              </div>
+              <textarea id="run-answer" class="input" rows="8" value=${answers[index]} placeholder="답변을 입력하세요. 실제 면접처럼 말하듯 써 보세요."
+                onChange=${(e) => setAnswers((a) => a.map((v, i) => (i === index ? e.target.value : v)))}></textarea>
+              ${over && html`<p class="bad" style=${{ fontWeight: 600, fontSize: "14px" }}>답변 시간이 지났습니다. 실제 면접이라면 마무리할 시점이에요.</p>`}
+              <div class="row" style=${{ justifyContent: "flex-end" }}>
+                <button class="btn primary" onClick=${next}>${index + 1 >= items.length ? "면접 마치기" : "다음 질문"}</button>
+              </div>`}
+      </section>`;
+  }
+
+  function useSampleRunner() {
+    const app = useApp();
+    const [hidden, setHidden] = useState(false);
+    const run = useCallback(
+      async (prompt, opts) => {
+        if (!app.sample) throw { code: "capability_disabled" };
+        try {
+          return await app.sample.json(prompt, { modelTier: "default", ...(opts || {}) });
+        } catch (e) {
+          if (e && HIDE_CODES.has(e.code)) setHidden(true);
+          throw e;
+        }
+      },
+      [app.sample],
+    );
+    const available = app.sample !== null && !hidden;
+    return { run, available, checking: app.sample === undefined };
+  }
+
+  function Results({ items, target, onUpdate, onRestart }) {
+    const app = useApp();
+    const { run, available, checking } = useSampleRunner();
+    const [busy, setBusy] = useState({});
+    const [errors, setErrors] = useState({});
+    const [sendRecord, setSendRecord] = useState(false);
+    const ref = useRef(items);
+    useEffect(() => {
+      ref.current = items;
+    }, [items]);
+
+    async function feedback(i) {
+      const it = ref.current[i];
+      if (!it.answer) return;
+      setBusy((b) => ({ ...b, [i]: true }));
+      setErrors((e) => ({ ...e, [i]: "" }));
+      try {
+        const raw = await run(feedbackPrompt(app.data, it, target, sendRecord ? app.profile.record : ""));
+        const fb = cleanFeedback(raw);
+        const next = ref.current.map((x, j) => (j === i ? { ...x, feedback: fb } : x));
+        ref.current = next;
+        onUpdate(next);
+      } catch (e) {
+        setErrors((er) => ({ ...er, [i]: sampleErrorText(e) }));
+      } finally {
+        setBusy((b) => ({ ...b, [i]: false }));
+      }
+    }
+    async function feedbackAll() {
+      for (let i = 0; i < ref.current.length; i++) {
+        if (ref.current[i].answer && !ref.current[i].feedback) await feedback(i);
+      }
+    }
+    const answered = items.filter((x) => x.answer).length;
+    return html`<section class="card">
+        <div class="row" style=${{ justifyContent: "space-between" }}>
+          <div><b>면접 종료</b><p class="note">${items.length}문항 중 ${answered}문항 답변 · 기록은 '내 노트'에 저장됐어요.</p></div>
+          <div class="row">
+            <button class="btn" onClick=${onRestart}>다시 하기</button>
+            ${available && html`<button class="btn primary" disabled=${!answered || checking} onClick=${feedbackAll}>전체 AI 피드백</button>`}
+          </div>
+        </div>
+        ${!available && html`<p class="note">이 화면에서는 AI 피드백을 쓸 수 없습니다. 대학 공개 출제 의도·예시 답안과 비교해 보세요.</p>`}
+        ${available && app.profile.record && html`<label class="check"><input id="send-record" type="checkbox" checked=${sendRecord} onChange=${(e) => setSendRecord(e.target.checked)} /> 저장해 둔 내 생기부도 함께 보내 더 정확한 피드백 받기</label>`}
+      </section>
+      ${items.map((it, i) => {
+        const q = it.questionId ? app.data.qMap.get(it.questionId) : null;
+        return html`<section key=${i} class="card">
+          <div class="meta">${i + 1}. ${it.source} · 답변 ${it.seconds}초</div>
+          <p class="prompt" style=${{ fontWeight: 700 }}>${it.question}</p>
+          <p class="mine" style=${{ background: "var(--sunken)" }}>${it.answer || "(답변 없음)"}</p>
+          ${q && q.intent && html`<details class="soft"><summary>출제 의도·해설 (대학 공개)</summary><div class="pre">${q.intent}</div></details>`}
+          ${q && q.sampleAnswer && html`<details class="soft"><summary>예시 답안 (대학 공개)</summary><div class="pre">${q.sampleAnswer}</div></details>`}
+          ${it.feedback
+            ? html`<${FeedbackView} fb=${it.feedback} />`
+            : available && it.answer && html`<div><button class="btn" disabled=${busy[i] || checking} onClick=${() => feedback(i)}>${busy[i] ? "AI가 답변을 읽는 중… (최대 1~2분)" : "AI 피드백 받기"}</button></div>`}
+          ${errors[i] && html`<p class="bad" style=${{ fontSize: "14px" }}>${errors[i]}</p>`}
+        </section>`;
+      })}`;
+  }
+
+  function FeedbackView({ fb }) {
+    const avg = fb.scores.length ? fb.scores.reduce((s, x) => s + x.score, 0) / fb.scores.length : 0;
+    return html`<div class="fb">
+      <div class="row" style=${{ justifyContent: "space-between", alignItems: "baseline", flexWrap: "nowrap" }}>
+        <b>${fb.overall}</b>${fb.scores.length > 0 && html`<span class="avg">${avg.toFixed(1)} / 5</span>`}
+      </div>
+      ${fb.scores.length > 0 && html`<ul class="scores">${fb.scores.map((s, i) => {
+        const tone = s.score >= 4 ? "hi" : s.score <= 2 ? "lo" : "mid";
+        return html`<li key=${i}><b>${s.criterion}</b><span class="dots" aria-label=${`${s.score}점`}><span class=${`on ${tone}`}>${"●".repeat(s.score)}</span><span class="off">${"●".repeat(5 - s.score)}</span></span><span class="cm note">${s.comment}</span></li>`;
+      })}</ul>`}
+      <div class="cols">
+        <div><span class="good">잘한 점</span><ul>${fb.strengths.map((s, i) => html`<li key=${i}>${s}</li>`)}</ul></div>
+        <div><span class="warn">고칠 점</span><ul>${fb.improvements.map((s, i) => html`<li key=${i}>${s}</li>`)}</ul></div>
+      </div>
+      ${fb.improvedAnswer && html`<details><summary>다듬은 답변 보기</summary><div class="pre">${fb.improvedAnswer}</div></details>`}
+      ${fb.followUps.length > 0 && html`<div><b>예상 꼬리 질문</b><ol>${fb.followUps.map((s, i) => html`<li key=${i}>${s}</li>`)}</ol></div>`}
+    </div>`;
+  }
+
+  // ---------- record → expected questions ----------
+  const squash = (s) => String(s || "").replace(/\s+/g, "");
+  function Record() {
+    const app = useApp();
+    const d = app.data;
+    const { run, available, checking } = useSampleRunner();
+    const [record, setRecord] = useState(app.profile.record || "");
+    const [remember, setRemember] = useState(true);
+    const [count, setCount] = useState(8);
+    const [busy, setBusy] = useState(false);
+    const [error, setError] = useState("");
+    const [latest, setLatest] = useState([]);
+    const target = [app.profile.university, app.profile.major].filter(Boolean).join(" ");
+
+    async function generate() {
+      setError("");
+      setBusy(true);
+      if (remember) app.setProfile((p) => ({ ...p, record }));
+      try {
+        const raw = await run(generationPrompt(d, record, app.profile.university, app.profile.major, count), { cache: false });
+        const list = raw && Array.isArray(raw.questions) ? raw.questions : [];
+        const comps = ["학업역량", "진로역량", "공동체역량", "인성"];
+        const now = Date.now();
+        const made = list
+          .filter((q) => q && typeof q.question === "string" && q.question.trim())
+          .slice(0, count)
+          .map((q) => {
+            const basis = typeof q.basis === "string" ? q.basis.trim() : "";
+            return {
+              id: newId(),
+              question: q.question.trim(),
+              basis,
+              basisVerified: squash(basis).length > 0 && squash(record).includes(squash(basis)),
+              competency: comps.includes(q.competency) ? q.competency : "기타",
+              intent: typeof q.intent === "string" ? q.intent.trim() : "",
+              followUps: Array.isArray(q.followUps) ? q.followUps.filter((x) => typeof x === "string" && x.trim()).map((x) => x.trim()) : [],
+              target,
+              createdAt: now,
+            };
+          });
+        if (!made.length) throw { code: "invalid_json" };
+        setLatest(made);
+        app.setGenerated((g) => [...made, ...g].slice(0, 200));
+      } catch (e) {
+        setError(sampleErrorText(e));
+      } finally {
+        setBusy(false);
+      }
+    }
+
+    return html`<div class="page-head">
+        <h1>생기부 예상 질문</h1>
+        <p class="lede">내 학교생활기록부(세특·창체·행특 등)를 붙여넣으면 실제 대학 공개 문항의 문체를 참고해, 근거 문장을 인용한 예상 질문을 만듭니다. 생기부 내용은 질문을 만들 때만 Claude에게 보내고, 이 페이지에는 '저장'을 켠 경우에만 이 브라우저에 남습니다.</p>
+      </div>
+      <section class="card">
+        <div class="grid">
+          <label class="field"><span>지원 대학</span>
+            <input id="rc-univ" class="input" list="univ-list" value=${app.profile.university} placeholder="선택 또는 입력" onChange=${(e) => app.setProfile((p) => ({ ...p, university: e.target.value }))} />
+            <datalist id="univ-list">${d.universities.map((u) => html`<option key=${u.name} value=${u.name}></option>`)}</datalist>
+          </label>
+          <label class="field"><span>지원 학과</span>
+            <input id="rc-major" class="input" value=${app.profile.major} placeholder="예: 생명과학과" onChange=${(e) => app.setProfile((p) => ({ ...p, major: e.target.value }))} />
+          </label>
+          <label class="field"><span>질문 수</span>
+            <select id="rc-count" class="input" value=${count} onChange=${(e) => setCount(Number(e.target.value))}>
+              ${[5, 8, 10, 15].map((n) => html`<option key=${n} value=${n}>${n}개</option>`)}
+            </select>
+          </label>
+        </div>
+        <label class="field"><span>생활기록부 내용 (진로희망, 창의적 체험활동, 세부능력 및 특기사항, 행동특성 및 종합의견 등)</span>
+          <textarea id="rc-record" class="input" rows="12" value=${record} placeholder="학교에서 받은 생활기록부 사본의 내용을 복사해 붙여넣으세요." onChange=${(e) => setRecord(e.target.value)}></textarea>
+          <span class="meta" style=${{ textAlign: "right" }}>${record.length.toLocaleString()} / 30,000자</span>
+        </label>
+        <label class="check"><input id="rc-remember" type="checkbox" checked=${remember} onChange=${(e) => setRemember(e.target.checked)} /> 이 브라우저에 생기부 내용 저장 (모의 면접 피드백에도 활용)</label>
+        ${!available && !checking && html`<p class="note">이 화면에서는 AI 기능을 쓸 수 없어 예상 질문을 만들 수 없습니다.</p>`}
+        ${error && html`<p class="bad" style=${{ fontWeight: 600 }}>${error}</p>`}
+        <button class="btn primary big" disabled=${busy || checking || !available || record.trim().length < 50 || record.length > 30000} onClick=${generate}>
+          ${busy ? "생기부를 읽고 질문을 만드는 중… (1~2분)" : record.trim().length < 50 ? "생기부 내용을 50자 이상 붙여넣어 주세요" : "예상 질문 만들기"}
+        </button>
+      </section>
+      ${latest.length > 0 && html`<section class="stack">
+        <div class="row" style=${{ justifyContent: "space-between" }}>
+          <h2 style=${{ fontSize: "18px" }}>새로 만든 질문 ${latest.length}개</h2>
+          <button class="link" onClick=${() => app.setTab("practice")}>모의 면접에서 '내 예상 질문'으로 연습 →</button>
+        </div>
+        ${latest.map((g) => html`<${GeneratedCard} key=${g.id} g=${g} />`)}
+      </section>`}`;
+  }
+
+  function GeneratedCard({ g, onDelete }) {
+    return html`<article class="card" style=${{ gap: "8px" }}>
+      <div class="row" style=${{ gap: "6px" }}>
+        <span class="chip">${g.competency}</span><span class="chip muted">AI 생성</span>${g.target && html`<span class="meta">${g.target}</span>`}
+        ${onDelete && html`<button class="textlink" style=${{ marginLeft: "auto" }} onClick=${onDelete}>삭제</button>`}
+      </div>
+      <p style=${{ fontWeight: 700, fontSize: "16px" }}>${g.question}</p>
+      <div class="box note" style=${{ borderLeft: "3px solid var(--accent)" }}>
+        <span class=${g.basisVerified ? "good" : "warn"} style=${{ fontSize: "12px", marginRight: "6px" }}>${g.basisVerified ? "생기부 원문 확인" : "근거 문장이 생기부 원문과 달라요 — 직접 확인"}</span>${g.basis}
+      </div>
+      ${g.intent && html`<p class="note"><b style=${{ color: "var(--fg)" }}>확인하려는 것: </b>${g.intent}</p>`}
+      ${g.followUps.length > 0 && html`<ul class="note" style=${{ margin: 0, paddingLeft: "18px" }}>${g.followUps.map((f, i) => html`<li key=${i}>꼬리 질문: ${f}</li>`)}</ul>`}
+    </article>`;
+  }
+
+  // ---------- notes ----------
+  function Notes() {
+    const app = useApp();
+    const [tab, setTab] = useState("answers");
+    const [exportText, setExportText] = useState("");
+    const [exportMsg, setExportMsg] = useState("");
+    const answerList = Object.entries(app.answers).sort((a, b) => b[1].updatedAt - a[1].updatedAt);
+
+    function buildText() {
+      const L = ["# 수시 면접 연습실 - 내 노트", "", "## 내 답변", ""];
+      for (const [, a] of answerList) L.push(`Q. ${a.question}`, `A. ${a.answer}`, "");
+      L.push("## 모의 면접 기록", "");
+      for (const s of app.sessions) {
+        L.push(`### ${new Date(s.startedAt).toLocaleString("ko-KR")} ${s.target || ""}`);
+        for (const it of s.items) {
+          L.push(`Q. ${it.question}`, `A. ${it.answer || "(답변 없음)"} (${it.seconds}초)`);
+          if (it.feedback) {
+            L.push(`- 총평: ${it.feedback.overall}`);
+            for (const x of it.feedback.improvements) L.push(`- 고칠 점: ${x}`);
+            L.push(`- 다듬은 답변: ${it.feedback.improvedAnswer}`);
+          }
+          L.push("");
+        }
+      }
+      L.push("## 생기부 예상 질문 (AI 생성)", "");
+      for (const g of app.generated) L.push(`Q. ${g.question}`, `근거: ${g.basis}`, "");
+      return L.join("\n");
+    }
+    async function doExport() {
+      const text = buildText();
+      setExportMsg("");
+      if (app.downloads) {
+        try {
+          await app.downloads.save({ filename: `면접노트_${new Date().toISOString().slice(0, 10)}.txt`, data: text });
+          setExportMsg("저장했습니다.");
+          return;
+        } catch (e) {
+          if (e && e.code === "declined") {
+            setExportMsg("저장을 취소했습니다.");
+            return;
+          }
+        }
+      }
+      setExportText(text);
+    }
+    async function copy() {
+      try {
+        await navigator.clipboard.writeText(exportText);
+        setExportMsg("복사했습니다.");
+      } catch {
+        setExportMsg("복사하지 못했습니다. 아래 글을 길게 눌러 직접 복사하세요.");
+      }
+    }
+
+    const tabs = [["answers", "내 답변", answerList.length], ["sessions", "모의 면접 기록", app.sessions.length], ["generated", "예상 질문", app.generated.length]];
+    return html`<div class="page-head">
+        <h1>내 노트</h1>
+        <p class="lede">작성한 답변, 모의 면접 기록, 생기부 예상 질문을 모아 봅니다. 모두 이 브라우저에만 저장되니 필요하면 내보내 두세요.</p>
+      </div>
+      <div class="row" style=${{ justifyContent: "space-between" }}>
+        <div class="row" style=${{ gap: "2px" }}>${tabs.map(([k, label, n]) => html`<button key=${k} class="tab" aria-current=${tab === k ? "page" : undefined} onClick=${() => setTab(k)}>${label} ${n}</button>`)}</div>
+        <button class="btn" onClick=${doExport}>텍스트로 내보내기</button>
+      </div>
+      ${exportMsg && html`<p class="note">${exportMsg}</p>`}
+      ${exportText && html`<div class="card">
+        <div class="row" style=${{ justifyContent: "space-between" }}><b>내보낸 내용</b><button class="btn" onClick=${copy}>복사</button></div>
+        <textarea id="export-text" class="input" rows="8" readOnly value=${exportText}></textarea>
+      </div>`}
+      ${tab === "answers" && (answerList.length === 0
+        ? html`<div class="card empty">기출 문항에서 '내 답변 쓰기'로 답변을 정리해 보세요. <button class="link" onClick=${() => app.setTab("questions")}>기출 문항 보기</button></div>`
+        : answerList.map(([id, a]) => html`<article key=${id} class="card" style=${{ gap: "8px" }}>
+            <p class="prompt" style=${{ fontWeight: 700 }}>${a.question}</p>
+            <p class="pre">${a.answer}</p>
+            <div class="row meta">
+              <span>${new Date(a.updatedAt).toLocaleDateString("ko-KR")}</span>
+              ${app.data.qMap.has(id) && html`<button class="link" style=${{ fontSize: "12px" }} onClick=${() => app.practice({ kind: "ids", ids: [id] })}>이 문항 연습</button>`}
+              <button class="textlink" onClick=${() => app.setAnswers((all) => { const n = { ...all }; delete n[id]; return n; })}>삭제</button>
+            </div>
+          </article>`))}
+      ${tab === "sessions" && (app.sessions.length === 0
+        ? html`<div class="card empty">모의 면접을 마치면 기록이 여기에 쌓입니다. <button class="link" onClick=${() => app.setTab("practice")}>모의 면접 시작</button></div>`
+        : app.sessions.map((s) => html`<details key=${s.id} class="box">
+            <summary>${new Date(s.startedAt).toLocaleString("ko-KR")} <span class="meta">· ${s.items.length}문항 · 피드백 ${s.items.filter((x) => x.feedback).length}개${s.target ? ` · ${s.target}` : ""}</span></summary>
+            <div class="stack">
+              ${s.items.map((it, i) => html`<div key=${i} class="stack" style=${{ borderTop: "1px solid var(--border)", paddingTop: "10px", gap: "6px" }}>
+                <div class="meta">${it.source} · ${it.seconds}초</div>
+                <p class="prompt" style=${{ fontWeight: 600 }}>${it.question}</p>
+                <p class="pre">${it.answer || "(답변 없음)"}</p>
+                ${it.feedback && html`<${FeedbackView} fb=${it.feedback} />`}
+              </div>`)}
+              <div><button class="textlink" onClick=${() => app.setSessions((all) => all.filter((x) => x.id !== s.id))}>이 기록 삭제</button></div>
+            </div>
+          </details>`))}
+      ${tab === "generated" && (app.generated.length === 0
+        ? html`<div class="card empty">생기부 예상 질문에서 내 생기부로 질문을 만들어 보세요. <button class="link" onClick=${() => app.setTab("record")}>예상 질문 만들기</button></div>`
+        : app.generated.map((g) => html`<${GeneratedCard} key=${g.id} g=${g} onDelete=${() => app.setGenerated((all) => all.filter((x) => x.id !== g.id))} />`))}`;
+  }
+
+  ReactDOM.createRoot(document.getElementById("app")).render(html`<${App} />`);
+})();
+</script>
