@@ -93,8 +93,9 @@ def verify(path, quiet=False):
         for key in ("passage", "intent", "sample_answer"):
             if q.get(key):
                 fields.append((key, q[key]))
-        if not q.get("prompts"):
-            report.append(f"  q{i}: EMPTY prompts")
+        if not q.get("prompts") and not q.get("passage"):
+            # passage-only items (question asked orally, not printed) are allowed; empty items are not
+            report.append(f"  q{i}: EMPTY prompts and passage")
             n_fail += 1
         for key, val in fields:
             fails, fuzzy = check_field(src, val)

@@ -1,0 +1,414 @@
+{
+ "source": {
+  "university": "한동대학교",
+  "year": 2025,
+  "file": "2025_한동대학교"
+ },
+ "interviews": [
+  {
+   "admission": "소프트웨어인재",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인이 수험생 1인을 대상으로 개별 면접, 블라인드 면접",
+   "duration": "20분",
+   "criteria": [
+    {
+     "name": "본교 인재상 부합도",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통 및 면접태도",
+     "weight": "20"
+    },
+    {
+     "name": "논리성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "일반학생 / 대안학교 / 사회기여자 및 배려자 / 기회균형 / 글로벌인재 / 장애인 등 대상자(정원외)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인이 수험생 1인을 대상으로 개별 면접, 블라인드 면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "본교 인재상 부합도",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통 및 면접태도",
+     "weight": "20"
+    },
+    {
+     "name": "논리성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "재외국민 / 전교육과정 이수자 / 북한이탈주민 전형",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인이 수험생 1인을 대상으로 개별 면접, 블라인드 면접 (단, 북한이탈주민 전형의 경우 면접위원 3인)",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "본교 인재상 부합도",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통 및 면접태도",
+     "weight": "20"
+    },
+    {
+     "name": "논리성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    }
+   ],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한동대학교에 지원한 동기와 희망전공, 진로계획을 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "‘늘어나는 10대 극단적 선택 막아라’에 대하여 탐구하였는데, 만약 본인이 상담교사라면 이처럼 정서적 위기에 처해있는 학생들에게 어떻게 다가가고 도와주었을지 이야기 해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로활동으로 ‘게임에서의 NPC 알고리즘’에 대하여 조사하였는데, 게임에 적용되는 인공지능 기술 사례와 해결해야 하는 과제들을 소개해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "보건의료 동아리에서 가장 기억에 남는 활동을 소개해 주세요. 이 경험을 통해 의료인이 가져야 할 가치관이나 태도에 대해 생각해 본 것이 있다면 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "국제 이슈 토론부 활동 중 '외국인들이 대한민국에서 한 달 살기 협업 프로모션 제작'이라는 주제로 토론하면서 현재 외국인들이 느끼고 있는 불편함이 무엇이고, 이것을 해결하기 위한 어떤 방안이 있는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 때 동아리 연합회장으로 동아리 축제를 진행한 경험이 있네요. 축제를 성공적으로 이끌기 위해 제정한 규칙은 무엇이었으며, 동아리 축제를 활성화를 위해 가장 학교 친구들과 협력하기 위해 노력한 부분은 무엇이었는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급 임원, 전교 학생회 등 고등학교 시절동안 한 여러 리더십 활동에서 어떠한 가치관을 가지고 활동하였고, 어떻게 이러한 점들을 드러냈는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 때 학급 반장에 아쉽게 떨어졌지만 내세웠던 정책들을 폐기하지 않았다고 하였는데, 어떤 공약들이었고, 어떤 방식으로 다른 리더들을 도왔는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동에서 방송 관련 행사를 하면서 어려운 점이 있었다면 어떻게 해결해 나갔는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "자율활동으로 읽은 쇼펜하우어의 '당신의 인생은 왜 힘들지 않아야 한다고 생각하십니까'의 줄거리를 간략히 설명하고, 이걸 통해 무엇을 느꼈고 다짐했는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "봉사활동 중에 멸종 위기종 관련 공익 캠페인 활동으로 수익금 기부를 했는데, 이 활동을 통해서 배운 점은 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "행동특성 및 종합의견에 몸이 불편한 친구를 도왔다고 하는데 어떤 경우인지 설명하고 본인이 감수한 손해나 혹은 배운 것이 있다면 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "행동특성 및 종합의견에 공동체 의식이 뛰어나 혼자 일을 하기보다 함께 협력해서 일하기 좋아한다고 작성되어 있는데, 친구들과 함께 협력해서 일을 했던 사례를 한 가지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "언어와 매체 수업에서 현대 국어와 중세 국어에 대해 조사하면서 배운 '언어의 역사적 문학적 맥락의 중요성'에 대해 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "문학 수업에서 손창섭의 ‘비 오는 날’과 다자이 오사무의 ‘인간 실격’ 책을 비교하며, 각각 시대적 허무주의와 인간의 근원적 절망을 다루고 있다고 분석하였습니다. 두 작품의 역사적·문화적 배경이 허무주의적 표현에 어떻게 영향을 미쳤는지 구체적으로 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "영어 수업에서 ‘인공지능의 교육분야에서의 활용 가능성’에 대한 글을 작성하였는데, 교육분야에서 인공지능 활용의 장단점과 필요성에 대해 자신의 생각을 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "사회·문화 수업에서 '농어촌 전형 입시 제도'를 주제로 탐구하였는데, 탐구한 내용을 바탕으로 공정성과 공평한 기회를 바탕으로 새로운 입시 제도를 만든다면 어떤 전형을 만들지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "정치와 법 수업에서 '근로시간 개편안'에 대하여 조사하고 주 4일제 근무에 대하여 주장했는데, 주 4일제를 주장한 이유는 무엇인가요? 주 4일제가 되었을 때 예상되는 문제점은 무엇이 있을까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "고전과 윤리 수업에서 '수단 내전과 국제사회의 개입'을 주제로 탐구하였는데, 수단 내전의 원인은 무엇이며 국제사회는 어떻게 수단을 도와야 한다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "확률과 통계 수업에서 ‘평균의 종말'이라는 책에 언급된 ’평균에 대한 오해와 잘못된 인식이 사회에 미치는 영향‘에 대해 발표했는데, 그 내용을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2~3학년 물리 수업에서 실험한 내용을 토대로, 2학년 때 제작한 아두이노 기반 자율주행 자동차의 한계는 무엇이었고, 3학년 때 어떻게 개선했는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생명과학Ⅱ 수업에서 '유전자 분석을 통한 맞춤형 서비스의 사회적 영향’에 관해 탐구하였는데, 그 내용을 설명해 주세요. 유전자 분석 서비스에서 발생할 수 있는 윤리적 문제는 무엇인가요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수업량 유연화 활동에서 '지역 소멸이 불러올 사회 변화에 선제적으로 대응할 정책 마련'을 주제로 사회, 윤리 교과들을 융합하여 팀 프로젝트를 진행하고 발표했는데, 탐구 결과로 도출된 정책적 방안에 대해 자세히 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "심화 자율주제 탐구활동에 참여하여 모둠장 역할을 맡아 '구형파를 이용한 무선충전기의 효율성 탐구'를 주제로 모둠 연구를 하였는데, 모둠장으로서 어떻게 이끌었는지 설명해 주세요"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학년이 오를수록 성적도 상승했는데, 어떻게 공부하였나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  }
+ ]
+}

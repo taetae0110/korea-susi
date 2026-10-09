@@ -67,9 +67,10 @@ for (const file of fs.readdirSync(extractedDir).filter((f) => f.endsWith(".json"
     const prompts = (q.prompts ?? [])
       .map((p) => clean(p)?.replace(/([가-힣])\n+([가-힣])/g, "$1$2") ?? null)
       .filter(Boolean);
-    if (!prompts.length) continue;
-    if (!FORMATS.has(q.format)) throw new Error(`${file}: bad format ${q.format}`);
     const passage = clean(q.passage);
+    // passage-only items: the question is asked orally and was not published
+    if (!prompts.length && !passage) continue;
+    if (!FORMATS.has(q.format)) throw new Error(`${file}: bad format ${q.format}`);
     const key = [university, norm(prompts.join("|")), norm(passage)].join("#");
     const ref = { doc: docId, page: Number(q.page) || 0 };
     const existing = questions.get(key);

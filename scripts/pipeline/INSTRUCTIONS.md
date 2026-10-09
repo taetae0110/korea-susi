@@ -57,6 +57,8 @@ Field rules:
   - `prompts`: the question sentence(s), verbatim. Several 하위 질문 of one 제시문 → several strings in
     order. Join line-wrapped fragments (e.g. "어\n떤" → "어떤"); you may drop a leading bullet or
     number ("·", "-", "1)", "①", "[문항 1]"). Do NOT reword, shorten, merge, fix typos, or fill in "○○" placeholders.
+  - If a 제시문 has NO printed question (the interviewer asks orally), still include it with
+    `"prompts": []` and the verbatim `passage` (plus `intent` if printed). Never write a question yourself.
   - `passage`: the 제시문 text verbatim (for 제시문 기반 면접), else `null`. If part of a 제시문 is a
     figure/table/equation that did not survive text extraction, put the literal marker `[그림]`,
     `[표]`, `[그래프]` or `[수식]` in its place. Keep (가)/(나) labels as in source.

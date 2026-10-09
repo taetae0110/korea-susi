@@ -1,0 +1,479 @@
+{
+ "source": {
+  "university": "한동대학교",
+  "year": 2026,
+  "file": "2026_한동대학교"
+ },
+ "interviews": [
+  {
+   "admission": "SW인재",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인이 수험생 1인을 대상으로 개별 면접, 블라인드 면접",
+   "duration": "20분",
+   "criteria": [
+    {
+     "name": "본교 인재상 부합도",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통 및 면접태도",
+     "weight": "20"
+    },
+    {
+     "name": "논리성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "G-IMPACT 인재 / 대안학교 /사회기여자 및 배려자 / 기회균형 / 글로벌인재 / 선교사자녀/ 기초생활 및 차상위(정원외) / 장애인 등 대상자(정원외)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인이 수험생 1인을 대상으로 개별 면접, 블라인드 면접",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "본교 인재상 부합도",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통 및 면접태도",
+     "weight": "20"
+    },
+    {
+     "name": "논리성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    }
+   ],
+   "page": 3
+  },
+  {
+   "admission": "재외국민(정원외) / 전교육과정 이수자(정원외) / 북한이탈주민 전형(정원외)",
+   "units": "전체",
+   "format": "서류기반",
+   "method": "면접위원 2인이 수험생 1인을 대상으로 개별 면접, 블라인드 면접 (단, 북한이탈주민 전형의 경우 면접위원 3인)",
+   "duration": "10분",
+   "criteria": [
+    {
+     "name": "본교 인재상 부합도",
+     "weight": "30"
+    },
+    {
+     "name": "의사소통 및 면접태도",
+     "weight": "20"
+    },
+    {
+     "name": "논리성",
+     "weight": "30"
+    },
+    {
+     "name": "발전가능성",
+     "weight": "20"
+    }
+   ],
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "한동대학교에 지원한 동기와 희망전공, 진로계획을 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "진로활동 시간에 '피디 마인드'를 읽고 PD에 대한 이해를 넓혔습니다. 저자가 말하는 PD의 가장 중요한 자질은 무엇인가요? 또한 해당 자질을 가지기 위해 노력한 점이 있다면 이야기 해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "경영·경제 분야 진로 희망 학생들과 스터디 모임을 하면서 조사한 내용 한 가지와, 이 자료를 통해 본인의 진로 활동에 어떻게 도움이 되었는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "디베이트 캠프에서 '한강에 인격을 부여해야 한다' 주제로 찬반 토론을 진행하였는데, 토론 중 동료와 의견이 크게 달랐던 사례를 하나 들고, 그 상황에서 학생은 어떤 주장을 하였는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "스타트 티칭 동아리 활동 중 '루소의 아동중심 교육'에 대한 발표 내용을 요약하고, 루소의 이론을 바탕으로 본인이 교육자라면 구체적으로 어떻게 학생들을 인도할 것인지 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "또래상담 동아리 활동 중 ‘거울 신경’과 ‘모방 학습’의 사회적 적용 가능성을 탐구했습니다. 학교 내 갈등 상황에서 거울신경 연구 결과를 바탕으로 한 실천적 개입(예: 중재 기법) 하나를 소개하고 기대되는 효과와 부작용을 설명해보세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "동아리 활동에서 후배들을 이끌며 '침착하게 맡은 바를 묵묵히 해내며 후배들을 이끄는 모습'이 있었다고 기록되어 있습니다. 후배가 참여 동기나 태도 면에서 어려움을 보일 때 구체적으로 어떤 방식으로 도와주었는지 사례를 들어 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생태탐구 동아리 활동을 통해 극지 생태계와 생물학 연구로 진로 방향을 설정한 것으로 나타났습니다. 극지 연구 현장에서 본인이 선호하는 역할과 이유는 무엇이며, 그 역할을 잘하기 위해 지금 무엇을 준비해야 할까요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급 반장 역할을 수행하며 소외되는 친구가 없도록 배려했다고 기록되어 있습니다. 구체적으로 한 사례를 들어 친구들을 어떤 방식으로 도왔고, 그 결과 학급 분위기나 개인에게 어떤 변화가 있었는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급 부반장 활동 중 축제, 사제 동행 어울마당 준비에서 본인의 역할은 무엇이었고, 성공적인 행사를 위해 어떤 노력을 들였는지 알려주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학급 휴대폰 관리 도우미 활동을 3년동안 지속적으로 하였습니다. 활동을 하면서 규정을 지키지 않는 학생과 갈등이 생겼을 때, 문제를 해결한 경험이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "2학년 때 영어 멘토링에서 멘토로 친구들의 수준에 맞는 학습방법을 제시했습니다. 자신이 멘토로서 가장 신경 썼던 부분은 무엇이었고, 멘티의 변화를 어떻게 이끌어 냈는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 11
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "봉사 실적 기록에는 교내·지역 봉사와 '하급생 생활 도우미' 활동이 포함되어 있습니다. 지속적인 자원봉사 활동을 통해 본인의 가치관이나 태도에 어떤 변화가 있었는지 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "행동특성 및 종합의견에 '친구들에게 타인을 배려하는 마음과 진정한 봉사 정신을 보여줌'이라고 작성되어 있는데, 그 사례를 하나 말해주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "학교생활기록부 전반에서 말수가 적고 조용한 성격으로 기재되어 있는데, 이에 대해 동의하는 편인가요? 공동체 생활에서 자신의 강점과 약점은 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3년동안 개근을 했습니다. 요즘은 개근하기 쉽지 않은데 본인만의 비결이나 혹은 출석에 대한 본인만의 철학이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미인정 지각 20회, 질병 결석/지각/조퇴가 25회인데 무슨 특별한 사유가 있었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "화법과 작문 세부능력 특기사항에 일본의 급속한 발전 원인을 언어학적 관점에서 분석하고 한국의 현재와 연결짓는 부분에서 나타난 분석력과 비판적 사고력이 돋보인다고 작성되어 있는데, 해당 분석 내용을 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "독서 수업에서 '고통 구경하는 사회'라는 책을 읽었습니다. 저자가 비판하는 타인의 고통에 무감각한 태도는 어떠한 상황에서 발생한다고 생각하나요? 책을 읽고 나서 자신이 바뀌어야 한다고 느낀 부분이 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "영어 수업에서 소설 ‘Winter(Ali Smith)’를 읽고 브렉시트 이후 영국 사회의 혼란을 풍자한 작가의 메시지를 이해하고 발표한 적이 있습니다. 이 발표에 대해 자세히 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "정치와 법 수업 '모의국회 법제사법위원회 활동'에서 전문위원으로 참여하였는데, 구체적으로 어떤 역할이었는지, 활동 중 어려웠던 점과 어떻게 해결해 나갔는지 이야기해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생활과 윤리 수업 중 ‘교육 불평등 문제’에 대해 탐구하였는데, 어떻게 교육 불균형을 해소할 수 있을지 구체적인 사례를 통해 설명하세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "수학Ⅱ 수업에서 항공기의 경로 최적화를 위해 미적분을 활용하여 비행 거리와 연료 소비량을 계산하는 방법을 탐구하였다고 기재되어 있습니다. 어떠한 계산법을 활용하여 결과를 도출하였는지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "미적분 수업에서 미적분 기반 정보 시각화 기능을 탑재한 'SupplySync’ 앱을 설계했습니다. 이 앱에서 사용자에게 가장 유용하다고 생각하는 기능은 무엇이며, 앞으로 앱을 발전시킨다면 어떤 기능을 추가하고 싶은지 설명해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "물리Ⅱ 수업에서 '도플러 효과를 활용한 자율주행 로봇의 충돌 방지 시스템' 탐구를 수행했는데, 이를 구체적으로 설명하고, 실제 재난 현장 같은 복잡한 환경으로 확장할 때 고려해야 할 현실적 제약이나 한계점을 이야기해 보세요. 그리고 개선 방법이 있다면 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "생명과학 수업에서 '박쥐의 면역 반응과 바이러스 공존 메커니즘'에 대해 자신만의 가설을 구성하고 근거를 조합했습니다. 현재 제시한 가설의 핵심 근거와 결과를 이야기 해 주세요."
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 12
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "'인공지능 기초' 수업에서 여행 리뷰 데이터를 이용해 지역서비스와의 상관관계를 분석하는 모델을 만들었다고 했습니다. 그 프로젝트를 통해 얻은 교훈 중 한 가지와, 향후 관광 분야에서 AI를 활용할 때 가장 우려되는 점 하나를 이야기해 줄 수 있나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "3학년 자율교육과정 시간에 ‘미디어 사회에서 사용자는 생산자의 의도에 끌려가고 있지 않을까?’라는 주제로 포스터를 제작하였습니다. 미디어 사회에서 발생하는 사회 문제는 무엇이 있으며, 가장 심각한 문제는 무엇이라고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "서류기반",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "성적이 꾸준히 상승하였는데, 특별한 동기부여가 있었나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  },
+  {
+   "admission": null,
+   "unit": null,
+   "format": "인성",
+   "competency": null,
+   "passage": null,
+   "prompts": [
+    "본인에게 있어 공부는 어떤 의미인가요? 원하는 만큼 공부 성과가 나오지 않을 때 어떤 마음가짐이 필요하다고 생각하나요?"
+   ],
+   "intent": null,
+   "sample_answer": null,
+   "page": 13
+  }
+ ]
+}

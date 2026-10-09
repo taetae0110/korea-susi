@@ -38,7 +38,7 @@ function referenceQuestions(university?: string): string[] {
   const out: string[] = [];
   for (const q of pool) {
     const text = q.prompts.join(" ");
-    if (seen.has(text)) continue;
+    if (!text || seen.has(text)) continue;
     seen.add(text);
     out.push(`- (${q.university}${q.competency ? `, ${q.competency}` : ""}) ${text}`);
     if (out.length >= 20) break;

@@ -63,7 +63,13 @@ export async function POST(request: Request) {
     }
     if (body.target) parts.push(`[지원 대학/학과] ${body.target}`);
     if (body.passage) parts.push(`[제시문]\n${body.passage}`);
-    parts.push(`[질문]\n${body.question}`);
+    if (known && known.prompts.length === 0) {
+      parts.push(
+        "[질문] 대학이 질문 문장을 공개하지 않은 제시문 면접입니다(현장에서 구두로 질문). 학생이 제시문의 핵심과 쟁점을 정확히 파악하고 자기 견해를 근거와 함께 말했는지 평가하세요.",
+      );
+    } else {
+      parts.push(`[질문]\n${body.question}`);
+    }
     if (known?.intent) parts.push(`[대학이 공개한 출제 의도]\n${known.intent}`);
     if (known?.sampleAnswer) parts.push(`[대학이 공개한 예시 답안]\n${known.sampleAnswer}`);
     if (body.record) parts.push(`[학생이 제공한 생활기록부 내용]\n${body.record}`);

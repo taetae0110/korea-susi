@@ -6,7 +6,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import FeedbackView from "@/components/FeedbackView";
 import { speak, stopSpeaking, useSpeechRecognition, useSpeechSupport } from "@/lib/speech";
 import { newId, useStored, type Feedback, type PracticeItem, type PracticeSession } from "@/lib/storage";
-import { FORMATS, type InterviewFormat } from "@/lib/types";
+import { FORMATS, ORAL_PROMPT, type InterviewFormat } from "@/lib/types";
 
 type SourceKind = "bank" | "basket" | "generated";
 
@@ -94,7 +94,7 @@ export default function PracticeClient({
         if (!res.ok) throw new Error(data.error ?? "문항을 불러오지 못했습니다.");
         next = (data.questions ?? []).map((q) => ({
           questionId: q.id,
-          question: q.prompts.join("\n"),
+          question: q.prompts.length ? q.prompts.join("\n") : ORAL_PROMPT,
           passage: q.passage,
           source: [q.university, `${q.years.join("·")}학년도`, q.admission, q.unit].filter(Boolean).join(" · "),
           answer: "",

@@ -10,6 +10,10 @@ export interface SourceDoc {
   url: string;
 }
 
+/** 질문이 공개되지 않은(구두로 제시된) 제시문 문항을 연습할 때 보여 줄 안내 — 원문이 아닌 앱 안내 문구 */
+export const ORAL_PROMPT =
+  "제시문을 읽고 핵심 내용과 쟁점, 자신의 생각을 말해 보세요. (실제 면접에서는 면접관이 구두로 질문하며, 대학이 질문은 공개하지 않았습니다)";
+
 export interface SourceRef {
   doc: string; // SourceDoc.id
   page: number;
@@ -25,7 +29,7 @@ export interface Question {
   format: InterviewFormat;
   competency: string | null; // 평가요소
   passage: string | null; // 제시문
-  prompts: string[]; // 질문
+  prompts: string[]; // 질문 (비어 있으면 제시문만 공개되고 질문은 현장에서 구두로 제시된 문항)
   intent: string | null; // 출제 의도
   sampleAnswer: string | null; // 대학이 공개한 예시 답안
   sources: SourceRef[];
